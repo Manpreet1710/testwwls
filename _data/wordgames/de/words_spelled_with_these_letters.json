@@ -1,0 +1,50 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "title": "Wörter, die mit diesen Buchstaben geschrieben wurden",
+    "h1": "Wörter, die mit diesen Buchstaben geschrieben wurden",
+    "h2": "Geben Sie die Buchstaben ein und überprüfen Sie, wie viele Wörter mit diesen Buchstaben geschrieben werden",
+    "meta": "Wenn Wörter, die mit Buchstaben geschrieben wurden, verwirrend erscheinen, nutzen Sie unser kostenloses Tool!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Finde Wörter, die mit den verwirrenden Buchstaben geschrieben wurden",
+            "feature_text": "Denkst du beim Spielen von Wortspielen oft an „welche Wörter kann ich mit diesen Buchstaben buchstabieren“? Dann sind Sie auf der richtigen Seite. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Unkomplizierter, intuitiver und benutzerfreundlicher Wortfinder",
+            "feature_text": "Geben Sie einfach die Buchstaben auf Ihre Tafel ein und schon erhalten Sie eine Reihe von Wörtern, die mit diesen Buchstaben buchstabiert werden",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Alle Regeln für Wörter, die mit diesen Buchstaben buchstabiert werden, auf den Punkt gebracht",
+            "feature_text": "Wenn Sie zum ersten Mal Scrabble-Wortspiele spielen, müssen Sie diese Regeln zur Hand haben. Einfach und intuitiv!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gib bis zu fünfzehn Buchstaben ein!",
+            "feature_text": "Fünfzehn Buchstaben! Genug, um das längste Wort im englischen Wörterbuch zu bekommen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Es unterstützt eine Reihe von Wörterbüchern",
+            "feature_text": "Eine große Auswahl an Wörterbüchern für beste Ergebnisse.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Sie haben die Möglichkeit, jedes Gerät zu verwenden",
+            "feature_text": "Egal, ob Sie einen Laptop, einen Tab, Android oder Ihr iPhone verwenden, unser mobilfreundlicher Words with Friends-Scrambler-Solver kann Ihren Zweck von überall aus erfüllen",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

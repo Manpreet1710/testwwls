@@ -1,0 +1,139 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Các từ có các chữ cái này và 3 Trống- Wordswithletters",
+    "h1": "Các từ có những chữ cái này và 3 khoảng trống",
+    "h2": "Nhập các chữ cái dưới đây và tìm các từ có chữ cái và 3 khoảng trống",
+    "meta": "Bạn đã có 3 gạch trống và đang tự hỏi phải làm gì? Đừng lo lắng, chúng tôi đã bảo vệ bạn. Tìm tất cả các kết hợp có thể của các từ có thể được hình thành với 3 ô trống với wordswithletters một cách dễ dàng.",
+    "featureNo": "02",
+    "feature_title": "Các tính năng",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "CÂU HỎI THƯỜNG GẶP",
+    "aboutNo": "05",
+    "about_title": "Giới thiệu",
+    "featureList": [
+        {
+            "feature_heading": "Hoàn toàn miễn phí!",
+            "feature_text": "Nền tảng của chúng tôi là hoàn toàn miễn phí để sử dụng. Chúng tôi hoàn toàn không có quảng cáo trên trang web của chúng tôi cho phép bạn tập trung vào những gì bạn đến đây cho.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Dễ dàng lọc và sắp xếp",
+            "feature_text": "Bạn có thể dễ dàng sắp xếp và lọc ra kết quả một cách thuận tiện. Tính năng này thực sự dễ sử dụng và sẽ giúp bạn có được kết quả mong muốn gần như ngay lập tức.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nhập tối đa 15 chữ cái",
+            "feature_text": "Bạn có thể nhập tối đa 15 chữ cái (bao gồm cả khoảng trống) trong khoảng trống được cung cấp để tìm các từ tối đa có thể được hình thành với các chữ cái được nhập.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra kết quả tốt nhất",
+            "feature_text": "Các từ có chữ cái tạo ra kết quả tốt nhất, những từ ghi điểm cao nhất trong một trò chơi Scrabble. Chiến thắng của bạn được đảm bảo.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Dễ sử dụng",
+            "feature_text": "Các từ có các chữ cái này và 3 khoảng trống thực sự đơn giản để sử dụng và tất cả các từ có độ dài bất kỳ có thể được hình thành với các chữ cái được nhập được hiển thị trong kết quả.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Làm cách nào tôi có thể sử dụng tùy chọn Bộ lọc nâng cao?",
+            "Answer": "Để sử dụng tùy chọn bộ lọc nâng cao chỉ cần nhấp vào Bộ lọc nâng cao. Điền vào các tùy chọn của bạn như từ Bắt đầu với, Tiền tố, những chữ cái hoặc từ nó Phải bao gồm, những gì nó chứa, những gì từ của bạn Kết thúc với, Hậu tố, độ dài của từ và nhấp vào áp dụng.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Các tùy chọn từ điển có sẵn là gì?",
+            "Answer": "Trang web của chúng tôi cho phép bạn xem xét ba từ điển, do đó làm tăng cơ hội tìm kiếm nhiều từ hơn có ý nghĩa. Các tùy chọn từ điển có sẵn với chúng tôi là Từ điển, TWLO6 (Mỹ, Canada và Thái Lan), SOWPODS (Anh và những người khác) và Enable (Words with Friends)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể sắp xếp kết quả tìm kiếm không?",
+            "Answer": "Có, một khi kết quả được hiển thị, theo số lượng kết quả được tạo, chức năng sắp xếp xuất hiện trên màn hình.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Các tùy chọn sắp xếp có sẵn là gì?",
+            "Answer": "Chúng tôi cung cấp nhiều tùy chọn sắp xếp. Bạn có thể sắp xếp kết quả tìm kiếm từ A-Z và từ Z-A. Chúng tôi cũng có một tùy chọn trong đó kết quả được sắp xếp theo điểm họ kiếm được trên một bảng scrabble từ cao nhất đến thấp nhất.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể biết từ sẽ ghi được bao nhiêu điểm trong một trò chơi chữ không?",
+            "Answer": "Vâng, hoàn toàn. Trang web của chúng tôi không chỉ cung cấp cho bạn tất cả các hình thành từ có thể từ các từ mà bạn nhập mà còn hiển thị các điểm mà bạn sẽ ghi được nếu bạn sử dụng từ này trong một trò chơi. Số được hiển thị ở góc dưới bên phải của mỗi từ là những điểm bạn sẽ nhận được từ từ đó.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những từ nào có thể được hình thành bằng cách sử dụng các chữ cái từ “chơi” và 3 khoảng trống?",
+            "Answer": "Tất cả các chữ cái có thể cho các từ có chữ cái sử dụng chữ cái CHƠI như sau chơi, gainly, đặt, paling, trả tiền, nhân, algin, align, aping, gaily, inlay, lapin, liang, ligan, linga, lingy, nằm, đồng bằng, agin, agly, anil, ayin, đạt được, gapy, glia, inly, lain, lang, liny, lipa, móng tay, nipa, thùng, đau, nhạt màu, Pang, Pial, Pian, Pily, Pina, Ping, Piny, kế hoạch, chơi, Pyin, Yagi, dương, ail, ain, Alp, ani, bất kỳ, gal, Gan, Gan, Gap, gay, gin, Gip, Gyp, lag, lap, lay, lin, môi, nag, nag, nag, nag, nap, nay, nil, nip, pal,, trả tiền, pia, lợn, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, trong, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tất cả các từ thư 5 có thể được hình thành từ các chữ cái BEDSIDE?",
+            "Answer": "Tất cả 5 từ chữ cái có thể được tạo ra từ các chữ cái BEDSIDE như sau bided, bides, hành động, sided",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những từ nào có thể được hình thành bằng cách sử dụng các chữ cái từ “âm” và 3 khoảng trống?",
+            "Answer": "Nếu bạn đang tìm kiếm một từ có chữ cái thì bạn đang ở đúng nơi. Trong trường hợp này tất cả các chữ cái có thể được tạo ra bằng cách sử dụng các chữ cái tiêu cực như sau cơ quan, tiêu cực, naivete, ventage, cổ điển, trả thù, ăn, geneva, ingate, bản địa, phủ định, teeing, teniae, agene, đại lý, ăn, enate, entia, sự kiện, evite, ganev, genet, genie, giant, cho, naevi, ngây thơ, nieve, tenia, tinea, tinge, veena, vegan, vegie, venae, venae, vitae, agee, agin, ante, anti, eave, etna, thậm chí, gaen, gain, gane, gate, gave, gen, gent, geta, gien, gite, gien, gite, cho, gnat, nave, gọn gàng, neve, nevi, nite, tain,, thiếu niên, tine, Ting, Vain, Vain, Cánh, vang, tĩnh mạch, vena, lỗ thông hơi, Viga, vina, cây nho, cuộc sống, tuổi, ain, Ait, ane, Ani, kiến, đã ăn, Ave, ăn, eng, Et, eve, Gae, Gan, Gat, Gee, Gen, nhận được, gie, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, trà, tee, teg, mười, cà vạt, Tin, Van, Vat, Vee, Veg, Veg, Veg, via, vie, vig, ae, ag, ai, an, at, en, et, gi, trong, nó, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những từ nào có thể được hình thành bằng cách sử dụng các chữ cái từ “tích cực” và 3 khoảng trống?",
+            "Answer": "Nếu bạn đang tìm kiếm một từ có chữ cái thì bạn đang ở đúng nơi. Trong trường hợp này tất cả các chữ cái có thể được tạo ra bằng cách sử dụng các chữ cái tích cực như sau tích cực, pities, pivot, potsie, sopite, Xô viết, estop, ivies, pesto, piste, pivot, nhà thơ, đĩnh đạc, posit, spite, stipe, stope, bếp, tipis, topes, topes, topis, thăm, phiếu bầu, epos, opes, opes, tùy chọn, sâu bệnh, vật nuôi, bánh nướng, piso, hố, nhà thơ, pois, Tư thế, bài viết, chậu, Tháng Chín, Sipe, Trang web, nhổ, Spiv, tại chỗ, Bước, dừng lại, quan hệ, loại, lời khuyên, Ngón chân, Topi, topi, topi, vest, phủ quyết, Veto, Ves, Vies, Vise, Voes, bỏ phiếu, nó, Oes, Ope, Ops, Ops, OPS, OPS, OE, Pes, thú cưng, bánh, pis, hố, poi, nồi, psi, Sei, đặt, sip, ngồi, sop, sot, cà vạt, mẹo, tis, ngón chân, đầu, vet, vie, vis, voe, es, et, là, nó, oe, oi, op, os, pe, pi, si, vì vậy, ti, để",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Từ có chữ “fallout” và ba khoảng trống?",
+            "Answer": "Tất cả những từ đó có thể được tạo ra bằng cách sử dụng các chữ cái Fallout là như sau fallout outfall afoul phân bổ trên đảo san hô lỗi nổi flota flout alto tự động rơi phẳng foal foul đầy đủ latu loaf loft lota lout olla cao đậu phụ tola tola toll toll tufa aft tất cả alt fat cúm fou lat lot oaf oft ra tao tau uta al at fa la lo of ta để ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những từ có chữ “phát sáng” và ba khoảng trống?",
+            "Answer": "Tất cả các từ có thể được tạo ra bằng cách sử dụng các chữ cái phát sáng như sau phát sáng, phát sáng, ogling, đi, lingo, ow, phát sáng, chiêng, áo choàng, ling, lino, lion, loin, long, lown, nogg, noil, wing, wino, gig, gig, igg, ion, lin, log, low, nil, nog, now, oil, owl, riêng, tóc giả, giành chiến thắng, thắng, gi, đi, trong, li, lo, không, oi, on, ow"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

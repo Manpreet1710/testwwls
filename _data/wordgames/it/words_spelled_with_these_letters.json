@@ -1,0 +1,50 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "title": "Parole scritte con queste lettere",
+    "h1": "Parole scritte con queste lettere",
+    "h2": "Inserisci le lettere e controlla quante parole sono scritte con queste lettere",
+    "meta": "Quando le parole scritte con lettere sembrano confuse, usa il nostro strumento gratuito!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Trova parole scritte con lettere confuse",
+            "feature_text": "Pensi spesso a «quali parole posso scrivere con queste lettere» mentre giochi di parole? Allora siete sul sito giusto. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ricerca di parole semplice, intuitiva e facile da usare",
+            "feature_text": "Basta inserire le lettere sulla lavagna e otterrai una serie di parole scritte con queste lettere.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tutte le regole per le parole scritte con queste lettere in poche parole",
+            "feature_text": "Se stai giocando a giochi di parole scrabble per la prima volta, hai bisogno di queste regole a portata di mano. Semplice e intuitivo!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Inserisci fino a quindici lettere!",
+            "feature_text": "Quindici lettere! Abbastanza per ottenere la parola più lunga nel dizionario inglese.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Supporta un certo numero di dizionari",
+            "feature_text": "Una vasta gamma di dizionari per i migliori risultati.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hai la possibilità di utilizzare qualsiasi dispositivo",
+            "feature_text": "Che tu usi un laptop, un tablet, Android o il tuo iPhone, il nostro risolutore scrambler di parole con gli amici ottimizzato per dispositivi mobili può servire al tuo scopo da qualsiasi luogo",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

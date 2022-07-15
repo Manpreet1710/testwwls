@@ -1,0 +1,56 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 12 harfli kelime bul- WordsWithLetters.org",
+    "h1": "Bu harflerle 12 harfli kelime bul",
+    "h2": "Bulmak için aşağıya harfleri girin 12 harfli kelimeler",
+    "meta": "Hala bu harflerle on iki harfli kaç kelime yapabileceğinizi düşünüyorum? Bu harflerle 12 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle on iki harfli kelime oluştur",
+            "feature_text": "Genellikle bu mektup on iki kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu on iki harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle on iki harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, On iki harfli kelime bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Oniki harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "On iki harfli kelime bulucu, on iki harfli kelimeyi bulmanızı sağlar. 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklınıza bile gelemeyeceğiniz en zor on iki harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz on iki harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı on iki harfli kelime havuzuna sahip olun.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

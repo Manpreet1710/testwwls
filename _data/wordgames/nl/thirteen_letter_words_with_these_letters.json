@@ -1,0 +1,56 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 13 letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Zoek 13 letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om 13 letterwoorden te vinden",
+    "meta": "Denk je nog steeds aan hoeveel dertienletterige woorden je met deze letters kunt maken? Gebruik onze tool om 13 letterwoorden met deze letters te vinden",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer dertien letterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter dertien zijn weg in woordspelletjes. Maar het belangrijkste is dat deze dertien letters soms hoog scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer dertien letterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je dertien letterwoorden vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Dertien erin",
+            "feature_text": "Met de dertienletterzoeker kunt u alle woorden van dertien letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste dertien letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg een pool van hoogscorende dertien letters in seconden met onze gratis dertienletterige woordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

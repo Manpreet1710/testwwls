@@ -1,0 +1,346 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "Quantas palavras você consegue fazer com essas letras?",
+    "h1": "Quantas palavras você consegue fazer com essas letras?",
+    "h2": "Digite as letras abaixo e descubra quantas palavras podem ser criadas com essas letras",
+    "meta": "Ainda pensando em quantas palavras você pode fazer com essas letras? Use nossa ferramenta palavras com letras agora!",
+    "featureNo": "02",
+    "feature_title": "Características",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "PERGUNTAS FREQUENTES",
+    "aboutNo": "05",
+    "about_title": "Sobre",
+    "featureList": [
+        {
+            "feature_heading": "Quantas palavras você consegue fazer com as letras?",
+            "feature_text": "Não se preocupe com quantas palavras você pode fazer com as letras. Você vai se perder tantas palavras que o ajudarão a marcar mais e... aprimorar seu vocabulário também!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ainda pensando em quantas palavras você pode fazer com essas letras raras?",
+            "feature_text": "Nossa folha de dicas gratuita é o remédio mais rápido durante o jogo.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Desembaralhar palavras muito longas não é uma tarefa difícil agora!",
+            "feature_text": "Você pode pensar por um momento que decifrar uma palavra de 15 letras!”. Mas nosso localizador de palavras pode ajudá-lo em seu jogo.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Novas atualizações a serem destacadas",
+            "feature_text": "Todos os novos recursos relacionados ao jogo de scrabble serão destacados diretamente em nossa página inicial para que você possa usá-los!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "O que a ferramenta Quantas palavras você pode criar com essas letras faz?",
+            "Answer": "Nossa ferramenta Quantas palavras você pode fazer com essas letras gera automaticamente palavras significativas a partir das letras que nosso usuário insere e conta o número de palavras geradas a partir dessas letras.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como usar a ferramenta Quantas palavras você pode criar com essas letras?",
+            "Answer": "Usar nossa ferramenta Quantas palavras você pode fazer com essas letras é muito simples. Tudo o que você precisa fazer é digitar as letras das quais deseja criar palavras. Você pode inserir até 15 letras por vez. Em seguida, selecione o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com Amigos). Em seguida, você pode ativar a opção Filtros avançados. Em seguida, clique no botão de pesquisa, que é a lupa. E voila! Nossa ferramenta gerará o número máximo possível de palavras a partir das letras inseridas para você e também contará o número de palavras geradas a partir dessas letras.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas letras posso inserir para a ferramenta criar e contar palavras de letras?",
+            "Answer": "Você pode inserir no máximo 15 letras em nossa ferramenta, para criar e contar palavras com letras.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Eu tenho que pagar para usar essa ferramenta?",
+            "Answer": "Não, nossa ferramenta é totalmente gratuita. Você não precisa nos pagar para usar a ferramenta.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Por que preciso gerar e contar o número total de palavras?",
+            "Answer": "Você pode precisar gerar palavras se estiver jogando jogos de palavras competitivos, como Wordle ou Scrabble. Você também pode precisar decifrar palavras, e nossa ferramenta o ajudará com isso. Você também pode precisar saber o número de palavras que pode criar com algumas letras específicas.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Essa ferramenta pode ajudar com jogos de palavras como Wordle e Scrabble?",
+            "Answer": "Sim, absolutamente. Se você precisar de ajuda ao jogar jogos de palavras como Scrabble e Wordle, nossa ferramenta Quantas palavras você pode fazer com essas letras é o caminho a percorrer.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso resolver palavras confusas com a ajuda dessa ferramenta?",
+            "Answer": "É claro. Nossa ferramenta o ajudará a resolver palavras confusas facilmente. Tudo o que você precisa fazer é inserir as letras na palavra confusa, especificar o comprimento da palavra que você deseja e nossa ferramenta fornecerá todas as palavras possíveis. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são as diferentes opções de dicionário disponíveis?",
+            "Answer": "Nesta ferramenta, você pode selecionar o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com amigos).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como posso usar os filtros avançados?",
+            "Answer": "Os filtros avançados em nossa ferramenta incluem a opção para você especificar com quais letras as palavras resultantes devem começar ou terminar, quais letras as palavras devem conter, quais letras você gostaria que a ferramenta excluísse e qual é o tamanho desejado da palavra. Tudo o que você precisa fazer é clicar no botão de filtros avançados e inserir os dados conforme desejar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar o tamanho da palavra?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar o número de letras que as palavras que você precisa devem ter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso excluir certos caracteres?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você não quer que as palavras tenham.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar caracteres obrigatórios?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você definitivamente deseja que as palavras tenham.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar com qual letra as palavras devem começar ou terminar?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar quais letras você deseja que suas palavras comecem ou terminem.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "É seguro usar a ferramenta Quantas palavras você pode criar com essas letras?",
+            "Answer": "Nossa ferramenta Quantas palavras você pode fazer com essas letras é uma das ferramentas online gratuitas mais seguras e protegidas. Não tem links prejudiciais ou anúncios indesejados. É absolutamente livre de problemas e faz seu trabalho perfeitamente bem. Ao mesmo tempo, ele não salva nenhum dos dados do usuário. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ao usar essa ferramenta, algum anúncio será exibido?",
+            "Answer": "Como mantemos nosso site totalmente gratuito para uso, os anúncios são o que nos ajudam a manter o site. assim, você verá alguns anúncios aparecendo quando usar nosso site. Mas podemos garantir que isso não irá deteriorar a qualidade ou o tempo do resultado.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Nossa ferramenta on-line gratuita Quantas palavras você pode fazer com essas letras não salva nenhum dos dados do usuário. É absolutamente seguro de usar. Qualquer coisa que o usuário possa enviar para o nosso site é excluída da nossa nuvem em um período muito curto de tempo.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Essa ferramenta salvará meus dados no servidor?"
+        },
+        {
+            "Question": "Quanto tempo é necessário para fazer as palavras com letras e contar o número total de palavras formadas?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Leva apenas alguns segundos para que nosso serviço gratuito Quantas palavras você pode fazer com essas letras faça seu trabalho. Ele cria palavras rapidamente a partir de letras especificadas e conta o número. Os resultados são rápidos e 100% precisos."
+        },
+        {
+            "Answer": "Não é necessário se inscrever ou fazer login em nosso site. Você pode usar nosso on-line Quantas palavras você pode fazer com essas cartas gratuitamente e sem nenhum aviso para se inscrever.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Terei que me inscrever ou fazer login para usar esta ferramenta Quantas palavras você pode criar com essas letras?"
+        },
+        {
+            "Question": "Quantas palavras você pode fazer com essas letras funcionam em telefones celulares?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Sim. Nosso recurso gratuito Quantas palavras você pode fazer com essas letras funciona em todas as plataformas. Você pode acessá-lo de seus telefones celulares. Basta digitar as letras que você deseja em suas palavras, do seu telefone e nossa ferramenta fará o trabalho para você."
+        },
+        {
+            "Answer": "Sim, nossa ferramenta Quantas palavras você pode fazer com essas letras e todas as outras ferramentas suportam as plataformas Android e iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Ele suporta as plataformas Android e iOS?"
+        },
+        {
+            "Question": "Quantas palavras você pode fazer com essas letras funcionam em PCs e laptops?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Sim. Nosso online Quantas palavras você pode fazer com essas cartas é aceito em todas as plataformas. Você pode usar essa ferramenta gratuita em seu site a partir do seu PC e laptop também. Ele suporta Windows e Mac. Tudo o que você precisa fazer é inserir até 15 letras, especificar o tipo de dicionário, adicionar filtros avançados, se necessário, e isso é tudo. As palavras serão geradas a partir dessas letras exatamente de acordo com suas instruções."
+        },
+        {
+            "Answer": "Nosso recurso Quantas palavras você pode fazer com essas letras é totalmente baseado na web. Por causa disso, ele fornece aos nossos usuários suporte multiplataforma. Isso significa que nossa ferramenta oferece suporte a todas as versões do Windows. Em termos mais gerais, ele suporta todas as versões de todos os sistemas operacionais.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quais versões do Windows a ferramenta Quantas palavras você pode criar com essas letras suporta?"
+        },
+        {
+            "Question": "Quantas palavras de 2 letras essas letras podem fazer VERDADE?",
+            "Answer": "Podemos fazer um total de 2 palavras com 2 letras e as palavras são uh e ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer uma palavra com essas letras LIVROS?",
+            "Answer": "Para fazer todas as combinações possíveis de palavras com letras LIVROS, teremos que selecionar e combinar as letras que resultarão em uma palavra significativa. Uma palavra significativa é uma palavra que está disponível em um dicionário padrão. Se você deseja realizar a mesma operação online, basta digitar sua carta em nosso site, clicar em entrar e você obterá todos os resultados possíveis. Neste caso, com as letras LIVROS, podemos formar um total de 16 palavras que são as seguintes livros, kobos, livro, vaias, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, so",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer uma palavra com essas letras LABLE?",
+            "Answer": "Para fazer todas as combinações possíveis de palavras com letras LABLE, teremos que selecionar e combinar as letras que resultarão em uma palavra significativa. Uma palavra significativa é uma palavra que está disponível em um dicionário padrão. Se você deseja realizar a mesma operação online, basta digitar sua carta em nosso site, clicar em entrar e você obterá todos os resultados possíveis. Neste caso, com as letras LABLE, podemos formar um total de 22 palavras que são as seguintes: label, able, bale, ball, bell, blae, leal, alb, ale, all, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras de 7 letras essas letras podem produzir GENERATOR?",
+            "Answer": "Um total de 18 palavras de sete letras podem ser formadas usando a letra GENERATOR e as palavras são as seguintes: garrote, beneficiário, concedente, concedente, greaten, maior, gemer, negator, negator, reagente, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras podem ser feitas a partir dessas letras LAPTOP?",
+            "Answer": "O número total de palavras que podem ser formadas usando as letras LAPTOP é 37 e as palavras são as seguintes laptop, alto, atop, lota, opala, palp, plat, plop, plot, tola, alp, alt, app, apt, lap, lat, lop, lot, aveia, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, at, la, lo, op, pa, ta, dois",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras podem ser feitas com essas letras EMAILID?",
+            "Answer": "O número total de palavras que podem ser formadas usando as letras EMAILID é 94 e as palavras são as seguintes: mailed, medial, miladi, ailed, aimed, amide, email, ideal, iliad, imide, lamed, limed, maile, medalha, media, medii, milia, aide, alme, amid, amie, dale, dame, lidar, deil, delicatessen, dial, diel, dime, idem, ocioso, ilea, ilia, imid, lade, colocado, coxo, chumbo, mentiu, lima, cal, feito, empregada doméstica, correio, macho, hidromel, refeição, fusão, midi, suave, milha, ajuda, ail, objetivo, ale, ami, dal, barragem, del, morrer, dim, eld, olmo, rapaz, lam, lea, levou, lei, tampa, mentira, louco, mae, med, mel, mid, mil, ad, ae, ai, al, sou, da, de, di, ed, el, em, id, la, li, ma, eu, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras você consegue fazer com todas as 26 letras de um alfabeto?",
+            "Answer": "O número é muito grande e pode ser encontrado resolvendo esse problema simples de matemática que é n! (n fatorial) onde n seria o número total de alfabetos, então a resposta seria 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras de 6 letras essas letras podem fazer COZINHA?",
+            "Answer": "O número total de palavras de 6 letras que podem ser formadas usando as letras KITCHEN é apenas 1 e a palavra é étnica.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras de 6 letras essas letras podem fazer TROPICAL?",
+            "Answer": "O número total de 6 letras que podem ser formadas pela palavra TROPICAL é 17 e as palavras são as seguintes: aórtica, atópica, captor, caroli, cartop, citola, citral, coital, lictor, lorica, patrulha, picaro, portal, rialto, rictal, alfaiate, trópico",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer palavras com essas letras DREAM?",
+            "Answer": "Para criar palavras com essas letras DREAM, tudo o que você precisa fazer é pegar alfabetos que, quando combinados, podem formar uma palavra significativa. Uma palavra significativa é uma palavra que pode ser encontrada em um dicionário padrão. Você só tem permissão para usar as palavras que estão disponíveis na palavra. Se você está com pressa e procura encontrar todas as palavras possíveis com o mais alto nível de precisão. Você pode usar nossa ferramenta. Tudo o que você precisa fazer isso abra seu navegador, digite nosso site wordswithletters.org e digite todas as letras das quais você gostaria de fazer palavras. Depois de clicar em Enter, você obterá seus resultados. Neste caso, com a palavra SONHO, podemos fazer 39 palavras que são as seguintes armado, derma, sonho, madre, dama, ousar, querido, derm, dram, feito, égua, hidromel, ler, resma, são, braço, barragem, orelha, era, louco, mae, mar, med, rad, ram, vermelho, rem, ad, ae, am, ar, da, de, ed, em, er, ma, me, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer palavras com essas letras AMANHÃ?",
+            "Answer": "Para criar palavras com essas letras AMANHÃ, tudo o que você precisa fazer é pegar alfabetos que, quando combinados, podem formar uma palavra significativa. Uma palavra significativa é uma palavra que pode ser encontrada em um dicionário padrão. Você só tem permissão para usar as palavras que estão disponíveis na palavra. Se você está com pressa e procura encontrar todas as palavras possíveis com o mais alto nível de precisão. Você pode usar nossa ferramenta. Tudo o que você precisa fazer isso abra seu navegador, digite nosso site wordswithletters.org e digite todas as letras das quais você gostaria de fazer palavras. Depois de clicar em Enter, você obterá seus resultados. Neste caso, com a palavra AMANHÃ, podemos fazer 44 palavras que são as seguintes moorwort, amanhã, wormroot, morrow, morro, motor, rotor, moor, moot, mort, quarto, raiz, rort, roto, toom, toro, torr, trow, worm, wort, mom, moo, mor, mot, mow, oot, ort, rom, rot, row, tom, também, tor, reboque, dois, woo, wot, mm, mo, om, ou , ow, two, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras podem ser feitas com essas letras APPLE?",
+            "Answer": "Podemos fazer um total de 24 letras usando a palavra APPLE. As palavras são as seguintes appel, maçã, pepla, salto, pálido, palp, peal, plea, ale, alp, macaco, app, colo, lea, pal, pap, ervilha, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas palavras podem ser feitas com essas letras SAMPLE?",
+            "Answer": "Podemos fazer um total de 99 letras usando a palavra SAMPLE. As palavras são as seguintes bordos, amostra, esmolas, amplo, lames, lâmpadas, lapso, saltos, machos, bordo, refeições, pales, palmas, peals, plasm, pleas, salmo, salep, sépala, spale, ales, alme, esmolas, alpes, amps, macacos, abside, olmos, coxo, lâmpada, lams, voltas, lase, salto, leas 3, machos, masculino, mapas, refeição, refeições, mesa, pálido, palma, amigos, palmas, colar, pérola, ervilhas, plea, venda, couro cabeludo, mesmo, selo, selo, costura, batida, tapa, espaço, spam, macho, alp, também, amp, fita, asp, elm, els, ems, lâmpada, colo, las, folha, fazer, mapa, mas, refeição, palma, palma, ervilhas, ervilhas, venda, venda, seiva, mar, selo, venda, seiva, mar, selo, spa, ae, al, sou, como, el, em, es, la, ma, eu, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quantas palavras você pode fazer com essas letras ATSFOPPQ?",
+            "Answer": "Podemos fazer um total de 65 palavras usando essas letras. As palavras são as seguintes: fatso, softa, apps, atop, rápido, gorduras, fops, oafs, oast, aveia, opts, paps, passado, pats, pops, post, potes, qats, sabão, sofá, macio, cuspiu, local, stoa, parar, taos, torneiras, tops, popa, app, apt, asp, fas, gordura, fop, oaf aveia, oft, ops, opt, pap, pas, pat, pop, pote, qat, seiva, sat, sop, sot, spa, tao, toque, tas, topo, como, em, fa, de, op, os, pa, então, ta, para"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quantas palavras você pode fazer com essas letras XATFPS?",
+            "Answer": "Podemos fazer um total de 28 palavras com a letra XATFPS. As palavras são as seguintes: rápido, gorduras, passado, tapinhas, cuspido, torneiras, popa, apt, asp, fas, gordura, fax, pas, pat, pax, seiva, sat, sax, spa, tap, tas, imposto, como, at, ax, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

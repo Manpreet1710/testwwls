@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Firma",
+    "networksitestitle": "ZASOBY",
+    "linksTitle": "Narzędzia",
+    "producttitle": "Słowa długości",
+    "company": [
+        {
+            "name": "Regulamin",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Polityka Prywatności",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Zrzeczenie się odpowiedzialności",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Sześcioliterowe słowa z tymi literami",
+            "url": "/pl/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Pięcioliterowe słowa z tymi literami",
+            "url": "/pl/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Siedmioliterowe słowa z tymi literami",
+            "url": "/pl/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Czteroliterowe słowa z tymi literami",
+            "url": "/pl/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Trzyliterowe słowa z tymi literami",
+            "url": "/pl/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dwuliterowe słowa z tymi literami",
+            "url": "/pl/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Osiem liter z tymi literami",
+            "url": "/pl/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dziewięcioliterowe słowa z tymi literami",
+            "url": "/pl/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dziesięć słów literowych z tymi literami",
+            "url": "/pl/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Jedenaście słów literowych z tymi literami",
+            "url": "/pl/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dwanaście słów literowych z tymi literami",
+            "url": "/pl/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Trzynaście słów literowych z tymi literami",
+            "url": "/pl/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Słowo Generator gier Online",
+            "url": "/pl/word-game-generator-online"
+        },
+        {
+            "name": "Rozwiązanie Wordle",
+            "url": "/pl/wordle-solver"
+        },
+        {
+            "name": "Twórz słowa za pomocą tych liter",
+            "url": "/pl/make-words-with-these-letters"
+        },
+        {
+            "name": "Generator słów z liter",
+            "url": "/pl/word-generator-from-letters"
+        },
+        {
+            "name": "Słowa pisane tymi literami ",
+            "url": "/pl/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Jakie słowa mogę przeliterować tymi literami i pustym",
+            "url": "/pl/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Słowa z tymi literami i 2 puste miejsca",
+            "url": "/pl/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Słowa z tymi literami i 3 puste miejsca",
+            "url": "/pl/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "Instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "Linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "świergot"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "単語リスト",
+                "links": [
+                    {
+                        "name": "単語ゲームジェネレータオンライン",
+                        "url": "/ja/word-game-generator-online"
+                    },
+                    {
+                        "name": "ワードルソルバー",
+                        "url": "/ja/wordle-solver"
+                    },
+                    {
+                        "name": "これらの文字で単語を作る",
+                        "url": "/ja/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "文字から単語ジェネレータ",
+                        "url": "/ja/word-generator-from-letters"
+                    },
+                    {
+                        "name": "これらの文字で綴られた単語 ",
+                        "url": "/ja/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字からいくつの単語が作れますか",
+                        "url": "/ja/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "これらの文字と空白でどんな単語が綴られますか",
+                        "url": "/ja/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と2つの空白を含む単語",
+                        "url": "/ja/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "これらの文字と3つの空白を含む単語",
+                        "url": "/ja/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "長さの言葉",
+                "links": [
+                    {
+                        "name": "これらの文字を含む六文字の単語",
+                        "url": "/ja/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む五文字の単語",
+                        "url": "/ja/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む七文字の単語",
+                        "url": "/ja/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む四文字の単語",
+                        "url": "/ja/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む三文字の単語",
+                        "url": "/ja/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む二文字の単語",
+                        "url": "/ja/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む8文字の単語",
+                        "url": "/ja/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む9文字の単語",
+                        "url": "/ja/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む十文字の単語",
+                        "url": "/ja/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む11文字の単語",
+                        "url": "/ja/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む12文字の単語",
+                        "url": "/ja/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "これらの文字を含む13文字の単語",
+                        "url": "/ja/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "これらの文字と空白を含むX文字の単語",
+                "links": [
+                    {
+                        "name": "これらの文字と空白を含む12文字の単語",
+                        "url": "/ja/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む11文字の単語",
+                        "url": "/ja/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む10文字の単語",
+                        "url": "/ja/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む9文字の単語",
+                        "url": "/ja/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む8文字の単語",
+                        "url": "/ja/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む7文字の単語",
+                        "url": "/ja/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む6文字の単語",
+                        "url": "/ja/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む5文字の単語",
+                        "url": "/ja/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む4文字の単語",
+                        "url": "/ja/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む3文字の単語",
+                        "url": "/ja/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "これらの文字と空白を含む2文字の単語",
+                        "url": "/ja/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

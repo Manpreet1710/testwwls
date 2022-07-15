@@ -1,0 +1,139 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Kata-kata dengan huruf-huruf ini dan 2 kosong- Wordswithletters",
+    "h1": "Kata-kata dengan huruf-huruf ini dan 2 kosong",
+    "h2": "Masukkan huruf di bawah ini dan Periksa berapa banyak yang bisa dieja dengan dua kosong",
+    "meta": "Apakah Anda punya 2 ubin kosong dan bertanya-tanya apa yang harus dilakukan? Jangan khawatir kami punya Anda tertutup. Temukan semua kemungkinan kombinasi kata-kata yang dapat dibentuk dengan 2 ubin kosong dengan kata-kata dengan huruf dengan mudah.",
+    "featureNo": "02",
+    "feature_title": "Fitur",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Tentang",
+    "featureList": [
+        {
+            "feature_heading": "Mudah digunakan",
+            "feature_text": "Kata-kata dengan huruf-huruf ini dan 2 kosong benar-benar mudah digunakan dan semua kata dari setiap panjang yang dapat dibentuk dengan huruf yang dimasukkan ditampilkan dalam hasilnya.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan hasil terbaik",
+            "feature_text": "Kata-kata dengan huruf menghasilkan hasil terbaik, kata-kata penilaian tertinggi dalam permainan Scrabble. Kemenangan Anda dijamin.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Masukkan upto 15 huruf",
+            "feature_text": "Anda dapat memasukkan upto 15 huruf (termasuk kosong) di ruang yang disediakan untuk menemukan kata-kata maksimum yang dapat dibentuk dengan huruf yang dimasukkan.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Mudah filter dan sortir",
+            "feature_text": "Anda dapat dengan mudah memilah dan menyaring hasil pada kenyamanan Anda. Fitur ini sangat mudah digunakan dan akan membantu Anda mendapatkan hasil yang diinginkan hampir seketika.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Benar-benar Gratis!",
+            "feature_text": "Platform kami benar-benar gratis untuk digunakan. Kami sama sekali tidak memiliki iklan di situs web kami yang memungkinkan Anda fokus pada apa yang Anda datang ke sini untuk.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Bagaimana cara menggunakan opsi Advanced filter?",
+            "Answer": "Untuk menggunakan opsi filter lanjutan klik pada Advanced Filters. Isi pilihan Anda seperti kata Dimulai Dengan, Awalan, huruf atau kata-kata apa yang Harus Dilampirkan, apa yang Mengandung, apa kata Anda Berakhir Dengan, Akhiran, panjang kata dan klik berlaku.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja pilihan kamus yang tersedia?",
+            "Answer": "Situs web kami memungkinkan Anda mempertimbangkan dua kamus, sehingga meningkatkan peluang Anda untuk menemukan lebih banyak kata yang masuk akal. Pilihan kamus yang tersedia bersama kami adalah Kamus, TWLO6 (AS, Kanada dan Thailand), SOWPODS (Inggris dan lainnya) dan Aktifkan (Kata-kata dengan Teman)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya mengurutkan hasil pencarian?",
+            "Answer": "Ya, setelah hasil ditampilkan, sesuai dengan jumlah hasil yang dihasilkan, fungsi sort dengan muncul di layar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja opsi penyortiran yang tersedia?",
+            "Answer": "Kami menyediakan beberapa pilihan penyortiran. Anda dapat mengurutkan hasil pencarian dari A-Z dan dari Z-A. Kami juga memiliki opsi di mana hasilnya diurutkan berdasarkan poin yang mereka peroleh di papan scrabble dari tertinggi ke terendah.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya tahu berapa banyak poin yang akan skor kata dalam permainan kata?",
+            "Answer": "Ya, tentu saja. Situs web kami tidak hanya menyediakan semua formasi kata yang mungkin dari kata-kata yang dimasukkan oleh Anda tetapi juga menampilkan poin yang akan Anda skor jika Anda menggunakan kata ini dalam permainan. Nomor yang ditampilkan di sudut kanan bawah setiap kata adalah poin yang akan Anda dapatkan dari kata.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kata-kata apa yang bisa dibentuk dengan menggunakan huruf dari “bermain” dan 2 kosong?",
+            "Answer": "Semua surat yang mungkin untuk kata-kata dengan huruf menggunakan huruf PLAYING adalah sebagai berikut bermain, gainly, peletakan, paling, membayar, plying, algin, menyelaraskan, aping, gaily, inlay, lapin, liang, ligan, linga, lingy, berbohong, polos, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, liny, lipa, kuku, nipa, ember, nyeri, paly, pang, pial, pian, pily, pina, ping, piny, rencana, bermain, pyin, yagi, yang, ail, ain, alp, ani, apapun, gal, gan, kesenjangan, gay, gin, gip, gyp, lag, lap, berbaring, lin, bibir, nag, tidur siang, nay, nip, sobat, pan, membayar, pia, babi, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, di, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa semua 5 kata huruf yang dapat dibentuk dari huruf BEDSIDE?",
+            "Answer": "Semua 5 huruf kata yang dapat dihasilkan dari huruf BEDSIDE adalah sebagai berikut bided, bides, perbuatan, sisi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kata-kata apa yang bisa dibentuk dengan menggunakan huruf dari “negatif” dan 2 kosong?",
+            "Answer": "Jika Anda mencari kata-kata dengan huruf maka Anda berada di tempat yang tepat. Dalam hal ini semua huruf yang dapat dibuat menggunakan huruf NEGATIF adalah sebagai berikut agentif, negatif, naif, ventage, vintage, membalas, makan, jenewa, ingate, asli, meniadakan, teeing, teniae, agene, agen, dimakan, enate, entia, peristiwa, evite, ganev, genet, jin, raksasa, diberikan, naevi, naif, nieve, tenia, tinea, semburat, veena, vegan, vegie, venae, balas dendam, vitae, age, agin, ante, anti, eave, etna, bahkan, gaen, mendapatkan, kiprah, gane, gerbang, memberi, gen, gent, geta, gite, memberikan, nyamuk, nave, rapi, neve, nevi, nite, tain, tang, remaja, tine, ting, vagi, sia-sia, baling-baling, vang, vena, vena, ventilasi, viga, vina, anggur, vita, usia, ain, ait, ane, ani, semut, makan, ave, makan, eng, et, malam, gae, gan, gat, gee, gen, mendapatkan, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, teh, tee, teg, sepuluh, dasi, timah, van, tong, vee, veg, dokter hewan, melalui, vie, vig, ae, ag, ai, an, at, en, et, gi, di, itu, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kata-kata apa yang bisa dibentuk dengan menggunakan huruf dari “positif” dan 2 kosong?",
+            "Answer": "Jika Anda mencari kata-kata dengan huruf maka Anda berada di tempat yang tepat. Dalam hal ini semua huruf yang dapat dibuat dengan menggunakan huruf POSITIF adalah sebagai berikut positif, kasihan, pivot, potsie, sopite, soviet, estop, ivies, pesto, piste, pivot, penyair, ketenangan, posit, spite, stipe, stope, kompor, tipis, topes, topis, kunjungan, suara, epos, opes, opts, peso, hama, hewan peliharaan, pai, piso, lubang, penyair, pois, pose, pos, pot, sept, sipe, situs, meludah, spiv, tempat, langkah, berhenti, ikatan, tipi, tips, jari kaki, toes, topi, puncak, rompi, veto, dokter hewan, vies, catok, voes, suara, nya, oes, ope, ops, memilih, ose, pes, hewan peliharaan, pie, pis, pit, poi, pot, psi, sei, set, sip, duduk, sop, sot, dasi, tip, tis, kaki, atas, dokter hewan, vie, vis, voe, es, et, adalah, itu, oe, oi, op, os, pe, pi, si, jadi, ti, untuk",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kata-kata dengan huruf “kejatuhan” dan dua kosong?",
+            "Answer": "Semua kata-kata yang dapat dihasilkan menggunakan huruf FALLOUT adalah sebagai berikut kejatuhan outfall afoul aloft atoll kesalahan float flota flout alto auto jatuh anak kuda datar busuk penuh latu loaf loaf loft lota lout olla tinggi tahu tola tol toll tolu tufa belakang semua alt flu lemak fou lat banyak oaf oat sering keluar tao tau uta al at fa la lo ta untuk ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kata-kata dengan huruf “bersinar” dan dua kosong?",
+            "Answer": "Semua kata yang dapat dihasilkan menggunakan huruf Glowing adalah sebagai berikut bersinar, lowing, ogling, going, lingo, owing, glow, gong, gown, ling, lino, singa, pinggang, panjang, lown, nogg, noil, sayap, wino, manggung, gin, igg, ion, lin, log, rendah, nihil, nog, sekarang, minyak, burung hantu, sendiri, wig, menang, menang, gi, pergi, di, li, lo, tidak, oi, pada, ow, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

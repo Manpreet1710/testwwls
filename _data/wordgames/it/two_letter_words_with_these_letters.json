@@ -1,0 +1,116 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trovare parole di 2 lettere con queste lettere - WordsWithLetters.org",
+    "h1": "Trovare parole di 2 lettere con queste lettere",
+    "h2": "Genera parole di due lettere con queste lettere",
+    "meta": "Stai ancora pensando a quante parole a due lettere puoi fare con queste lettere? Usa il nostro strumento per trovare parole di 2 lettere con queste lettere",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Porta una svolta nel tuo gioco. Genera parole di due lettere con queste lettere",
+            "feature_text": "Spesso questa lettera due trova la sua strada nei giochi di parole. Ma la cosa principale è che queste due parole con lettere a volte possono avere un punteggio elevato. Tuttavia puoi trovare il tuo salvataggio con il nostro word finder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera parole di due lettere con queste lettere",
+            "feature_text": "Il nostro wordfinder gratuito ti consente di trovare parole di due lettere e aiutarti a vincere la tua partita",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trovare qualsiasi parola numerata con la lettera Two",
+            "feature_text": "Il cercatore di parole a due lettere ti consente di trovare tutte le parole con due lettere fino a 15 caratteri.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera anche le parole con due lettere più difficili a cui non riesci nemmeno a pensare.",
+            "feature_text": "Ottieni un pool di parole a due lettere con il punteggio più alto in pochi secondi con il nostro generatore di parole a due lettere gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

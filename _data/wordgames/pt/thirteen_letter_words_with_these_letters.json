@@ -1,0 +1,56 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Encontre palavras de 13 letras com essas letras - WordsWithLetters.org",
+    "h1": "Encontre palavras de 13 letras com essas letras",
+    "h2": "Digite as letras abaixo para encontrar palavras de 13 letras",
+    "meta": "Ainda pensando em quantas palavras de treze letras você consegue fazer com essas letras? Use nossa ferramenta para encontrar palavras de 13 letras com essas letras",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Traga um ponto de viragem no seu jogo. Gere palavras de treze letras com essas letras",
+            "feature_text": "Muitas vezes, essa letra treze encontra seu caminho em jogos de palavras. Mas o principal é que essas palavras com treze letras às vezes podem ter uma pontuação alta. No entanto, você pode encontrar seu resgate em com nosso localizador de palavras.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gere palavras de treze letras com essas letras",
+            "feature_text": "Nosso localizador de palavras gratuito permite que você encontre palavras de treze letras e ajude você a ganhar seu jogo",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Encontre qualquer palavra numerada com a letra Treze nela",
+            "feature_text": "O localizador de palavras de treze letras permite que você encontre todas as treze palavras com letras de até 15 caracteres.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gera até mesmo as treze palavras com letras mais difíceis que você nem consegue pensar.",
+            "feature_text": "Obtenha um conjunto de palavras de treze letras com pontuação alta em segundos com nosso gerador de palavras gratuito de treze letras.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

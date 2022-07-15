@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Listas de palavras",
+                "links": [
+                    {
+                        "name": "Gerador de jogos de palavras on-line",
+                        "url": "/pt/word-game-generator-online"
+                    },
+                    {
+                        "name": "Solucionador de mundos",
+                        "url": "/pt/wordle-solver"
+                    },
+                    {
+                        "name": "Faça palavras com essas letras",
+                        "url": "/pt/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Gerador de palavras a partir de letras",
+                        "url": "/pt/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Palavras escritas com essas letras ",
+                        "url": "/pt/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Quantas palavras você pode fazer com essas letras",
+                        "url": "/pt/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Que palavras posso soletrar com essas letras e um espaço em branco",
+                        "url": "/pt/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras com essas letras e 2 espaços em branco",
+                        "url": "/pt/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Palavras com essas letras e 3 espaços em branco",
+                        "url": "/pt/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Palavras de comprimento",
+                "links": [
+                    {
+                        "name": "Palavras de seis letras com essas letras",
+                        "url": "/pt/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de cinco letras com essas letras",
+                        "url": "/pt/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de sete letras com essas letras",
+                        "url": "/pt/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de quatro letras com essas letras",
+                        "url": "/pt/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de três letras com essas letras",
+                        "url": "/pt/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de duas letras com essas letras",
+                        "url": "/pt/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de oito letras com essas letras",
+                        "url": "/pt/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de nove letras com essas letras",
+                        "url": "/pt/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de dez letras com essas letras",
+                        "url": "/pt/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de onze letras com essas letras",
+                        "url": "/pt/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de doze letras com essas letras",
+                        "url": "/pt/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Palavras de treze letras com essas letras",
+                        "url": "/pt/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Palavras de letra X com essas letras e um espaço em branco",
+                "links": [
+                    {
+                        "name": "Palavras de 12 letras com essas letras e um espaço em branco",
+                        "url": "/pt/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 11 letras com essas letras e um espaço em branco",
+                        "url": "/pt/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 10 letras com essas letras e um espaço em branco",
+                        "url": "/pt/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 9 letras com essas letras e um espaço em branco",
+                        "url": "/pt/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 8 letras com essas letras e um espaço em branco",
+                        "url": "/pt/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 7 letras com essas letras e um espaço em branco",
+                        "url": "/pt/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 6 letras com essas letras e um espaço em branco",
+                        "url": "/pt/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 5 letras com essas letras e um espaço em branco",
+                        "url": "/pt/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 4 letras com essas letras e um espaço em branco",
+                        "url": "/pt/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 3 letras com essas letras e um espaço em branco",
+                        "url": "/pt/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Palavras de 2 letras com essas letras e um espaço em branco",
+                        "url": "/pt/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

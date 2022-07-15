@@ -1,0 +1,56 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znaleźć 13 liter słów z tymi literami - WordsWithLetters.org",
+    "h1": "Znaleźć 13 liter słów z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 13 słowa literowe",
+    "meta": "Wciąż zastanawiasz się, ile trzynastoletnich słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 13 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj trzynaście liter za pomocą tych liter",
+            "feature_text": "Często ta litera trzynasta znajduje swoją drogę w grach słownych. Ale najważniejsze jest to, że te trzynaście słów z literami może czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj trzynaście liter za pomocą tych liter",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć trzynaście liter i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź w nim dowolne ponumerowane słowo z literą Trzynaście",
+            "feature_text": "Wyszukiwarka trzynastu liter pozwala znaleźć wszystkie trzynaście liter do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze trzynaście liter słów, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę trzynastu słów z wysoką liczbą punktów w kilka sekund dzięki naszemu bezpłatnemu generatorowi słów z trzynastoma literami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

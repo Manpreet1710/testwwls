@@ -1,0 +1,56 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 11 letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Zoek 11 letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om woorden van 11 letters te vinden",
+    "meta": "Denk je nog steeds aan hoeveel elfletterige woorden je met deze letters kunt maken? Gebruik onze tool om woorden van 11 letters te vinden met deze letters",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer Elfletterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter elf zijn weg in woordspelletjes. Maar het belangrijkste is dat deze woorden met elf letters soms hoog scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer Elfletterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je Elfletterwoorden vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Eleven erin",
+            "feature_text": "Elfletterwoordzoeker laat je alle Elfletterwoorden tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden van elf letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg een pool van hoogscorende woorden van elf letters in seconden met onze gratis elfletterige woordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

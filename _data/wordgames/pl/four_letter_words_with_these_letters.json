@@ -1,0 +1,86 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znaleźć 4 litery słów z tymi literami - WordsWithLetters.org",
+    "h1": "Znajdź czteroliterowe słowa z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 4-literowe słowa",
+    "meta": "Wciąż myślisz o tym, ile czteroliterowych słów możesz zrobić za pomocą tych liter? Skorzystaj z naszego narzędzia, aby znaleźć 4-literowe słowa z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj czteroliterowe słowa z tymi literami",
+            "feature_text": "Często ta litera czwarta znajduje swoją drogę w grach słownych. Ale najważniejsze jest to, że te czterema literami słowa mogą czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj czteroliterowe słowa z tymi literami",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć czteroliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Cztery",
+            "feature_text": "Czteroliterowa wyszukiwarka słów pozwala znaleźć wszystkie Czteroliterowe słowa do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze czterliterowe słowa, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę czterech słów z czterema literami w kilka sekund dzięki naszemu bezpłatnemu czteroliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

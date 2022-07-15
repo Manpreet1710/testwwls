@@ -1,0 +1,139 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Bu harflerle kelimeler ve 2 boşluk- Wordswithletters",
+    "h1": "Bu harfler ve 2 boşluk içeren kelimeler",
+    "h2": "Aşağıdaki harfleri girin ve kaç tane boş ile yazılabileceğini kontrol edin",
+    "meta": "2 boş fayansınız var ve ne yapacağınızı merak ediyor musunuz? Merak etme, seni koruyoruz. Harfli kelimelerle 2 boş fayansla oluşturulabilen tüm olası kelime kombinasyonlarını kolayca bulun.",
+    "featureNo": "02",
+    "feature_title": "Özellikler",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "SSS",
+    "aboutNo": "05",
+    "about_title": "Hakkında",
+    "featureList": [
+        {
+            "feature_heading": "Kullanımı kolay",
+            "feature_text": "Bu harfler ve 2 boşluk içeren kelimelerin kullanımı gerçekten basittir ve girilen harflerle oluşturulabilecek herhangi bir uzunlukta tüm kelimeler sonuçta görüntülenir.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "En iyi sonucu üretir",
+            "feature_text": "Harfli kelimeler en iyi sonuçları, Scrabble oyununda en yüksek puanlama kelimeleri üretir. Kazancınız garantilidir.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "En çok 15 harf girin",
+            "feature_text": "Girilen harflerle oluşturulabilecek maksimum kelimeleri bulmak için sağlanan alana en fazla 15 harf (boş dahil) girebilirsiniz.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kolay filtre ve sıralama",
+            "feature_text": "Sonuçları kolaylıkla sıralayabilir ve filtreleyebilirsiniz. Bu özellik gerçekten kullanımı kolaydır ve istenen sonucu neredeyse anında elde etmenize yardımcı olacaktır.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kesinlikle Özgür!",
+            "feature_text": "Platformumuz tamamen ücretsizdir. Web sitemizde, buraya ne için geldiğinize odaklanmanızı sağlayan hiçbir reklamımız yok.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Gelişmiş filtre seçeneğini nasıl kullanabilirim?",
+            "Answer": "Gelişmiş filtre seçeneğini kullanmak için Gelişmiş Filtreler'i tıklamanız yeterlidir. Kelime ile Başlar, Önek gibi seçeneklerinizi doldurun, hangi harfleri veya kelimeleri içermelidir, ne içeriyor, sözcüğünüzün sonu, sonek, kelimenin uzunluğunu uygulayın ve tıklayın.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Sözlük seçenekleri nelerdir?",
+            "Answer": "Web sitemiz, iki sözlükleri dikkate almanızı sağlar, böylece mantıklı daha fazla kelime bulma şansınızı arttırır. Bizimle mevcut sözlük seçenekleri Sözlük, TWLO6 (ABD, Kanada ve Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Arama sonuçlarını sıralayabilir miyim?",
+            "Answer": "Evet, sonuçlar görüntülendikten sonra, oluşturulan sonuçların sayısına göre, sıralama işlevi ekranda görünür.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kullanılabilir sıralama seçenekleri nelerdir?",
+            "Answer": "Birden fazla sıralama seçeneği sunuyoruz. Arama sonuçlarını A-Z ve Z-A'dan sıralayabilirsiniz. Ayrıca sonuçların bir scrabble tahtasında kazandıkları puanlara göre sıralandığı bir seçeneğimiz de var.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bir kelime oyununda kelimenin kaç puan alacağını öğrenebilir miyim?",
+            "Answer": "Evet, kesinlikle. Web sitemiz, yalnızca sizin tarafınızdan girilen kelimelerden gelen tüm olası kelime oluşumlarını sağlamakla kalmaz, aynı zamanda bu kelimeyi bir oyunda kullanırsanız puan alacağınız puanları da görüntüler. Her kelimenin sağ alt köşesinde görüntülenen sayı, kelimeden alacağınız noktalardır.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "“Oynama” ve 2 boşluktan gelen harfler kullanılarak hangi kelimeler oluşturulabilir?",
+            "Answer": "Mektubu kullanarak harflerle kelimelere olası tüm harf oynama, kazançlı, döşeme, paling, ödeme, plying, algin, hizalamak, aping, gaily, kakma, lapin, liang, ligan, linga, linga, yalancı, düz, agin, agin, agly, anil, ayin, kazanç, boşaltılmış, glia, inly, lain, lang, ling, liny, lipa, çivi, nipa, kova, ağrı, paly, pang, pial, piyan, pily, pina, ping, piny, plan, oyun, pyin, yagi, yang, ail, ain, alp, ani, herhangi, gal, gan, boşluk, gey, cin, gip, gyp, gecikme, tur, lay, lin, dudak, dırdır, şekerleme, nay, nil, nip, pal, pan, ödeme, pia, domuz, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, a, ay, gi, in, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nedir harflerden oluşabilecek 5 harfli kelimeler YATAK BAŞINDA?",
+            "Answer": "Yatak başındaki harflerden üretilebilecek 5 harfli kelimelerin tümü aşağıdaki gibidir, bides, işler, taraflı",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "“Negatif” ve 2 boşluktan harfler kullanılarak hangi kelimeler oluşturulabilir?",
+            "Answer": "Harfli bir kelime arıyorsanız o zaman doğru yerdesiniz. Bu durumda NEGATIF harfler kullanılarak oluşturulabilecek tüm harfler aşağıdaki gibidir: ajantif, negatif, saflık, intikam, vintage, intikam, yeme, cenevre, inate, yerli, negate, teeing, teniae, agene, ajan, yenen, enate, entia, olay, evite, ganev, genet, cin, dev, verilen, naevi, naif, nieve, tenia, tinea, tinge, veena, vejetaryen, venae, intikam, vitae, agee, agin, ante, anti, saçak, etna, hatta, gaen, kazanç, yürüyüş, gane, kapı, verdi, gen, genci, geta, gien, gite, vermek, sivri, neve, neve, nevüs, nite, tain, tang, genç, tine, ting, vagi, boşuna, kanatlı, vang, damar, vena, havalandırma, viga, vina, asma, vita, yaş, ain, ait, ane, ani, karınca, yedik, ave, yemek, eng, eta, arifesi, gae, gan, gat, gee, gen, get, gie, cin, git, nae, nae, nae, nee, net, nit, tae, etiket, tan, tav, çay, tee, teg, on, kravat, teneke, van, fıçı, vee, veg, veteriner, via, vie, vig, ae, ag, ai, bir, en, en, et, gi, içinde, o, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "“Pozitif” ve 2 boşluktan harfler kullanılarak hangi kelimeler oluşturulabilir?",
+            "Answer": "Harfli bir kelime arıyorsanız o zaman doğru yerdesiniz. Bu durumda POZITIF harfleri kullanılarak oluşturulabilecek tüm harfler pozitif, acıma, pivots, potsie, sopite, sovyet, estop, sarmaşık, pesto, piste, pivot, şairler, poise, pozit, pozit, spite, stipe, stope, soba, tipis, topes, topis, ziyaret, oy, epos, opes, opts, peso, Haşere, Evcil hayvan, turta, piso, çukurlar, şair, pois, pois, post, tencere, Eylül, sipe, site, tükürmek, spiv, nokta, adım, dur, kravatlar, ipuçları, ayak parmakları, tope, topi, üstleri, yelek, veto, veterinerler, mengene, voes, oy, onun, oes, ope, ops, opt, ose, pes, pet, pasta, pis, çukur, poi, pot, psi, sei, set, yudum, otur, sop, sot, kravat, ipucu, tis, ayak parmağı, üst, veteriner, vie, vis, voe, es, et, olduğu, o, oe, oi, op, os, pe, pi, si, yani, ti, için",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Harfli kelimeler “serpinti” ve iki boşluk?",
+            "Answer": "FALLOUT harfleri kullanılarak oluşturulabilecek tüm kelimeler aşağıdaki gibi fallout outfall afoul tahsis atoll hata flota flota flout alto auto düşme düz tay faul tam latu somun loft lota lout olla uzun tofu tola tola toll tolu tufa kıç tüm alt yağ gribi fou lat lot oaf oft out tao tau uta al at fa la lo of ta to ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "“Parlayan” harfler ve iki boşluk olan kelimeler?",
+            "Answer": "Parlayan harfler kullanılarak oluşturulabilecek tüm kelimeler ışıldayan, ağlayan, gözetleme, gidiyor, lingo, borçlanma, kızdırma, gong, elbisesi, ling, lino, aslan, loin, uzun, lown, nogg, noil, kanat, wino, konser, cin, igg, ion, lin, log, düşük, nil, nog, şimdi, yağ, baykuş, kendi, peruk, kazanmak, kazandı, gi, git, in, li, lo, hayır, oi, üzerinde, ow, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

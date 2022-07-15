@@ -1,0 +1,56 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znaleźć 12 liter słów z tymi literami- WordsWithLetters.org",
+    "h1": "Znaleźć 12 liter słów z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 12-literowe słowa",
+    "meta": "Wciąż zastanawiasz się, ile dwunastliterowych słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 12 słów literowych z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj dwunastu liter za pomocą tych liter",
+            "feature_text": "Często ta litera dwunastu znajduje się w grach słownych. Ale najważniejsze jest to, że te dwanaście liter słów może czasami być wysoko punktowane. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj dwunastu liter za pomocą tych liter",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć dwunastoletowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Dwunastu w nim",
+            "feature_text": "Wyszukiwarka dwunastu liter pozwala znaleźć wszystkie dwunastu liter słów do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze dwanaście liter słów, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę dwunastu słów z wysokimi punktami w kilka sekund dzięki naszemu bezpłatnemu generatorowi słów z dwunastoma literami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

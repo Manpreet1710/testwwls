@@ -1,0 +1,106 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "これらの文字を含む7つの文字の単語を見つける-WordsWithLetters.org",
+    "h1": "これらの文字を含む7文字の単語を検索する",
+    "h2": "下の文字を入力して7文字の単語を検索してください",
+    "meta": "この文字で七文字の単語をいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む7文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字で七文字の単語を生成する",
+            "feature_text": "多くの場合、この文字7は単語ゲームでその方法を見つけます。しかし、主なことは、これらの7文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字で七文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで七文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "文字セブンを含む数字の付いた単語を検索する",
+            "feature_text": "7文字の単語ファインダーでは、15文字までの7文字の単語をすべて見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "思いもよらない最もタフな七文字の単語も生成します。",
+            "feature_text": "無料の7文字単語ジェネレーターで、高得点の7文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

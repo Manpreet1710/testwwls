@@ -1,0 +1,45 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "title": "Hvad kan jeg stave med disse bogstaver og en blank- Wordswithletters",
+    "h1": "Ord med disse bogstaver og et tomt",
+    "h2": "Indtast bogstaverne nedenfor og Kontroller, hvor mange der kan staves med et tomt",
+    "meta": "Har du 1 tom titel og undrer sig over, hvordan man stave? Bare rolig, vi har fået dig dækket. Find alle de mulige kombinationer af ord, der kan staves med 1 blank flise med ordmedbogstaver nemt.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Helt gratis!",
+            "feature_text": "Vores platform er helt gratis at bruge. Vi har absolut ingen annoncer på vores hjemmeside, der giver dig mulighed for at fokusere på, hvad du kom her for.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nem filter og sortering",
+            "feature_text": "Du kan nemt sortere og filtrere resultaterne ud, når det passer dig. Denne funktion er virkelig nem at bruge og hjælper dig med at få det ønskede resultat næsten øjeblikkeligt.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Indtast op til 15 bogstaver",
+            "feature_text": "Du kan indtaste op til 15 bogstaver (inklusive det tomme) i det angivne rum for at finde de maksimale ord, der kan dannes med de indtastede bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer det bedste resultat",
+            "feature_text": "Ord med bogstaver genererer de bedste resultater, de højest scorende ord i et Scrabble-spil. Din gevinst er garanteret.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Let at bruge",
+            "feature_text": "Ord med disse bogstaver og et tomt er virkelig nemt at bruge, og alle ord af enhver længde, der kan dannes med de indtastede bogstaver, vises i resultatet.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

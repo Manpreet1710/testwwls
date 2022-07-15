@@ -1,0 +1,180 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "Faça palavras com essas letras",
+    "h1": "Faça palavras com essas letras",
+    "h2": "Digite as letras abaixo e faça palavras usando essas letras",
+    "meta": "Faça palavras com essas letras!",
+    "featureNo": "02",
+    "feature_title": "Características",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "PERGUNTAS FREQUENTES",
+    "aboutNo": "05",
+    "about_title": "Sobre",
+    "featureList": [
+        {
+            "feature_heading": "Desembaralhe até 15 palavras e letras",
+            "feature_text": "Não se preocupe se você receber uma palavra de QUINZE letras durante o jogo de scrabble. Nosso localizador de palavras não vai decepcioná-lo!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Obtenha palavras raras de alta pontuação das letras mais comuns",
+            "feature_text": "Se você conseguir um ou i ou s, várias palavras de pontuação alta podem ser feitas com essas letras. E adivinha só? Você terá todos eles sob seu banner!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Descodificador simples, fácil de usar e intuitivo",
+            "feature_text": "Tudo o que você precisa fazer é inserir as letras do seu quadro, esperar apenas um segundo e então você pode fazer uma lista de palavras com as letras.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Desembaralhar palavras longas com facilidade agora",
+            "feature_text": "Você pode pensar por um momento que decifrar uma palavra de 15 letras!”. Mas nossa palavra unscrambler pode lhe dar essas respostas também em segundos.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Novas atualizações são destacadas mensalmente",
+            "feature_text": "Cada nova atualização relacionada ao scrabble será destacada para que você possa usá-las em seu jogo!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nosso localizador de palavras suporta vários dicionários",
+            "feature_text": "No momento, estamos trabalhando em vários dicionários para fornecer os melhores resultados possíveis.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Como fazer palavras contendo essas letras SHELF facilmente?",
+            "Answer": "Você pode criar palavras com qualquer letra facilmente usando nossa ferramenta para criar palavras com essas letras. Basta digitar todos os resultados desejados, clicar em Enter e você obterá todos os resultados em segundos. Nesse caso, todas as palavras possíveis com SHELF são as seguintes: flesh, shelf, fehs, self, efs, elf, els, feh, hes, sel, she, ef, eh, el, es, fe, he, sh",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso fazer palavras com essas letras ROAD?",
+            "Answer": "Sim, você pode criar palavras com essas letras ROAD. Todas as palavras possíveis são as seguintes: orad, road, ado, dor, remo, oda, ora, rad, rod, ad, ar, da, do, od, or",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso fazer palavras com essas letras BROWN?",
+            "Answer": "Sim, você pode criar palavras com essas letras BROWN. Todas as palavras possíveis são as seguintes: brown, born, brow, worn, bow, bro, nob, nor, now, orb, own, rob, row, won, bo, no, on, or, ow, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "É normal fazer palavras usando essas letras LOLLDUP?",
+            "Answer": "Sim, é perfeitamente normal fazer palavras usando essas letras LOLLDUP. Tudo o que você precisa fazer é colocar qualquer letra em nossa ferramenta e encontrar seus resultados facilmente. Permitimos um limite de 15 palavras. Portanto, adicione 15 letras e obtenha seus resultados em segundos. Neste caso, todas as palavras que usam essas letras LOLLDUP são as seguintes boneca, maçante, loll, alto, loup, calmaria, plod, poll, pull, updo, dol, duo, dup, lop, velho, oud, pod, pol, pud, pul, udo, upo, do, lo, od, op, up",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "É normal fazer palavras usando essas letras TEGFOT?",
+            "Answer": "Sim, é perfeitamente normal fazer palavras usando essas letras TFFFOT. Tudo o que você precisa fazer é colocar qualquer letra em nossa ferramenta e encontrar seus resultados facilmente. Permitimos um limite de 15 palavras. Portanto, adicione 15 letras e obtenha seus resultados em segundos. Neste caso, todas as palavras que usam estas letras TEGFOT são as seguintes: toft, tote, eft, ego, fet, foe, fog, get, got, oft, teg, tet, toe, tog, tot, ef, et, fe, go, oe, of, to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras contendo essas letras EXERCÍCIO",
+            "Answer": "Todas as palavras que podem ser feitas contendo estas letras EXERCÍCIO são as seguintes: exercise, cerise, creese, excise, sexier, ceres, cires, cries, eerie, execs, resee, rexes, rices, scree, siree, xeric, cees, cere, cire, cris, exec, exes, ices, ires, recs, rees, reis, rice, rise, sees servir, servir, desde, senhor, cee, cis, aqui , ers, gelo, ira, rec, ree, rei, res, rex, sec, ver, sei, ser, sexo, sic, senhor, seis, sri, xis, er, es, ex, é, re, si, xi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras contendo essas letras BREATH",
+            "Answer": "Todas as palavras que podem ser feitas contendo estas letras RESPIRAÇÃO são as seguintes banhista, bertha, respiração, banho, berço, terra, odiador, coração, rathe, reabilitação, taber, abet, baht, nu, bate, banho, urso, batida, beta, beth, brae, pirralho, eath, haet, lebre, hart, ódio, ouvir, calor, erva, taxa, rath, rhea, tahr, tara, lágrima, thae, arb, são, arte, comeu, bah, bar, morcego, aposta, sutiã, orelha, comer, era, eta, eth, hae, chapéu, ela, het, rah, rato, reb, ret, guia, tae, alcatrão, chá, o, ab, ae, ah, ar, at, ba, ser, eh, er, et, ha, ele, re, ta",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso fazer palavras com essas letras TRIPPED com precisão?",
+            "Answer": "Sim, se você está procurando fazer palavras com essas letras TRIPPED, nossa ferramenta faz palavras com essas letras fornece os resultados mais precisos. Separamos todas as letras com o tamanho da palavra para que seja fácil para você escolher. Neste caso, todas as letras que podem ser feitas com estas letras TRIPPED são as seguintes: tropeçado, dipper, peptid, redipt, rasgado, inclinado, basculante, trepido, gotejamento, canalizado, flautista, orgulho, pried, redip, rasgado, tépido, cansado, experimentado, tripas, dieta, dipt, dire, sujeira, dite, gotejamento, editar, ired, iter, peri, criminoso, pert, pied, cais, tubo, preparação, repp, passeio, maduro, rito, maré, amarrado, camada, pneu, viagem, morrer, mergulho, dit, ire, ped, pep, por, animal de estimação, torta, pip, poço, vermelho, rei, rep, ret, livrar, rasgar, ted, gravata, ponta, de, di, ed, er, et, id, it, pe, pi, re, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": " Posso fazer palavras com essas letras SOLTANDO com precisão?",
+            "Answer": "Sim, se você deseja criar palavras com essas letras SOLTANDO, nossa ferramenta cria palavras com essas letras e fornece os resultados mais precisos. Separamos todas as letras com o tamanho da palavra para que seja fácil para você escolher. Neste caso, todas as letras que podem ser feitas com estas letras DROPPING são as seguintes: drop, doping, pongid, poring, roping, dingo, doing, gipon, giron, grind, virilha, oping, orpin, pingo, pirog, poind, prion, prong, ding, dino, dong, dorp, gotejamento, drop, gird, girn, giro, gorp, grid, sorriso, aperto, inro, ferro, nodi, noir, nori, ping, pion, pirn, lagoa, pong, pornografia, prig, prod, prog, prop, casca, anel, cavar, din, mergulho, cão, don, dor, gid, gip, deus, gor, ion, nip, aceno, nog, nem, porco, pino, pip, vagem, poi, pop, pro, livrar, rig, rin, rasgar, haste, di, fazer, gi, ir, id, em, não, od, oi, on, op, ou, pi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras com as seguintes letras OCEAN",
+            "Answer": "Todas as palavras que são possíveis das seguintes letras OCEAN são as seguintes: canoa, oceano, acne, aeon, cana, cone, uma vez, ace, ane, can, con, eon, nae, oca, one, ae, an, en, na, ne, no, no, oe, on",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras com as seguintes letras AMARELAS",
+            "Answer": "Todas as palavras que são possíveis das seguintes letras AMARELO são as seguintes: amarelo, humilde, bem, lowe, bem, wyle, grito, yowe, yowl, ell, ley, low, lye, ole, owe, coruja, ai, wye, yew, yow, el, lo, oe, ow, oy, nós, wo, ye, yo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras com essas letras ABAIXO",
+            "Answer": "Todas as palavras que são possíveis usando estas letras ABAIXO são as seguintes: intestino, cotovelo, soprou, golpe, bole, tigela, lóbulo, lowe, bel, arco, lob, baixo, obe, ole, owe, coruja, teia, ai, ser, bo, el, lo, oe, ow, nós, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Faça palavras com essas letras AMERICA",
+            "Answer": "Todas as palavras que são possíveis usando estas letras AMÉRICA são as seguintes câmera, acari, aecia, aimer, amice, arame, areca, areic, ceria, creme, crime, erica, macer, maria, micra, ramie, acme, acre, amia, amie, amir, área, ária, veio, cuidado, cire, cram, emic, emir, maar, maça, mair, mara, marc, mare, mica, camundongos, lama, raça, raia, rami, resma, arroz, rime, ás, mira, ar, ama, ami, arco, são, braço, cam, carro, orelha, era, gelo, ira, mac, mae, mar, mic, mir, rai, carneiro, rec, rei, rem, ria, borda, aa, ae, ai, sou, ar, em, er, ma, me, mi, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer palavras com essas letras apenas DIGITANDO?",
+            "Answer": "Para fazer palavras com as letras TYPING, tudo o que você precisa fazer é digitar todas as letras da nossa ferramenta que estão facilmente disponíveis em nosso site. Depois de pressionar enter, você encontrará o resultado de todas as palavras possíveis que podem ser feitas com a palavra DIGITAÇÃO. Portanto, todas as palavras que podem ser feitas com as letras TYPING são as seguintes: digitação, amarração, ping, pint, piny, piedade, pyin, ting, tiny, tyin, gin, gip, git, gyp, nip, nit, pig, pin, pit, tin, tip, yin, yip, gi, in, it, pi, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como fazer palavras com essas letras apenas TENTANDO?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Para fazer palavras com as letras TENTANDO, tudo o que você precisa fazer é digitar todas as letras da nossa ferramenta que estão facilmente disponíveis em nosso site. Depois de pressionar enter, você encontrará o resultado de todas as palavras possíveis que podem ser feitas com a palavra TENTANDO. Portanto, todas as palavras que podem ser feitas com as letras TENTANDO são as seguintes: trying, tyring, tying, girn, girt, grin, grit, gyri, ring, ting, tiny, trig, tyin, gin, git, nit, rig, rin, tin, try, yin, gi, in, it, ti"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,13 @@
+{
+    "title": "以最少的猜測輕鬆解決措辭",
+    "h1": "通過輸入到目前為止使用的字母來解決今天的措辭",
+    "h2": "以灰色、黃色和綠色輸入字母以查看可能的單字",
+    "meta": "以灰色，黃色和綠色輸入字母，並獲得匹配的 5 個字母單詞列表，以解決當今的措辭，並打動您的朋友",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

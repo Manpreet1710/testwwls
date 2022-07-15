@@ -1,0 +1,45 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "title": "¿Qué puedo deletrear con estas letras y un espacio en blanco? Wordswithletters",
+    "h1": "Palabras con estas letras y un espacio en blanco",
+    "h2": "Introduzca las letras de abajo y compruebe cuántas se pueden deletrear con un espacio en blanco",
+    "meta": "¿Tienes 1 título en blanco y te preguntas cómo deletrear? No te preocupes, lo tenemos cubierto. Encuentra todas las combinaciones posibles de palabras que se pueden deletrear fácilmente con 1 ficha en blanco con palabras con letras.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Absolutamente gratis.",
+            "feature_text": "Nuestra plataforma es de uso totalmente gratuito. No tenemos absolutamente ningún anuncio en nuestro sitio web, lo que le permite centrarse en lo que vino aquí.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrar y clasificar fácilmente",
+            "feature_text": "Puede clasificar y filtrar los resultados fácilmente según su conveniencia. Esta función es muy fácil de usar y le ayudará a obtener el resultado deseado casi al instante.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Introduce hasta 15 letras",
+            "feature_text": "Puede introducir hasta 15 letras (incluido el espacio en blanco) en el espacio proporcionado para encontrar el máximo de palabras que se pueden formar con las letras introducidas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera el mejor resultado",
+            "feature_text": "Las palabras con letras generan los mejores resultados, las palabras con mayor puntuación en un juego de Scrabble. Tu victoria está garantizada.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Fácil de usar",
+            "feature_text": "Las palabras con estas letras y un espacio en blanco son realmente fáciles de usar y todas las palabras de cualquier longitud que se puedan formar con las letras introducidas se muestran en el resultado.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

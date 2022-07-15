@@ -1,0 +1,54 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "title": "Los Wordle gemakkelijk op in minimale gissingen",
+    "h1": "Los de Wordle van vandaag op door tot nu toe gebruikte letters in te voeren",
+    "h2": "Voer letters in grijs, geel en groen in om mogelijke woorden te zien",
+    "meta": "Voer letters in grijs, geel en groen in en ontvang een lijst met overeenkomende woorden van 5 letters om de Wordle van vandaag in minimale pogingen op te lossen en indruk te maken op je vrienden",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Eenvoudig te gebruiken",
+            "feature_text": "Wordle Solver is heel eenvoudig te gebruiken. U hoeft alleen maar de groene letters in het eerste vak in te voeren, de gele in de tweede rij en de grijze in de laatste rij. Klik op update om alle mogelijke woorden te zien die gemaakt kunnen worden van de ingevoerde letters.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Onmiddellijke resultaten",
+            "feature_text": "De resultaten worden weergegeven zodra u de letters invoert en op Bijwerken klikt. U hoeft niet te wachten op het genereren van resultaten.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Cross-platform",
+            "feature_text": "Onze website is platformonafhankelijk. Het werkt op zowel Windows- als iOS-besturingssystemen en kan worden gebruikt zonder dat er downloads nodig zijn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Meerdere antwoorden",
+            "feature_text": "Wordle Solver geeft je alle mogelijke woorden die gemaakt kunnen worden met behulp van de door jou ingevoerde letters. De mogelijkheden zijn eindeloos. Neem gissingen en voer de letters in onze Wordle Solver in. Je krijgt alle mogelijke woorden en zorgt ervoor dat je het spel wint met minimale proefversies.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Veilig en beveiligd",
+            "feature_text": "Onze website geeft prioriteit aan de privacy en veiligheid van zijn klanten.De website is virusvrij en vraagt niet om id's of registraties. Jouw gegevens zijn veilig bij ons!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Helemaal gratis",
+            "feature_text": "Loop de menigte voor door elke dag wordle op te lossen. Deel de resultaten met je vrienden en familie en word wereldkampioen met onze Wordle-oplosser. U kunt onze website zo vaak gebruiken als u wilt en er worden geen kosten in rekening gebracht voor het gebruik van onze diensten.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

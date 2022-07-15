@@ -1,0 +1,45 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Vad kan jag stava med dessa bokstäver och ett tomt- Wordswithletters",
+    "h1": "Ord med dessa bokstäver och en tom",
+    "h2": "Ange bokstäverna nedan och kontrollera hur många som kan stavas med ett tomt",
+    "meta": "Har du 1 tom titel och undrar hur man stavar? Oroa dig inte, vi har täckt dig. Hitta alla möjliga kombinationer av ord som kan stavas med 1 tom kakel med ordmedbokstäver lätt.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Helt gratis!",
+            "feature_text": "Vår plattform är helt gratis att använda. Vi har absolut inga annonser på vår webbplats som låter dig fokusera på det du kom hit för.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Enkelt filtrera och sortera",
+            "feature_text": "Du kan enkelt sortera och filtrera bort resultaten när det passar dig. Den här funktionen är väldigt lätt att använda och hjälper dig att få önskat resultat nästan omedelbart.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Skriv in upp till 15 bokstäver",
+            "feature_text": "Du kan ange upp till 15 bokstäver (inklusive tomt) i utrymmet för att hitta de maximala ord som kan bildas med de angivna bokstäverna.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererar det bästa resultatet",
+            "feature_text": "Ord med bokstäver ger de bästa resultaten, de högst poängsatta orden i ett Scrabble-spel. Din vinst är garanterad.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Lätt att använda",
+            "feature_text": "Ord med dessa bokstäver och ett tomt är verkligen enkelt att använda och alla ord av vilken längd som helst som kan bildas med de angivna bokstäverna visas i resultatet.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

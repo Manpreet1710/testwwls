@@ -1,0 +1,56 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 10 harfli kelime bul - WordsWithLetters.org",
+    "h1": "Bu harflerle 10 harfli kelime bul",
+    "h2": "On harfli kelimeyi bulmak için aşağıya harfleri girin",
+    "meta": "Hala bu harflerle kaç tane on harfli kelime yapabileceğinizi düşünüyorum? Bu harflerle 10 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle on harfli kelime oluştur",
+            "feature_text": "Genellikle bu on harfi kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu on harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle on harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, On harfli kelime bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde On harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "On harfli kelime bulucu, on harfli kelimeyi bulmanızı sağlar 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyeceğin en zor on harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz on harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı on harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

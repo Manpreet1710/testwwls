@@ -1,0 +1,60 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "title": "अपना खुद का वर्डल गेम बनाएं, अपने दोस्तों के साथ साझा करें और उन्हें चुनौती दें!",
+    "h1": "अपना खुद का वर्डल गेम बनाएं और दोस्तों के साथ साझा करें",
+    "h2": "शब्द दर्ज करें और अपने स्वयं के शब्द का लिंक प्राप्त करें",
+    "meta": "जल्दी से अपने शब्द से वर्ड गेम को मुफ्त में बनाएं और अपने दोस्तों के साथ साझा करें।",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

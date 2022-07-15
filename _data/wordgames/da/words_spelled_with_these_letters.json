@@ -1,0 +1,50 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "title": "Ord stavet med disse bogstaver",
+    "h1": "Ord stavet med disse bogstaver",
+    "h2": "Indtast bogstaverne og kassen, hvor mange ord der er stavet med disse bogstaver",
+    "meta": "Når ord stavet med bogstaver virker forvirrende, Brug vores gratis værktøj!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Find ord stavet med de forvirrende bogstaver",
+            "feature_text": "Tænker du ofte på „hvilke ord kan jeg stave med disse bogstaver“, mens jeg spiller ordspil? Så er du på det rigtige sted. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Enkel, intuitiv og brugervenlig ordfinder",
+            "feature_text": "Indtast bogstaverne på dit bord, og der får du en række ord stavet med disse bogstaver",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Alle regler for ord stavet med disse bogstaver i en nøddeskal",
+            "feature_text": "Hvis du spiller scrabble ordspil for allerførste gang, du har brug for disse sæt regler til nytte. Enkel og intuitiv!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Indtast op til op til femten bogstaver!",
+            "feature_text": "Femten bogstaver! Nok til at få det længste ord i den engelske ordbog.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Det understøtter en række ordbøger",
+            "feature_text": "En bred vifte af ordbøger for de bedste resultater.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Du har mulighed for at bruge en hvilken som helst enhed",
+            "feature_text": "Uanset om du bruger en bærbar computer, fane, Android eller din iPhone, vores mobilvenlige ord med venner scrambler solver kan tjene dit formål hvor som helst",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

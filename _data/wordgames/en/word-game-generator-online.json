@@ -1,0 +1,60 @@
+{
+    "Language": "English",
+    "htmlLangAtt": "en",
+    "title": "Create your own wordle game, share with your friends and challenge them !",
+    "h1": "Create your own wordle game and share with friends",
+    "h2": "Enter word and get link to your own wordle",
+    "meta": "Quickly create wordle game from your word for free and share with your friends.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

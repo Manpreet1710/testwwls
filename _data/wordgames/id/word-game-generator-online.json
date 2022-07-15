@@ -1,0 +1,60 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Buat permainan wordle Anda sendiri, bagikan dengan teman-teman Anda dan tantang mereka!",
+    "h1": "Buat permainan wordle Anda sendiri dan bagikan dengan teman",
+    "h2": "Masukkan kata dan dapatkan tautan ke wordle Anda sendiri",
+    "meta": "Buat game wordle dengan cepat dari kata Anda secara gratis dan bagikan dengan teman-teman Anda.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

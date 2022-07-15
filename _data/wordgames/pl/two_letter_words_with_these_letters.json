@@ -1,0 +1,116 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znaleźć 2 liter słów z tymi literami- WordsWithLetters.org",
+    "h1": "Znaleźć 2-literowe słowa z tymi literami",
+    "h2": "Wygeneruj słowa dwuliterowe za pomocą tych liter",
+    "meta": "Wciąż zastanawiasz się, ile dwuliterowych słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 2 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj słowa dwuliterowe za pomocą tych liter",
+            "feature_text": "Często ta litera druga znajduje swoją drogę w grach słownych. Ale najważniejsze jest to, że te dwa słowa z literami mogą czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj słowa dwuliterowe za pomocą tych liter",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć dwuliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Dwa w nim",
+            "feature_text": "Dwuliterowa wyszukiwarka słów pozwala znaleźć wszystkie Dwie litery do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze dwa słowa z literami, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę dwóch słów z dwoma literami w kilka sekund dzięki naszemu bezpłatnemu dwulliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

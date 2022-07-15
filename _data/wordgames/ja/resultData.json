@@ -1,0 +1,13 @@
+{
+    "title": "最小限の推測でワードルを簡単に解決",
+    "h1": "今まで使った文字を入力して今日の言葉を解き明かす",
+    "h2": "灰色、黄色、緑の文字を入力して、潜在的な単語を確認します",
+    "meta": "灰色、黄色、緑の文字を入力し、一致する5文字の単語のリストを取得して、今日の単語を最小限の試行で解決し、友達に感銘を与えます",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

@@ -1,0 +1,364 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Generator kata dari huruf- Membuat kata-kata dengan huruf dengan mudah",
+    "h1": "kata generator: membuat kata-kata yang berisi huruf-huruf",
+    "h2": "Masukkan huruf di bawah ini dan cari tahu berapa banyak kata yang dapat dibuat menggunakan generator kata awan ini",
+    "meta": "Anda dapat dengan mudah menghasilkan kata-kata acak dengan generator kata yang mudah digunakan ini dari alat huruf. Dengan hanya satu klik, Anda dapat membuat kata-kata baru dari huruf yang ada. Tingkat-up permainan kata Anda!",
+    "featureNo": "02",
+    "feature_title": "Fitur",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Tentang",
+    "featureList": [
+        {
+            "feature_heading": "Daftar kata Pictionary",
+            "feature_text": "Anda tidak memiliki gameboard atau kartu di sekitar, tetapi Anda masih ingin bermain Pictionary game dengan teman-teman Anda? Generator Kata ini adalah alat yang sempurna untuk membantu Anda melakukan ini. Menggunakan opsi lanjutan, Anda dapat memilih jenis kata yang harus ditampilkan.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wordle Permainan",
+            "feature_text": "Berjuang di Wordle? Anda sekarang dapat menguasai permainan kata yang sangat populer ini. Buat daftar kata dengan alat ini. Generator kata dari alat huruf memungkinkan Anda untuk menyesuaikan parameter kata-kata acak agar sesuai dengan kebutuhan Anda",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generator kata untuk huruf yang paling mencetak huruf",
+            "feature_text": "Sekarang membuat kata-kata dengan huruf-huruf ini a, s, i, d, e secepat mungkin!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generator kata untuk liga huruf sulit",
+            "feature_text": "Membuat kata-kata dengan huruf-huruf sulit seperti j, k, x menggunakan generator kata gratis kami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generator kata yang mudah, intuitif dan User-friendly",
+            "feature_text": "Masukkan huruf di papan Anda dan di sana Anda mendapatkan berbagai kata yang dieja dengan huruf-huruf ini.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan bahkan kata-kata terberat",
+            "feature_text": "Dapatkan kumpulan kata-kata dengan skor tinggi dalam hitungan detik dengan generator kata gratis kami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Apa alat Word Generator lakukan?",
+            "Answer": "Alat Generator Kata kami secara otomatis menghasilkan kata-kata yang berarti dari huruf yang masuk pengguna kami.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana cara menggunakan alat Word Generator?",
+            "Answer": "Menggunakan alat Word Generator kami sangat sederhana. Yang harus Anda lakukan adalah memasukkan huruf yang ingin Anda buat kata-kata. Anda dapat memasukkan hingga 15 huruf sekaligus. Selanjutnya, pilih jenis kamus yang ingin Anda gunakan untuk kata-kata yang akan dihasilkan - pilihan yang tersedia adalah “Kamus”, TWL06 (AS, Kanada, Thailand), SOWPODS (Inggris dan lainnya), dan Aktifkan (Kata dengan Teman). Anda kemudian dapat mengaktifkan opsi Advanced filter. Kemudian klik pada tombol pencarian, yang merupakan kaca pembesar. Dan voila! Alat kami akan menghasilkan jumlah kata maksimum yang mungkin dari huruf yang dimasukkan untuk Anda.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak huruf yang bisa saya masukkan untuk alat ini untuk membuat kata-kata dari huruf?",
+            "Answer": "Anda dapat memasukkan maksimal 15 huruf di alat kami, untuk membuat kata-kata dari huruf.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah saya harus membayar untuk menggunakan alat ini?",
+            "Answer": "Tidak, alat kami benar-benar gratis untuk digunakan. Anda tidak perlu membayar kami untuk menggunakan alat ini.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mengapa saya perlu menghasilkan kata-kata?",
+            "Answer": "Anda mungkin perlu menghasilkan kata-kata jika Anda bermain game kata yang kompetitif, seperti Wordle, atau Scrabble. Anda mungkin juga perlu menguraikan kata-kata, dan alat kami akan membantu Anda dengan itu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah alat ini membantu dengan permainan kata seperti Wordle dan Scrabble?",
+            "Answer": "Ya benar-benar. Jika Anda memerlukan bantuan saat bermain game kata seperti Scrabble dan Wordle, alat Word Creator kami adalah cara untuk pergi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya memecahkan kata-kata campur aduk dengan bantuan alat ini?",
+            "Answer": "Tentu saja. Alat kami akan membantu Anda memecahkan kata-kata campur aduk dengan mudah. Yang perlu Anda lakukan adalah memasukkan huruf dalam kata campur aduk, tentukan panjang kata yang Anda inginkan, dan alat kami akan memberi Anda semua kata yang mungkin. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja pilihan kamus yang berbeda yang tersedia?",
+            "Answer": "Dalam alat ini, Anda dapat memilih jenis kamus yang ingin Anda gunakan untuk kata-kata yang akan dihasilkan - pilihan yang tersedia adalah “Kamus”, TWL06 (AS, Kanada, Thailand), SOWPODS (Inggris dan lainnya), dan Aktifkan (Kata-kata dengan Teman).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana cara menggunakan filter lanjutan?",
+            "Answer": "Filter lanjutan dalam alat kami mencakup opsi bagi Anda untuk menentukan huruf mana yang harus dimulai atau diakhiri dengan kata-kata hasil, huruf mana yang harus berisi kata-kata, huruf mana yang ingin Anda kecualikan, dan berapa panjang kata yang diinginkan. Yang perlu Anda lakukan hanyalah mengklik tombol filter lanjutan dan masukan data sesuai keinginan Anda.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan panjang kata?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan jumlah huruf yang harus Anda miliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya mengecualikan karakter tertentu?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf yang Anda tidak ingin kata-kata untuk memiliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan karakter wajib?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf yang Anda pasti ingin kata-kata untuk memiliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan huruf mana yang harus dimulai atau diakhiri dengan kata-kata?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf mana yang Anda inginkan untuk memulai kata-kata Anda serta diakhiri dengan.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah aman untuk menggunakan alat Word Creator?",
+            "Answer": "Word Generator adalah salah satu alat online gratis yang paling aman dan paling aman. Ini tidak memiliki link berbahaya atau iklan yang tidak diinginkan. Ini benar-benar bebas masalah dan melakukan tugasnya dengan baik. Pada saat yang sama, tidak menyimpan data pengguna apa pun. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Saat menggunakan alat ini, akankah iklan muncul?",
+            "Answer": "Karena kami menjaga website kami benar-benar bebas untuk digunakan, iklan adalah apa yang membantu kami dengan mempertahankan website. Jadi, Anda akan melihat beberapa iklan bermunculan ketika Anda menggunakan situs kami. Tapi kita bisa menjamin bahwa hal itu tidak akan memburuk kualitas hasil atau waktu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah alat ini akan menyimpan data saya ke server?",
+            "Answer": "Generator Word gratis online kami tidak menyimpan data pengguna apa pun. Ini benar-benar aman untuk digunakan. Setiap hal yang pengguna mungkin meng-upload ke situs kami dihapus dari awan kami dalam rentang waktu yang sangat singkat.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak waktu yang dibutuhkan untuk membuat kata-kata dengan huruf?",
+            "Answer": "Dibutuhkan hanya beberapa detik untuk Generator Word gratis kami untuk melakukan tugasnya. Dengan cepat menciptakan kata-kata dari huruf tertentu. Hasilnya cepat dan 100% akurat.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah saya harus mendaftar atau masuk untuk menggunakan alat Word Generator ini?",
+            "Answer": "Tidak perlu mendaftar atau masuk di situs web kami. Anda dapat menggunakan Word Creator online kami secara gratis dan tanpa ada petunjuk untuk mendaftar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah Word Generator bekerja pada ponsel?",
+            "Answer": "Ya. Fitur pembangkit kata gratis kami bekerja pada semua platform. Anda dapat mengaksesnya dari ponsel Anda. Cukup ketik huruf yang Anda inginkan dalam kata-kata Anda, dari ponsel Anda dan alat kami akan melakukan pekerjaan untuk Anda.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah itu mendukung platform Android dan iOS?",
+            "Answer": "Ya, alat Word Generator kami dan semua alat lainnya mendukung platform Android dan iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah Word Generator bekerja pada pcs dan laptop?",
+            "Answer": "Ya. Generator Word online kami diterima di semua platform. Anda dapat menggunakan alat gratis ini di situs web Anda dari pc dan laptop Anda juga. Mendukung Windows dan Mac. Yang perlu Anda lakukan adalah memasukkan hingga 15 huruf, tentukan tipe Kamus, tambahkan filter lanjutan jika diperlukan, dan itu saja. Kata-kata akan dihasilkan dari huruf-huruf persis sesuai dengan instruksi Anda.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Versi Windows mana yang mendukung alat Word Generator?",
+            "Answer": "Fitur Word Generator kami benar-benar berbasis web. Karena itu, ia menyediakan dukungan cross-platform pengguna kami. Ini berarti bahwa alat kami mendukung semua versi Windows. Dalam istilah yang lebih umum, mendukung semua versi dari semua Sistem Operasi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Letter to word generator menggunakan huruf PLAYING",
+            "Answer": "Semua surat yang mungkin untuk kata generator menggunakan huruf PLAYING adalah sebagai berikut bermain, gainly, peletakan, paling, membayar, plying, algin, menyelaraskan, aping, gaily, inlay, lapin, liang, ligan, lingy, berbohong, polos, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, liny, lipa, kuku, nipa, ember, nyeri, paly, pang, pial, pian, pily, pina, ping, piny, rencana, bermain, pyin, yagi, yang, ail, ain, alp, ani, apapun, gal, gan, kesenjangan, gay, gin, gip, gyp, lag, lap, berbaring, lin, bibir, nag, tidur siang, nay, nip, sobat, pan, membayar, pia, babi, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, di, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Letter to word generator menggunakan huruf AGENCY",
+            "Answer": "Semua surat yang mungkin untuk kata generator menggunakan huruf AGENCY adalah sebagai berikut lembaga, cagey, jerawat, kandang, cagy, tebu, cyan, gaen, gane, yang, yean, ace, usia, ane, apapun, aye, bisa, cay, eng, gae, gan, gay, gen, gey, nae, nag, nay, yag, yea, yen, ae, ag, an, ay, en, na, ne, ya, kamu",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja generator kata 5 huruf dari huruf BLUETOOTH?",
+            "Answer": "Semua 5 huruf kata yang dapat dihasilkan dari surat-surat ini BLUETOOTH adalah sebagai berikut bhoot, bluet, booth, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, gigi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja generator kata 5 huruf dari huruf BEDSIDE?",
+            "Answer": "Semua 5 huruf kata yang dapat dihasilkan dari huruf BEDSIDE adalah sebagai berikut bided, bides, perbuatan, sisi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja generator kata empat huruf dengan huruf berbohong?",
+            "Answer": "Semua empat huruf kata yang dapat dihasilkan dengan huruf BERLING adalah sebagai berikut inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja generator kata 4 huruf dengan huruf TABLETOP?",
+            "Answer": "Semua 4 huruf kata yang dapat dihasilkan dengan huruf Tabletop adalah sebagai berikut abet, mampu, lidah buaya, alto, atop, bale, bate, batt, beat, belt, beta, blae, blat, blet, blot, perahu, bola, bole, baut, bota, bott, terlambat, lompatan, lept, lobus, lope, lota, olea, opal, pucat, pate, peal, gambut, pelt, plat, plea, pleb, plot, penyair, tiang, tael, kisah, tape, tate, teal, dot, kain, tepa, toea, tola, tole, tope, tote",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa yang akan menjadi generator kata dengan huruf NEGATIF?",
+            "Answer": "Jika Anda mencari generator kata maka Anda berada di tempat yang tepat. Dalam hal ini semua huruf yang dapat dibuat menggunakan huruf NEGATIF adalah sebagai berikut agentif, negatif, naif, ventage, vintage, membalas, makan, jenewa, ingate, asli, meniadakan, teeing, teniae, agene, agen, dimakan, enate, entia, peristiwa, evite, ganev, genet, jin, raksasa, diberikan, naevi, naif, nieve, tenia, tinea, semburat, veena, vegan, vegie, venae, balas dendam, vitae, age, agin, ante, anti, eave, etna, bahkan, gaen, mendapatkan, kiprah, gane, gerbang, memberi, gen, gent, geta, gite, memberikan, nyamuk, nave, rapi, neve, nevi, nite, tain, tang, remaja, tine, ting, vagi, sia-sia, baling-baling, vang, vena, vena, ventilasi, viga, vina, anggur, vita, usia, ain, ait, ane, ani, semut, makan, ave, makan, eng, et, malam, gae, gan, gat, gee, gen, mendapatkan, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, teh, tee, teg, sepuluh, dasi, timah, van, tong, vee, veg, dokter hewan, melalui, vie, vig, ae, ag, ai, an, at, en, et, gi, di, itu, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa yang akan menjadi generator kata dengan huruf POSITIF?",
+            "Answer": "Jika Anda mencari generator kata maka Anda berada di tempat yang tepat. Dalam hal ini semua huruf yang dapat dibuat dengan menggunakan huruf POSITIF adalah sebagai berikut positif, kasihan, pivot, potsie, sopite, soviet, estop, ivies, pesto, piste, pivot, penyair, ketenangan, posit, spite, stipe, stope, kompor, tipis, topes, topis, kunjungan, suara, epos, opes, opts, peso, hama, hewan peliharaan, pai, piso, lubang, penyair, pois, pose, pos, pot, sept, sipe, situs, meludah, spiv, tempat, langkah, berhenti, ikatan, tipi, tips, jari kaki, toes, topi, puncak, rompi, veto, dokter hewan, vies, catok, voes, suara, nya, oes, ope, ops, memilih, ose, pes, hewan peliharaan, pie, pis, pit, poi, pot, psi, sei, set, sip, duduk, sop, sot, dasi, tip, tis, kaki, atas, dokter hewan, vie, vis, voe, es, et, adalah, itu, oe, oi, op, os, pe, pi, si, jadi, ti, untuk",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator kata menggunakan huruf FALLOUT",
+            "Answer": "Semua kata-kata yang dapat dihasilkan menggunakan huruf FALLOUT adalah sebagai berikut kejatuhan outfall afoul aloft atoll kesalahan float flota flout alto auto jatuh anak kuda datar busuk penuh latu loaf loaf loft lota lout olla tinggi tahu tola tol toll tolu tufa belakang semua alt flu lemak fou lat banyak oaf oat sering keluar tao tau uta al at fa la lo ta untuk ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator kata menggunakan huruf Glowing",
+            "Answer": "Semua kata yang dapat dihasilkan menggunakan huruf Glowing adalah sebagai berikut bersinar, lowing, ogling, going, lingo, owing, glow, gong, gown, ling, lino, singa, pinggang, panjang, lown, nogg, noil, sayap, wino, manggung, gin, igg, ion, lin, log, rendah, nihil, nog, sekarang, minyak, burung hantu, sendiri, wig, menang, menang, gi, pergi, di, li, lo, tidak, oi, pada, ow, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator kata yang berisi huruf FULLFORM",
+            "Answer": "Semua kata-kata yang mungkin yang dapat dihasilkan dari kata-kata FULLFORM adalah sebagai berikut formful, tepung, fluor, forum, bentuk, busuk, empat, dari, penuh, furl, lour, luff, moll, muff, mull, mull, rolf, roll, ruff, flu, untuk, fou, mondar-mandir, bulu, lum, mol, mor, off, kami, rom, rum, lo,, mu, dari, om, atau, um",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator kata yang berisi huruf HITAM",
+            "Answer": "Semua kata-kata yang mungkin yang dapat dihasilkan dari kata-kata HITAM adalah sebagai berikut hitam, kembali, balk, betis, kekurangan, alb, bal, taksi, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana Anda bisa mendapatkan generator kata 7 huruf dari huruf RAINFOREST?",
+            "Answer": "Hal ini cukup sederhana. Yang harus Anda lakukan adalah menyebutkan semua huruf yang Anda ingin membuat kata dengan dan klik enter. Kami memiliki batas 15 huruf. Jadi jika Anda mencari untuk menghasilkan tujuh kata huruf maka yang harus Anda lakukan adalah menyebutkan huruf yang Anda inginkan yang lebih besar atau sama dengan 7 dan kurang dari 15 dan tekan enter. Anda akan mendapatkan hasil yang Anda inginkan dalam hitungan detik. Dalam hal ini semua 7 kata huruf yang dapat Anda buat menggunakan huruf RAINFOREST adalah sebagai berikut anestri, antsier, aroints, artsier, atoners, atonies, penghapusan, keliru, samar, pingsan, paling adil, foreran, forints, empat puluhan, fraters, fronter, front, infares, insofar, ironers, nastier, norites, oestrin, orientasi , kasau, peternak, ratines, ransum, menahan diri, refront, mempertahankan, retina, melatih, retsina, perusuh, roaster, roister, rotifer, senator, serrano, sierran, snifter, snorter, stainer, stearin, stonier, strafer, tarries, tarsier, medan, pelatih, pengkhianatan",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana Anda bisa mendapatkan generator kata tujuh huruf dari huruf TROPICAL?",
+            "Answer": "Hal ini cukup sederhana. Yang harus Anda lakukan adalah menyebutkan semua huruf yang Anda ingin membuat kata dengan dan klik enter. Kami memiliki batas 15 huruf. Jadi jika Anda mencari untuk menghasilkan tujuh kata huruf maka yang harus Anda lakukan adalah menyebutkan huruf yang Anda inginkan yang lebih besar atau sama dengan 7 dan kurang dari 15 dan tekan enter. Anda akan mendapatkan hasil yang Anda inginkan dalam hitungan detik. Dalam hal ini semua tujuh kata huruf yang dapat Anda buat menggunakan huruf TROPICAL adalah sebagai berikut aprikot, aprotik, caltrop, capitol, coalpit, optik, parotic, topikal",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator kata dari huruf TRUCK",
+            "Answer": "Semua kata-kata yang dapat dihasilkan menggunakan huruf TRUCK adalah sebagai berikut truk, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Generator kata dari huruf AEIOU",
+            "Answer": "Semua kata-kata yang dapat dihasilkan menggunakan huruf AEIOU adalah sebagai berikut eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

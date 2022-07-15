@@ -1,0 +1,45 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "title": "我可以用這些字母和空白拼寫什麼-帶字母的單詞",
+    "h1": "帶有這些字母和空白的單詞",
+    "h2": "在下面輸入字母並檢查多少可以用空白拼寫",
+    "meta": "您是否有 1 個空白標題並且想知道如何拼寫？不用擔心，我們已經得到了你覆蓋。找到所有可能的單詞組合，這些單詞可以用 1 個帶有字母的空白瓷磚輕鬆拼寫。",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "完全免費！",
+            "feature_text": "我們的平台完全免費使用。我們的網站上絕對沒有廣告，可以讓您專注於您來這裡的目的。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "輕鬆過濾和分類",
+            "feature_text": "您可以在方便時輕鬆地對結果進行排序和過濾。此功能非常易於使用，可以幫助您幾乎立即獲得所需的結果。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "最多可輸入 15 個字母",
+            "feature_text": "您可以在提供的空格中輸入最多 15 個字母（包括空白），以查找可以使用輸入的字母形成的最大單詞。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "產生最佳結果",
+            "feature_text": "帶字母的單詞會產生最好的結果，即在拼字遊戲中得分最高的單詞。您的勝利得到保證。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "易於使用",
+            "feature_text": "帶有這些字母和空白的單詞非常易於使用，並且可以使用輸入的字母形成的任何長度的所有單詞都顯示在結果中。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

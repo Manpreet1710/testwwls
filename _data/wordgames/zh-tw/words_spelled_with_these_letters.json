@@ -1,0 +1,50 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "title": "以這些字母拼寫的單詞",
+    "h1": "以這些字母拼寫的單詞",
+    "h2": "輸入字母並結帳有多少個單詞用這些字母拼寫",
+    "meta": "當拼寫字母的單詞看起來令人困惑時，請使用我們的免費工具！",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "查找拼寫混亂字母的單詞",
+            "feature_text": "在玩文字遊戲時，您是否經常想到「我可以用這些字母拼寫什麼單詞」？然後，您在正確的網站上。 ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "簡單，直觀和用戶友好的單詞查找器",
+            "feature_text": "Simly 在板上輸入字母，在那裡你會得到一系列用這些字母拼寫的單詞",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "簡而言之，用這些字母拼寫的單詞的所有規則",
+            "feature_text": "如果您是第一次玩拼字遊戲文字遊戲，則需要方便使用這些規則集。簡單直觀！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "最多可輸入十五個字母！",
+            "feature_text": "十五個字母！足以獲得英語詞典中最長的單詞。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "它支持許多字典",
+            "feature_text": "各種各樣的字典以獲得最佳結果。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "您可以選擇使用任何設備",
+            "feature_text": "無論您使用筆記本電腦，標籤，Android 還是 iPhone，我們與朋友一起使用移動友好的單詞加擾器求解器都可以從任何地方滿足您的目的",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

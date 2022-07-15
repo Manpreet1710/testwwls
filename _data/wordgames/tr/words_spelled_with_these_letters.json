@@ -1,0 +1,50 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Bu harflerle yazılan kelimeler",
+    "h1": "Bu harflerle yazılan kelimeler",
+    "h2": "Harfleri girin ve bu harflerle kaç kelimenin yazıldığını kontrol edin",
+    "meta": "Harflerle yazılan kelimeler kafa karıştırıcı göründüğünde, ücretsiz aracımızı kullanın!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Kafa karıştırıcı harflerle yazılmış kelimeleri bul",
+            "feature_text": "Kelime oyunları oynarken sık sık “bu harflerle hangi kelimeleri heceleyebilirim” diye düşünüyor musunuz? O zaman doğru sitesdesiniz. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Basit, sezgisel ve Kullanıcı dostu kelime bulucu",
+            "feature_text": "Simly tahtanızdaki harfleri girin ve orada bu harflerle yazılmış bir dizi kelime elde edersiniz",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kısaca bu harflerle yazılan Kelimeler için tüm kurallar",
+            "feature_text": "Scrabble kelime oyunlarını ilk kez oynuyorsanız, bu kurallara ihtiyacınız var. Basit ve sezgisel!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "On beş harfe kadar girin!",
+            "feature_text": "On beş harf! İngilizce sözlükteki en uzun kelimeyi almak için yeterli.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu Sözlükler bir dizi destekler",
+            "feature_text": "En iyi sonuçlar için çok çeşitli sözlükler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Herhangi bir cihazı kullanma seçeneğiniz var",
+            "feature_text": "Bir dizüstü bilgisayar, sekme, android veya iPhone'unuzu kullanın, arkadaşlarımızla mobil uyumlu kelimelerimiz scrambler çözücü her yerden amacınıza hizmet edebilir",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,156 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Знайдіть 3 літерні слова з цими літерами- WordWithLetters.org",
+    "h1": "Знайдіть три літери з цими літерами",
+    "h2": "Введіть літери нижче, щоб знайти 3 літерні слова",
+    "meta": "Все ще думаєте про те, скільки трибуквених слів ви можете скласти за допомогою цих букв? Використовуйте наш інструмент, щоб знайти 3 літерні слова з цими літерами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Принесіть переломний момент у вашій грі. Створіть три літери з цими літерами",
+            "feature_text": "Часто ця буква три знаходить свій шлях в іграх на слова. Але головне, що ці три літерних слова іноді можуть бути високо оцінені. Однак ви можете знайти свій порятунок за допомогою нашого пошуку слів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створіть три літери з цими літерами",
+            "feature_text": "Наш безкоштовний wordfinder дозволяє знайти слова з трьох літер та допомогти вам виграти гру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Знайдіть будь-яке пронумероване слово з літерою Три в ньому",
+            "feature_text": "Три літери пошуку слів дозволяє знайти всі три слова з буквами до 15 символів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створює навіть найжорсткіші три слова, про які ви навіть не можете придумати.",
+            "feature_text": "Отримайте пул високих забитих трьох літерних слів за лічені секунди за допомогою нашого безкоштовного генератора слів із трьома літерами.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

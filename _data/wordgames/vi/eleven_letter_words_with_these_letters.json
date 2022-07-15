@@ -1,0 +1,56 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Tìm 11 chữ cái với những chữ cái này - WordsWithletters.org",
+    "h1": "Tìm 11 từ thư với các chữ cái",
+    "h2": "Nhập chữ cái dưới đây để tìm 11 từ chữ cái",
+    "meta": "Vẫn đang nghĩ đến bao nhiêu từ mười một chữ cái bạn có thể tạo ra với những chữ cái này? Sử dụng công cụ của chúng tôi để tìm 11 từ chữ cái với các chữ cái này",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Mang lại một bước ngoặt trong trò chơi của bạn. Tạo mười một từ chữ cái với các chữ cái này",
+            "feature_text": "Thường thì lá thư mười một này tìm thấy cách của nó trong các trò chơi chữ. Nhưng điều chính là mười một từ viết chữ này đôi khi có thể được ghi điểm cao. Tuy nhiên, bạn có thể tìm thấy giải cứu của bạn tại với công cụ tìm từ của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo mười một từ chữ cái với các chữ cái này",
+            "feature_text": "Wordfinder miễn phí của chúng tôi cho phép bạn tìm thấy mười một từ thư và giúp bạn giành chiến thắng trò chơi của bạn",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tìm bất cứ từ nào được đánh số có chữ Eleven trong đó",
+            "feature_text": "11 chữ cái tìm kiếm cho phép bạn tìm tất cả mười một từ viết chữ lên đến 15 ký tự.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra cả mười một từ khắc nghiệt nhất mà bạn thậm chí không thể nghĩ đến.",
+            "feature_text": "Nhận được một hồ bơi ghi điểm cao mười một từ chữ trong vài giây với máy phát từ 11 chữ miễn phí của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

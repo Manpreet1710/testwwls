@@ -1,0 +1,149 @@
+[build]
+  functions = "functions" 
+  
+[functions]
+included_files = ["wordnet-db/**"]
+  
+[[redirects]]
+  from = "/words-with-letters"
+  to = "https://words-with-letters-xyz.netlify.app"
+  force = true
+  status = 200
+
+
+[[redirects]]
+  from = "/words-with-letters/sitemap.xml"
+  to = "https://words-with-letters-xyz.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/words-with-letters*"
+  to = "https://words-with-letters-xyz.netlify.app/words-with-letters/:splat"
+  force = true
+  status = 200   
+  
+ [[redirects]]
+  from = "/x-letter-words-with-letters"
+  to = "https://xletterwords-wwl.netlify.app"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/x-letter-words-with-letters/sitemap.xml"
+  to = "https://xletterwords-wwl.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/x-letter-words-with-letters*"
+  to = "https://xletterwords-wwl.netlify.app/x-letter-words-with-letters/:splat"
+  force = true
+  status = 200  
+
+
+  [[redirects]]
+  from = "/words-collections"
+  to = "https://wordcollections.netlify.app/"
+  force = true
+  status = 200
+
+
+[[redirects]]
+  from = "/words-collections/sitemap.xml"
+  to = "https://wordcollections.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/words-collections*"
+  to = "https://wordcollections.netlify.app/words-collections/:splat"
+  force = true
+  status = 200    
+
+[[redirects]]
+  from = "/data"
+  to = "https://wordcollections.netlify.app/data"
+  force = true
+  status = 200
+  
+[[redirects]]
+  from = "/data*"
+  to = "https://wordcollections.netlify.app/data/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/vowels"
+  to = "https://vowels-wwl.netlify.app/vowels"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/vowels/sitemap.xml"
+  to = "https://vowels-wwl.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/vowels*"
+  to = "https://vowels-wwl.netlify.app/vowels/:splat"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/words-with-silent-letters"
+  to = "https://silent-wwl.netlify.app/words-with-silent-letters"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/words-with-silent-letters/sitemap.xml"
+  to = "https://silent-wwl.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/words-with-silent-letters*"
+  to = "https://silent-wwl.netlify.app/words-with-silent-letters/:splat"
+  force = true
+  status = 200
+
+
+
+[[redirects]]
+  from = "/long-words-with-letters"
+  to = "https://longwords-wwl.netlify.app/long-words-with-letters"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/long-words-with-letters/sitemap.xml"
+  to = "https://longwords-wwl.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/long-words-with-letters*"
+  to = "https://longwords-wwl.netlify.app/long-words-with-letters/:splat"
+  force = true
+  status = 200
+
+
+  [[redirects]]
+  from = "/short-words-with-letters"
+  to = "https://shortwords-wwl.netlify.app/short-words-with-letters"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/short-words-with-letters/sitemap.xml"
+  to = "https://shortwords-wwl.netlify.app/sitemap.xml"
+  force = true
+  status = 200
+
+[[redirects]]
+  from = "/short-words-with-letters*"
+  to = "https://shortwords-wwl.netlify.app/short-words-with-letters/:splat"
+  force = true
+  status = 200

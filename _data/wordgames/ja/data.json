@@ -1,0 +1,54 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "title": "最小限の推測でWordleを簡単に解決",
+    "h1": "今まで使った文字を入力して今日のワードルを解く",
+    "h2": "灰色、黄色、緑の文字を入力して、潜在的な単語を確認します",
+    "meta": "グレー、イエロー、グリーンの文字を入力し、一致する5文字の単語のリストを取得して、今日のWordleを最小限の試行で解決し、友達に感銘を与えます",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "使い方は簡単",
+            "feature_text": "Wordle Solverは本当に簡単に使えます。最初のボックスに緑色の文字、2行目に黄色の文字、最後の行に灰色の文字を入力するだけです。更新をクリックすると、入力した文字から作成できるすべての単語が表示されます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "インスタント結果",
+            "feature_text": "文字を入力して [更新] をクリックするとすぐに結果が表示されます。結果の生成を待つ必要はありません。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "クロスプラットフォーム",
+            "feature_text": "当社のウェブサイトは、プラットフォームに依存しません。WindowsとiOSの両方のオペレーティングシステムで動作し、ダウンロードを必要とせずに使用できます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "複数の回答",
+            "feature_text": "Wordle Solverは、入力した文字を使用して作成できるすべての単語を提供します。可能性は無限大です。推測して、ワードルソルバーに文字を入力してください。可能な単語をすべて獲得し、最小限のトライアルでゲームに勝つことができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "安全で安心",
+            "feature_text": "当社のウェブサイトは、お客様のプライバシーとセキュリティを優先しています。ウェブサイトはウイルスに感染しておらず、IDや登録を要求しません。あなたのデータは私たちにとって安全です！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "絶対無料",
+            "feature_text": "毎日ワードルを解いて、群衆の先を行きましょう。結果を友達や家族と共有し、WordleソルバーでWordle Championになりましょう。当社のウェブサイトは何度でも使用でき、サービスの使用に対して課金されることはありません。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

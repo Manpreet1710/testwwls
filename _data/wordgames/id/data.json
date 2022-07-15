@@ -1,0 +1,54 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Pecahkan Wordle dengan mudah dalam tebakan minimum",
+    "h1": "Selesaikan Wordle hari ini dengan memasukkan huruf yang digunakan sejauh ini",
+    "h2": "Memasuki huruf berwarna abu-abu, kuning, dan hijau untuk melihat kata-kata potensinya",
+    "meta": "Masukkan huruf abu-abu, kuning dan hijau, dan dapatkan daftar kata 5 huruf yang cocok untuk menyelesaikan Wordle hari ini dalam upaya mimimum, dan mengesankan teman-teman Anda",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Mudah Digunakan",
+            "feature_text": "Wordle Solver sangat mudah digunakan. Anda hanya perlu memasukkan huruf hijau di kotak pertama, yang kuning di baris kedua, dan huruf abu-abu di baris terakhir. Klik pembaruan untuk melihat semua kata yang mungkin dapat dibuat dari huruf yang dimasukkan.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hasil Instan",
+            "feature_text": "Hasil akan ditampilkan segera setelah Anda memasukkan huruf dan klik pada update.You tidak perlu menunggu untuk generasi hasil.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Lintas Platform",
+            "feature_text": "Situs web kami adalah platform independen. Ia bekerja pada kedua jendela dan iOS sistem operasi dan dapat digunakan tanpa download diperlukan.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Beberapa Jawaban",
+            "feature_text": "Wordle Solver memberi Anda semua kata yang mungkin dapat dibuat menggunakan huruf yang dimasukkan oleh Anda. Kemungkinannya tidak terbatas. Ambil tebakan dan masukkan huruf di Wordle Solver kami. Anda akan mendapatkan semua kata-kata yang mungkin dan membuat Anda memenangkan permainan dengan uji coba minimum.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aman dan Aman",
+            "feature_text": "Situs web kami memprioritaskan privasi dan keamanan pelanggannya. Situs web ini bebas virus dan tidak meminta id atau pendaftaran apa pun. Data Anda aman bersama kami!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Benar-benar Gratis",
+            "feature_text": "Dapatkan depan kerumunan dengan memecahkan wordle setiap hari. Bagikan hasilnya dengan teman dan keluarga Anda dan jadilah Juara Wordle dengan pemecah Wordle kami. Anda dapat menggunakan situs web kami sebanyak yang Anda inginkan dan Anda tidak akan dikenakan biaya untuk menggunakan layanan kami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

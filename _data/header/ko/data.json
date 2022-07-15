@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "단어 목록",
+                "links": [
+                    {
+                        "name": "워드 게임 생성기 온라인",
+                        "url": "/ko/word-game-generator-online"
+                    },
+                    {
+                        "name": "워드 솔버",
+                        "url": "/ko/wordle-solver"
+                    },
+                    {
+                        "name": "이 글자로 단어 만들기",
+                        "url": "/ko/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "편지에서 단어 생성기",
+                        "url": "/ko/word-generator-from-letters"
+                    },
+                    {
+                        "name": "다음 글자로 된 단어 ",
+                        "url": "/ko/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 몇 단어를 만들 수 있습니까?",
+                        "url": "/ko/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "이 글자와 공백으로 철자를 쓸 수 있습니까?",
+                        "url": "/ko/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "다음 글자와 공백 2개가 있는 단어",
+                        "url": "/ko/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "다음 글자와 공백 3개가 있는 단어",
+                        "url": "/ko/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "단어 길이",
+                "links": [
+                    {
+                        "name": "이 글자로 된 여섯 글자 단어",
+                        "url": "/ko/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 다섯 글자 단어",
+                        "url": "/ko/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 일곱 글자 단어",
+                        "url": "/ko/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "다음 문자로 된 네 글자로 된 단어",
+                        "url": "/ko/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 세 글자 단어",
+                        "url": "/ko/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 두 글자 단어",
+                        "url": "/ko/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 여덟 글자 단어",
+                        "url": "/ko/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 9 글자 단어",
+                        "url": "/ko/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 10 글자 단어",
+                        "url": "/ko/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 11 글자 단어",
+                        "url": "/ko/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자로 된 열두 글자 단어",
+                        "url": "/ko/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "이 글자와 함께 13자로 된 단어",
+                        "url": "/ko/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "이 글자와 공백으로 된 X 글자 단어",
+                "links": [
+                    {
+                        "name": "이 글자와 공백이 포함 된 12 글자 단어",
+                        "url": "/ko/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 11 글자 단어",
+                        "url": "/ko/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 10 글자 단어",
+                        "url": "/ko/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백으로 된 9 글자 단어",
+                        "url": "/ko/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 8 글자 단어",
+                        "url": "/ko/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 7 글자 단어",
+                        "url": "/ko/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 6 글자 단어",
+                        "url": "/ko/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 5 글자 단어",
+                        "url": "/ko/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 4 글자 단어",
+                        "url": "/ko/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백으로 된 3 글자 단어",
+                        "url": "/ko/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "이 글자와 공백이 포함 된 2 글자 단어",
+                        "url": "/ko/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

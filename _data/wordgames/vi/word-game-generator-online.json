@@ -1,0 +1,60 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Tạo trò chơi wordle của riêng bạn, chia sẻ với bạn bè của bạn và thách thức họ!",
+    "h1": "Tạo trò chơi wordle của riêng bạn và chia sẻ với bạn bè",
+    "h2": "Nhập từ và nhận liên kết đến wordle của riêng bạn",
+    "meta": "Nhanh chóng tạo ra trò chơi wordle từ từ của bạn miễn phí và chia sẻ với bạn bè của bạn.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

@@ -1,0 +1,56 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trovare 11 parole di lettera con queste lettere - WordsWithLetters.org",
+    "h1": "Trovare 11 parole di lettera con queste lettere",
+    "h2": "Inserisci le lettere qui sotto per trovare le parole di 11 lettere",
+    "meta": "Stai ancora pensando a quante parole di undici lettere puoi fare con queste lettere? Usa il nostro strumento per trovare parole di 11 lettere con queste lettere",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Porta una svolta nel tuo gioco. Genera parole di undici lettere con queste lettere",
+            "feature_text": "Spesso questa lettera undici trova la sua strada nei giochi di parole. Ma la cosa principale è che queste undici parole con lettere a volte possono avere un punteggio elevato. Tuttavia puoi trovare il tuo salvataggio con il nostro word finder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera parole di undici lettere con queste lettere",
+            "feature_text": "Il nostro wordfinder gratuito ti consente di trovare parole di undici lettere e aiutarti a vincere la tua partita",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trovare qualsiasi parola numerata con la lettera Eleven in essa",
+            "feature_text": "Il cercatore di parole di undici lettere ti consente di trovare tutte le undici parole con lettere fino a 15 caratteri",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera anche le parole con undici lettere più difficili a cui non riesci nemmeno a pensare.",
+            "feature_text": "Ottieni un pool di parole di undici lettere con il punteggio più alto in pochi secondi con il nostro generatore di parole di undici lettere gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

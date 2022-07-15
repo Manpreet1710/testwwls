@@ -1,0 +1,45 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Que puis-je épeler avec ces lettres et un blanc - Wordswithletters",
+    "h1": "Des mots avec ces lettres et un blanc",
+    "h2": "Entrez les lettres ci-dessous et vérifiez combien peuvent être orthographiées avec un blanc",
+    "meta": "Vous avez un titre vierge et vous vous demandez comment l'épeler ? Ne vous inquiétez pas, nous avons ce qu'il vous faut. Trouvez facilement toutes les combinaisons possibles de mots qui peuvent être orthographiés avec une tuile vierge avec des mots avec des lettres.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Absolument gratuit !",
+            "feature_text": "Notre plateforme est totalement gratuite. Nous n'avons absolument aucune publicité sur notre site Web, ce qui vous permet de vous concentrer sur ce pourquoi vous êtes venus ici.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrez et triez facilement",
+            "feature_text": "Vous pouvez facilement trier et filtrer les résultats à votre convenance. Cette fonctionnalité est vraiment facile à utiliser et vous aidera à obtenir le résultat souhaité presque instantanément.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Entrez jusqu'à 15 lettres",
+            "feature_text": "Vous pouvez entrer jusqu'à 15 lettres (y compris le blanc) dans l'espace prévu à cet effet pour trouver le maximum de mots pouvant être formés avec les lettres saisies.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Génère le meilleur résultat",
+            "feature_text": "Les mots avec des lettres génèrent les meilleurs résultats, les mots les plus performants dans une partie de Scrabble. Votre victoire est garantie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Facile à utiliser",
+            "feature_text": "Les mots avec ces lettres et un blanc sont vraiment simples à utiliser et tous les mots de n'importe quelle longueur pouvant être formés avec les lettres saisies sont affichés dans le résultat.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

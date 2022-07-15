@@ -1,0 +1,60 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Créez votre propre jeu de mots, partagez-le avec vos amis et défiez-les !",
+    "h1": "Créez votre propre jeu de mots et partagez-le avec vos amis",
+    "h2": "Entrez un mot et obtenez un lien vers votre propre mot",
+    "meta": "Créez rapidement un jeu de mots à partir de votre mot gratuitement et partagez-le avec vos amis.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

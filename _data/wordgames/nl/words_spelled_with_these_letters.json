@@ -1,0 +1,50 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "title": "Woorden gespeld met deze letters",
+    "h1": "Woorden gespeld met deze letters",
+    "h2": "Voer de letters in en bekijk hoeveel woorden er met deze letters worden gespeld",
+    "meta": "Wanneer woorden gespeld met letters verwarrend lijken, gebruik dan onze gratis tool!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Zoek woorden die zijn gespeld met de verwarrende letters",
+            "feature_text": "Denk je vaak aan „welke woorden kan ik met deze letters spellen” tijdens het spelen van woordspelletjes? Dan ben je op de juiste site. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Eenvoudige, intuïtieve en gebruiksvriendelijke woordzoeker",
+            "feature_text": "Voer gewoon de letters in op je bord en daar krijg je een reeks woorden die met deze letters zijn gespeld.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Alle regels voor woorden gespeld met deze letters in een notendop",
+            "feature_text": "Als je voor het eerst scrabble-woordspelletjes speelt, heb je deze set regels van pas nodig. Eenvoudig en intuïtief!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Voer maximaal vijftien letters in!",
+            "feature_text": "Vijftien letters! Genoeg om het langste woord in het Engelse woordenboek te krijgen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Het ondersteunt een aantal woordenboeken",
+            "feature_text": "Een breed scala aan woordenboeken voor de beste resultaten.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Je hebt de mogelijkheid om elk apparaat te gebruiken",
+            "feature_text": "Of u nu een laptop, tabblad, Android of uw iPhone gebruikt, onze mobielvriendelijke woorden met vrienden scrambler oplosser kunnen uw doel overal dienen",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,45 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "title": "これらの文字と空白で何を綴ることができますか-単語と文字",
+    "h1": "これらの文字と空白の単語",
+    "h2": "下の文字を入力し、空白で何文字綴りできるか確認してください",
+    "meta": "空白のタイトルが1つあり、綴り方を知りたいですか？心配しないで、私たちはあなたをカバーしています。単語と文字を含む1つの空白のタイルで綴ることができる単語の可能な組み合わせをすべて簡単に見つけます。",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "絶対無料！",
+            "feature_text": "私たちのプラットフォームは完全に無料で使用できます。私たちのウェブサイトには、あなたがここに来た目的に集中できる広告はまったくありません。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "簡単なフィルターと並べ替え",
+            "feature_text": "都合の良いときに簡単に結果を並べ替えたり除外したりできます。この機能は非常に使いやすく、ほぼ瞬時に目的の結果を得るのに役立ちます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "15文字まで入力してください",
+            "feature_text": "提供されたスペースに最大15文字（空白を含む）を入力して、入力した文字で構成できる最大単語を検索できます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "最良の結果を生み出す",
+            "feature_text": "文字付きの単語は、スクラブルゲームで最高得点の単語である最高の結果を生成します。あなたの勝利は保証されています。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "使いやすい",
+            "feature_text": "これらの文字と空白を含む単語は非常に使いやすく、入力した文字で構成できる任意の長さの単語がすべて結果に表示されます。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

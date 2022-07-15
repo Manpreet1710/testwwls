@@ -1,0 +1,106 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Знайдіть 7 літерних слів з цими літерами- WordWithLetters.org",
+    "h1": "Знайдіть 7 літерних слів з цими літерами",
+    "h2": "Введіть літери нижче, щоб знайти 7 літерних слів",
+    "meta": "Все ще думаєте про те, скільки семилітерних слів ви можете скласти за допомогою цих букв? Використовуйте наш інструмент, щоб знайти 7 буквених слів з цими літерами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Принесіть переломний момент у вашій грі. Створіть сім літерних слів з цими літерами",
+            "feature_text": "Часто ця буква сімка знаходить свій шлях в словесні ігри. Але головне, що ці сім літерних слів іноді можуть бути високо оцінені. Однак ви можете знайти свій порятунок за допомогою нашого пошуку слів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створіть сім літерних слів з цими літерами",
+            "feature_text": "Наш безкоштовний wordfinder дозволяє знайти сім букв слів і допомогти вам виграти гру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Знайдіть будь-яке пронумероване слово з літерою Seven",
+            "feature_text": "Сім лист пошуку слів дозволяє знайти всі сім літерних слів до 15 символів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створює навіть найжорсткіші сім літерних слів, про які ви навіть не можете придумати.",
+            "feature_text": "Отримайте пул із семи літерних слів за лічені секунди за допомогою нашого безкоштовного генератора слів із семибуквеними літерами.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

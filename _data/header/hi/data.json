@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "वर्ड लिस्ट्स",
+                "links": [
+                    {
+                        "name": "वर्ड गेम जेनरेटर ऑनलाइन",
+                        "url": "/hi/word-game-generator-online"
+                    },
+                    {
+                        "name": "वर्डल सॉल्वर",
+                        "url": "/hi/wordle-solver"
+                    },
+                    {
+                        "name": "इन पत्रों के साथ शब्द बनाएं",
+                        "url": "/hi/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "वर्ड जेनरेटर फ्रॉम लेटर्स",
+                        "url": "/hi/word-generator-from-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ लिखे गए शब्द ",
+                        "url": "/hi/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों से आप कितने शब्द बना सकते हैं",
+                        "url": "/hi/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "मैं इन अक्षरों और एक रिक्त के साथ कौन से शब्द लिख सकता हूं",
+                        "url": "/hi/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों और 2 रिक्त स्थान वाले शब्द",
+                        "url": "/hi/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "इन अक्षरों और 3 रिक्त स्थान वाले शब्द",
+                        "url": "/hi/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "लंबाई के शब्द",
+                "links": [
+                    {
+                        "name": "इन अक्षरों के साथ छह अक्षर शब्द",
+                        "url": "/hi/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ पांच अक्षर शब्द",
+                        "url": "/hi/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ सात अक्षर शब्द",
+                        "url": "/hi/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ चार अक्षर शब्द",
+                        "url": "/hi/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ तीन अक्षर शब्द",
+                        "url": "/hi/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ दो अक्षर शब्द",
+                        "url": "/hi/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ आठ अक्षर शब्द",
+                        "url": "/hi/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ नौ अक्षर शब्द",
+                        "url": "/hi/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ दस अक्षर शब्द",
+                        "url": "/hi/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ ग्यारह अक्षर शब्द",
+                        "url": "/hi/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ बारह अक्षर शब्द",
+                        "url": "/hi/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ तेरह अक्षर शब्द",
+                        "url": "/hi/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "इन अक्षरों के साथ X अक्षर शब्द और एक रिक्त",
+                "links": [
+                    {
+                        "name": "इन अक्षरों के साथ 12 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 11 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 10 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 9 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 8 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 7 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 6 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 5 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 4 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 3 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "इन अक्षरों के साथ 2 अक्षर शब्द और एक रिक्त",
+                        "url": "/hi/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

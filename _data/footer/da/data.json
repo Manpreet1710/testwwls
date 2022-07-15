@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Firma",
+    "networksitestitle": "RESSOURCER",
+    "linksTitle": "Værktøj",
+    "producttitle": "Ord af længde",
+    "company": [
+        {
+            "name": "Vilkår og betingelser",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Fortrolighedspolitik",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Ansvarsfraskrivelse",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Seks bogstavsord med disse bogstaver",
+            "url": "/da/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Fem bogstavsord med disse bogstaver",
+            "url": "/da/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Syv bogstavsord med disse bogstaver",
+            "url": "/da/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Fire bogstavsord med disse bogstaver",
+            "url": "/da/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tre bogstavsord med disse bogstaver",
+            "url": "/da/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "To bogstavsord med disse bogstaver",
+            "url": "/da/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Otte bogstavsord med disse bogstaver",
+            "url": "/da/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Ni bogstavsord med disse bogstaver",
+            "url": "/da/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Ti bogstavsord med disse bogstaver",
+            "url": "/da/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Elleve bogstavord med disse bogstaver",
+            "url": "/da/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tolv bogstavsord med disse bogstaver",
+            "url": "/da/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tretten bogstavsord med disse bogstaver",
+            "url": "/da/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Ordspil Generator Online",
+            "url": "/da/word-game-generator-online"
+        },
+        {
+            "name": "Wordle-løser",
+            "url": "/da/wordle-solver"
+        },
+        {
+            "name": "Lav ord med disse bogstaver",
+            "url": "/da/make-words-with-these-letters"
+        },
+        {
+            "name": "Ordgenerator fra bogstaver",
+            "url": "/da/word-generator-from-letters"
+        },
+        {
+            "name": "Ord stavet med disse bogstaver ",
+            "url": "/da/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Hvilke ord kan jeg stave med disse bogstaver og et tomt",
+            "url": "/da/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Ord med disse bogstaver og 2 emner",
+            "url": "/da/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Ord med disse bogstaver og 3 emner",
+            "url": "/da/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "twitter"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

@@ -1,0 +1,86 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde 4 brev ord med disse bogstaver - Wordswithletters.org",
+    "h1": "Find ord med fire bogstaver med disse bogstaver",
+    "h2": "Indtast bogstaverne nedenfor for at finde 4 bogstavsord",
+    "meta": "Tænker stadig på, hvor mange ord med fire bogstaver kan du lave med disse bogstaver? Brug vores værktøj til at finde 4 bogstavsord med disse bogstaver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Medbring et vendepunkt i dit spil. Generer ord med fire bogstaver med disse bogstaver",
+            "feature_text": "Ofte finder dette brev fire vej i ordspil. Men det vigtigste er, at disse fire bogstaverord undertiden kan være meget scorende. Du kan dog finde din redning på med vores ordfinder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generer ord med fire bogstaver med disse bogstaver",
+            "feature_text": "Vores gratis wordfinder giver dig mulighed for at finde ord på fire bogstaver og hjælpe dig med at vinde dit spil",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Find et nummereret ord med bogstav fire i det",
+            "feature_text": "Ordfinder med fire bogstaver giver dig mulighed for at finde alle fire bogstaver ord op til 15 tegn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer selv de hårdeste ord med fire bogstaver, du ikke engang kan tænke på.",
+            "feature_text": "Få en pulje med højt scorende fire bogstaver på få sekunder med vores gratis ordgenerator med fire bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

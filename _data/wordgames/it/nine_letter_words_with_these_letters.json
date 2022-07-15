@@ -1,0 +1,56 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trovare parole di 9 lettere con queste lettere - WordsWithLetters.org",
+    "h1": "Trova parole di nove lettere con queste lettere",
+    "h2": "Inserisci le lettere qui sotto per trovare parole di 9 lettere con quelle lettere",
+    "meta": "Stai ancora pensando a quante parole di nove lettere puoi fare con queste lettere? Usa il nostro strumento per trovare parole di 9 lettere con queste lettere",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Porta una svolta nel tuo gioco. Genera parole di nove lettere con queste lettere",
+            "feature_text": "Spesso questa lettera nove trova la sua strada nei giochi di parole. Ma la cosa principale è che queste nove parole con lettere a volte possono avere un punteggio elevato. Tuttavia puoi trovare il tuo salvataggio con il nostro word finder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera parole di nove lettere con queste lettere",
+            "feature_text": "Il nostro wordfinder gratuito ti consente di trovare parole di nove lettere e aiutarti a vincere la tua partita",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trovare qualsiasi parola numerata con la lettera Nine",
+            "feature_text": "Il cercatore di parole a nove lettere ti consente di trovare tutte le nove parole con lettere fino a 15 caratteri.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera anche le parole con nove lettere più difficili a cui non riesci nemmeno a pensare.",
+            "feature_text": "Ottieni un pool di parole di nove lettere con il punteggio più alto in pochi secondi con il nostro generatore di parole a nove lettere gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

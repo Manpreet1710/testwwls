@@ -1,0 +1,30 @@
+---
+layout: allpages
+folderName: wordgames
+lang: en
+fileName: allpages
+title: All Pages for words with letters
+permalink: allpages
+nointernationalization: true
+---
+<div class="container-fluid text-center" style="margin: 100px 0;">
+    <h1 class="mb-5 as-percentage-heading">All Pages for words with letters</h1>
+    <div class="row">
+        <div class="col-md-6 mx-auto">
+            <div class="row">
+
+                {% for item in site.data.wordgames.en %}
+
+                {% if item[0] != "data" and item[0] != "root"%}
+                {%- assign hypen = item[0] | split: '-' | last -%}
+                <li class="col-md-6 py-2 conver-list" style="list-style: none;">
+                    <a href="/{{item[0] | replace: '_', '-'  }}" style="color:#0d6efd!important; font-size: 12px;">
+                        {{ item[0] | replace: "_"," " | capitalize}}
+                    </a>
+                </li>
+                {%- endif -%}
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</div>

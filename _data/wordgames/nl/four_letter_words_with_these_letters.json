@@ -1,0 +1,86 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 4-letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Zoek vier letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om woorden van 4 letters te vinden",
+    "meta": "Denk je nog steeds aan hoeveel vierletterige woorden je met deze letters kunt maken? Gebruik onze tool om woorden van 4 letters te vinden met deze letters",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer vierletterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter vier zijn weg in woordspelletjes. Maar het belangrijkste is dat deze woorden met vier letters soms zeer scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer vierletterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je woorden van vier letters vinden en je helpen je spel te winnen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Vier erin",
+            "feature_text": "Met de vierletterige woordzoeker kunt u alle woorden met vier letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden met vier letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg binnen enkele seconden een pool van hoog scorende woorden met vier letters met onze gratis vierletterige woordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

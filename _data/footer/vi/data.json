@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Công ty",
+    "networksitestitle": "TÀI NGUYÊN",
+    "linksTitle": "Công cụ",
+    "producttitle": "Từ dài",
+    "company": [
+        {
+            "name": "Điều khoản và điều kiện",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Chính sách bảo mật",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Khước từ",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Sáu chữ cái với những chữ cái này",
+            "url": "/vi/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Năm chữ cái với những chữ cái này",
+            "url": "/vi/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bảy chữ cái với những chữ cái này",
+            "url": "/vi/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bốn chữ cái với những chữ cái này",
+            "url": "/vi/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Ba chữ cái với những chữ cái này",
+            "url": "/vi/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Hai từ chữ cái với những chữ cái này",
+            "url": "/vi/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tám chữ cái với những chữ cái này",
+            "url": "/vi/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Chín chữ cái với những chữ cái này",
+            "url": "/vi/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Mười chữ cái với những chữ cái này",
+            "url": "/vi/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Mười một từ thư với những chữ cái này",
+            "url": "/vi/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Mười hai chữ cái với những chữ cái",
+            "url": "/vi/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Mười ba từ chữ cái với những chữ cái",
+            "url": "/vi/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Word Game Generator trực tuyến",
+            "url": "/vi/word-game-generator-online"
+        },
+        {
+            "name": "Trình giải Wordle",
+            "url": "/vi/wordle-solver"
+        },
+        {
+            "name": "Tạo từ với những chữ cái này",
+            "url": "/vi/make-words-with-these-letters"
+        },
+        {
+            "name": "Trình tạo từ chữ cái",
+            "url": "/vi/word-generator-from-letters"
+        },
+        {
+            "name": "Các từ được đánh vần bằng các chữ cái này ",
+            "url": "/vi/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Những từ nào tôi có thể đánh vần với những chữ cái này và một trống",
+            "url": "/vi/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Các từ có các chữ cái này và 2 khoảng trống",
+            "url": "/vi/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Từ có các chữ cái này và 3 khoảng trống",
+            "url": "/vi/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "twitter"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

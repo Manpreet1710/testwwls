@@ -1,0 +1,180 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "title": "用这些字母说话",
+    "h1": "用这些字母说话",
+    "h2": "输入下面的字母，然后用这些字母写单词",
+    "meta": "用这些字母说话！",
+    "featureNo": "02",
+    "feature_title": "特点",
+    "blogNo": "03",
+    "blog_title": "博客",
+    "FaqNo": "04",
+    "Faq_title": "常见问题",
+    "aboutNo": "05",
+    "about_title": "关于我们",
+    "featureList": [
+        {
+            "feature_heading": "解读多达15个单词和字母",
+            "feature_text": "如果你在拼字游戏中得到一个十五个字母的单词，请不要担心。我们的 word finde 不会让你失望的！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "从最常见的字母中获得高分的稀有单词",
+            "feature_text": "无论是 yoo get a 还是 i 还是 s，都可以用这些字母组成许多得分高的单词。你猜怎么着？你将把它们都放在你的旗帜下！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "直观、用户友好和直观的解读器",
+            "feature_text": "您所要做的就是在板上输入字母，稍等片刻，然后就可以列出带有字母的单词列表。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "现在就轻松解读长单词",
+            "feature_text": "你可能会想一会儿解读一个15个字母的单词！”。但是我们的单词解读器也可以在几秒钟内给你这些答案",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "每月都会突出显示新更新",
+            "feature_text": "与scrabble相关的每个新更新都会突出显示，以便您可以在游戏中使用它们！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "我们的单词查找器支持许多词典",
+            "feature_text": "我们目前正在研究许多词典，以提供尽可能好的结果",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "如何轻松制作包含这些字母的单词SHELF？",
+            "Answer": "您可以使用我们的工具轻松地用任何字母制作单词，用这些字母制作单词。只需输入所有想要的结果，然后按Enter键，您将在几秒钟内获得所有结果。在这种情况下，使用 SHELF 的所有可能词语都如下所示 flesh、shelf、fehs、self、els、feh、hes、sel、she、ef、eh、el、es、fe、he、sh",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "我能用这些字母 ROAD 说话吗？",
+            "Answer": "是的，你可以用这些字母说话 ROAD。所有可能的词语如下：orad、road、ado、dor、oar、oda、ora、rad、rod、ad、ar、da、do、od 或",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "我能用这些字母 BROWN 说话吗？",
+            "Answer": "是的，你可以用这些字母来写单词 BROWN。所有可能的词都如下所示棕色、born、brow、brow、nob、nob、nob、now、orb、own、rob、own、row、won、bo、no、ow、wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "用这些字母写单词可以吗 LOLLDUP？",
+            "Answer": "是的，用这些字母写单词是完全可以的 LOLLDUP。您所要做的就是在我们的工具上输入任何字母，然后轻松找到结果。我们允许的字数限制为15个字。因此，添加任意15个字母，并在几秒钟内得到结果。在这种情况下，所有使用这些字母 LOLLDUP 的单词都如下所示娃娃、沉闷、哈哈、大声、哈哈、pod、pod、pod、pod、pod、ul、udo、upo、do、up、do、up、do、lo、lo、op",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "用这些字母写单词可以吗 TEGFOT？",
+            "Answer": "是的，用这些字母 TFFFOT 做单词完全没问题。您所要做的就是在我们的工具上输入任何字母，然后轻松找到结果。我们允许的字数限制为15个字。因此，添加任意15个字母，并在几秒钟内得到结果。在这种情况下，所有使用这些字母 TEGFOT 的单词如下 toft、tote、ego、fet、foe、foe、foe、get、got、of、teg、teg、tot、tog、tot、ef、et、fe、go、oe、of、to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "制作包含这些字母的单词练习",
+            "Answer": "包含这些字母的所有单词锻炼如下：练习、cerise、creese、exise、sexier、ceres、cries、cries、cries、怪异、高管、resee、rexes、rice、res、rices、res、res、res、rices、res、res、rices、res、rices、res、res、res、res、seer，sere、sice、sire、cee、cis、ere, ers, ice, ire, rec, ree, rei, res, rex, sec, sec, see, sei, ser, sex, sic, six, si, xis, er, es, ex, is, re, si, xi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "制作包含这些字母的单词 BREATH",
+            "Answer": "包含这些字母 BREATH 的所有单词如下 bather、bertha、呼吸、洗澡、泊位、地球、仇恨、heart、rate、康复、taber、abet、bat、bare、bate、beta、beth、bat、eath、haet、hart、haet、听见、热、药草、率、rath、rhea，tahr，tare，眼泪，thae，arb、are、are、are、are、are、are、bat、bat、bar、ear、eat、era、eth、hae、hat、he、he、rah、rah、rah、rab、reb、reb、reb、tab、tab、ae、ae、ba、be、eh、呃、et、哈、他、re、ta",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "我能准确地用这些字母 TRIPED 说出单词吗？",
+            "Answer": "是的，如果你想用这些字母做单词 TRIPED，那么我们的工具用这些字母制作单词将为你提供最准确的结果。我们将所有字母与其单词长度分隔开来，以便您轻松选择。在这种情况下，可以用这些字母 TRIPED 制作的所有字母如下 tripped、dippt、redipt、riped、triped、triped、trepid、dript、pipet、piped、pipet、pride、pipet、pride、pipet、pride、pipet、pride、piped、ried、iter peri，perp，pert，pied，pier、pipe、pep、rep、ride、ride、ride、tier、tier、trip、die、dit、ire、ped、pep、pep、per、pet、pie、pip、rep、ret、rip、tie、tip、de、di、et、id、it、pe、pi、re、ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": " 我能准确地用这些字母DROPING写出单词吗？",
+            "Answer": "是的，如果你想用这些字母做单词 DROPING，那么我们的工具用这些字母制作单词可以为你提供最准确的结果。我们将所有字母与其单词长度分隔开来，以便您轻松选择。在这种情况下，用这些字母 DROPIND 可以制成的所有字母都如下掉落、兴奋、pongid、poring、roping、dingo、dingo、dingo、girn、grin、grin、orpin、pingo、pirog、pond、prion、prong、dong、dorp、drop、drip、drip、gird、gird、girn、girp、grid，咧嘴一笑，抓地力，inro，铁，nodi、noir、nori、ping、pion、porn、pong、porn、prod、prog、prog、prog、prog、prog、pop、dip、dip、dip、doi、dop、doi、dop、poi、dop、poi、dop、poi、pop、poi、pop、poi、pop、poi、pop、poi、pop、po、rid、rig, rip, rod, di, do, gi, go, id, in, no, od, oi, on, op, or, pi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "用以下字母制作单词 OCEAN",
+            "Answer": "以下字母 OCEAN 中可能出现的所有单词如下：独木舟、海洋、痤疮、永旺、甘蔗、锥体、once、ace、ane、can、con、eon、eon、ae、an、en、na、ne、no、oe、oe、on",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "用以下字母制作单词 YELLOW",
+            "Answer": "以下字母 YELLOW 中可能出现的所有单词如下黄色、lowy、welly、lowe、wyle、yell、yowe、yowl、ell、ley、low、lye、ole、owe、owe、owe、owe、oe、oy、we、wo、ye",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "在下面用这些字母做单词",
+            "Answer": "下面是使用这些字母的所有可能单词如下，肠、肘、blow、blow、bole、bowle、lobe、lowe、bel、bow、lob、lob、lob、lob、ow、obe、ole、owe、owe、owe、be、bo、el、oe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "用这些字母说话 AMERICA",
+            "Answer": "使用这些字母 AMERICA 的所有可能单词如下 camera、acari、aecia、aimer、amice、arame、槟榔、arec、ceria、cream、犯罪、erica、macer、maria、micra、ramie、acme、acre、amia、amir、area、aria、care、cire、cram、emic、emir、maar ace，mair，mara，marc，marc，mica，老鼠，mire, race, raia, rami, ream, rice, rime, ace, aim, air, ama, ami, arc, are, arm, cam, 汽车, 耳朵, 时代, 冰, ire, mac, mae, mae, mae, er, ma, ma, ma, mi, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "如何用这些字母只打字来制作单词？",
+            "Answer": "为了用字母TYPINGE制作单词，您所要做的就是在我们的工具上键入所有字母，这些字母可以在我们的网站上轻松获得。按下Enter键后，您将找到可以用TYPINGE单词生成的所有可能单词的结果。因此，可以用字母 TYPING 组成的所有单词如下：键入、tying、ping、pint、piny、piny、ting、tiny、tiny、tin、gin、gip、gip、gip、gip、nit、pig、pin、pin、yip、gi、in、it、pi、ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "如何只用这些字母来制作单词 TRYING？",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "为了用字母TRYING制作单词，您所要做的就是在我们的工具上键入所有字母，这些字母可以在我们的网站上轻松获得。按下Enter键后，您将找到可以用TRYING一词生成的所有可能单词的结果。因此，可以用字母 TRYING 组成的所有单词如下 trying、tyring、tying、girn、girt、girt、girt、gyri、ring、ting、tiny、trig、gin、git、nit、rig、rin、gi、in、it、ti"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

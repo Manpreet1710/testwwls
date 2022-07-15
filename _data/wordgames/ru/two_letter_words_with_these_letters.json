@@ -1,0 +1,116 @@
+{
+    "Language": "Русский",
+    "htmlLangAtt": "ru",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Найдите слова из двух букв с этими буквами - WordsWithLetters.org",
+    "h1": "Найдите слова из двух букв с этими буквами",
+    "h2": "Сгенерировать два буквенных слова с этими буквами",
+    "meta": "Все еще думаете о том, сколько двухбуквенных слов можно составить из этих букв? Используйте наш инструмент, чтобы найти слова из двух букв с этими буквами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Сделайте переломный момент в своей игре. Сгенерировать два буквенных слова с этими буквами",
+            "feature_text": "Часто эта буква два находит свое место в словесных играх. Но главное, что эти два буквенных слова иногда могут быть очень оценены. Однако вы можете найти свое спасение с помощью нашего поисковика слов.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Сгенерировать два буквенных слова с этими буквами",
+            "feature_text": "Наш бесплатный поиск слов позволяет вам найти слова из двух букв и помочь вам выиграть игру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Найдите любое пронумерованное слово с буквой два",
+            "feature_text": "Поисковик слов из двух букв позволяет найти все слова из двух букв длиной до 15 символов.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Создает даже самые сложные слова из двух букв, о которых вы даже не можете подумать.",
+            "feature_text": "Получите набор двух буквенных слов с высокими баллами за секунды с нашим бесплатным генератором двухбуквенных слов.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,364 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Ord generator från bokstäver- Gör ord med några bokstäver lätt",
+    "h1": "Ordgenerator: Gör ord som innehåller dessa bokstäver",
+    "h2": "Ange bokstäverna nedan och ta reda på hur många ord som kan skapas med hjälp av denna molnordgenerator",
+    "meta": "Du kan enkelt generera slumpmässiga ord med denna lättanvända ordgenerator från bokstäver verktyg. Med bara ett klick kan du skapa nya ord från dina befintliga bokstäver. Nivån upp ditt ordspel!",
+    "featureNo": "02",
+    "feature_title": "Funktioner",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Om",
+    "featureList": [
+        {
+            "feature_heading": "Lictionary ordlistor",
+            "feature_text": "Du har ingen spelbräda eller kort runt, men du vill ändå spela Pictionary spel med dina vänner? Denna Word Generator är det perfekta verktyget för att hjälpa dig att göra detta. Med hjälp av de avancerade alternativen kan du välja vilka typer av ord som ska visas.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wordle Spel",
+            "feature_text": "Kämpar du på Wordle? Du kan nu behärska detta väldigt populära ordspel. Skapa en lista med ord med det här verktyget. Word generator från bokstäver verktyg kan du justera parametrarna för de slumpmässiga orden för att bäst passa dina behov",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Word generator för de mest poäng bokstäver",
+            "feature_text": "Gör nu ord med dessa bokstäver a, s, i, d, e så snabbt som möjligt!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ordgenerator för ligan av tuffa bokstäver",
+            "feature_text": "Gör ord med dessa tuffa bokstäver som j, k, x med vår fria ordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Enkel, intuitiv och användarvänlig ordgenerator",
+            "feature_text": "Skriv in bokstäverna på din anslagstavla och där får du en rad ord stavade med dessa bokstäver.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererar även de tuffaste orden",
+            "feature_text": "Få en pool med höga poäng ord på några sekunder med vår gratis ordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Vad gör verktyget Word Generator?",
+            "Answer": "Vårt Word Generator-verktyg genererar automatiskt meningsfulla ord från bokstäverna som vår användare anger.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur använder du verktyget Word Generator?",
+            "Answer": "Att använda vårt Word Generator-verktyg är mycket enkelt. Allt du behöver göra är att skriva in bokstäverna du vill göra ord av. Du kan ange upp till 15 bokstäver åt gången. Välj sedan vilken typ av ordlista du vill använda för orden som ska genereras - de tillgängliga alternativen är ”Dictionary”, TWL06 (USA, Kanada, Thailand), SOWPODS (Storbritannien och andra) och Aktivera (Ord with Friends). Du kan sedan aktivera alternativet Avancerade filter. Klicka sedan på sökknappen, som är förstoringsglaset. Och voila! Vårt verktyg kommer att generera maximalt möjliga antal ord från de angivna bokstäverna för dig.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många bokstäver kan jag skriva in för verktyget för att göra ord av bokstäver?",
+            "Answer": "Du kan ange högst 15 bokstäver i vårt verktyg, för att göra ord av bokstäver.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Måste jag betala för att använda det här verktyget?",
+            "Answer": "Nej, vårt verktyg är helt gratis att använda. Du behöver inte betala oss för att använda verktyget.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Varför behöver jag generera ord?",
+            "Answer": "Du kan behöva generera ord om du spelar tävlingsordspel, som Wordle eller Scrabble. Du kan också behöva avkoda ord, och vårt verktyg hjälper dig med det.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan det här verktyget hjälpa till med ordspel som Wordle och Scrabble?",
+            "Answer": "Ja, absolut. Om du behöver hjälp när du spelar ordspel som Scrabble och Wordle är vårt verktyg för Word Creator rätt väg att gå.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag lösa virkade ord med hjälp av detta verktyg?",
+            "Answer": "Naturligtvis. Vårt verktyg hjälper dig att enkelt lösa ord. Allt du behöver göra är att ange bokstäverna i det rörliga ordet, ange ordlängden du önskar, och vårt verktyg kommer att ge dig alla ord möjliga. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka är de olika ordboksalternativen tillgängliga?",
+            "Answer": "I det här verktyget kan du välja vilken typ av ordlista du vill använda för orden som ska genereras - de tillgängliga alternativen är ”Ordbok”, TWL06 (USA, Kanada, Thailand), SOWPODS (Storbritannien och andra) och Aktivera (Ord med vänner).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur kan jag använda de avancerade filtren?",
+            "Answer": "De avancerade filtren i vårt verktyg innehåller alternativet för dig att ange vilka bokstäver resultatet ord måste börja eller sluta med, vilka bokstäver orden måste innehålla, vilka bokstäver du vill att verktyget ska utesluta och vad önskad ordlängd är. Allt du behöver göra är att klicka på knappen avancerade filter och mata in data som du vill.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange ordlängd?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange antalet bokstäver som orden du behöver ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag utesluta vissa tecken?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange de bokstäver du inte vill att orden ska ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange obligatoriska tecken?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange de bokstäver du definitivt vill att orden ska ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange vilken bokstav orden ska börja eller sluta med?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange vilka bokstäver du vill att dina ord ska börja samt sluta med.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Är det säkert att använda verktyget Word Creator?",
+            "Answer": "Word Generator är ett av de säkraste och säkraste gratis online-verktyg. Det har inga skadliga länkar eller oönskade annonser. Det är helt problemfritt och gör sitt jobb helt bra. Samtidigt sparar det inte någon av användardata. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "När du använder det här verktyget, kommer några annonser att dyka upp?",
+            "Answer": "Eftersom vi håller vår webbplats helt fri att använda, annonserna är vad hjälper oss med att upprätthålla webbplatsen. så, du kommer att se några annonser poppar upp när du använder vår webbplats. Men vi kan garantera att det inte kommer att försämra resultatkvaliteten eller tiden.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kommer det här verktyget att spara mina data på servern?",
+            "Answer": "Vår gratis Word Generator sparar inte någon av användardata. Det är helt säkert att använda. Allt som användaren kan ladda upp till vår webbplats raderas från vårt moln inom en mycket kort tidsperiod.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur mycket tid behöver det för att göra orden med bokstäver?",
+            "Answer": "Det tar bara några sekunder för vår kostnadsfria Wordgenerator att göra sitt jobb. Det skapar snabbt ord från angivna bokstäver. Resultaten är snabba och en 100% exakt.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Måste jag registrera mig eller logga in för att kunna använda det här verktyget för Word Generator?",
+            "Answer": "Ingen registrering eller inloggning krävs på vår hemsida. Du kan använda vår Word Creator online gratis och utan några uppmaningar för att registrera dig.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Fungerar Word Generator på mobiltelefoner?",
+            "Answer": "Ja. Vår gratisfunktion för ordgenerering fungerar på alla plattformar. Du kan komma åt den från dina mobiltelefoner. Skriv bara in bokstäverna du vill ha i dina ord, från din telefon och vårt verktyg kommer att göra jobbet för dig.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Stöder den både Android- och iOS-plattformar?",
+            "Answer": "Ja, vårt Word Generator-verktyg och alla andra verktyg stöder både Android- och iOS-plattformar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Fungerar Word Generator på datorer och bärbara datorer?",
+            "Answer": "Ja. Vår Word Generator online accepteras på alla plattformar. Du kan använda detta gratis verktyg på din hemsida från din dator och din bärbara dator också. Den stöder både Windows och Mac. Allt du behöver göra är att ange upp till 15 bokstäver, ange ordbokstypen, lägga till avancerade filter om det behövs, och det är allt. Orden kommer att genereras från dessa bokstäver exakt enligt dina instruktioner.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka Windows-versioner stöder Word Generator-verktyget?",
+            "Answer": "Vår Word Generator-funktion är helt webbaserad. På grund av detta ger det våra användare plattformsoberoende support. Detta innebär att vårt verktyg stöder alla versioner av Windows. Mer generellt stöder den alla versioner av alla operativsystem.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bokstav till ordgenerator med hjälp av bokstäverna SPELA",
+            "Answer": "Alla möjliga bokstav till ordgenerator med hjälp av bokstaven PLAY är följande spel, gainly, lägga, paling, betala, plying, algin, align, aping, gaily, inlägg, lapin, liang, ligan, linga, lingy, liggande, vanligt, agin, agly, anil, ayin, vinst, gapy, glia, inly, lain, lain, lang, ling, Liny, Lipa, spik, NIPA, hink, smärta, paly, Pang, pial, pian, pily, pina, ping, piny, plan, spela, pyin, yagi, yang, ail, ain, alp, ani, någon, gal, gan, gap, gay, gin, gip, gyp, fördröjning, knä, låg, lin, läpp, nag, nap, nay, noll, nip, kompis, Pan, betala, Pia, gris, stift, ply, pya, yag, yap, yin, yip, ag, ai, al, en, ay, gi, i, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Brev till ordgenerator med hjälp av bokstäverna BYRÅ",
+            "Answer": "Alla möjliga brev till ordgenerator med hjälp av bokstaven AGENCY är följande byrå, cagey, akne, bur, cagy, sockerrör, cyan, gaen, gane, yang, yang, yean, ess, ålder, ane, någon, aye, kan, cay, eng, gae, gan, gay, gen, gey, nae, tjata, nay, yag, yea, yen, ae, ae, ag, en, ay, en, na, ne, ya, ni",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad är alla 5 bokstäver ordgenerator från bokstäverna BLUETOOTH?",
+            "Answer": "Alla 5 bokstäver ord som kan genereras från dessa bokstäver BLUETOOTH är följande bhoot, bluet, monter, botel, boule, buteo, buteo, butle, butte, helot, hotell, lotte, lotto, obole, thole, tand",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad är alla 5 bokstäver ordgenerator från bokstäverna BEDSIDE?",
+            "Answer": "Alla 5 bokstäver ord som kan genereras från bokstäverna BEDSIDE är följande bud, bides, gärningar, sidiga",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad är alla fyra bokstäver ordgenerator med bokstäverna LIGGANDE?",
+            "Answer": "Alla fyra bokstäver ord som kan genereras med bokstäverna LIGGANDE är som följer inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad är alla 4 bokstäver ordgenerator med bokstäverna TABLETOP?",
+            "Answer": "Alla 4 bokstäver ord som kan genereras med bokstäverna TABLETOP är följande abet, kan, aloe, alto, ovanpå, bale, Bate, batt, slå, bälte, beta, blae, blat, blat, blet, blot, båt, bola, bole, bult, bota, bott, sen, språng, lept, lobe, lope, lota, lota, olea, opal, blek, pate, peal, torv, pelt, Plat, grund, grunden, tomt, poet, Pole, Tael, berättelse, band, Tate, blågrön, spen, Tela, tepa, tola, tole, tole, tope, tope, tote",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad blir ordet generator med bokstäver NEGATIV?",
+            "Answer": "Om du letar efter en ordgenerator så är du på rätt plats. I detta fall alla bokstäver som kan skapas med hjälp av bokstäverna NEGATIVA är följande agentiva, negativa, naivitet, ventage, vintage, hämnas, äta, Genève, ingate, infödda, negate, teeing, teniae, agene, agent, ätit, enate, entia, händelse, evite, ganev, genet, ande, jätte, given, naevi, naiv, nieve, tenia, tenia, tinea, tinge, veena, vegan, vegie, venae, hämnd, vitae, agee, agin, ante, anti, eave, etna, även, gaen, vinst, gång, gane, gate, gav, gen, gent, geta, gien, gite, ge, gnat, nave, snyggt, neve, nevi, nite, tain, tang, tonåring, Tine, ting, Vagi, förgäves, vang, ven, vena, vent, viga, vina, Vine, Vita, ålder, Ain, ait, ane, Ani, Ant, åt, Ave, äta, eng, eta, eve, gae, gan, gat, gen, get, get, gie, gin, git, nae, nag, nee, netto, nit, tae, tagg, tan, tav, te, tee, tee, teg, tio, slips, tenn, van, vat, vee, veg, veg, via, vie, tee, tee, teg, tio, slips, tenn, van, vat, vee, veg, veg, veg, vig, ae, ag, ai, en, at, en, et, gi, i, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad blir ordet generator med bokstäver POSITIVA?",
+            "Answer": "Om du letar efter en ordgenerator så är du på rätt plats. I detta fall alla bokstäver som kan skapas med hjälp av bokstäverna POSITIVA är följande positiva, pivoter, pivots, potsie, sopit, sovjetiska, estop, ivies, pesto, piste, pivot, poeter, poise, posit, trots, stipe, stope, spis, tipis, topes, topis, besök, röster, epos, opes, opes, opts, opts, o, skadedjur, Husdjur, pajer, piso, gropar, poet, pois, pose, inlägg, krukor, sept, sipe, plats, spotta, spiv, spot, steg, stopp, slipsar, tipi, tips, tår, tope, topi, toppar, väst, veto, veterinärer, vies, skruvstäd, voes, rösta, dess, oes, ope, ops, opt, ose, pes, husdjur, paj, pis, grop, poi, potten, psi, sei, set, smutta, sitta, sop, sot, slips, tips, tis, tå, topp, veterinär, vie, vis, voe, es, et, är, det, OE, oi, op, os, pe, pi, si, så, ti, till",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ordgenerator med bokstäver FALLOUT",
+            "Answer": "Alla ord som kan genereras med hjälp av bokstäverna FALLOUT är följande nedfall utfall afoul tilldelning aloft atoll fel float flota flout alto auto fall platt föl foul full latu loaf loaf loft lota lout olla tall tofu tola toll toll tolu tufa akter allt alt fett influensa fou lat mycket oaf havre oft ut tao tau uta al på fa la lo av ta till ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wordgenerator med bokstäver GLÖDANDE",
+            "Answer": "Alla ord som kan genereras med bokstäverna GLÖDANDE är följande glödande, lowing, ogling, gå, lingo, på grund, glöd, gong, klänning, ling, lino, lejon, loin, lång, lown, nogg, noil, vinge, wino, gig, gin, igg, jon, lin, log, låg, noll, nog, nu, olja,, egen, peruk, vinna, vann, gi, gå, i, li, lo, nej, oi, på, aj, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ordgenerator som innehåller bokstäver FULLFORM",
+            "Answer": "Alla möjliga ord som kan genereras från orden FULLFORM är följande formfulla, mjöl, fluor, forum, form, foul, fyra, från, full, furl, lour, lour, luff, moll, muff, muff, mull, rolf, rulle, ruff, influensa, för, fou, fro, päls, lum, mol, mor, off, vår, rom, lo, lo, mo, mu, av, om, eller, um",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ordgenerator som innehåller bokstäverna SVART",
+            "Answer": "Alla möjliga ord som kan genereras från orden SVART är som följer svart, rygg, balk, kalk, brist, alb, bal, hytt, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur kan du få en 7-bokstavsordgenerator från bokstäverna RAINFOREST?",
+            "Answer": "Det är ganska enkelt. Allt du behöver göra är att nämna alla bokstäver som du vill skapa ett ord med och klicka på enter. Vi har en gräns på 15 bokstäver. Så om du vill generera sju bokstäver ord så behöver du bara nämna dina önskade bokstäver som är större eller lika med 7 och mindre än 15 och tryck enter. Du får dina önskade resultat på några sekunder. I detta fall alla 7 bokstäver ord som du kan skapa med hjälp av bokstäverna RAINFOREST är följande anestri, antsier, aroints, artsier, atoners, atonier, erasion, errants, fainest, svagare, skönaste, foreran, forint, fyrtiotalet, fraters, fronter, infarter, i den mån, järnare, nastier, norites, östrin, orienter , takbjälkar, ranters, ratines, ransoner, avstå, refront, behåller, näthinnor, omskola, retsina, uppror, roaster, tupp, roister, rotifer, senator, serrano, sierran, snifter, snorter, Stonier, Stearin, Stonier, Strafer, tjärjärer, tarsier, terräng, tränare, förräderi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur kan du få en sju bokstäver ordgenerator från bokstäverna TROPICAL?",
+            "Answer": "Det är ganska enkelt. Allt du behöver göra är att nämna alla bokstäver som du vill skapa ett ord med och klicka på enter. Vi har en gräns på 15 bokstäver. Så om du vill generera sju bokstäver ord så behöver du bara nämna dina önskade bokstäver som är större eller lika med 7 och mindre än 15 och tryck enter. Du får dina önskade resultat på några sekunder. I det här fallet alla sju bokstäver ord som du kan skapa med bokstäverna TROPICAL är följande aprikos, aprotisk, caltrop, capitol, koalpit, optisk, parotisk, aktuell",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ord generator från bokstäverna TRUCK",
+            "Answer": "Alla ord som kan genereras med hjälp av bokstäverna TRUCK är följande lastbil, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Ord generator från bokstäverna AEIOU",
+            "Answer": "Alla ord som kan genereras med bokstäverna AEIOU är följande eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

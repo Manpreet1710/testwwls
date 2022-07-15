@@ -1,0 +1,364 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Harflerden kelime jeneratörü- Herhangi bir harfle kelimeleri kolayca yapın",
+    "h1": "Kelime üreteci: Bu harfleri içeren sözcükleri oluşturma",
+    "h2": "Aşağıdaki harfleri girin ve bu bulut kelime üreteci kullanılarak kaç kelime oluşturulabileceğini öğrenin",
+    "meta": "Kolayca harfler aracından bu kolay kullanımlı kelime üreteci ile rastgele kelimeler üretebilirsiniz. Tek bir tıklama ile mevcut harflerinizden yeni kelimeler oluşturabilirsiniz. Kelime oyununu seviyelendirin!",
+    "featureNo": "02",
+    "feature_title": "Özellikler",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "SSS",
+    "aboutNo": "05",
+    "about_title": "Hakkında",
+    "featureList": [
+        {
+            "feature_heading": "Resimsel kelime listeleri",
+            "feature_text": "Etrafında bir gameboard veya kart yok, ama yine de arkadaşlarınızla Pictionary oyunu oynamak ister misiniz? Bu Word Generator bunu yapmanıza yardımcı olmak için mükemmel bir araçtır. Gelişmiş seçenekleri kullanarak, hangi sözcük türlerinin görüntüleneceğini seçebilirsiniz.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wordle Oyunları",
+            "feature_text": "Wordle'da mı mücadele ediyorsun? Artık bu çılgınca popüler kelime oyununa hakim olabilirsiniz. Bu araçla sözcüklerin bir listesini oluşturun. Harfler aracından kelime jeneratörü, ihtiyaçlarınıza en uygun şekilde rastgele kelimelerin parametrelerini ayarlamanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "En çok puanlama harfleri için kelime jeneratörü",
+            "feature_text": "Şimdi bu harflerle kelimeler yapın a, s, i, d, e, e mümkün olduğunca çabuk!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Sert harfler ligi için kelime jeneratörü",
+            "feature_text": "Ücretsiz kelime jeneratörümüzü kullanarak j, k, x gibi bu sert harflerle kelimeler yapın.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Basit, sezgisel ve Kullanıcı dostu kelime üreteci",
+            "feature_text": "Panonuza harfleri girin ve orada bu harflerle yazılmış bir dizi kelime elde edersiniz.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "En zor kelimeleri bile üretir",
+            "feature_text": "Ücretsiz kelime üreteci ile saniyeler içinde yüksek puanlama kelimelerinden oluşan bir havuza sahip olun.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Word Generator aracı ne yapar?",
+            "Answer": "Word Generator aracımız, kullanıcımızın girdiği harflerden anlamlı kelimeler otomatik olarak oluşturur.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Word Generator aracı nasıl kullanılır?",
+            "Answer": "Word Generator aracımızı kullanmak çok basittir. Tek yapman gereken kelimeleri çıkarmak istediğin harfleri girmek. Bir seferde en fazla 15 harf girebilirsiniz. Ardından, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçin - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler). Daha sonra Gelişmiş filtreler seçeneğini etkinleştirebilirsiniz. Ardından büyüteç olan arama düğmesine tıklayın. Ve işte! Aracımız sizin için girilen harflerden mümkün olan maksimum sayıda kelime üretecektir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Aracı harflerden kelimeleri çıkarmak için kaç harf girebilirim?",
+            "Answer": "Harflerden kelimeleri yapmak için aracımıza en fazla 15 harf girebilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracı kullanmak için ödeme yapmak zorunda mıyım?",
+            "Answer": "Hayır, aracımızın kullanımı tamamen ücretsizdir. Aleti kullanmak için bize para ödemene gerek yok.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Neden kelimeler oluşturmam gerekiyor?",
+            "Answer": "Wordle veya Scrabble gibi rekabetçi kelime oyunları oynuyorsanız kelimeler oluşturmanız gerekebilir. Ayrıca kelimeleri çözmeniz gerekebilir ve aracımız bu konuda size yardımcı olacaktır.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu araç Wordle ve Scrabble gibi kelime oyunları ile yardımcı olabilir mi?",
+            "Answer": "Evet, kesinlikle. Scrabble ve Wordle gibi kelime oyunları oynarken herhangi bir yardıma ihtiyacınız varsa, Word Creator aracımız gitmenin yoludur.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracın yardımıyla karışık kelimeleri çözebilir miyim?",
+            "Answer": "Tabii ki. Aracımız karmakarışık kelimeleri kolayca çözmenize yardımcı olacaktır. Tek yapmanız gereken, karışık kelimeye harfleri girmek, istediğiniz kelime uzunluğunu belirtmek ve aracımız size mümkün olan tüm kelimeleri verecektir. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mevcut farklı sözlük seçenekleri nelerdir?",
+            "Answer": "Bu araçta, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçebilirsiniz - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gelişmiş filtreleri nasıl kullanabilirim?",
+            "Answer": "Aracımızdaki gelişmiş filtreler, sonuç kelimelerinin hangi harflerle başlaması veya bitmesi gerektiğini, kelimelerin hangi harfleri içermesi gerektiğini, aracın dışlanmasını istediğiniz harfleri ve istediğiniz kelime uzunluğunun ne olduğunu belirtmeniz için seçenek içerir. Tek yapmanız gereken gelişmiş filtreler düğmesine tıklamanız ve verileri istediğiniz gibi girmektir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kelime uzunluğunu belirtebilir miyim?",
+            "Answer": "Evet, ihtiyacınız olan kelimelerin sahip olması gereken harf sayısını belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bazı karakterleri hariç tutabilir miyim?",
+            "Answer": "Evet, kelimelerin sahip olmasını istemediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Zorunlu karakterleri belirleyebilir miyim?",
+            "Answer": "Evet, kelimelerin olmasını kesinlikle istediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kelimelerin hangi harfle başlayacağını veya bitmesi gerektiğini belirleyebilir miyim?",
+            "Answer": "Evet, aracımızın gelişmiş filtreler bölümünü kullanarak kelimelerinizin hangi harflerle başlamasını istediğinizi ve bitmesini istediğiniz harfleri belirleyebilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Word Creator aracını kullanmak güvenli midir?",
+            "Answer": "Word Generator en güvenli ve en güvenli ücretsiz çevrimiçi araçlardan biridir. Zararlı bağlantıları veya istenmeyen reklamları yoktur. Kesinlikle sorunsuz ve işini mükemmel bir şekilde yapar. Aynı zamanda, kullanıcı verilerinden herhangi birini kaydetmez. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracı kullanırken herhangi bir reklam açılır mı?",
+            "Answer": "Web sitemizi kullanmak için tamamen ücretsiz tuttuğumuz için, reklamlar web sitesini korumak için bize yardımcı olan şeylerdir. böylece, Eğer sitemizi kullanırken haşhaş birkaç reklam göreceksiniz. Ancak sonuç kalitesini veya zamanını bozmayacağını garanti edebiliriz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu araç verilerimi sunucuya kaydedecek mi?",
+            "Answer": "Online ücretsiz Word Generator kullanıcı verilerinin hiçbirini kaydetmez. Kullanımı kesinlikle güvenlidir. Kullanıcının sitemize yükleyebileceği herhangi bir şey bulutumuzdan çok kısa bir süre içinde silinir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kelimeleri harflerle yapmak için ne kadar zamana ihtiyacı var?",
+            "Answer": "Ücretsiz Word Generator'umuzun işini yapması sadece birkaç saniye sürer. Belirtilen harflerden kelimeleri hızla oluşturur. Sonuçlar hızlı ve% 100 doğru.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu Word Generator aracını kullanmak için kaydolmam veya oturum açmam gerekecek mi?",
+            "Answer": "Web sitemizde kaydolmak veya oturum açmak gerekmez. Online Word Creator'ımızı ücretsiz olarak ve kaydolmak için herhangi bir istem olmadan kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Word Generator cep telefonlarında çalışıyor mu?",
+            "Answer": "Evet. Ücretsiz kelime oluşturma özelliğimiz tüm platformlarda çalışır. Cep telefonlarınızdan erişebilirsiniz. Kelimelerinizle istediğiniz mektupları yazmanız yeterlidir, telefonunuzdan ve aracımız işi sizin için yapar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hem Android hem de iOS platformlarını destekliyor mu?",
+            "Answer": "Evet, Word Generator aracımız ve diğer tüm araçlar hem Android hem de iOS platformlarını destekler.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Word Generator, adet ve dizüstü bilgisayarlarda çalışıyor mu?",
+            "Answer": "Evet. Online Word Generator tüm platformlarda kabul edilmektedir. Bu ücretsiz aracı web sitenizde PC'nizden ve dizüstü bilgisayarınızdan da kullanabilirsiniz. Hem Windows hem de Mac'i destekler. Tek yapmanız gereken 15 harfe kadar girmek, Sözlük türünü belirtmek, gerekirse gelişmiş filtreler eklemek ve hepsi bu. Kelimeler bu harflerden tam olarak sizin talimatlarınıza göre üretilecektir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Word Generator aracı hangi Windows sürümlerini destekliyor?",
+            "Answer": "Word Generator özelliğimiz tamamen web tabanlı. Bu nedenle, kullanıcılarımıza platformlar arası destek sağlar. Bu, aracımızın tüm Windows sürümlerini desteklediği anlamına gelir. Daha genel anlamda, tüm İşletim Sistemlerinin tüm sürümlerini destekler.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mektuptan kelimeye jeneratör harfleri kullanarak OYUN",
+            "Answer": "Oynayan harfi kullanarak kelime jeneratöre olası tüm harf oynama, kazançlı, döşeme, paling, ödeme, katlama, algin, hizalamak, aping, gaily, kakma, lapin, liang, ligan, linga, lingy, yalancı, düz, agin, agin, agly, anil, ayin, kazanç, açık, glia, inly, lain, lang, ling, liny, lipa, çivi, nipa, kova, ağrı, paly, pang, pial, piyan, pily, pina, ping, piny, plan, oyun, pyin, yagi, yang, ail, ain, alp, ani, herhangi, gal, gan, boşluk, gey, cin, gip, gyp, gecikme, tur, lay, lin, dudak, dırdır, şekerleme, nay, nil, nip, pal, pan, ödeme, pia, domuz, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, a, ay, gi, in, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mektuptan kelimeye jeneratör ajansı harfleri kullanarak",
+            "Answer": "Ajans, cagey, akne, kafes, cagy, cagy, baston, camgöbeği, gaen, gane, yang, yean, ace, yaş, ane, herhangi, aye, can, cay, eng, gae, gan, gey, gen, gey, nae, nag, nay, yag, yea, yen, ae, ag, a, ay, tr, na, ne, ya, ye",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "BLUETOOTH harflerinden 5 harfli kelime jeneratörü nelerdir?",
+            "Answer": "BLUETOOTH, bhoot, bluet, stand, botel, boule, buteo, butle, butte, helot, hotel, lotte, loto, obole, thole, diş gibi bu harflerden oluşturulabilecek 5 harfli kelimeler",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nedir harfler BEDSIDE gelen 5 harfli kelime jeneratörü?",
+            "Answer": "Yatak başındaki harflerden üretilebilecek 5 harfli kelimelerin tümü aşağıdaki gibidir, bides, işler, taraflı",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Yalan harfleri olan dört harfli kelime jeneratörü nedir?",
+            "Answer": "LYING harfleri ile oluşturulabilir tüm dört harfli kelimeler içinde aşağıdaki gibidir, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "TableTOP harfleri ile tüm 4 harfli kelime jeneratörü nelerdir?",
+            "Answer": "Tablo harfleri ile oluşturulabilecek 4 harfli kelimeler tablonun aşağıdaki gibidir abet, able, aloe, alto, atop, bale, bate, batt, beat, kemer, beta, blae, blat, blet, let, tekne, bola, bola, bole, cıvata, bota, bott, geç, sıçrama, lept, lob, lobe, olea, opal, soluk, pate, peal, turba, postu, plat, savunma, pleb, arsa, şair, Kutup, Tael, masal, teyp, Tate, deniz mavisi, meme, tela, tepa, toea, Tole, tope, sepet",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "NEGATIF harflerle kelime jeneratörü ne olacak?",
+            "Answer": "Eğer bir kelime üreteci arıyorsanız o zaman doğru yerdesiniz. Bu durumda NEGATIF harfler kullanılarak oluşturulabilecek tüm harfler aşağıdaki gibidir: ajantif, negatif, saflık, intikam, vintage, intikam, yeme, cenevre, inate, yerli, negate, teeing, teniae, agene, ajan, yenen, enate, entia, olay, evite, ganev, genet, cin, dev, verilen, naevi, naif, nieve, tenia, tinea, tinge, veena, vejetaryen, venae, intikam, vitae, agee, agin, ante, anti, saçak, etna, hatta, gaen, kazanç, yürüyüş, gane, kapı, verdi, gen, genci, geta, gien, gite, vermek, sivri, neve, neve, nevüs, nite, tain, tang, genç, tine, ting, vagi, boşuna, kanatlı, vang, damar, vena, havalandırma, viga, vina, asma, vita, yaş, ain, ait, ane, ani, karınca, yedik, ave, yemek, eng, eta, arifesi, gae, gan, gat, gee, gen, get, gie, cin, git, nae, nae, nae, nee, net, nit, tae, etiket, tan, tav, çay, tee, teg, on, kravat, teneke, van, fıçı, vee, veg, veteriner, via, vie, vig, ae, ag, ai, bir, en, en, et, gi, içinde, o, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "POZITIF harflerle kelime jeneratörü ne olacak?",
+            "Answer": "Eğer bir kelime üreteci arıyorsanız o zaman doğru yerdesiniz. Bu durumda POZITIF harfleri kullanılarak oluşturulabilecek tüm harfler pozitif, acıma, pivots, potsie, sopite, sovyet, estop, sarmaşık, pesto, piste, pivot, şairler, poise, pozit, pozit, spite, stipe, stope, soba, tipis, topes, topis, ziyaret, oy, epos, opes, opts, peso, Haşere, Evcil hayvan, turta, piso, çukurlar, şair, pois, pois, post, tencere, Eylül, sipe, site, tükürmek, spiv, nokta, adım, dur, kravatlar, ipuçları, ayak parmakları, tope, topi, üstleri, yelek, veto, veterinerler, mengene, voes, oy, onun, oes, ope, ops, opt, ose, pes, pet, pasta, pis, çukur, poi, pot, psi, sei, set, yudum, otur, sop, sot, kravat, ipucu, tis, ayak parmağı, üst, veteriner, vie, vis, voe, es, et, olduğu, o, oe, oi, op, os, pe, pi, si, yani, ti, için",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Harfleri kullanarak kelime üreteci FALLOUT",
+            "Answer": "FALLOUT harfleri kullanılarak oluşturulabilecek tüm kelimeler aşağıdaki gibi fallout outfall afoul tahsis atoll hata flota flota flout alto auto düşme düz tay faul tam latu somun loft lota lout olla uzun tofu tola tola toll tolu tufa kıç tüm alt yağ gribi fou lat lot oaf oft out tao tau uta al at fa la lo of ta to ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Harfleri kullanarak kelime jeneratörü GLOWING",
+            "Answer": "Parlayan harfler kullanılarak oluşturulabilecek tüm kelimeler ışıldayan, ağlayan, gözetleme, gidiyor, lingo, borçlanma, kızdırma, gong, elbisesi, ling, lino, aslan, loin, uzun, lown, nogg, noil, kanat, wino, konser, cin, igg, ion, lin, log, düşük, nil, nog, şimdi, yağ, baykuş, kendi, peruk, kazanmak, kazandı, gi, git, in, li, lo, hayır, oi, üzerinde, ow, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "FULLFORM harfleri içeren sözcük üreteci",
+            "Answer": "FULLFORM kelimelerinden oluşturulabilecek tüm olası sözcükler aşağıdaki gibi güçlü, un, flor, forum, form, faul, dört, tam, furl, lour, luff, moll, muff, mull, rolf, roll, ruff, grip, fou, fro, kürk, lum, mol, mor, kapalı, rom, rom, lo, mo, mu, of, om, veya, um",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Siyah harfleri içeren sözcük üreteci",
+            "Answer": "SİYAH kelimelerinden üretilebilecek tüm olası kelimeler siyah, geri, balk, calk, eksikliği, alb, bal, kabin, kab, laboratuvar, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "RAINFOREST harflerinden 7 harfli kelime üreteci nasıl elde edebilirsiniz?",
+            "Answer": "Oldukça basit. Tek yapmanız gereken, bir kelime oluşturmak istediğiniz tüm harflerden bahsetmek ve enter tuşuna basmaktır. 15 harfli bir sınırımız var. Yani yedi harfli kelime üretmek istiyorsanız o zaman tek yapmanız gereken 7 ve 15'ten daha küçük veya eşit istediğiniz harflerden bahsetmek ve enter tuşuna basmaktır. İstediğiniz sonuçları saniyeler içinde alacaksınız. Bu durumda, RAINFOREST harflerini kullanarak oluşturabileceğiniz 7 harfli kelimeler anestri, antsier, aroints, artsier, atoners, atoniler, silgi, errants, en hafif, soluk, en adil, foreran, forints, kırklı, fraters, fronter, frontes, infares, insofar, ironer, nastier, norites, oestrin, orients , kirişleri, ranters, ratines, erzak, kaçınmak, retinas, retinas, yeniden eğitmek, retsina, isyancılar, kavurma, roister, rotifer, senatör, serrano, sierran, snifter, snorter, lekeleyici, stearin, stonier, strafer, tarries, tarsier, arazi, eğitmen, ihanet",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "TROPICAL harflerinden yedi harfli bir kelime üreteci nasıl elde edebilirsiniz?",
+            "Answer": "Oldukça basit. Tek yapmanız gereken, bir kelime oluşturmak istediğiniz tüm harflerden bahsetmek ve enter tuşuna basmaktır. 15 harfli bir sınırımız var. Yani yedi harfli kelime üretmek istiyorsanız o zaman tek yapmanız gereken 7 ve 15'ten daha küçük veya eşit istediğiniz harflerden bahsetmek ve enter tuşuna basmaktır. İstediğiniz sonuçları saniyeler içinde alacaksınız. Bu durumda TroPICAL harfleri kullanarak oluşturabileceğiniz yedi harfli kelimelerin tümü kayısı, aprotik, caltrop, capitol, coalpit, optik, parotik, topikal aşağıdaki gibidir",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "TruCK harflerinden kelime jeneratörü",
+            "Answer": "KAMYON harfleri kullanılarak oluşturulabilecek tüm kelimeler aşağıdaki gibidir kamyon, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Harflerden kelime jeneratörü AEIOU",
+            "Answer": "AEIOU harfleri kullanılarak oluşturulabilen tüm kelimeler aşağıdaki gibidir eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

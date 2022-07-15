@@ -1,0 +1,156 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trouvez des mots de 3 lettres avec ces lettres- WordWithLetters.org",
+    "h1": "Trouvez des mots de trois lettres avec ces lettres",
+    "h2": "Entrez les lettres ci-dessous pour trouver des mots de 3 lettres",
+    "meta": "Vous pensez toujours au nombre de mots à trois lettres que vous pouvez créer avec ces lettres ? Utilisez notre outil pour trouver des mots de 3 lettres contenant ces lettres",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Apportez un tournant décisif à votre jeu. Générez des mots de trois lettres avec ces lettres",
+            "feature_text": "Souvent, cette lettre trois trouve son chemin dans les jeux de mots. Mais l'essentiel est que ces mots à trois lettres peuvent parfois être très bien notés. Cependant, vous pouvez trouver votre secours à l'aide de notre outil de recherche de mots.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Générez des mots de trois lettres avec ces lettres",
+            "feature_text": "Notre outil de recherche de mots gratuit vous permet de trouver des mots de trois lettres et de vous aider à gagner votre partie",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trouvez n'importe quel mot numéroté contenant la lettre trois",
+            "feature_text": "L'outil de recherche de mots à trois lettres vous permet de trouver tous les mots à trois lettres jusqu'à 15 caractères.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Génère même les mots de trois lettres les plus durs auxquels vous ne pouvez même pas penser.",
+            "feature_text": "Obtenez un pool de mots à trois lettres avec un score élevé en quelques secondes grâce à notre générateur de mots à trois lettres gratuit.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

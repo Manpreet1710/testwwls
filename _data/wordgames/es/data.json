@@ -1,0 +1,54 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "title": "Resuelve Wordle fácilmente con un mínimo de intentos",
+    "h1": "Resuelve el Wordle de hoy introduciendo las letras utilizadas hasta ahora",
+    "h2": "Introduce las letras en gris, amarillo y verde para ver posibles palabras",
+    "meta": "Escribe letras en gris, amarillo y verde, y obtén una lista de palabras de 5 letras que coincidan para resolver el Wordle de hoy con el mínimo de intentos e impresionar a tus amigos",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Fácil de usar",
+            "feature_text": "Wordle Solver es muy fácil de usar. Solo tienes que introducir las letras verdes en la primera casilla, la amarilla en la segunda fila y las grises en la última fila. Haga clic en actualizar para ver todas las palabras posibles que se pueden formar a partir de las letras introducidas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Resultados instantáneos",
+            "feature_text": "Los resultados se muestran en cuanto introduce las letras y hace clic en Actualizar. No tiene que esperar a que se generen los resultados.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Plataforma cruzada",
+            "feature_text": "Nuestro sitio web es independiente de la plataforma. Funciona en los sistemas operativos Windows e iOS y se puede usar sin necesidad de descargas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Respuestas múltiples",
+            "feature_text": "Wordle Solver le proporciona todas las palabras posibles que se pueden formar con las letras que haya introducido. Las posibilidades son infinitas. Adivina e introduce las letras en nuestro solucionador de palabras. Obtendrás todas las palabras posibles y harás que ganes el juego con pruebas mínimas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Seguro y protegido",
+            "feature_text": "Nuestro sitio web prioriza la privacidad y la seguridad de sus clientes. El sitio web está libre de virus y no solicita ninguna identificación ni registro. ¡Sus datos están seguros con nosotros!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Absolutamente gratis",
+            "feature_text": "Adelántate a la multitud resolviendo mundos todos los días. Comparte los resultados con tus amigos y familiares y conviértete en el Campeón Mundial con nuestro solucionador de Wordle. Puede utilizar nuestro sitio web tantas veces como quiera y no se le cobrará por usar nuestros servicios.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

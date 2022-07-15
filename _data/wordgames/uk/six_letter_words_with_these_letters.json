@@ -1,0 +1,126 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": " mileage",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " mileage",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " average",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " traffic",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " traffic",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "meaning",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " ottoman",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " ottoman",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "emerged",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "emerged",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "python",
+                "x": "6",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "design",
+                "x": "6",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Знайдіть 6 літерних слів з цими літерами - WordWithLetters.org",
+    "h1": "Знайти 6 букв слова з цими літерами",
+    "h2": "Введіть літери нижче, щоб знайти шість буквених слів",
+    "meta": "Все ще думаєте про те, скільки шестибуквених слів ви можете скласти за допомогою цих букв? Використовуйте наш інструмент, щоб знайти 6 буквених слів з цими літерами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Принесіть переломний момент у вашій грі. Створіть шість літерних слів з цими літерами",
+            "feature_text": "Часто ця буква шістка знаходить свій шлях в словесні ігри. Але головне, що ці шість літерних слів іноді можуть бути високо оцінені. Однак ви можете знайти свій порятунок за допомогою нашого пошуку слів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створіть шість літерних слів з цими літерами",
+            "feature_text": "Наш безкоштовний wordfinder дозволяє знайти шість букв слова і допомогти вам виграти гру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Знайти будь-яке пронумероване слово з літерою шість в ньому",
+            "feature_text": "Шість букв слово шукач дозволяє знайти всі шість літерних слів до 15 символів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створює навіть найжорсткіші шість літерних слів, про які ви навіть не можете придумати.",
+            "feature_text": "Отримайте пул із шести буквених слів за лічені секунди за допомогою нашого безкоштовного генератора слів із шістьма літерами.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

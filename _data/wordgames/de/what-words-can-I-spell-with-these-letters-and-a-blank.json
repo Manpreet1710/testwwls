@@ -1,0 +1,45 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "title": "Was kann ich mit diesen Buchstaben und einem Leerzeichen buchstabieren?",
+    "h1": "Wörter mit diesen Buchstaben und einem Leerzeichen",
+    "h2": "Geben Sie die Buchstaben unten ein und überprüfen Sie, wie viele mit einem Leerzeichen buchstabiert werden können",
+    "meta": "Hast du einen leeren Titel und fragst dich, wie man buchstabiert? Keine Sorge, wir haben alles im Griff. Finden Sie alle möglichen Wortkombinationen, die mit einer leeren Kachel mit Wörtern mit Buchstaben buchstabiert werden können.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Absolut kostenlos!",
+            "feature_text": "Die Nutzung unserer Plattform ist absolut kostenlos. Wir haben absolut keine Werbung auf unserer Website, sodass Sie sich auf das konzentrieren können, wofür Sie hierher gekommen sind.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Einfach filtern und sortieren",
+            "feature_text": "Sie können die Ergebnisse ganz einfach nach Belieben sortieren und herausfiltern. Diese Funktion ist sehr einfach zu bedienen und hilft Ihnen dabei, fast sofort das gewünschte Ergebnis zu erzielen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Geben Sie bis zu 15 Buchstaben ein",
+            "feature_text": "Sie können bis zu 15 Buchstaben (einschließlich des Leerzeichens) in das dafür vorgesehene Feld eingeben, um die maximale Anzahl von Wörtern zu finden, die aus den eingegebenen Buchstaben gebildet werden können.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generiert das beste Ergebnis",
+            "feature_text": "Wörter mit Buchstaben generiert die besten Ergebnisse, die Wörter mit der höchsten Punktzahl in einem Scrabble-Spiel. Ihr Gewinn ist garantiert.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Einfach zu verwenden",
+            "feature_text": "Wörter mit diesen Buchstaben und einem Leerzeichen sind sehr einfach zu verwenden und alle Wörter beliebiger Länge, die mit den eingegebenen Buchstaben gebildet werden können, werden im Ergebnis angezeigt.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

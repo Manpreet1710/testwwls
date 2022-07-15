@@ -1,0 +1,56 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "これらの文字を含む12文字の単語を検索してください-WordsWithLetters.org",
+    "h1": "これらの文字を含む12文字の単語を検索する",
+    "h2": "下の文字を入力して12文字の単語を検索してください",
+    "meta": "この文字で十二文字の単語がいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む12文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字で12文字の単語を生成する",
+            "feature_text": "多くの場合、この12文字は単語ゲームでその方法を見つけます。しかし、主なことは、これらの12文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字で12文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで12文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "十二の文字が入っている数字の付いた単語を検索する",
+            "feature_text": "12文字の単語ファインダーでは、15文字までの12文字の単語をすべて見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "あなたが考えることさえできない最も難しい12文字の単語さえも生成します。",
+            "feature_text": "無料の12文字単語ジェネレーターで、高得点の12文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

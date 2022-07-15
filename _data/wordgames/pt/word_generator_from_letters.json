@@ -1,0 +1,364 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "Gerador de palavras de letras - Crie palavras com qualquer letra facilmente",
+    "h1": "Gerador de palavras: Crie palavras contendo essas letras",
+    "h2": "Digite as letras abaixo e descubra quantas palavras podem ser criadas usando este gerador de palavras na nuvem",
+    "meta": "Você pode gerar palavras aleatórias facilmente com este gerador de palavras fácil de usar da ferramenta de letras. Com apenas um clique, você pode criar novas palavras a partir de suas letras existentes. Aumente o nível do seu jogo de palavras!",
+    "featureNo": "02",
+    "feature_title": "Características",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "PERGUNTAS FREQUENTES",
+    "aboutNo": "05",
+    "about_title": "Sobre",
+    "featureList": [
+        {
+            "feature_heading": "Listas de palavras pictionary",
+            "feature_text": "Você não tem um tabuleiro de jogo ou cartas por perto, mas ainda quer jogar o jogo Pictionary com seus amigos? Este gerador de palavras é a ferramenta perfeita para ajudá-lo a fazer isso. Usando as opções avançadas, você pode selecionar quais tipos de palavras devem ser exibidas.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Jogos Worldle",
+            "feature_text": "Lutando no Wordle? Agora você pode dominar este popular jogo de palavras. Crie uma lista de palavras com essa ferramenta. O gerador de palavras da ferramenta de letras permite ajustar os parâmetros das palavras aleatórias para melhor atender às suas necessidades",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gerador de palavras para as letras mais marcantes",
+            "feature_text": "Agora faça palavras com essas letras a, s, i, d, e o mais rápido possível!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gerador de palavras para a liga de letras difíceis",
+            "feature_text": "Faça palavras com essas letras difíceis como j, k, x usando nosso gerador de palavras gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gerador de palavras simples, intuitivo e fácil de usar",
+            "feature_text": "Insira as letras do seu quadro e aí você obterá uma variedade de palavras escritas com essas letras.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gera até as palavras mais difíceis",
+            "feature_text": "Obtenha um conjunto de palavras de alta pontuação em segundos com nosso gerador de palavras gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "O que a ferramenta Gerador de palavras faz?",
+            "Answer": "Nossa ferramenta Gerador de palavras gera automaticamente palavras significativas a partir das letras que nosso usuário insere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como usar a ferramenta Gerador de palavras?",
+            "Answer": "Usar nossa ferramenta Gerador de palavras é muito simples. Tudo o que você precisa fazer é digitar as letras das quais deseja criar palavras. Você pode inserir até 15 letras por vez. Em seguida, selecione o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com Amigos). Em seguida, você pode ativar a opção Filtros avançados. Em seguida, clique no botão de pesquisa, que é a lupa. E voila! Nossa ferramenta gerará o número máximo possível de palavras a partir das letras inseridas para você.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quantas letras posso inserir para a ferramenta fazer palavras com letras?",
+            "Answer": "Você pode inserir no máximo 15 letras em nossa ferramenta, para fazer palavras com letras.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Eu tenho que pagar para usar essa ferramenta?",
+            "Answer": "Não, nossa ferramenta é totalmente gratuita. Você não precisa nos pagar para usar a ferramenta.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Por que preciso gerar palavras?",
+            "Answer": "Você pode precisar gerar palavras se estiver jogando jogos de palavras competitivos, como Wordle ou Scrabble. Você também pode precisar decifrar palavras, e nossa ferramenta o ajudará com isso.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Essa ferramenta pode ajudar com jogos de palavras como Wordle e Scrabble?",
+            "Answer": "Sim, absolutamente. Se você precisar de ajuda ao jogar jogos de palavras como Scrabble e Wordle, nossa ferramenta Criador de palavras é o caminho a percorrer.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso resolver palavras confusas com a ajuda dessa ferramenta?",
+            "Answer": "É claro. Nossa ferramenta o ajudará a resolver palavras confusas facilmente. Tudo o que você precisa fazer é inserir as letras na palavra confusa, especificar o comprimento da palavra que você deseja e nossa ferramenta fornecerá todas as palavras possíveis. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são as diferentes opções de dicionário disponíveis?",
+            "Answer": "Nesta ferramenta, você pode selecionar o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com amigos).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como posso usar os filtros avançados?",
+            "Answer": "Os filtros avançados em nossa ferramenta incluem a opção para você especificar com quais letras as palavras resultantes devem começar ou terminar, quais letras as palavras devem conter, quais letras você gostaria que a ferramenta excluísse e qual é o tamanho desejado da palavra. Tudo o que você precisa fazer é clicar no botão de filtros avançados e inserir os dados conforme desejar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar o tamanho da palavra?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar o número de letras que as palavras que você precisa devem ter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso excluir certos caracteres?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você não quer que as palavras tenham.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar caracteres obrigatórios?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você definitivamente deseja que as palavras tenham.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso especificar com qual letra as palavras devem começar ou terminar?",
+            "Answer": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar quais letras você deseja que suas palavras comecem ou terminem.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "É seguro usar a ferramenta Word Creator?",
+            "Answer": "O Word Generator é uma das ferramentas online gratuitas mais seguras e seguras. Não tem links prejudiciais ou anúncios indesejados. É absolutamente livre de problemas e faz seu trabalho perfeitamente bem. Ao mesmo tempo, ele não salva nenhum dos dados do usuário. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ao usar essa ferramenta, algum anúncio será exibido?",
+            "Answer": "Como mantemos nosso site totalmente gratuito para uso, os anúncios são o que nos ajudam a manter o site. assim, você verá alguns anúncios aparecendo quando usar nosso site. Mas podemos garantir que isso não irá deteriorar a qualidade ou o tempo do resultado.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Essa ferramenta salvará meus dados no servidor?",
+            "Answer": "Nosso gerador de palavras online gratuito não salva nenhum dos dados do usuário. É absolutamente seguro de usar. Qualquer coisa que o usuário possa enviar para o nosso site é excluída da nossa nuvem em um período muito curto de tempo.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quanto tempo é necessário para fazer as palavras com letras?",
+            "Answer": "Leva apenas alguns segundos para que nosso gerador de palavras gratuito faça seu trabalho. Ele cria palavras rapidamente a partir de letras especificadas. Os resultados são rápidos e 100% precisos.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Terei que me inscrever ou fazer login para usar essa ferramenta do Word Generator?",
+            "Answer": "Não é necessário se inscrever ou fazer login em nosso site. Você pode usar nosso Word Creator online gratuitamente e sem nenhum aviso para se inscrever.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "O gerador de palavras funciona em telefones celulares?",
+            "Answer": "Sim. Nosso recurso gratuito de geração de palavras funciona em todas as plataformas. Você pode acessá-lo de seus telefones celulares. Basta digitar as letras que você deseja em suas palavras, do seu telefone e nossa ferramenta fará o trabalho para você.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ele suporta as plataformas Android e iOS?",
+            "Answer": "Sim, nossa ferramenta Gerador de palavras e todas as outras ferramentas suportam as plataformas Android e iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "O gerador de palavras funciona em PCs e laptops?",
+            "Answer": "Sim. Nosso gerador de palavras online é aceito em todas as plataformas. Você pode usar essa ferramenta gratuita em seu site a partir do seu PC e laptop também. Ele suporta Windows e Mac. Tudo o que você precisa fazer é inserir até 15 letras, especificar o tipo de dicionário, adicionar filtros avançados, se necessário, e isso é tudo. As palavras serão geradas a partir dessas letras exatamente de acordo com suas instruções.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais versões do Windows a ferramenta Word Generator suporta?",
+            "Answer": "Nosso recurso Gerador de palavras é totalmente baseado na web. Por causa disso, ele fornece aos nossos usuários suporte multiplataforma. Isso significa que nossa ferramenta oferece suporte a todas as versões do Windows. Em termos mais gerais, ele suporta todas as versões de todos os sistemas operacionais.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de letra para palavra usando as letras JOGANDO",
+            "Answer": "Todo o gerador de letra a palavra possível usando a letra JOGANDO são os seguintes jogando, ganhamente, deitado, empalidecer, pagando, plying, algin, alinhar, aping, alegremente, embutimento, lapin, liang, ligan, linga, lingy, mentindo, planície, agin, agly, anil, ayin, ganho, gapy, glia, inly, deitado, lang, ling, liny, lipa, unha, nipa, balde, dor, paly, dor, pial, pian, pily, pina, ping, piny, plano, jogar, pyin, yagi, yang, ail, ain, alp, ani, qualquer, gal, gan, lacuna, homossexual, gip, gip, gyp, lag, colo, lay, lin, lábio, nag, soneca, não, nil, beliscão, amigo, pan, pagar, pia, porco, pino, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, em, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de letra para palavra usando as letras AGÊNCIA",
+            "Answer": "Todo o gerador de letra a palavra possível usando a carta AGÊNCIA são as seguintes agência, cagey, acne, gaiola, cagy, cana, ciano, gaen, gane, yang, yean, ace, age, ane, any, aye, can, cay, eng, gae, gan, gays, gen, gey, nae, nag, nay, yag, yea, yen, ae, ag, an, ay, en, não, não, sim, sim",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são todos os geradores de palavras de 5 letras das letras BLUETOOTH?",
+            "Answer": "Todas as palavras de 5 letras que podem ser geradas a partir dessas letras BLUETOOTH são as seguintes: bhoot, bluet, booth, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, tooth",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são todos os geradores de palavras de 5 letras das letras BEDSIDE?",
+            "Answer": "Todas as palavras de 5 letras que podem ser geradas a partir das letras BEDSIDE são as seguintes: bided, bides, ações, sided",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são todos os geradores de palavras de quatro letras com as letras MENTINDO?",
+            "Answer": "Todas as palavras de quatro letras que podem ser geradas com as letras MENTINDO são as seguintes: inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são todos os geradores de palavras de 4 letras com as letras TABLETOP?",
+            "Answer": "Todas as palavras de 4 letras que podem ser geradas com as letras TABLETOP são as seguintes: abet, able, aloe, alto, atop, bale, bate, batt, beat, belt, beta, blae, blat, blet, blot, boat, bola, bole, bolt, bota, bott, late, leap, lept, lope, lota, olea, opala, pale, pate, peal al, turfa, pele, plat, fundamento, plebe, enredo, poeta, pólo, tael, conto, fita, tate, cerceta, tetina, tela, tepa, toea, tola, tole, tope, tote",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Qual será o gerador de palavras com letras NEGATIVAS?",
+            "Answer": "Se você está procurando um gerador de palavras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras NEGATIVO são as seguintes: agente, negativo, ingenuidade, ventage, vintage, vingar, comer, genebra, ingate, nativo, negar, teeing, teniae, agene, agente, comido, enate, entia, evento, evite, ganev, genet, genie, gigante, dado, naevi, naive, nieve, tenia, tinea, tinge, veena, vegan, vegie, venae, vingança, vitae, agee, agin, ante, anti, beiral, etna, mesmo, gaen, ganho, marcha, gane, portão, deu, gene, gent, geta, gien, gite, dar, mosquito, nave, puro, neve, nevi, noite, tain, tang, teen, tine, ting, vagi, vão, palheta, vang, veia, veia, ventilação, viga, vina, videira, vita, idade, ain, espera, ane, ani, formiga, comeu, ave, comer, eng, eta, véspera, jogo, gangue, cabra, Gee, gen, obter, dar, gin, presente, nome, nag, necessidade, net, nit, tae, tag, tanque, tav, chá, árvore, teg, adolescente, tempo, lata, van, vee, veg, veterinário, via, vie, vig, idade, ag, ai, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Qual será o gerador de palavras com letras POSITIVE?",
+            "Answer": "Se você está procurando um gerador de palavras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras POSITIVO são as seguintes positivas, piedade, pivôs, potsie, sopite, soviético, estop, ivies, pesto, pista, pivô, poetas, postura, despeito, stipe, stope, fogão, tipis, topes, topis, visita, votos, epos, opes, opts, peso, praga, animais de estimação, tortas, piso, poços, poeta, pois, pose, postar, potes, sept, deslize, local, cuspir, spiv, ponto, passo, parar, laços, tipi, dicas, dedos do pé, tope, tópico, tops, colete, veto, veterinários, views, torno, votos, votos, votos, kits, oes, ope, ops, opt, ose, pes, animal de estimação, torta, pis, poço, poi, pote, psi, semi, conjunto, navio, sentar, loja, macio, gravata, dicas, dicas, dedo do pé, topo, veterinário, vie, vis, vote, es, et, é, it, oe, oi, op, so, pe, pi, si, so, ti, to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de palavras usando letras FALLOUT",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras FALLOUT são as seguintes fallout outfall afoul allot aloft atoll falha float flota flout alto auto queda plana potro falta latu pão loft lota lout olla tall tofu tola tolu tufa aft all alt fat gripe fou lat lot oaf aveia oft out tao tau uta al at fa la lo of toque para cortar",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de palavras usando letras BRILHANDO",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras GLOWING são as seguintes brilhando, lowing, ogling, indo, linguagem, devido, brilho, gongo, vestido, ling, lino, leão, lombo, longo, lown, nogg, noil, asa, wino, gig, gin, igg, ion, lin, log, baixo, nil, nog, agora, óleo, coruja, próprio, peruca, vitória, won, gi, vai, em, li, lo, não, oi, não, Agora, dois",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de palavras contendo letras FULLFORM",
+            "Answer": "Todas as palavras possíveis que podem ser geradas a partir das palavras FULLFORM são as seguintes: formful, farinha, fluor, forum, form, foul, four, from, full, furl, lour, luff, moll, muff, mull, rolf, roll, ruff, flu, for, fou, fro, fur, lum, mol, mor, off, our, rom, rum, lo, mo, mu, of, om, ou, hum",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de palavras contendo letras PRETO",
+            "Answer": "Todas as palavras possíveis que podem ser geradas a partir das palavras BLACK são as seguintes black, back, balk, calk, lack, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como você pode obter um gerador de palavras de 7 letras das letras RAINFOREST?",
+            "Answer": "É bem simples. Tudo o que você precisa fazer é mencionar todas as letras com as quais gostaria de criar uma palavra e clicar em Enter. Temos um limite de 15 letras. Portanto, caso você queira gerar palavras de sete letras, tudo o que você precisa fazer é mencionar as letras desejadas que são maiores ou iguais a 7 e menores que 15 e pressionar Enter. Você obterá os resultados desejados em segundos. Neste caso, todas as palavras de 7 letras que você pode criar usando as letras RAINFOREST são as seguintes: anestri, antsier, aroints, artsier, atoners, atonies, erasion, errants, mais fraco, mais fraco, mais justo, foreran, forints, quarenta, fraters, fronter, frontes, infares, na medida em que, ironers, nastier, norites, oestrin, oriente dentes , vigas, ranters, ratines, rações, refrão, refrontar, retém, retinas, retreinar, retsina, manifestantes, torrador, roister, rotifer, senador, serrano, sierran, snifter, snorter, stainer, estearina, stonier, strafer, tarsier, terreno, treinador, traição",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Como você pode obter um gerador de palavras de sete letras das letras TROPICAL?",
+            "Answer": "É bem simples. Tudo o que você precisa fazer é mencionar todas as letras com as quais gostaria de criar uma palavra e clicar em Enter. Temos um limite de 15 letras. Portanto, caso você queira gerar palavras de sete letras, tudo o que você precisa fazer é mencionar as letras desejadas que são maiores ou iguais a 7 e menores que 15 e pressionar Enter. Você obterá os resultados desejados em segundos. Neste caso, todas as palavras de sete letras que você pode criar usando as letras TROPICAL são as seguintes: damasco, aprotic, caltrop, capitol, coalpit, óptico, parótico, tópico",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gerador de palavras das letras TRUCK",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras TRUCK são as seguintes truck, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Gerador de palavras das letras AEIOU",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras AEIOU são as seguintes: eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,156 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znajdź słowa 3-literowe z tymi literami- WordsWithLetters.org",
+    "h1": "Znajdź trzyliterowe słowa z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 3-literowe słowa",
+    "meta": "Wciąż myślisz o tym, ile trzyliterowych słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 3 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj trzyliterowe słowa z tymi literami",
+            "feature_text": "Często ta litera trzecia trafia do gier słownych. Ale najważniejsze jest to, że te trzy słowa z literami mogą czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj trzyliterowe słowa z tymi literami",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć trzyliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź w nim dowolne ponumerowane słowo z literą Trzy",
+            "feature_text": "Trzyliterowa wyszukiwarka słów pozwala znaleźć wszystkie trzy litery do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze trzy słowa, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę trzech słów z wysokimi punktami w kilka sekund dzięki naszemu bezpłatnemu trójliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

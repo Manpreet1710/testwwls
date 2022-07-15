@@ -1,0 +1,60 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "title": "Erstelle dein eigenes Wortspiel, teile es mit deinen Freunden und fordere sie heraus!",
+    "h1": "Erstelle dein eigenes Wortspiel und teile es mit Freunden",
+    "h2": "Geben Sie ein Wort ein und erhalten Sie einen Link zu Ihrem eigenen Wort",
+    "meta": "Erstellen Sie schnell und kostenlos ein Wortspiel aus Ihrem Wort und teilen Sie es mit Ihren Freunden.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

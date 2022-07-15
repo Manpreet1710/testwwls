@@ -1,0 +1,50 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "title": "다음 글자로 된 단어",
+    "h1": "다음 글자로 된 단어",
+    "h2": "문자를 입력하고 다음 문자로 철자가 몇 개인지 확인하십시오.",
+    "meta": "글자로 된 단어의 철자가 혼란스러워 보일 때 무료 도구를 사용하세요!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "혼란스러운 글자로 철자가 적힌 단어 찾기",
+            "feature_text": "단어 게임을 할 때 “이 글자로 철자를 쓸 수있는 단어”를 자주 생각합니까?그런 다음 올바른 사이트에 있습니다. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "간단하고 직관적이며 사용자 친화적인 단어 찾기",
+            "feature_text": "보드에 글자를 입력하기 만하면 이러한 문자로 철자가 적힌 다양한 단어가 표시됩니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "이 글자로 철자가 적힌 단어에 대한 모든 규칙",
+            "feature_text": "스크래블 단어 게임을 처음 플레이하는 경우 이러한 규칙 세트가 필요합니다.간단하고 직관적입니다!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "최대 15자까지 입력할 수 있습니다!",
+            "feature_text": "열 다섯 글자!영어 사전에서 가장 긴 단어를 얻기에 충분합니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "여러 사전을 지원합니다",
+            "feature_text": "최상의 결과를 위한 다양한 사전.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "아무 장치나 사용할 수 있는 옵션이 있습니다",
+            "feature_text": "노트북, 탭, 안드로이드 또는 iPhone을 사용하든, 친구와 함께하는 모바일 친화적 인 단어 스크램블러 솔버는 어디서나 목적에 부응 할 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

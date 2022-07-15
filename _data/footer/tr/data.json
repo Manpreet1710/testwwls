@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Şirket",
+    "networksitestitle": "KAYNAKLAR",
+    "linksTitle": "Araçlar",
+    "producttitle": "Uzunluk sözcükleri",
+    "company": [
+        {
+            "name": "Şartlar ve koşullar",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Gizlilik Politikası",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Yasal Uyarı",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Bu harflerle altı harfli kelimeler",
+            "url": "/tr/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle beş harfli kelimeler",
+            "url": "/tr/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle yedi harfli kelimeler",
+            "url": "/tr/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle dört harfli kelimeler",
+            "url": "/tr/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle üç harfli kelimeler",
+            "url": "/tr/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle iki harfli kelimeler",
+            "url": "/tr/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle sekiz harfli kelimeler",
+            "url": "/tr/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle dokuz harfli kelimeler",
+            "url": "/tr/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle on harfli kelime",
+            "url": "/tr/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle on bir harfli kelime",
+            "url": "/tr/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle on iki harfli kelime",
+            "url": "/tr/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle on üç harfli kelime",
+            "url": "/tr/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Kelime Oyunu Oluşturucu Çevrimiçi",
+            "url": "/tr/word-game-generator-online"
+        },
+        {
+            "name": "Wordle çözücü",
+            "url": "/tr/wordle-solver"
+        },
+        {
+            "name": "Bu harflerle kelimeler yapın",
+            "url": "/tr/make-words-with-these-letters"
+        },
+        {
+            "name": "Harflerden kelime üreteci",
+            "url": "/tr/word-generator-from-letters"
+        },
+        {
+            "name": "Bu harflerle yazılan kelimeler ",
+            "url": "/tr/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Bu harflerle hangi kelimeleri heceleyebilirim ve boş",
+            "url": "/tr/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Bu harfleri ve 2 boşlukları olan kelimeler",
+            "url": "/tr/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Bu harfler ve 3 boşluk içeren kelimeler",
+            "url": "/tr/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "Linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "heyecan"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

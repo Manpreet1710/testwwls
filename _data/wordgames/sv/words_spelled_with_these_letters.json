@@ -1,0 +1,50 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Ord stavade med dessa bokstäver",
+    "h1": "Ord stavade med dessa bokstäver",
+    "h2": "Ange bokstäverna och kolla in hur många ord som stavas med dessa bokstäver",
+    "meta": "När ord stavade med bokstäver verkar förvirrande, använd vårt gratis verktyg!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Hitta ord stavade med de förvirrande bokstäverna",
+            "feature_text": "Tänker du ofta på ”vilka ord kan jag stava med dessa bokstäver” när jag spelar ordspel? Då är du på rätt webbplats. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Enkel, intuitiv och användarvänlig ordsökare",
+            "feature_text": "Skriv in bokstäverna på din tavla och där får du en rad ord stavade med dessa bokstäver",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Alla regler för ord stavade med dessa bokstäver i ett nötskal",
+            "feature_text": "Om du spelar scrabble ordspel för första gången, du behöver dessa uppsättningar regler till hands. Enkelt, och intuitivt!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ange upp till upp till femton bokstäver!",
+            "feature_text": "Femton bokstäver! Tillräckligt för att få det längsta ordet i den engelska ordboken.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Den stöder ett antal ordböcker",
+            "feature_text": "Ett brett utbud av ordböcker för bästa resultat.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Du har möjlighet att använda vilken enhet som helst",
+            "feature_text": "Oavsett om du använder en bärbar dator, flik, android eller din iPhone, våra mobilvänliga ord med vänner scrambler solver kan tjäna ditt syfte var som helst",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

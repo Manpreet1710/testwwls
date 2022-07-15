@@ -1,0 +1,139 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Słowa z tymi literami i 2 półfabrykatami- Wordswithletters",
+    "h1": "Słowa z tymi literami i 2 półfabrykatami",
+    "h2": "Wprowadź litery poniżej i Sprawdź, ile może być napisane dwoma pustymi literami",
+    "meta": "Masz 2 puste płytki i zastanawiasz się, co robić? Nie martw się, mamy cię na krycie. Znajdź wszystkie możliwe kombinacje słów, które można uformować za pomocą 2 pustych płytek ze słowami z literami łatwo.",
+    "featureNo": "02",
+    "feature_title": "Cechy",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "O",
+    "featureList": [
+        {
+            "feature_heading": "Łatwy w użyciu",
+            "feature_text": "Słowa z tymi literami i 2 półfabrykatami są naprawdę proste w użyciu, a wszystkie słowa o dowolnej długości, które można uformować za pomocą wprowadzonych liter, są wyświetlane w wyniku.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje najlepszy wynik",
+            "feature_text": "Słowa z literami generuje najlepsze rezultaty, najwyżej punktowane słowa w grze Scrabble. Twoja wygrana jest gwarantowana.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wpisz do 15 liter",
+            "feature_text": "Możesz wpisać maksymalnie 15 liter (w tym puste) w dostępnym miejscu, aby znaleźć maksymalne słowa, które mogą być utworzone z wprowadzonymi literami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Łatwe filtrowanie i sortowanie",
+            "feature_text": "Możesz łatwo sortować i odfiltrować wyniki w Twojej wygody. Ta funkcja jest naprawdę łatwa w użyciu i pomoże Ci uzyskać pożądany rezultat niemal natychmiast.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Całkowicie za darmo!",
+            "feature_text": "Nasza platforma jest całkowicie darmowa w użyciu. Nie mamy żadnych reklam na naszej stronie internetowej, które pozwalają skupić się na tym, po co tu przyszedłeś.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Jak mogę użyć opcji Filtr Zaawansowany?",
+            "Answer": "Aby skorzystać z opcji zaawansowanego filtra wystarczy kliknąć na Zaawansowane filtry. Wypełnij swoje opcje, takie jak słowo zaczyna się od, przedrostek, jakie litery lub słowa musi zawierać, co zawiera, co słowo kończy się, przyrostek, długość słowa i kliknij Zastosuj.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są dostępne opcje słownika?",
+            "Answer": "Nasza strona internetowa pozwala wziąć pod uwagę dwa słowniki, zwiększając tym samym szanse na znalezienie większej liczby słów, które mają sens. Dostępne są opcje słownika, TWLO6 (USA, Kanada i Tajlandia), SOWPODS (Wielka Brytania i inne) i Enable (Words with Friends)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę sortować wyniki wyszukiwania?",
+            "Answer": "Tak, po wyświetleniu wyników, zgodnie z liczbą wygenerowanych wyników na ekranie pojawia się funkcja sortowania.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są dostępne opcje sortowania?",
+            "Answer": "Zapewniamy wiele opcji sortowania. Wyniki wyszukiwania można sortować z A-Z i Z-A. Mamy również opcję, w której wyniki są sortowane według punktów, które zarabiają na desce scrabble od najwyższego do najniższego.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę wiedzieć, ile punktów wyniesie słowo w grze słownej?",
+            "Answer": "Tak, absolutnie. Nasza strona internetowa nie tylko zapewnia wszystkie możliwe formacje słów z wprowadzonych przez Ciebie słów, ale także wyświetla punkty, które zdobędziesz, jeśli użyjesz tego słowa w grze. Liczba wyświetlona w prawym dolnym rogu każdego słowa jest punktami, które otrzymasz od słowa.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie słowa można tworzyć za pomocą liter z „gry” i 2 półfabrykatów?",
+            "Answer": "Wszystkie możliwe litery do słów z literami za pomocą litery GRANIE są następujące gry, gainly, układanie, paling, płacąc, kursujące, algin, wyrównać, aping, wesoło, inlay, lapin, liang, ligan, linga, lingy, leżąc, zwykły, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lain, ling, liny, lipa, gwóźdź, Nipa, wiadro, ból, paly, pang, pial, pian, pily, pina, ping, piny, plan, Zagraj, pyin, yagi, yang, ail, Ain, alp, ani, każdy, gal, gan, Gap, Gay, Gil, Gip, Gyp, lag, okrążenie, lay, Lin, warga, nag, drzemka, nie, nil, nil, nip, Pal, Pan, zapłacić Pia, świnia, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, in, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są wszystkie słowa 5 literowe, które mogą być utworzone z liter BEDSIDE?",
+            "Answer": "Wszystkie słowa 5 literowe, które mogą być generowane z liter BEDSIDE są następujące oferty, oferty, czyny, stronne",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie słowa można utworzyć za pomocą liter z „ujemnych” i 2 półfabrykatów?",
+            "Answer": "Jeśli szukasz słów z literami, to jesteś we właściwym miejscu. W tym przypadku wszystkie litery, które mogą być tworzone za pomocą liter NEGATYWNE są następujące agentive, negatywne, naiwne, ventage, vintage, pomścić, jedzenie, Genewa, ingate, native, negate, teeing, teniae, agene, agent, zjedzone, enate, entia, zdarzenie, evite, ganev, genet, genie, gigant, dany, naevi, naive, ve, tenia, Tinea, odcień, veena, wegańskie, vegie, Venae, Venge, vitae, Agee, Agin, ante, anty, okap, Etna, nawet, gaen, gain, chód, Gane, Brama, dał, gen, Gent, Geta, Gien, gite, dać, gnat, nawa, neat, neve, nevi, nite, tain, tang, nastolatek, Tine, ting, Vagi, próżny, wiatrowskaz, Vang, żyła, vena, odpowietrznik, viga, vina, winorośl, Vita, wiek, Ain, Ait, ane, ani, mrówka, jedli, ave, jeść, eng, eta, eve, gae, gan, gat, gee, gen, get, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, herbata, tee, teg, dziesięć, krawat, tin, van, vat, vee, veg, weterynarz, via ie, vig, ae, ag, ai, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie słowa można utworzyć za pomocą liter z „pozytywnych” i 2 półfabrykatów?",
+            "Answer": "Jeśli szukasz słów z literami, to jesteś we właściwym miejscu. W tym przypadku wszystkie litery, które mogą być tworzone za pomocą liter POZYTYWNE są następujące pozytywne, litości, obroty, potsie, sopite, radziecki, estop, bluszcz, pesto, stos, pivot, poetów, poise, posit, złość, stipe, stope, piec, tipi, topes, topis, wizyta, głosy, epos, opes, opts, peso,, zwierzęta, ciasta, piso, doły, poeta, pois, poza, stanowisko, garnki, września, sipe, witryny, Spit, Spiv, spot, krok, przystanek, krawaty, tipi, porady, palce, tope, topi, topi, topi, topi, kamizelka, weta, weterynarze, vies, imadło, voes, głos, jego, Oes, op, ops, Opcja, ose, pes, zwierzętom, pie, pis, pop, i, garnek, psi, sei, zestaw, sip, siedzieć, sop, sot, krawat, końcówka, tis, toe, top, weterynarz, Vie, vis, voe, es, et, jest, to, oe, oi, op, os, pe, pi, si, więc, ti, do",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Słowa z literami „opad” i dwoma półfabrykatami?",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter FALLOUT są następujące fallout wylot afoul allot aloft awarii flota flota flout alto auto upadek płaski źrebię faul pełne latu bochenek loft lota lout olla wysoki tofu toll toll toll tufa aft wszystko alt tłuszczu grypy fou dużo oaf oat oft out lat tao tau al w fa la lo z ta do ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Słowa z literami „świecące” i dwoma półfabrykatami?",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter świecące są następujące świecące, opuszczanie, ogling, dzieje, żargon, z powodu, blask, gong, suknia, ling, lino, lew, schab, długi, nil, nog, noil, skrzydło, wino, gig, gin, igg, ion, lin, log, niski, nil, nog, teraz, olej, Sowa, własne, Peruka, Wygraj, Wygrał, GI, przejdź, w, Li, lo, nie, oi, na, ow, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

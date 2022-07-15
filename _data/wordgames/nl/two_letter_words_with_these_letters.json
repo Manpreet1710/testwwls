@@ -1,0 +1,116 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 2 letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Zoek 2 letterwoorden met deze letters",
+    "h2": "Genereer twee letterwoorden met deze letters",
+    "meta": "Denk je nog steeds aan hoeveel tweeletterige woorden je met deze letters kunt maken? Gebruik onze tool om woorden van 2 letters te vinden met deze letters",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer twee letterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter twee zijn weg in woordspelletjes. Maar het belangrijkste is dat deze woorden met twee letters soms zeer scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer twee letterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je woorden van twee letters vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Twee erin",
+            "feature_text": "Tweeletterige woordzoeker laat je alle woorden met twee letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden met twee letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg binnen enkele seconden een pool van hoog scorende woorden met twee letters met onze gratis tweeletterige woordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

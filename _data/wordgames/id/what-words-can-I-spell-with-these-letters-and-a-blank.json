@@ -1,0 +1,45 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Apa yang bisa saya mantra dengan huruf-huruf ini dan kosong- Kata-katadenganhuruf",
+    "h1": "Kata-kata dengan huruf-huruf ini dan kosong",
+    "h2": "Masukkan huruf di bawah ini dan Periksa berapa banyak yang dapat dieja dengan kosong",
+    "meta": "Apakah Anda punya 1 judul kosong dan bertanya-tanya bagaimana mengeja? Jangan khawatir kami punya Anda tertutup. Temukan semua kemungkinan kombinasi kata-kata yang dapat dieja dengan 1 ubin kosong dengan kata-katadenganhuruf dengan mudah.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Benar-benar gratis!",
+            "feature_text": "Platform kami benar-benar gratis untuk digunakan. Kami sama sekali tidak memiliki iklan di situs web kami yang memungkinkan Anda fokus pada apa yang Anda datang ke sini untuk.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filter dan sortir yang mudah",
+            "feature_text": "Anda dapat dengan mudah menyortir dan menyaring hasilnya sesuai keinginan Anda. Fitur ini sangat mudah digunakan dan akan membantu Anda mendapatkan hasil yang diinginkan hampir seketika.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Masukkan hingga 15 huruf",
+            "feature_text": "Anda dapat memasukkan hingga 15 huruf (termasuk yang kosong) di ruang yang disediakan untuk menemukan kata-kata maksimum yang dapat dibentuk dengan huruf yang dimasukkan.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan hasil terbaik",
+            "feature_text": "Kata-kata dengan huruf menghasilkan hasil terbaik, kata-kata dengan skor tertinggi dalam permainan Scrabble. Kemenangan Anda dijamin.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Mudah digunakan",
+            "feature_text": "Kata-kata dengan huruf-huruf ini dan kosong sangat mudah digunakan dan semua kata dengan panjang berapa pun yang dapat dibentuk dengan huruf yang dimasukkan ditampilkan dalam hasilnya.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

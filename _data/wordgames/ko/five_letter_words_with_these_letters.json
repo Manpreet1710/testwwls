@@ -1,0 +1,136 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "unicorn",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "unicorn",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "liaison",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "liaison",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "online",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "online",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "mammoth",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "mammoth",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "kitchen",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "kitchen",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "journey",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "journey",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "zephyrs",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "zephyrs",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "phony",
+                "x": "5",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "phony",
+                "x": "5",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "다음 문자로 된 5 글자 단어 찾기 - Letters.org",
+    "h1": "다음 문자로 된 5 글자 단어 찾기",
+    "h2": "아래에 문자를 입력하여 다섯 글자로 된 단어를 찾으십시오.",
+    "meta": "이 글자로 얼마나 많은 단어를 만들 수 있는지 아직도 생각하고 계십니까?도구를 사용하여 다음 문자로 된 5 글자 단어를 찾으십시오.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "게임의 정신적인 장점",
+            "feature_text": "기억- 게임에는 뇌 연결을 향상시키고 기억력을 향상시키는 일련의 행동이 포함됩니다.\n갈등- 게임은 종종 정서적 갈등과 패배를 다룹니다.연구에 따르면 게이머는 일반 인구보다 이러한 문제를 더 잘 처리합니다.\n도파민- 도파민은 훌륭한 경험과 보상과 관련된 뇌 화학 물질이며 게임의 큰 구성 요소입니다.\n의사 결정- 종종 게임에는 의사 결정과 관련된 두뇌 발달을 촉진하는 논리적 사고 요소가 포함됩니다.\n이 문자 도구로 5 글자 단어 찾기 도구를 사용하여 금속 능력을 향상 시키십시오.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "친구 및 가족과 계속 연결",
+            "feature_text": "연구에 따르면 단어 게임은 인지 기능, 기억력, 의사 소통 능력 및 전반적인 기분을 향상시키는 것으로 나타났습니다.단어 게임에는 움직임이 거의 필요하지 않기 때문에 노인이나 이동성 문제가있는 사람들에게는 더 나은 활동이 될 수 없습니다.단어 게임은 두뇌에 적극적으로 관여하며 문제 해결과 논리적 추론을 강화하고 신체 건강과 사회적 연결을 개선하는 것으로 나타났습니다.스도쿠, Words With Friends 및 기타 여러 단어 게임을 이제 온라인에서 사용할 수 있으므로 플레이어는 친구 및 가족과 연락을 유지할 수 있습니다.또한 친구와 함께하는 단어 치트 또는 아나그램 솔버와 같은 스크램블 도구는 하루에 건전한 경쟁을 줄 것입니다.”",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "불안감 감소",
+            "feature_text": "불안은 가장 기본적인 의미에서 스트레스에 대한 신체의 자연스러운 반응입니다.반면에 개발 방식은 훨씬 더 복잡하며 대처하는 것은 어려운 전투가 될 수 있습니다.초기 이별 감정, 사회적 압력 및 비이성적 공포증에 대처하는 법을 배우면 공부하고 친구를 사귀고 인생에서 성공하는 능력이 크게 향상됩니다.단어 게임을하면 불안감이 줄어들 뿐만 아니라 성취감도 얻을 수 있습니다.이 편지와 함께 5 글자 찾기 단어를 사용하고 단어 게임에서 쉽게 승리하십시오.”",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "게임을 새로운 차원으로 끌어올리세요",
+            "feature_text": "이 다섯 글자는 단어 게임에서 자주 나타납니다.하지만 중요한 것은 이 다섯 글자로 된 단어가 때때로 높은 점수를 받을 수 있다는 것입니다.반면에 단어 찾기 도구는 안전을 위한 방법을 찾는 데 도움이 될 수 있습니다.무료 5글자 단어 생성기를 사용하면 점수가 높은 5글자로 된 용어 목록을 빠르게 생성할 수 있습니다.단어 문제를 해결하려면 다섯 글자로 된 단어를 익히는 것이 중요합니다!5글자로 된 단어의 철자를 정확하게 쓰는 방법을 알아야 합니다.그런 다음 해당 단어 내의 개별 문자를 고려해야 합니다.마지막으로 중요한 것은 단어 게임에서 찾아야 할 것입니다.이것이 바로 우리가 이 도구를 설계한 이유입니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "워드 솔버 도구 ",
+            "feature_text": "단어 게임은 어린이와 성인 모두의 어휘와 언어 능력을 향상시키는 것으로 나타났습니다. 따라서 게임은 재미있을뿐만 아니라 플레이어를 더 똑똑하게 만듭니다!Wordle 또는 단어 게임을 할 때 가장 인기있는 5 글자 단어를 아는 것이 유익합니다.일일 Wordle 솔루션을 빠르게 얻기 위한 가장 중요한 전략은 첫 단어를 현명하게 선택하는 것입니다.항상 다섯 개의 다른 글자로 구성된 단어로 시작하며 그 중 세 개는 모음입니다.그러나 Wordle 솔버 도구와 고급 검색 기능을 사용하여 대체 추천 단어를 찾아 단어 문제를 시작할 수 있습니다.이 편지 도구와 함께 5 글자 단어 찾기를 사용하여 자신이나 친구/동료 그룹에 도전하여 단어 게임을 해결하십시오.그러나 단어 찾기 도구를 사용하여 구조를 찾을 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "최고 점수 5 글자 단어",
+            "feature_text": "친구와 함께하는 단어, 스크래블, 그리고 이제 Wordle은 모두 인기있는 단어 게임입니다.이 게임에서는 포인트를 얻거나 Wordle 일일 퍼즐을 가장 먼저 풀기 위해 글자를 해독하여 단어를 만듭니다.다섯 글자로 된 단어를 사용하면 많은 점수를 얻을 수 있지만 다섯 글자로 된 모든 단어에 대해 최신 정보를 얻는 것은 매우 어렵습니다.이 글자는 사전에 가장 낮은 숫자로 표시되기 때문에 가장 가치있는 단어입니다.이 도구는 가장 자주 사용되는 5자 단어의 목록을 제공합니다.이 단어의 대부분은 거의 매일 볼 가능성이 높습니다.이 단어들은 너무 흔하기 때문에 하루에 한 번 이상 사용하게 될 것입니다.이 편지와 함께 5 글자 찾기 단어를 사용하고 단어 게임에서 쉽게 승리하십시오.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

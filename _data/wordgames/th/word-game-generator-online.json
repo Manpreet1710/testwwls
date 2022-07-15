@@ -1,0 +1,60 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "title": "สร้างเกม wordle ของคุณเองแบ่งปันกับเพื่อนของคุณและท้าทายพวกเขา",
+    "h1": "สร้างเกม wordle ของคุณเองและแบ่งปันกับเพื่อน",
+    "h2": "ป้อนคำและรับลิงก์ไปยังคำของคุณเอง",
+    "meta": "สร้างเกม Wordle ได้อย่างรวดเร็วจากคำพูดของคุณฟรีและแบ่งปันกับเพื่อนของคุณ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

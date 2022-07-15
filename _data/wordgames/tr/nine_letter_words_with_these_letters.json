@@ -1,0 +1,56 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 9 harfli kelimeleri bul - WordsWithLetters.org",
+    "h1": "Bu harflerle dokuz harfli kelimeyi bul",
+    "h2": "Bulmak için aşağıya harfleri girin 9 harfli kelimeler bu harflerle",
+    "meta": "Hala bu harflerle kaç tane dokuz harfli kelime yapabileceğini düşünüyorum? Bu harflerle 9 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle dokuz harfli kelime oluştur",
+            "feature_text": "Genellikle bu dokuz harf kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu dokuz harfli kelimenin bazen yüksek puanlı olabilmesidir.. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle dokuz harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz Dokuz harfli kelime bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Dokuz harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "Dokuz harfli kelime bulucu, Dokuz harfli kelimeyi bulmanızı sağlar. 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyen en zor dokuz harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz dokuz harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı dokuz harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

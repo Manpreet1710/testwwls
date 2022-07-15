@@ -1,0 +1,13 @@
+{
+    "title": "Wordle gemakkelijk oplossen in minimale gissingen",
+    "h1": "Los de woorden van vandaag op door letters in te voeren die tot nu toe zijn gebruikt",
+    "h2": "Voer letters in grijs, geel en groen in om mogelijke woorden te zien",
+    "meta": "Voer letters in grijs, geel en groen in en ontvang een lijst met overeenkomende woorden van 5 letters om de wereld van vandaag op te lossen in minimale pogingen en indruk te maken op je vrienden",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

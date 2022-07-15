@@ -1,0 +1,346 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Berapa banyak kata yang bisa Anda buat dengan surat-surat ini?",
+    "h1": "Berapa banyak kata yang bisa Anda buat dengan surat-surat ini?",
+    "h2": "Masukkan huruf di bawah ini dan cari tahu berapa banyak kata yang bisa dibuat dengan huruf-huruf ini",
+    "meta": "Masih memikirkan berapa banyak kata yang bisa Anda buat dengan surat-surat ini? Gunakan kata-kata kami dengan alat huruf sekarang!",
+    "featureNo": "02",
+    "feature_title": "Fitur",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Tentang",
+    "featureList": [
+        {
+            "feature_heading": "Berapa banyak kata yang bisa Anda buat dengan huruf?",
+            "feature_text": "Jangan khawatir tentang berapa banyak kata-kata yang dapat Anda buat dengan huruf. Anda akan tersesat begitu banyak kata yang akan membantu Anda mencetak lebih banyak dan... meningkatkan vocab Anda juga!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Masih memikirkan berapa banyak kata-kata yang bisa Anda buat dengan surat-surat langka ini?",
+            "feature_text": "Lembar cheat gratis kami adalah obat tercepat Anda selama permainan kami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Unscrambling longgar — oong kata-kata dalam bukan tugas yang sulit sekarang!",
+            "feature_text": "Anda mungkin berpikir sejenak yang menguraikan 15 kata berhuruf!”. Tapi pencari kata kami dapat membantu Anda dalam permainan Anda.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Pembaruan baru yang akan disorot",
+            "feature_text": "Setiap fitur baru yang terkait dengan permainan scrabble akan disorot tepat di halaman rumah kami sehingga Anda dapat menggunakannya!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Apa Apakah Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Surat-Surat ini lakukan?",
+            "Answer": "Kami Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Surat-Surat ini secara otomatis menghasilkan kata-kata yang berarti dari huruf yang pengguna kami masuk dan menghitung jumlah kata yang dihasilkan dari huruf-huruf tersebut.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana cara menggunakan Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Letters Ini?",
+            "Answer": "Menggunakan kami Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Letters ini sangat sederhana. Yang harus Anda lakukan adalah memasukkan huruf yang ingin Anda buat kata-kata. Anda dapat memasukkan hingga 15 huruf sekaligus. Selanjutnya, pilih jenis kamus yang ingin Anda gunakan untuk kata-kata yang akan dihasilkan - pilihan yang tersedia adalah “Kamus”, TWL06 (AS, Kanada, Thailand), SOWPODS (Inggris dan lainnya), dan Aktifkan (Kata dengan Teman). Anda kemudian dapat mengaktifkan opsi Advanced filter. Kemudian klik pada tombol pencarian, yang merupakan kaca pembesar. Dan voila! Alat kami akan menghasilkan jumlah kata maksimum yang mungkin dari huruf yang dimasukkan untuk Anda dan itu juga akan menghitung jumlah kata yang dihasilkan dari huruf-huruf tersebut.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak huruf yang bisa saya masukkan untuk alat untuk membuat dan menghitung kata-kata dari huruf?",
+            "Answer": "Anda dapat memasukkan maksimal 15 huruf di alat kami, untuk membuat dan menghitung kata-kata dari huruf.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah saya harus membayar untuk menggunakan alat ini?",
+            "Answer": "Tidak, alat kami benar-benar gratis untuk digunakan. Anda tidak perlu membayar kami untuk menggunakan alat ini.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mengapa saya perlu menghasilkan dan menghitung jumlah kata?",
+            "Answer": "Anda mungkin perlu menghasilkan kata-kata jika Anda bermain game kata yang kompetitif, seperti Wordle, atau Scrabble. Anda mungkin juga perlu menguraikan kata-kata, dan alat kami akan membantu Anda dengan itu. Anda mungkin juga perlu mengetahui jumlah kata yang dapat Anda buat dengan beberapa huruf tertentu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah alat ini membantu dengan permainan kata seperti Wordle dan Scrabble?",
+            "Answer": "Ya benar-benar. Jika Anda memerlukan bantuan saat bermain game kata seperti Scrabble dan Wordle, kami How Many Words Can You Make with These Letters tool adalah cara untuk pergi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya memecahkan kata-kata campur aduk dengan bantuan alat ini?",
+            "Answer": "Tentu saja. Alat kami akan membantu Anda memecahkan kata-kata campur aduk dengan mudah. Yang perlu Anda lakukan adalah memasukkan huruf dalam kata campur aduk, tentukan panjang kata yang Anda inginkan, dan alat kami akan memberi Anda semua kata yang mungkin. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apa saja pilihan kamus yang berbeda yang tersedia?",
+            "Answer": "Dalam alat ini, Anda dapat memilih jenis kamus yang ingin Anda gunakan untuk kata-kata yang akan dihasilkan - pilihan yang tersedia adalah “Kamus”, TWL06 (AS, Kanada, Thailand), SOWPODS (Inggris dan lainnya), dan Aktifkan (Kata-kata dengan Teman).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana cara menggunakan filter lanjutan?",
+            "Answer": "Filter lanjutan dalam alat kami mencakup opsi bagi Anda untuk menentukan huruf mana yang harus dimulai atau diakhiri dengan kata-kata hasil, huruf mana yang harus berisi kata-kata, huruf mana yang ingin Anda kecualikan, dan berapa panjang kata yang diinginkan. Yang perlu Anda lakukan hanyalah mengklik tombol filter lanjutan dan masukan data sesuai keinginan Anda.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan panjang kata?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan jumlah huruf yang harus Anda miliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya mengecualikan karakter tertentu?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf yang Anda tidak ingin kata-kata untuk memiliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan karakter wajib?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf yang Anda pasti ingin kata-kata untuk memiliki.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dapatkah saya menentukan huruf mana yang harus dimulai atau diakhiri dengan kata-kata?",
+            "Answer": "Ya, Anda dapat menggunakan bagian filter lanjutan dari alat kami untuk menentukan huruf mana yang Anda inginkan untuk memulai kata-kata Anda serta diakhiri dengan.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Apakah aman untuk menggunakan Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Huruf Ini?",
+            "Answer": "Kami Berapa Banyak Kata yang Dapat Anda Buat dengan Alat Letters ini adalah salah satu alat online gratis teraman dan paling aman. Ini tidak memiliki link berbahaya atau iklan yang tidak diinginkan. Ini benar-benar bebas masalah dan melakukan tugasnya dengan baik. Pada saat yang sama, tidak menyimpan data pengguna apa pun. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Saat menggunakan alat ini, akankah iklan muncul?",
+            "Answer": "Karena kami menjaga website kami benar-benar bebas untuk digunakan, iklan adalah apa yang membantu kami dengan mempertahankan website. Jadi, Anda akan melihat beberapa iklan bermunculan ketika Anda menggunakan situs kami. Tapi kita bisa menjamin bahwa hal itu tidak akan memburuk kualitas hasil atau waktu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Kami online gratis Berapa Banyak Kata yang Dapat Anda Buat dengan alat Surat ini tidak menyimpan data pengguna apa pun. Ini benar-benar aman untuk digunakan. Setiap hal yang pengguna mungkin meng-upload ke situs kami dihapus dari awan kami dalam rentang waktu yang sangat singkat.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Apakah alat ini akan menyimpan data saya ke server?"
+        },
+        {
+            "Question": "Berapa banyak waktu yang dibutuhkan untuk membuat kata-kata dengan huruf dan menghitung jumlah kata yang terbentuk?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Dibutuhkan hanya beberapa detik untuk gratis kami Berapa Banyak Kata Bisa Anda Buat dengan Surat-Surat ini untuk melakukan tugasnya. Dengan cepat menciptakan kata-kata dari huruf tertentu dan menghitung jumlahnya. Hasilnya cepat dan 100% akurat."
+        },
+        {
+            "Answer": "Tidak perlu mendaftar atau masuk di situs web kami. Anda dapat menggunakan online kami Berapa Banyak Kata yang Dapat Anda Buat dengan Surat-Surat ini secara gratis dan tanpa ada petunjuk untuk mendaftar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Apakah saya harus mendaftar atau log in untuk menggunakan ini Berapa Banyak Kata yang Dapat Anda Buat dengan alat Surat Ini?"
+        },
+        {
+            "Question": "Apakah Berapa Banyak Kata yang Dapat Anda Buat dengan Surat-Surat ini bekerja pada ponsel?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ya. Kami gratis Berapa Banyak Kata yang Dapat Anda Buat dengan fitur Letters ini bekerja pada semua platform. Anda dapat mengaksesnya dari ponsel Anda. Cukup ketik huruf yang Anda inginkan dalam kata-kata Anda, dari ponsel Anda dan alat kami akan melakukan pekerjaan untuk Anda."
+        },
+        {
+            "Answer": "Ya, kami Berapa Banyak Kata yang Dapat Anda Buat dengan alat Letters ini dan semua alat lainnya mendukung platform Android dan iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Apakah itu mendukung platform Android dan iOS?"
+        },
+        {
+            "Question": "Apakah Berapa Banyak Kata yang Dapat Anda Buat dengan Surat-Surat ini bekerja pada pcs dan laptop?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ya. Kami online Berapa Banyak Kata yang Dapat Anda Buat dengan Surat Ini diterima di semua platform. Anda dapat menggunakan alat gratis ini di situs web Anda dari pc dan laptop Anda juga. Mendukung Windows dan Mac. Yang perlu Anda lakukan adalah memasukkan hingga 15 huruf, tentukan tipe Kamus, tambahkan filter lanjutan jika diperlukan, dan itu saja. Kata-kata akan dihasilkan dari huruf-huruf persis sesuai dengan instruksi Anda."
+        },
+        {
+            "Answer": "Kami Berapa Banyak Kata yang Dapat Anda Buat dengan fitur Letters ini benar-benar berbasis web. Karena itu, ia menyediakan dukungan cross-platform pengguna kami. Ini berarti bahwa alat kami mendukung semua versi Windows. Dalam istilah yang lebih umum, mendukung semua versi dari semua Sistem Operasi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Versi Windows mana yang mendukung alat Berapa Banyak Kata yang Dapat Anda Buat dengan Letters ini?"
+        },
+        {
+            "Question": "Berapa banyak kata huruf 2 yang bisa membuat KEBENARAN?",
+            "Answer": "Kita bisa membuat total 2 kata yang memiliki 2 huruf di dalamnya dan kata-katanya uh dan ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana cara membuat kata dengan huruf ini BUKU?",
+            "Answer": "Untuk membuat semua kombinasi kata yang mungkin dengan huruf BUKU, kita harus memilih dan menggabungkan huruf-huruf yang akan menghasilkan kata yang berarti. Kata yang berarti adalah kata yang tersedia dalam kamus standar. Jika Anda ingin melakukan operasi yang sama secara online maka cukup ketik surat Anda di website kami klik enter dan Anda akan mendapatkan semua hasil yang mungkin. Dalam hal ini dengan huruf BUKU kita dapat membentuk total 16 kata yaitu sebagai berikut buku, kobos, buku, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, jadi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Cara membuat kata dengan huruf-huruf ini LABLE?",
+            "Answer": "Untuk membuat semua kombinasi kata yang mungkin dengan huruf LABLE, kita harus memilih dan menggabungkan huruf-huruf yang akan menghasilkan kata yang berarti. Kata yang berarti adalah kata yang tersedia dalam kamus standar. Jika Anda ingin melakukan operasi yang sama secara online maka cukup ketik surat Anda di website kami klik enter dan Anda akan mendapatkan semua hasil yang mungkin. Dalam hal ini dengan huruf LABLE kita dapat membentuk total 22 kata yang sebagai berikut label, mampu, bale, bola, bel, blae, leal, alb, ale, semua, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata 7 huruf yang bisa membuat GENERATOR?",
+            "Answer": "Sebanyak 18 kata tujuh huruf dapat dibentuk dengan menggunakan huruf GENERATOR dan kata-katanya adalah sebagai berikut garrote, hibah, hibah, greaten, lebih besar, groaner, negater, negator, reagent, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata yang bisa dibuat dari huruf-huruf ini LAPTOP?",
+            "Answer": "Jumlah total kata yang dapat dibentuk menggunakan huruf LAPTOP adalah 37 dan kata-katanya adalah sebagai berikut laptop, alto, atop, lota, opal, palp, plat, plop, plot, tola, alp, alt, app, apt, lap, lat, lop, banyak, oat, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, at, la, lo, op, pa, ta, untuk",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata yang bisa dibuat dari huruf-huruf ini EMAILID?",
+            "Answer": "Jumlah total kata yang dapat dibentuk dengan menggunakan huruf EMAIID adalah 94 dan kata-katanya adalah sebagai berikut dikirimkan, medial, miladi, ailed, bertujuan, amida, email, ideal, iliad, imide, lamed, limed, maile, medali, media, medii, milia, aide, alme, tengah, amie, dale, dame, kesepakatan, deil, deli, dial, dim, sepeser pun, idem, menganggur, ilea, ilia, imid, lade, meletakkan, lumpuh, memimpin, berbohong, lima, kapur, dibuat, pembantu, surat, laki-laki, mead, makan, meld, midi, ringan, mil, bantuan, ail, tujuan, ale, ami, dal, bendungan, del, mati, redup, eld, elm, lad, lam, lea, dipimpin, lei, tutup, kebohongan, mad, mae, med, mel, pertengahan, mil, iklan, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, saya, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata yang bisa Anda buat dengan semua huruf 26 alfabet?",
+            "Answer": "Jumlahnya cukup besar dan dapat ditemukan dengan memecahkan masalah matematika sederhana ini yang n! (n faktorial) di mana n akan menjadi jumlah total huruf sehingga jawabannya akan 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata huruf 6 yang bisa membuat KITCHEN ini?",
+            "Answer": "Jumlah total 6 huruf kata yang dapat dibentuk menggunakan huruf KITCHEN hanya 1 dan kata etnis.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata huruf 6 yang bisa membuat TROPICAL?",
+            "Answer": "Jumlah total 6 huruf yang dapat dibentuk oleh kata TROPICAL adalah 17 dan kata-katanya adalah sebagai berikut aorta, atopik, captor, caroli, cartop, citola, citral, coital, lictor, lorica, patroli, picaro, portal, rialto, rictal, tailor, tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Cara membuat kata-kata dengan surat-surat ini MIMPI?",
+            "Answer": "Dalam rangka untuk membuat kata-kata dengan surat ini DREAM, yang harus Anda lakukan adalah mengambil huruf yang ketika digabungkan bersama-sama dapat membentuk kata yang berarti. Kata yang berarti adalah kata yang dapat ditemukan dalam kamus standar. Anda hanya diperbolehkan untuk menggunakan kata-kata yang tersedia dalam kata. Jika Anda sedang terburu-buru dan mencari untuk menemukan semua kata-kata yang mungkin dengan tingkat akurasi tertinggi. Anda dapat menggunakan alat kami. Yang harus Anda lakukan ini membuka browser Anda, ketik website kami wordswithletters.org dan ketik semua huruf dari mana Anda ingin membuat kata-kata. Setelah Anda klik enter Anda akan mendapatkan hasil Anda. Dalam hal ini dengan kata MIMPI kita dapat membuat 39 kata yang sebagai berikut bersenjata, derma, mimpi, madre, dame, berani, sayang, derm, dram, dibuat, mare, mead, membaca, rim, adalah, lengan, bendungan, telinga, era, mad, mae, mar, med, rad, ram, merah, rem, ad, ae, am, ar, da, de, ed, em, em,, ma, aku, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bagaimana membuat kata-kata dengan huruf-huruf ini TOMMORROW?",
+            "Answer": "Untuk membuat kata-kata dengan huruf TOMMORROW ini, yang harus Anda lakukan adalah mengambil huruf yang bila digabungkan bersama dapat membentuk kata yang berarti. Kata yang berarti adalah kata yang dapat ditemukan dalam kamus standar. Anda hanya diperbolehkan untuk menggunakan kata-kata yang tersedia dalam kata. Jika Anda sedang terburu-buru dan mencari untuk menemukan semua kata-kata yang mungkin dengan tingkat akurasi tertinggi. Anda dapat menggunakan alat kami. Yang harus Anda lakukan ini membuka browser Anda, ketik website kami wordswithletters.org dan ketik semua huruf dari mana Anda ingin membuat kata-kata. Setelah Anda klik enter Anda akan mendapatkan hasil Anda. Dalam hal ini dengan kata TOMMORROW kita dapat membuat 44 kata yang sebagai berikut moorwort, besok, wormroot, pagi, morro, motor, rotor, moor, diperdebatkan, mort, ruang, akar, rort, roto, toom, toro, torr, trow, worm, wort, ibu, moo, mor, mot, mot, mot, mot, oot, ort, busuk, rom, baris, tom, juga, tor, derek, dua, woo, wot, mm, mo, om, atau , ow, untuk, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata yang bisa dibuat dengan surat-surat ini APPLE?",
+            "Answer": "Kita bisa membuat total 24 huruf menggunakan kata APPLE. Kata-kata adalah sebagai berikut appel, apel, pepla, lompatan, pucat, palp, peal, plea, ale, alp, kera, app, lap, lea, pal, pap, kacang, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Berapa banyak kata yang bisa dibuat dari surat-surat ini SAMPEL?",
+            "Answer": "Kita bisa membuat total 99 huruf menggunakan kata SAMPLE. Kata-kata adalah sebagai berikut maples, sampel, almes, cukup, lames, lampu, selang, lompatan, laki-laki, maple, makanan, pales, telapak tangan, peals, plasm, permohonan, mazmur, salep, sepal, spale, ales, alme, sedekah, alpen, ampli, kera, apse, elms, lumpuh, lampu, domba, lap, Lase, lompatan, leas, maes, laki-laki, peta, makan, mels, mesa, pucat, telapak tangan, teman-teman, pams, pase, peal, kacang polong, permohonan, penjualan, salp, sama, samp, segel, jahitan, slam, tamparan, spae, spam, ale, alp, als, amp, kera, asp, elm, els, ems, lam, lap, las, lea, mae, peta, mas, mel, pal, pam, pas, kacang polong, pes, sae, sal, getah, laut, sel, spa, ae, al, am, sebagai, el, em, es, la, ma, saya, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Berapa banyak kata yang bisa Anda buat dengan huruf ATSFOPPQ ini?",
+            "Answer": "Kita dapat membuat total 65 kata menggunakan huruf-huruf ini. Kata-kata adalah sebagai berikut fatso, softa, aplikasi, di atas, cepat, lemak, fops, oafs, oast, oat, opts, paps, masa lalu, tepukan, muncul, pos, pot, qats, sabun, sofa, lembut, meludah, tempat, stoa, berhenti, taos, keran, puncak, belakang, app, apt, asp, fas, lemak, p, oaf, oat, sering, ops, memilih, pap, pas, tepuk, pop, pot, qat, getah, duduk, sop, sot, spa, orang, tap, tas, atas, sebagai, di, fa, dari, op, os, pa, jadi, ta, untuk"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Berapa banyak kata yang bisa Anda buat dengan huruf XATFPS ini?",
+            "Answer": "Kita bisa membuat total 28 kata dari huruf XATFPS. Kata-kata adalah sebagai berikut cepat, lemak, masa lalu, tepukan, meludah, keran, buritan, apt, asp, fas, lemak, fax, pas, tepuk, pax, getah, sat, sax, spa, tap, tas, pajak, sebagai, di, kapak, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

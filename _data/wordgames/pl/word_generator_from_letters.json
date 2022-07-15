@@ -1,0 +1,364 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Generator słów z liter- tworzyć słowa z dowolnymi literami łatwo",
+    "h1": "Generator słów: Zrób słowa zawierające te litery",
+    "h2": "Wpisz litery poniżej i dowiedz się, ile słów można utworzyć za pomocą tego generatora słów w chmurze",
+    "meta": "Możesz łatwo generować losowe słowa z tego łatwego w użyciu generatora słów z narzędzia liter. Wystarczy jednym kliknięciem, możesz tworzyć nowe słowa z istniejących liter. Wyrównaj swoją grę słowną!",
+    "featureNo": "02",
+    "feature_title": "Cechy",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "O",
+    "featureList": [
+        {
+            "feature_heading": "Obrazowe listy słów",
+            "feature_text": "Nie masz w pobliżu gry lub kart, ale nadal chcesz grać w Pictionary gry ze znajomymi? Ten Word Generator jest idealnym narzędziem, które pomoże Ci to zrobić. Korzystając z opcji zaawansowanych, możesz wybrać typy słów, które mają być wyświetlane.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gry Wordle",
+            "feature_text": "Walcząc w Wordle? Teraz można opanować tę szalenie popularną grę słowną. Utwórz listę słów za pomocą tego narzędzia. Narzędzie Generator słów z liter pozwala na dostosowanie parametrów losowych słów, aby najlepiej pasowały do Twoich potrzeb",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generator słów dla najbardziej punktowanych liter liter",
+            "feature_text": "Teraz zrób słowa z tych liter a, s, i, d, e tak szybko, jak to możliwe!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generator słów dla ligi trudnych liter",
+            "feature_text": "Stwórz słowa z tych trudnych liter, takich jak j, k, x za pomocą naszego generatora wolnych słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Prosty, intuicyjny i przyjazny dla użytkownika generator słów",
+            "feature_text": "Wpisz litery na tablicy i tam dostaniesz szereg słów napisanych tymi literami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze słowa",
+            "feature_text": "Zdobądź pulę wysoko ocenianych słów w kilka sekund dzięki naszemu generatorowi wolnych słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Co robi narzędzie Word Generator?",
+            "Answer": "Nasze narzędzie Word Generator automatycznie generuje znaczące słowa z liter, które wchodzi nasz użytkownik.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak korzystać z narzędzia Word Generator?",
+            "Answer": "Korzystanie z naszego narzędzia Word Generator jest bardzo proste. Wszystko, co musisz zrobić, to wpisać litery, z których chcesz wytworzyć słowa. Możesz wpisywać maksymalnie 15 liter naraz. Następnie wybierz typ słownika, którego chcesz użyć do generowania słów- dostępne opcje to Słownik, TWL06 (USA, Kanada, Tajlandia), SOWPODS (Wielka Brytania i inne) oraz Włącz (Słowa z przyjaciółmi). Następnie można włączyć opcję Filtry zaawansowane. Następnie kliknij przycisk wyszukiwania, który jest szkłem powiększającym. I voila! Nasze narzędzie wygeneruje dla Ciebie maksymalną możliwą liczbę słów z wprowadzonych liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile liter mogę wprowadzić, aby narzędzie wytworzyło słowa z liter?",
+            "Answer": "Możesz wprowadzić maksymalnie 15 liter w naszym narzędziu, aby wytworzyć słowa z liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy muszę płacić za korzystanie z tego narzędzia?",
+            "Answer": "Nie, nasze narzędzie jest całkowicie bezpłatne w użyciu. Nie musisz nam płacić za korzystanie z narzędzia.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dlaczego muszę generować słowa?",
+            "Answer": "Jeśli grasz w konkurencyjne gry słowne, takie jak Wordle czy Scrabble, może być konieczne wygenerowanie słów. Być może trzeba też rozszyfrować słowa, a nasze narzędzie pomoże ci w tym.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy to narzędzie może pomóc w grach słownych, takich jak Wordle i Scrabble?",
+            "Answer": "Tak, absolutnie. Jeśli potrzebujesz pomocy podczas grania w gry słowne, takie jak Scrabble i Wordle, nasze narzędzie Word Creator jest sposobem, aby przejść.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę rozwiązać pomieszane słowa za pomocą tego narzędzia?",
+            "Answer": "Oczywiście. Nasze narzędzie pomoże Ci łatwo rozwiązać pomieszane słowa. Wszystko, co musisz zrobić, to wpisać litery w pomieszane słowo, określić długość słowa, którą pragniesz, a nasze narzędzie da Ci wszystkie możliwe słowa. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są różne opcje słownika dostępne?",
+            "Answer": "W tym narzędziu możesz wybrać typ słownika, którego chcesz użyć do generowania słów — dostępne opcje to Słownik, TWL06 (USA, Kanada, Tajlandia), SOWPODS (Wielka Brytania i inne) i Włącz (Słowa ze znajomymi).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak mogę korzystać z zaawansowanych filtrów?",
+            "Answer": "Zaawansowane filtry w naszym narzędziu zawiera opcję, aby określić, które litery muszą zaczynać się lub kończyć wynikami, które litery muszą zawierać słowa, które litery chcesz wykluczyć narzędzie i jaka jest pożądana długość słowa. Wszystko, co musisz zrobić, to wystarczy kliknąć na przycisk zaawansowanych filtrów i wprowadzić dane, jak chcesz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić długość słowa?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić liczbę liter, których potrzebujesz słowa.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę wykluczyć niektóre znaki?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić litery, których nie chcesz mieć słów.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić obowiązkowe znaki?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić litery, które na pewno chcesz mieć słowa.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić, którą literę mają się zaczynać lub kończyć wyrazy?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić, które litery mają się zaczynać i kończyć słowami.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy korzystanie z narzędzia Word Creator jest bezpieczne?",
+            "Answer": "Word Generator jest jednym z najbezpieczniejszych i najbezpieczniejszych darmowych narzędzi online. Nie ma żadnych szkodliwych linków ani niechcianych reklam. Jest absolutnie bezproblemowy i doskonale wykonuje swoją pracę. W tym samym czasie nie zapisuje żadnych danych użytkownika. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy podczas korzystania z tego narzędzia pojawią się reklamy?",
+            "Answer": "Ponieważ utrzymujemy naszą stronę całkowicie za darmo w użyciu, reklamy są tym, co pomaga nam w utrzymaniu strony internetowej. tak, zobaczysz kilka reklam pojawiających się podczas korzystania z naszej strony. Ale możemy zagwarantować, że nie pogorszy to jakości wyników ani czasu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy to narzędzie zapisze moje dane na serwerze?",
+            "Answer": "Nasz darmowy Generator Word nie zapisuje żadnych danych użytkownika. Jest całkowicie bezpieczny w użyciu. Każda rzecz, którą użytkownik może przesłać na naszą stronę, zostanie usunięta z naszej chmury w bardzo krótkim czasie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile czasu potrzeba, aby tworzyć słowa literami?",
+            "Answer": "Zajmuje to zaledwie kilka sekund, aby nasz wolny Generator Word wykonał swoją pracę. Szybko tworzy słowa z określonych liter. Wyniki są szybkie i w 100% dokładne.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy będę musiał się zarejestrować lub zalogować, aby użyć tego narzędzia Word Generator?",
+            "Answer": "Rejestracja lub logowanie nie jest wymagane na naszej stronie internetowej. Możesz korzystać z naszego internetowego programu Word Creator bezpłatnie i bez żadnych monitów o rejestrację.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy Word Generator działa na telefonach komórkowych?",
+            "Answer": "Tak. Nasza funkcja generowania wolnych słów działa na wszystkich platformach. Dostęp do niego można uzyskać z telefonów komórkowych. Wystarczy wpisać litery, które chcesz w swoich słowach, z telefonu, a nasze narzędzie wykona zadanie za Ciebie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy obsługuje zarówno platformy Android, jak i iOS?",
+            "Answer": "Tak, nasze narzędzie Word Generator i wszystkie inne narzędzia obsługują zarówno platformy Android, jak i iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy Word Generator działa na komputerach i laptopach?",
+            "Answer": "Tak. Nasz Generator Word Online jest akceptowany na wszystkich platformach. Można użyć tego darmowego narzędzia na swojej stronie z komputera i laptopa, jak również. Obsługuje zarówno Windows, jak i Mac. Wszystko, co musisz zrobić, to wpisać do 15 liter, określić typ słownika, w razie potrzeby dodać zaawansowane filtry i to wszystko. Słowa zostaną wygenerowane z tych liter dokładnie zgodnie z twoimi instrukcjami.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Które wersje systemu Windows obsługuje narzędzie Word Generator?",
+            "Answer": "Nasza funkcja Word Generator jest całkowicie oparta na Internecie. Z tego powodu zapewnia naszym użytkownikom wsparcie międzyplatformowe. Oznacza to, że nasze narzędzie obsługuje wszystkie wersje systemu Windows. Ogólnie rzecz biorąc, obsługuje wszystkie wersje wszystkich systemów operacyjnych.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Litera do generatora słów za pomocą liter GRAJĄC",
+            "Answer": "Wszystkie możliwe litery do generatora słowo za pomocą litery GRANIE są następujące gry, gainly, r, paling, płacąc, kursujące, algin, wyrównać, aping, wesoło, inlay, lapin, liang, ligan, linga, lingy, leżąc, zwykły, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, ling,, lipa, gwóźdź, Nipa, wiadro, ból, paly, pang, pial, pian, pily, pina, ping, piny, plan, Zagraj, pyin, yagi, yang, ail, Ain, alp, ani, każdy, gal, gan, Gap, Gay, Gil, Gip, Gyp, lag, okrążenie, lay, Lin, warga, nag, drzemka, nie, nil, nil, nip, Pal, Pan, zapłacić Pia, świnia, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, in, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Litera do generatora wyrazów za pomocą liter AGENCJA",
+            "Answer": "Wszystkie możliwe litery do generatora słów za pomocą agencji literowej są następujące agencja, cagey, trądzik, klatka, cagy, trzciny, cyjan, gaen, gane, yang, yang, yean, ace, wiek, ane, każdy, aye, może, cay, eng, gae, gan, gen, gey, nae, nag, nay, yag, yen, ae, ag, an, ay, en, na, ne, ya, ye",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są wszystkie 5 literowy generator słów z liter BLUETOOTH?",
+            "Answer": "Wszystkie 5 słowa literowe, które mogą być generowane z tych liter BLUETOOTH są następujące bhoot, bluet, stoisko, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, ząb",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są wszystkie 5 literowy generator słów z liter BEDSIDE?",
+            "Answer": "Wszystkie słowa 5 literowe, które mogą być generowane z liter BEDSIDE są następujące oferty, oferty, czyny, stronne",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są wszystkie cztery literowe słowo generator z literami LEŻĄC?",
+            "Answer": "Wszystkie cztery słowa literowe, które mogą być generowane z literami LEŻĄC są następujące inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są wszystkie 4 literowe słowo generator z literami TABLETOP?",
+            "Answer": "Wszystkie 4 słowa literowe, które mogą być generowane z literami TABELA są następujące abet, stanie, aloes, alto, szczyt, bela, bate, batt, beat, pas, beta, blae, blat, blet, blot, łódź, bola, bole, śruba, bota, bott, późno, skok, lobe, lope, lota, Olea,, blady, pasztet, torf, torf, skórka, plat, zarzut, pleb, działka, poeta, Polak, Tael, opowieść, taśma, Tate, Cyrek, Tela, Tepa, Toea, Tola, Tole, Tola, Tape, Tote",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jaki będzie generator słów z literami NEGATYWNE?",
+            "Answer": "Jeśli szukasz generatora słowo to jesteś we właściwym miejscu. W tym przypadku wszystkie litery, które mogą być tworzone za pomocą liter NEGATYWNE są następujące agentive, negatywne, naiwne, ventage, vintage, pomścić, jedzenie, Genewa, ingate, native, negate, teeing, teniae, agene, agent, zjedzone, enate, entia, zdarzenie, evite, ganev, genet, genie, gigant, dany, naevi, naive, ve, tenia, Tinea, odcień, veena, wegańskie, vegie, Venae, Venge, vitae, Agee, Agin, ante, anty, okap, Etna, nawet, gaen, gain, chód, Gane, Brama, dał, gen, Gent, Geta, Gien, gite, dać, gnat, nawa, neat, neve, nevi, nite, tain, tang, nastolatek, Tine, ting, Vagi, próżny, wiatrowskaz, Vang, żyła, vena, odpowietrznik, viga, vina, winorośl, Vita, wiek, Ain, Ait, ane, ani, mrówka, jedli, ave, jeść, eng, eta, eve, gae, gan, gat, gee, gen, get, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, herbata, tee, teg, dziesięć, krawat, tin, van, vat, vee, veg, weterynarz, via ie, vig, ae, ag, ai, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jaki będzie generator słów z literami POZYTYWNE?",
+            "Answer": "Jeśli szukasz generatora słowo to jesteś we właściwym miejscu. W tym przypadku wszystkie litery, które mogą być tworzone za pomocą liter POZYTYWNE są następujące pozytywne, litości, obroty, potsie, sopite, radziecki, estop, bluszcz, pesto, stos, pivot, poetów, poise, posit, złość, stipe, stope, piec, tipi, topes, topis, wizyta, głosy, epos, opes, opts, peso,, zwierzęta, ciasta, piso, doły, poeta, pois, poza, stanowisko, garnki, września, sipe, witryny, Spit, Spiv, spot, krok, przystanek, krawaty, tipi, porady, palce, tope, topi, topi, topi, topi, kamizelka, weta, weterynarze, vies, imadło, voes, głos, jego, Oes, op, ops, Opcja, ose, pes, zwierzętom, pie, pis, pop, i, garnek, psi, sei, zestaw, sip, siedzieć, sop, sot, krawat, końcówka, tis, toe, top, weterynarz, Vie, vis, voe, es, et, jest, to, oe, oi, op, os, pe, pi, si, więc, ti, do",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator słów za pomocą liter FALLOUT",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter FALLOUT są następujące fallout wylot afoul allot aloft awarii flota flota flout alto auto upadek płaski źrebię faul pełne latu bochenek loft lota lout olla wysoki tofu toll toll toll tufa aft wszystko alt tłuszczu grypy fou dużo oaf oat oft out lat tao tau al w fa la lo z ta do ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator słów za pomocą liter świecące",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter świecące są następujące świecące, opuszczanie, ogling, dzieje, żargon, z powodu, blask, gong, suknia, ling, lino, lew, schab, długi, nil, nog, noil, skrzydło, wino, gig, gin, igg, ion, lin, log, niski, nil, nog, teraz, olej, Sowa, własne, Peruka, Wygraj, Wygrał, GI, przejdź, w, Li, lo, nie, oi, na, ow, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator wyrazów zawierający litery FULLFORM",
+            "Answer": "Wszystkie możliwe słowa, które mogą być generowane od słów FULLFORM są następujące formalne, mąka, fluor, forum, forma, faul, cztery, z, pełny, furl, lour, luff, moll, muff, mull, rolf, rolf, rolf, ruff, grypa, dla, fou, fro, futro, lum, mol, mor, off, nasz, rom, rum, lo, mo, mu, z, om, lub, um",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator wyrazów zawierający litery BLACK",
+            "Answer": "Wszystkie możliwe słowa, które mogą być generowane ze słów BLACK są następujące czarne, tylne, balk, calk, brak, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak można uzyskać 7 literowy generator słów z liter RAINFOREST?",
+            "Answer": "To jest dość proste. Wszystko, co musisz zrobić, to wymienić wszystkie litery, z którymi chcesz utworzyć słowo i kliknąć Enter. Mamy limit 15 liter. Więc w przypadku, gdy chcesz wygenerować siedem słów literowych to wszystko, co musisz zrobić, to wspomnieć żądane litery, które są większe lub równe 7 i mniej niż 15 i naciśnij enter. Otrzymasz pożądane rezultaty w ciągu kilku sekund. W tym przypadku wszystkie słowa 7 liter, które można utworzyć za pomocą liter RAINFOREST są następujące anestri, antsier, aroints, artsier, atoners, atonie, erasion, posyłki, słabe, słabe, najpiękniejsze, foreran, forinty, czterdzieści, fraters, fronter, fronty, infares, w zakresie, norers, nieprzyjemny, estryna, orienty , krokwie, ranters, szczury, racje, refren, refront, zachowuje, siatkówki, przetrenować, retsina, rioters, palarnia, roister, rotifer, senator, serrano, sierran, snifter, snorter, Stainer, stearyna, stonier, sitko, tarries, tarsier, teren, trener, zdrada",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak można uzyskać siedmioliterowy generator słów z liter TROPICAL?",
+            "Answer": "To jest dość proste. Wszystko, co musisz zrobić, to wymienić wszystkie litery, z którymi chcesz utworzyć słowo i kliknąć Enter. Mamy limit 15 liter. Więc w przypadku, gdy chcesz wygenerować siedem słów literowych to wszystko, co musisz zrobić, to wspomnieć żądane litery, które są większe lub równe 7 i mniej niż 15 i naciśnij enter. Otrzymasz pożądane rezultaty w ciągu kilku sekund. W tym przypadku wszystkie siedem słów literowych, które można utworzyć za pomocą liter TROPICAL są następujące morele, fartuch, caltrop, capitol, koalpit, optyczne, parotyczne, miejscowe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Generator słów z liter TRUCK",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter TRUCK są następujące ciężarówki, Curt, Ruck, tuck, Turk, Cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Generator słów z liter AEIOU",
+            "Answer": "Wszystkie słowa, które mogą być generowane za pomocą liter AEIOU są następujące eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

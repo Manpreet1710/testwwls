@@ -1,0 +1,60 @@
+{
+    "Language": "العربية",
+    "htmlLangAtt": "ar",
+    "title": "قم بإنشاء لعبة wordle الخاصة بك، وشاركها مع أصدقائك وتحديها!",
+    "h1": "قم بإنشاء لعبة wordle الخاصة بك ومشاركتها مع الأصدقاء",
+    "h2": "أدخل كلمة واحصل على رابط إلى wordle الخاص بك",
+    "meta": "قم بإنشاء لعبة wordle بسرعة من كلمتك مجانًا ومشاركتها مع أصدقائك.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        },
+        {
+            "feature_heading": "",
+            "feature_text": "",
+            "fa_class": "../assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "",
+            "Answer": ""
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/createWordle.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

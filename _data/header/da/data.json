@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Ordlister",
+                "links": [
+                    {
+                        "name": "Ordspil Generator Online",
+                        "url": "/da/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wodle Solver",
+                        "url": "/da/wordle-solver"
+                    },
+                    {
+                        "name": "Lav ord med disse bogstaver",
+                        "url": "/da/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Word Generator fra breve",
+                        "url": "/da/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Ord stavet med disse bogstaver ",
+                        "url": "/da/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Hvor mange ord kan du lave fra disse bogstaver",
+                        "url": "/da/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Hvilke ord kan jeg stave med disse bogstaver og et tomt",
+                        "url": "/da/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Ord med disse bogstaver og 2 emner",
+                        "url": "/da/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Ord med disse bogstaver og 3 emner",
+                        "url": "/da/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Ord af længde",
+                "links": [
+                    {
+                        "name": "Seks bogstavsord med disse bogstaver",
+                        "url": "/da/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Fem bogstavsord med disse bogstaver",
+                        "url": "/da/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Syv bogstavsord med disse bogstaver",
+                        "url": "/da/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Fire bogstavsord med disse bogstaver",
+                        "url": "/da/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tre bogstavsord med disse bogstaver",
+                        "url": "/da/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "To bogstavsord med disse bogstaver",
+                        "url": "/da/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Otte bogstavsord med disse bogstaver",
+                        "url": "/da/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Ni bogstavsord med disse bogstaver",
+                        "url": "/da/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Ti bogstavsord med disse bogstaver",
+                        "url": "/da/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Elleve bogstavord med disse bogstaver",
+                        "url": "/da/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tolv bogstavsord med disse bogstaver",
+                        "url": "/da/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tretten bogstavsord med disse bogstaver",
+                        "url": "/da/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X brev ord med disse bogstaver og et tomt",
+                "links": [
+                    {
+                        "name": "12 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 bogstavsord med disse bogstaver og et tomt",
+                        "url": "/da/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

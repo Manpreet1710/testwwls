@@ -1,0 +1,56 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde Wörter mit 11 Buchstaben mit diesen Buchstaben - WordsWithLetters.org",
+    "h1": "Finde 11 Buchstaben-Wörter mit diesen Buchstaben",
+    "h2": "Gib unten Buchstaben ein, um Wörter mit 11 Buchstaben zu finden",
+    "meta": "Denken Sie immer noch daran, wie viele Wörter mit elf Buchstaben Sie mit diesen Buchstaben machen können? Verwenden Sie unser Tool, um Wörter mit 11 Buchstaben mit diesen Buchstaben zu finden",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Bringen Sie einen Wendepunkt in Ihr Spiel. Generieren Sie elf Buchstabenwörter mit diesen Buchstaben",
+            "feature_text": "Oft findet dieser Buchstabe elf seinen Weg in Wortspielen. Aber die Hauptsache ist, dass diese Wörter mit elf Buchstaben manchmal eine hohe Punktzahl erzielen können. Sie können jedoch Ihre Rettung unter mit unserem Wortfinder finden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generieren Sie elf Buchstabenwörter mit diesen Buchstaben",
+            "feature_text": "Mit unserem kostenlosen Wordfinder kannst du Wörter mit elf Buchstaben finden und dein Spiel gewinnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Finde ein beliebiges nummeriertes Wort mit dem Buchstaben Elf",
+            "feature_text": "Mit der Wortsuche mit elf Buchstaben können Sie alle elf Wörter mit bis zu 15 Zeichen finden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Erzeugt selbst die härtesten Wörter mit elf Buchstaben, an die Sie nicht einmal denken können.",
+            "feature_text": "Mit unserem kostenlosen Wortgenerator mit elf Buchstaben erhalten Sie in Sekunden einen Pool von elf Wörtern mit hoher Punktzahl.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

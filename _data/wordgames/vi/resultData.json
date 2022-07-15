@@ -1,0 +1,13 @@
+{
+    "title": "Giải quyết wordle một cách dễ dàng trong dự đoán tối thiểu",
+    "h1": "Giải quyết wordle ngày nay bằng cách nhập chữ cái được sử dụng cho đến nay",
+    "h2": "Nhập các chữ cái màu xám, vàng và xanh lá cây để xem các từ tiềm năng",
+    "meta": "Nhập chữ cái trong màu xám, vàng và xanh lá cây, và nhận được danh sách các từ 5 chữ cái phù hợp để giải quyết ngày nay wordle trong nỗ lực bắt chước, và gây ấn tượng với bạn bè của bạn",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

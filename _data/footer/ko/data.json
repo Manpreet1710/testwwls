@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "회사",
+    "networksitestitle": "자원",
+    "linksTitle": "도구들",
+    "producttitle": "단어 길이",
+    "company": [
+        {
+            "name": "이용 약관",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "개인 정보 정책",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "면책 조항",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "이 글자로 된 여섯 글자 단어",
+            "url": "/ko/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 다섯 글자 단어",
+            "url": "/ko/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 일곱 글자 단어",
+            "url": "/ko/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "다음 문자로 된 네 글자로 된 단어",
+            "url": "/ko/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 세 글자 단어",
+            "url": "/ko/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 두 글자 단어",
+            "url": "/ko/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 여덟 글자 단어",
+            "url": "/ko/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 9 글자 단어",
+            "url": "/ko/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 10 글자 단어",
+            "url": "/ko/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 11 글자 단어",
+            "url": "/ko/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자로 된 열두 글자 단어",
+            "url": "/ko/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "이 글자와 함께 13자로 된 단어",
+            "url": "/ko/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "워드 게임 생성기 온라인",
+            "url": "/ko/word-game-generator-online"
+        },
+        {
+            "name": "단어 솔버",
+            "url": "/ko/wordle-solver"
+        },
+        {
+            "name": "이 글자로 단어 만들기",
+            "url": "/ko/make-words-with-these-letters"
+        },
+        {
+            "name": "편지에서 단어 생성기",
+            "url": "/ko/word-generator-from-letters"
+        },
+        {
+            "name": "다음 글자로 된 단어 ",
+            "url": "/ko/words-spelled-with-these-letters"
+        },
+        {
+            "name": "이 글자와 공백으로 철자를 쓸 수 있습니까?",
+            "url": "/ko/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "다음 글자와 공백 2개가 있는 단어",
+            "url": "/ko/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "다음 글자와 공백 3개가 있는 단어",
+            "url": "/ko/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "페이스북"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "인스타그램"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "링크든"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "트위터"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

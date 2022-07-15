@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Listy słów",
+                "links": [
+                    {
+                        "name": "Słowo Generator gier Online",
+                        "url": "/pl/word-game-generator-online"
+                    },
+                    {
+                        "name": "Rozwiązanie Wordle",
+                        "url": "/pl/wordle-solver"
+                    },
+                    {
+                        "name": "Twórz słowa za pomocą tych liter",
+                        "url": "/pl/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Generator słów z listów",
+                        "url": "/pl/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Słowa pisane tymi literami ",
+                        "url": "/pl/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Ile słów możesz zrobić z tych liter",
+                        "url": "/pl/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Jakie słowa mogę przeliterować tymi literami i pustym",
+                        "url": "/pl/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Słowa z tymi literami i 2 puste miejsca",
+                        "url": "/pl/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Słowa z tymi literami i 3 puste miejsca",
+                        "url": "/pl/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Słowa długości",
+                "links": [
+                    {
+                        "name": "Sześcioliterowe słowa z tymi literami",
+                        "url": "/pl/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Pięcioliterowe słowa z tymi literami",
+                        "url": "/pl/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Siedmioliterowe słowa z tymi literami",
+                        "url": "/pl/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Czteroliterowe słowa z tymi literami",
+                        "url": "/pl/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Trzyliterowe słowa z tymi literami",
+                        "url": "/pl/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dwuliterowe słowa z tymi literami",
+                        "url": "/pl/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Osiem liter z tymi literami",
+                        "url": "/pl/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dziewięcioliterowe słowa z tymi literami",
+                        "url": "/pl/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dziesięć słów literowych z tymi literami",
+                        "url": "/pl/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Jedenaście słów literowych z tymi literami",
+                        "url": "/pl/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dwanaście słów literowych z tymi literami",
+                        "url": "/pl/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Trzynaście słów literowych z tymi literami",
+                        "url": "/pl/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X litery słowa z tymi literami i puste",
+                "links": [
+                    {
+                        "name": "12 słowa literowe z tymi literami i puste",
+                        "url": "/pl/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 słowa literowe z tymi literami i puste",
+                        "url": "/pl/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 słowa literowe z tymi literami i puste",
+                        "url": "/pl/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 słowa literowe z tymi literami i puste",
+                        "url": "/pl/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 słowa literowe z tymi literami i puste",
+                        "url": "/pl/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 słowa literowe z tymi literami i puste",
+                        "url": "/pl/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 słowa literowe z tymi literami i puste",
+                        "url": "/pl/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 słowa literowe z tymi literami i puste",
+                        "url": "/pl/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 słowa literowe z tymi literami i puste",
+                        "url": "/pl/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 słowa literowe z tymi literami i puste",
+                        "url": "/pl/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 słowa literowe z tymi literami i puste",
+                        "url": "/pl/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,364 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Trình tạo từ từ chữ cái- Tạo từ với bất kỳ chữ cái nào dễ dàng",
+    "h1": "Trình tạo từ: Tạo các từ chứa các chữ cái này",
+    "h2": "Nhập các chữ cái dưới đây và tìm hiểu có bao nhiêu từ có thể được tạo bằng cách sử dụng trình tạo từ đám mây này",
+    "meta": "Bạn có thể dễ dàng tạo các từ ngẫu nhiên với trình tạo từ dễ sử dụng này từ công cụ chữ cái. Chỉ với một cú nhấp chuột, bạn có thể tạo các từ mới từ các chữ cái hiện có của mình. San lấp lên trò chơi chữ của bạn!",
+    "featureNo": "02",
+    "feature_title": "Các tính năng",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "CÂU HỎI THƯỜNG GẶP",
+    "aboutNo": "05",
+    "about_title": "Giới thiệu",
+    "featureList": [
+        {
+            "feature_heading": "Danh sách từ tiểu thuyết",
+            "feature_text": "Bạn không có bảng trò chơi hoặc thẻ xung quanh, nhưng bạn vẫn muốn chơi trò chơi Pictionary với bạn bè của mình? Trình tạo từ này là công cụ hoàn hảo để giúp bạn làm điều này. Sử dụng các tùy chọn nâng cao, bạn có thể chọn loại từ nào sẽ được hiển thị.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trò chơi Wordle",
+            "feature_text": "Đấu tranh tại Wordle? Bây giờ bạn có thể làm chủ trò chơi chữ cực kỳ phổ biến này. Tạo một danh sách các từ với công cụ này. Trình tạo từ từ công cụ chữ cái cho phép bạn điều chỉnh các thông số của các từ ngẫu nhiên để phù hợp nhất với nhu cầu của bạn",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trình tạo từ cho các chữ cái được ghi nhiều nhất",
+            "feature_text": "Bây giờ hãy tạo từ với các chữ cái này a, s, i, d, e càng nhanh càng tốt!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trình tạo từ cho giải đấu của các chữ cái khó khăn",
+            "feature_text": "Tạo từ với những chữ cái khó khăn như j, k, x bằng cách sử dụng trình tạo từ miễn phí của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trình tạo từ đơn giản, trực quan và thân thiện với người dùng",
+            "feature_text": "Nhập các chữ cái trên bảng của bạn và ở đó bạn nhận được một loạt các từ được đánh vần bằng các chữ cái này.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra ngay cả những từ khó nhất",
+            "feature_text": "Nhận một nhóm các từ ghi điểm cao trong vài giây với trình tạo từ miễn phí của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Công cụ Word Generator làm gì?",
+            "Answer": "Công cụ tạo từ của chúng tôi tự động tạo ra các từ có ý nghĩa từ các chữ cái mà người dùng của chúng tôi nhập vào.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Làm thế nào để sử dụng công cụ Word Generator?",
+            "Answer": "Sử dụng công cụ Word Generator của chúng tôi rất đơn giản. Tất cả những gì bạn phải làm là nhập các chữ cái bạn muốn tạo ra từ. Bạn có thể nhập tối đa 15 chữ cái cùng một lúc. Tiếp theo, chọn loại từ điển bạn muốn sử dụng cho các từ được tạo ra - các tùy chọn có sẵn là “Từ điển”, TWL06 (Mỹ, Canada, Thái Lan), SOWPODS (Vương quốc Anh và các tùy chọn khác) và Bật (Từ với bạn bè). Sau đó, bạn có thể bật tùy chọn Bộ lọc nâng cao. Sau đó nhấp vào nút tìm kiếm, đó là kính lúp. Và thì đấy! Công cụ của chúng tôi sẽ tạo ra số lượng từ tối đa có thể từ các chữ cái đã nhập cho bạn.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể nhập bao nhiêu chữ cái cho công cụ tạo ra các từ từ chữ cái?",
+            "Answer": "Bạn có thể nhập tối đa 15 chữ cái trong công cụ của chúng tôi, để tạo ra các từ từ chữ cái.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có phải trả tiền để sử dụng công cụ này không?",
+            "Answer": "Không, công cụ của chúng tôi hoàn toàn miễn phí để sử dụng. Bạn không cần phải trả tiền cho chúng tôi để sử dụng công cụ.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tại sao tôi cần tạo từ?",
+            "Answer": "Bạn có thể cần tạo từ nếu bạn đang chơi các trò chơi chữ cạnh tranh, như Wordle hoặc Scrabble. Bạn cũng có thể cần gỡ bỏ các từ, và công cụ của chúng tôi sẽ giúp bạn với điều đó.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Công cụ này có thể giúp đỡ với các trò chơi chữ như Wordle và Scrabble không?",
+            "Answer": "Vâng hoàn toàn. Nếu bạn cần bất kỳ sự trợ giúp nào trong khi chơi các trò chơi chữ như Scrabble và Wordle, công cụ Word Creator của chúng tôi là con đường để đi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể giải quyết những từ lộn xộn với sự trợ giúp của công cụ này không?",
+            "Answer": "Tất nhiên. Công cụ của chúng tôi sẽ giúp bạn giải quyết các từ lộn xộn một cách dễ dàng. Tất cả những gì bạn cần làm là nhập các chữ cái trong từ lộn xộn, chỉ định độ dài từ bạn mong muốn và công cụ của chúng tôi sẽ cung cấp cho bạn tất cả các từ có thể. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Các tùy chọn từ điển khác nhau có sẵn là gì?",
+            "Answer": "Trong công cụ này, bạn có thể chọn loại từ điển bạn muốn sử dụng cho các từ được tạo ra - các tùy chọn có sẵn là “Từ điển”, TWL06 (Mỹ, Canada, Thái Lan), SOWPODS (Vương quốc Anh và những người khác) và Bật (Từ với bạn bè).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Làm thế nào tôi có thể sử dụng các bộ lọc nâng cao?",
+            "Answer": "Các bộ lọc nâng cao trong công cụ của chúng tôi bao gồm tùy chọn để bạn chỉ định các chữ cái mà các từ kết quả phải bắt đầu hoặc kết thúc bằng, các chữ cái nào phải chứa, chữ cái nào bạn muốn loại trừ công cụ và độ dài từ mong muốn là bao nhiêu. Tất cả những gì bạn cần làm là chỉ cần nhấp vào nút bộ lọc nâng cao và nhập dữ liệu như bạn mong muốn.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể chỉ định độ dài từ không?",
+            "Answer": "Có, bạn có thể sử dụng phần bộ lọc nâng cao của công cụ của chúng tôi để chỉ định số lượng chữ cái mà bạn cần phải có.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể loại trừ một số ký tự nhất định không?",
+            "Answer": "Có, bạn có thể sử dụng phần bộ lọc nâng cao của công cụ của chúng tôi để chỉ định các chữ cái bạn không muốn các từ có.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể chỉ định các ký tự bắt buộc không?",
+            "Answer": "Có, bạn có thể sử dụng phần bộ lọc nâng cao của công cụ của chúng tôi để chỉ định các chữ cái bạn chắc chắn muốn các từ có.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi có thể chỉ định chữ cái nào các từ nên bắt đầu hoặc kết thúc bằng không?",
+            "Answer": "Có, bạn có thể sử dụng phần bộ lọc nâng cao của công cụ của chúng tôi để chỉ định những chữ cái bạn muốn từ của mình bắt đầu cũng như kết thúc bằng.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Sử dụng công cụ Word Creator có an toàn không?",
+            "Answer": "Word Generator là một trong những công cụ trực tuyến miễn phí an toàn và an toàn nhất. Nó không có liên kết có hại hoặc quảng cáo không mong muốn. Nó hoàn toàn không gặp sự cố và thực hiện công việc của nó hoàn toàn tốt. Đồng thời, nó không lưu bất kỳ dữ liệu người dùng nào. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trong khi sử dụng công cụ này, có quảng cáo nào bật lên không?",
+            "Answer": "Vì chúng tôi giữ cho trang web của chúng tôi hoàn toàn miễn phí để sử dụng, quảng cáo là những gì giúp chúng tôi duy trì trang web. vì vậy, bạn sẽ thấy một vài quảng cáo xuất hiện khi bạn sử dụng trang web của chúng tôi. Nhưng chúng tôi có thể đảm bảo rằng nó sẽ không làm giảm chất lượng hoặc thời gian kết quả.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Công cụ này sẽ lưu dữ liệu của tôi vào máy chủ?",
+            "Answer": "Trình tạo Word trực tuyến miễn phí của chúng tôi không lưu bất kỳ dữ liệu người dùng nào. Nó là hoàn toàn an toàn để sử dụng. Bất kỳ điều gì mà người dùng có thể tải lên trang web của chúng tôi sẽ bị xóa khỏi đám mây của chúng tôi trong một khoảng thời gian rất ngắn.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nó cần bao nhiêu thời gian để làm cho các từ có chữ cái?",
+            "Answer": "Chỉ mất vài giây để Trình tạo Word miễn phí của chúng tôi thực hiện công việc của mình. Nó nhanh chóng tạo ra các từ từ các chữ cái được chỉ định. Kết quả nhanh chóng và chính xác 100%.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tôi sẽ phải đăng ký hoặc đăng nhập để sử dụng công cụ Word Generator này không?",
+            "Answer": "Không cần đăng ký hoặc đăng nhập trên trang web của chúng tôi. Bạn có thể sử dụng Word Creator trực tuyến của chúng tôi miễn phí và không có bất kỳ lời nhắc nào để đăng ký.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ có hoạt động trên điện thoại di động không?",
+            "Answer": "Vâng. Tính năng tạo từ miễn phí của chúng tôi hoạt động trên tất cả các nền tảng. Bạn có thể truy cập nó từ điện thoại di động của mình. Đơn giản chỉ cần nhập các chữ cái bạn muốn trong lời nói của bạn, từ điện thoại của bạn và công cụ của chúng tôi sẽ làm công việc cho bạn.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nó có hỗ trợ cả nền tảng Android và iOS không?",
+            "Answer": "Có, công cụ Word Generator của chúng tôi và tất cả các công cụ khác hỗ trợ cả nền tảng Android và iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ có hoạt động trên máy tính và máy tính xách tay không?",
+            "Answer": "Vâng. Trình tạo Word trực tuyến của chúng tôi được chấp nhận trên tất cả các nền tảng. Bạn có thể sử dụng công cụ miễn phí này trên trang web của bạn từ máy tính của bạn và máy tính xách tay của bạn là tốt. Nó hỗ trợ cả Windows và Mac. Tất cả những gì bạn cần làm là nhập tối đa 15 chữ cái, chỉ định loại Từ điển, thêm bộ lọc nâng cao nếu cần và đó là tất cả. Các từ sẽ được tạo ra từ những chữ cái đó chính xác theo hướng dẫn của bạn.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Công cụ Word Generator hỗ trợ phiên bản Windows nào?",
+            "Answer": "Tính năng Word Generator của chúng tôi hoàn toàn dựa trên web. Bởi vì điều đó, nó cung cấp cho người dùng của chúng tôi hỗ trợ đa nền tảng. Điều này có nghĩa là công cụ của chúng tôi hỗ trợ tất cả các phiên bản Windows. Nói chung hơn, nó hỗ trợ tất cả các phiên bản của tất cả các hệ điều hành.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo thư đến từ bằng cách sử dụng các chữ cái CHƠI",
+            "Answer": "Tất cả các chữ cái có thể để tạo từ bằng cách sử dụng chữ CHƠI như sau chơi, gainly, đặt, paling, trả tiền, nhân, algin, align, aping, gaily, inlay, lapin, liang, ligan, linga, lingy, nằm, đồng bằng, agin, agly, anil, ayin, đạt được, gapy, glia, inly, linin, lang, ling, y, lipa, móng tay, nipa, thùng, đau, nhạt màu, Pang, Pial, Pian, Pily, Pina, Ping, Piny, kế hoạch, chơi, Pyin, Yagi, dương, ail, ain, Alp, ani, bất kỳ, gal, Gan, Gan, Gap, gay, gin, Gip, Gyp, lag, lap, lay, lin, môi, nag, nag, nag, nag, nap, nay, nil, nip, pal,, trả tiền, pia, lợn, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, trong, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Thư đến trình tạo từ bằng cách sử dụng các chữ cái CƠ QUAN",
+            "Answer": "Tất cả các chữ cái có thể để tạo từ bằng cách sử dụng cơ quan thư như sau cơ quan, cagey, mụn trứng cá, lồng, cagy, mía, cyan, gaen, gane, gane, yang, yean, ace, tuổi, ane, bất kỳ, aye, can, cay, eng, gae, gan, gay, gen, gey, nae, nag, nay, yag, yea, yen, ae ag, an, ay, en, na, ne, ya, ye",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tất cả các trình tạo từ 5 chữ cái từ từ các chữ cái BLUETOOTH là gì?",
+            "Answer": "Tất cả 5 từ chữ cái có thể được tạo ra từ các chữ cái BLUETOOTH như sau bhoot, bluet, gian hàng, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, răng",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tất cả các trình tạo từ 5 chữ cái từ các chữ cái BEDSIDE là gì?",
+            "Answer": "Tất cả 5 từ chữ cái có thể được tạo ra từ các chữ cái BEDSIDE như sau bided, bides, hành động, sided",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tất cả các trình tạo từ bốn chữ cái với các chữ cái nằm là gì?",
+            "Answer": "Tất cả bốn từ chữ cái có thể được tạo ra với các chữ cái nằm như sau inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Tất cả các trình tạo từ 4 chữ cái với các chữ cái TABLETOP là gì?",
+            "Answer": "Tất cả 4 chữ cái có thể được tạo ra với các chữ cái TABLETOP là như sau abet, có thể, lô hội, alto, top, bale, bate, batt, beat, belt, beta, blae, blat, blet, blot, thuyền, bola, bole, bolt, bota, bott, muộn, nhảy, lept, thùy, lope, oplota, olea, al, nhợt nhạt, pate, peal, than bùn, pelt, plat, plea, pleb, cốt truyện, nhà thơ, cực, tael, câu chuyện, băng, tate, mòng kè, teat, vải, vải, toea, tola, tole, tope, tote",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những gì sẽ là trình tạo từ với các chữ cái tiêu cực?",
+            "Answer": "Nếu bạn đang tìm kiếm một trình tạo từ thì bạn đang ở đúng nơi. Trong trường hợp này tất cả các chữ cái có thể được tạo ra bằng cách sử dụng các chữ cái tiêu cực như sau cơ quan, tiêu cực, naivete, ventage, cổ điển, trả thù, ăn, geneva, ingate, bản địa, phủ định, teeing, teniae, agene, đại lý, ăn, enate, entia, sự kiện, evite, ganev, genet, genie, giant, cho, naevi, ngây thơ, nieve, tenia, tinea, tinge, veena, vegan, vegie, venae, venae, vitae, agee, agin, ante, anti, eave, etna, thậm chí, gaen, gain, gane, gate, gave, gen, gent, geta, gien, gite, gien, gite, cho, gnat, nave, gọn gàng, neve, nevi, nite, tain,, thiếu niên, tine, Ting, Vain, Vain, Cánh, vang, tĩnh mạch, vena, lỗ thông hơi, Viga, vina, cây nho, cuộc sống, tuổi, ain, Ait, ane, Ani, kiến, đã ăn, Ave, ăn, eng, Et, eve, Gae, Gan, Gat, Gee, Gen, nhận được, gie, gie, gin, git, nae, nag, nee, net, nit, tae, tag, tan, tav, trà, tee, teg, mười, cà vạt, Tin, Van, Vat, Vee, Veg, Veg, Veg, via, vie, vig, ae, ag, ai, an, at, en, et, gi, trong, nó, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Những gì sẽ là trình tạo từ với các chữ cái TÍCH CỰC?",
+            "Answer": "Nếu bạn đang tìm kiếm một trình tạo từ thì bạn đang ở đúng nơi. Trong trường hợp này tất cả các chữ cái có thể được tạo ra bằng cách sử dụng các chữ cái tích cực như sau tích cực, pities, pivot, potsie, sopite, Xô viết, estop, ivies, pesto, piste, pivot, nhà thơ, đĩnh đạc, posit, spite, stipe, stope, bếp, tipis, topes, topes, topis, thăm, phiếu bầu, epos, opes, opes, tùy chọn, sâu bệnh, vật nuôi, bánh nướng, piso, hố, nhà thơ, pois, Tư thế, bài viết, chậu, Tháng Chín, Sipe, Trang web, nhổ, Spiv, tại chỗ, Bước, dừng lại, quan hệ, loại, lời khuyên, Ngón chân, Topi, topi, topi, vest, phủ quyết, Veto, Ves, Vies, Vise, Voes, bỏ phiếu, nó, Oes, Ope, Ops, Ops, OPS, OPS, OE, Pes, thú cưng, bánh, pis, hố, poi, nồi, psi, Sei, đặt, sip, ngồi, sop, sot, cà vạt, mẹo, tis, ngón chân, đầu, vet, vie, vis, voe, es, et, là, nó, oe, oi, op, os, pe, pi, si, vì vậy, ti, để",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ sử dụng chữ FALLOUT",
+            "Answer": "Tất cả những từ đó có thể được tạo ra bằng cách sử dụng các chữ cái Fallout là như sau fallout outfall afoul phân bổ trên đảo san hô lỗi nổi flota flout alto tự động rơi phẳng foal foul đầy đủ latu loaf loft lota lout olla cao đậu phụ tola tola toll toll tufa aft tất cả alt fat cúm fou lat lot oaf oft ra tao tau uta al at fa la lo of ta để ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ sử dụng chữ GLOWING",
+            "Answer": "Tất cả các từ có thể được tạo ra bằng cách sử dụng các chữ cái phát sáng như sau phát sáng, phát sáng, ogling, đi, lingo, ow, phát sáng, chiêng, áo choàng, ling, lino, lion, loin, long, lown, nogg, noil, wing, wino, gig, gig, igg, ion, lin, log, low, nil, nog, now, oil, owl, riêng, tóc giả, giành chiến thắng, thắng, gi, đi, trong, li, lo, không, oi, on, ow",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ có chữ FULLFORM",
+            "Answer": "Tất cả các từ có thể có thể được tạo ra từ các từ FULLFORM như sau hình thức, bột, fluor, diễn đàn, hình thức, hôi, bốn, từ, đầy đủ, furl, lour, luff, moll, muff, mull, rolf, cuộn, ruff, cúm, cho, fou, fro, lông, lum, mol, mor, tắt, của chúng tôi, rom,, lo, mo, mu, của, om, hoặc, um",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ có chứa chữ cái BLACK",
+            "Answer": "Tất cả các từ có thể có thể được tạo ra từ các từ BLACK như sau đen, lưng, balk, calk, thiếu, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Làm thế nào bạn có thể có được một trình tạo chữ 7 từ các chữ cái RAINFOREST?",
+            "Answer": "Nó khá đơn giản. Tất cả những gì bạn phải làm là đề cập đến tất cả các chữ cái mà bạn muốn tạo một từ và nhấp vào Enter. Chúng tôi có giới hạn 15 chữ cái. Vì vậy, trong trường hợp bạn muốn tạo ra bảy từ chữ cái thì tất cả những gì bạn phải làm là đề cập đến các chữ cái mong muốn của bạn lớn hơn hoặc bằng 7 và ít hơn 15 và nhấn enter. Bạn sẽ nhận được kết quả mong muốn của bạn trong vài giây. Trong trường hợp này tất cả 7 từ chữ cái mà bạn có thể tạo bằng cách sử dụng các chữ cái RAINFOREST như sau anestri, antsier, aroints, artsier, atoners, atonies, erasion, errant, fainest, fainter, fairest, foreran, forints, bốn mươi, fraters, fronter, frontes, infares, insofar, ironers, nastier, nastier, orites, oestrin, phương đông , lan can, ranters, ratines, khẩu phần, kiềm chế, refront, refront, retinas, retrain, retrain, retrain, rioters, roaster, roister, rotifer, thượng nghị sĩ, serrano, sierran, snifter, snorter, stainer, stearin, stonier, strafer, tarries, tarsier, địa hình, huấn luyện viên, phản bội",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Làm thế nào bạn có thể có được một trình tạo từ bảy chữ cái từ các chữ cái TROPICAL?",
+            "Answer": "Nó khá đơn giản. Tất cả những gì bạn phải làm là đề cập đến tất cả các chữ cái mà bạn muốn tạo một từ và nhấp vào Enter. Chúng tôi có giới hạn 15 chữ cái. Vì vậy, trong trường hợp bạn muốn tạo ra bảy từ chữ cái thì tất cả những gì bạn phải làm là đề cập đến các chữ cái mong muốn của bạn lớn hơn hoặc bằng 7 và ít hơn 15 và nhấn enter. Bạn sẽ nhận được kết quả mong muốn của bạn trong vài giây. Trong trường hợp này, tất cả bảy từ chữ cái mà bạn có thể tạo bằng cách sử dụng các chữ cái TROPICAL như sau mơ, aprotic, caltrop, capitol, coalpit, quang học, parotic, chuyên đề",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Trình tạo từ từ các chữ cái TRUCK",
+            "Answer": "Tất cả các từ có thể được tạo ra bằng cách sử dụng các chữ cái xe tải như sau xe tải, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Trình tạo từ từ các chữ cái AEIOU",
+            "Answer": "Tất cả các từ có thể được tạo ra bằng cách sử dụng các chữ cái AEIOU như sau eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,56 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trovare parole di 12 lettere con queste lettere - WordsWithLetters.org",
+    "h1": "Trovare parole di 12 lettere con queste lettere",
+    "h2": "Inserisci le lettere qui sotto per trovare le parole di 12 lettere",
+    "meta": "Stai ancora pensando a quante parole di dodici lettere puoi fare con queste lettere? Usa il nostro strumento per trovare parole di 12 lettere con queste lettere",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Porta una svolta nel tuo gioco. Genera parole di dodici lettere con queste lettere",
+            "feature_text": "Spesso questa lettera dodici trova la sua strada nei giochi di parole. Ma la cosa principale è che queste dodici parole con lettere a volte possono avere un punteggio elevato. Tuttavia puoi trovare il tuo salvataggio con il nostro word finder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera parole di dodici lettere con queste lettere",
+            "feature_text": "Il nostro wordfinder gratuito ti consente di trovare parole di dodici lettere e aiutarti a vincere la tua partita",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trovare qualsiasi parola numerata con la lettera Twelve in essa",
+            "feature_text": "Il cercatore di parole a dodici lettere ti consente di trovare tutte le parole con dodici lettere fino a 15 caratteri.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera anche le parole a dodici lettere più difficili a cui non riesci nemmeno a pensare.",
+            "feature_text": "Ottieni un pool di parole di dodici lettere con il punteggio più alto in pochi secondi con il nostro generatore di parole a dodici lettere gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

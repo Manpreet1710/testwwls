@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "รายการคำ",
+                "links": [
+                    {
+                        "name": "เครื่องกำเนิดไฟฟ้าเกม Word ออนไลน์",
+                        "url": "/th/word-game-generator-online"
+                    },
+                    {
+                        "name": "เวิร์ดเดิล โซลเวอร์",
+                        "url": "/th/wordle-solver"
+                    },
+                    {
+                        "name": "สร้างคำด้วยตัวอักษรเหล่านี้",
+                        "url": "/th/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "เครื่องกำเนิดไฟฟ้า Word จากตัวอักษร",
+                        "url": "/th/word-generator-from-letters"
+                    },
+                    {
+                        "name": "คำที่สะกดด้วยตัวอักษรเหล่านี้ ",
+                        "url": "/th/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "คุณสามารถทำจากตัวอักษรเหล่านี้ได้กี่คำ",
+                        "url": "/th/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "คำอะไรที่ฉันสามารถสะกดด้วยตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "คำที่มีตัวอักษรเหล่านี้และ 2 ช่องว่าง",
+                        "url": "/th/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "คำที่มีตัวอักษรเหล่านี้และ 3 ช่องว่าง",
+                        "url": "/th/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "คำของความยาว",
+                "links": [
+                    {
+                        "name": "หกคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "ห้าคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "เจ็ดคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สี่คำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สามคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "คำสองตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "แปดคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "เก้าคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สิบคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สิบเอ็ดคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สิบสองคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "สิบสามคำตัวอักษรที่มีตัวอักษรเหล่านี้",
+                        "url": "/th/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X ตัวอักษรคำที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                "links": [
+                    {
+                        "name": "12 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 ตัวอักษรคำที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 ตัวอักษรคำที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 คำตัวอักษรที่มีตัวอักษรเหล่านี้และว่างเปล่า",
+                        "url": "/th/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

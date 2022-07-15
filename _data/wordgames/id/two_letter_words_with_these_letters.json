@@ -1,0 +1,116 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Temukan 2 kata huruf dengan huruf-huruf ini- WordsWithLetters.org",
+    "h1": "Temukan 2 huruf kata dengan huruf-huruf ini",
+    "h2": "Hasilkan Dua kata huruf dengan huruf-huruf ini",
+    "meta": "Masih memikirkan berapa banyak kata dua huruf yang bisa Anda buat dengan huruf-huruf ini? Gunakan alat kami untuk menemukan 2 kata huruf dengan huruf-huruf ini",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Bawa titik balik dalam permainan Anda. Hasilkan Dua kata huruf dengan huruf-huruf ini",
+            "feature_text": "Seringkali huruf ini dua menemukan jalannya dalam permainan kata. Tetapi yang utama adalah bahwa dua kata berhuruf ini terkadang bisa sangat mencetak gol. Namun Anda dapat menemukan penyelamatan Anda di dengan pencari kata kami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hasilkan Dua kata huruf dengan huruf-huruf ini",
+            "feature_text": "Pencari kata gratis kami memungkinkan Anda menemukan Dua kata huruf dan membantu Anda memenangkan permainan Anda",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Temukan kata bernomor dengan huruf dua di dalamnya",
+            "feature_text": "Pencari kata dua huruf memungkinkan Anda menemukan semua Dua kata berhuruf hingga 15 karakter.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan bahkan dua kata berhuruf terberat yang bahkan tidak dapat Anda pikirkan.",
+            "feature_text": "Dapatkan kumpulan skor tinggi dua kata berhuruf dalam hitungan detik dengan penghasil kata dua huruf gratis kami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

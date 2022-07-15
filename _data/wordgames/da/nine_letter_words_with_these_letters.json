@@ -1,0 +1,56 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde 9 brev ord med disse bogstaver - Wordswithletters.org",
+    "h1": "Find ord på ni bogstaver med disse bogstaver",
+    "h2": "Indtast bogstaverne nedenfor for at finde 9 bogstavsord med disse bogstaver",
+    "meta": "Tænker stadig på, hvor mange ni-bogstaver ord kan du lave med disse bogstaver? Brug vores værktøj til at finde 9 bogstavsord med disse bogstaver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Medbring et vendepunkt i dit spil. Generer ni bogstavsord med disse bogstaver",
+            "feature_text": "Ofte finder dette brev ni vej i ordspil. Men det vigtigste er, at disse ni bogstaverord undertiden kan være meget scorende. Du kan dog finde din redning på med vores ordfinder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generer ni bogstavsord med disse bogstaver",
+            "feature_text": "Vores gratis wordfinder giver dig mulighed for at finde ord på ni bogstaver og hjælpe dig med at vinde dit spil",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Find et nummereret ord med bogstav ni i det",
+            "feature_text": "Ni bogstavord finder giver dig mulighed for at finde alle ni bogstaver ord op til 15 tegn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer selv de hårdeste ni bogstaver ord, du ikke engang kan tænke på.",
+            "feature_text": "Få en pulje med højt scorende ni bogstaver på få sekunder med vores gratis ordgenerator med ni bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

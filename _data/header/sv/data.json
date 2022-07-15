@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Ord listor",
+                "links": [
+                    {
+                        "name": "Ord spel Generator Online",
+                        "url": "/sv/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wordle Lösare",
+                        "url": "/sv/wordle-solver"
+                    },
+                    {
+                        "name": "Gör ord med dessa bokstäver",
+                        "url": "/sv/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Ordgenerator från bokstäver",
+                        "url": "/sv/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Ord stavade med dessa bokstäver ",
+                        "url": "/sv/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Hur många ord kan du göra från dessa bokstäver",
+                        "url": "/sv/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Vilka ord kan jag stava med dessa bokstäver och ett tomt",
+                        "url": "/sv/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Ord med dessa bokstäver och 2 ämnen",
+                        "url": "/sv/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Ord med dessa bokstäver och 3 ämnen",
+                        "url": "/sv/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Ord av längd",
+                "links": [
+                    {
+                        "name": "Sex bokstäver ord med dessa bokstäver",
+                        "url": "/sv/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Fem bokstäver med dessa bokstäver",
+                        "url": "/sv/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Sju bokstäver med dessa bokstäver",
+                        "url": "/sv/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Fyra bokstäver med dessa bokstäver",
+                        "url": "/sv/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tre bokstäver med dessa bokstäver",
+                        "url": "/sv/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Två bokstäver med dessa bokstäver",
+                        "url": "/sv/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Åtta bokstavsord med dessa bokstäver",
+                        "url": "/sv/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Nio bokstavsord med dessa bokstäver",
+                        "url": "/sv/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tio bokstäver med dessa bokstäver",
+                        "url": "/sv/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Elva bokstavsord med dessa bokstäver",
+                        "url": "/sv/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tolv bokstavsord med dessa bokstäver",
+                        "url": "/sv/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tretton bokstavsord med dessa bokstäver",
+                        "url": "/sv/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X bokstavsord med dessa bokstäver och ett tomt",
+                "links": [
+                    {
+                        "name": "12 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 bokstavsord med dessa bokstäver och en tom",
+                        "url": "/sv/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 bokstavsord med dessa bokstäver och ett tomt",
+                        "url": "/sv/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

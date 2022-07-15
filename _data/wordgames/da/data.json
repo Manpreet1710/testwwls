@@ -1,0 +1,54 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "title": "Løs Wordle nemt i minimum gæt",
+    "h1": "Løs dagens Wordle ved at indtaste bogstaver, der hidtil er brugt",
+    "h2": "Angiver bogstaver i gråt, gult og grønt for at se potentielle ord",
+    "meta": "Indtast bogstaver i gråt, gul og grøn, og få en liste over matchende 5 bogstavord for at løse dagens Wordle i mimimumforsøg, og imponere dine venner",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Enkel at bruge",
+            "feature_text": "Wordle Solver er virkelig enkel at bruge. Du skal bare indtaste de grønne bogstaver i den første boks, den gule i anden række og de grå i den sidste række. Klik på opdatering for at se alle de mulige ord, der kan laves fra de indtastede bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "øjeblikkelige resultater",
+            "feature_text": "Resultaterne vises snart du indtaster bogstaverne og klikker på update.You behøver ikke at vente på generering af resultater.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Cross Platform",
+            "feature_text": "Vores hjemmeside er platforuafhængig. Det fungerer på både Window og iOS operativsystemer og kan bruges uden nogen downloads kræves.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Flere svar",
+            "feature_text": "Wordle Solver giver dig alle mulige ord, der kan laves ved hjælp af de bogstaver, du har indtastet. Mulighederne er uendelige. Tag gæt og indtast bogstaverne i vores Wordle Solver. Du får alle de mulige ord og får dig til at vinde spillet med minimale forsøg.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Sikker og sikker",
+            "feature_text": "Vores hjemmeside prioriterer sine kunders privatliv og sikkerhed. Hjemmesiden er virusfri og beder ikke om nogen id'er eller registreringer. Dine data er sikre hos os!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Helt gratis",
+            "feature_text": "Kom foran mængden ved at løse ord hver dag. Del resultaterne med dine venner og familie, og bliv Wordle Champion med vores Wordle-løser. Du kan bruge vores hjemmeside så mange gange, som du vil, og du vil ikke blive opkrævet for at bruge vores tjenester.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

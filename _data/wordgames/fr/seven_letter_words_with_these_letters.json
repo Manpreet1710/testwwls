@@ -1,0 +1,106 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trouvez des mots de 7 lettres avec ces lettres- WordWithLetters.org",
+    "h1": "Trouvez des mots de 7 lettres avec ces lettres",
+    "h2": "Entrez les lettres ci-dessous pour trouver des mots de 7 lettres",
+    "meta": "Vous pensez toujours au nombre de mots de sept lettres que vous pouvez créer avec ces lettres ? Utilisez notre outil pour trouver des mots de 7 lettres contenant ces lettres",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Apportez un tournant décisif à votre jeu. Générez des mots de sept lettres avec ces lettres",
+            "feature_text": "Souvent, cette lettre sept trouve sa place dans les jeux de mots. Mais l'essentiel est que ces mots à sept lettres peuvent parfois être très bien notés. Cependant, vous pouvez trouver votre secours à l'aide de notre outil de recherche de mots.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Générez des mots de sept lettres avec ces lettres",
+            "feature_text": "Notre outil de recherche de mots gratuit vous permet de trouver des mots de sept lettres et de vous aider à gagner votre partie",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trouvez n'importe quel mot numéroté contenant la lettre sept",
+            "feature_text": "L'outil de recherche de mots à sept lettres vous permet de trouver tous les mots à sept lettres jusqu'à 15 caractères.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Génère même les mots de sept lettres les plus durs auxquels vous ne pouvez même pas penser.",
+            "feature_text": "Obtenez un pool de mots de sept lettres avec un score élevé en quelques secondes grâce à notre générateur de mots à sept lettres gratuit.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

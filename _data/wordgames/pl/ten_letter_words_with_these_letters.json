@@ -1,0 +1,56 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znajdź 10 liter słów z tymi literami - WordsWithLetters.org",
+    "h1": "Znaleźć 10 liter słów z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć dziesięcioliterowe słowa",
+    "meta": "Wciąż zastanawiasz się, ile dziesięcioletnich słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 10 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Generuj dziesięcioliterowe słowa z tymi literami",
+            "feature_text": "Często ta litera dziesiąta znajduje swoją drogę w grach słownych. Ale najważniejsze jest to, że te dziesięć słów z literami może czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuj dziesięcioliterowe słowa z tymi literami",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć dziesięcioliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Dziesięć",
+            "feature_text": "Dziesięcioliterowa wyszukiwarka słów pozwala znaleźć wszystkie Dziesięć liter do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze dziesięć słów z literami, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę dziesięciu słów z wysokimi punktami w sekundach dzięki naszemu bezpłatnemu dziesięcioliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

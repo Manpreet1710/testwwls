@@ -1,0 +1,139 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "title": "Ord med disse bogstaver og 3 Blank- WordswithLetters",
+    "h1": "Ord med disse bogstaver og 3 emner",
+    "h2": "Indtast bogstaverne nedenfor for at finde ord med bogstaver og 3 emner",
+    "meta": "Har du 3 tomme fliser og spekulerer på, hvad de skal gøre? Bare rolig, vi har dækket dig. Find alle de mulige kombinationer af ord, der kan dannes med 3 tomme fliser med ordmedbogstaver nemt.",
+    "featureNo": "02",
+    "feature_title": "Funktioner",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "OFTE STILLEDE SPØRGSMÅL",
+    "aboutNo": "05",
+    "about_title": "Om",
+    "featureList": [
+        {
+            "feature_heading": "Helt gratis!",
+            "feature_text": "Vores platform er helt gratis at bruge. Vi har absolut ingen annoncer på vores hjemmeside, som giver dig mulighed for at fokusere på, hvad du kom her for.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nem filter og sortering",
+            "feature_text": "Du kan nemt sortere og filtrere resultaterne efter din bekvemmelighed. Denne funktion er virkelig nem at bruge og vil hjælpe dig med at få det ønskede resultat næsten øjeblikkeligt.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Indtast op til 15 bogstaver",
+            "feature_text": "Du kan indtaste op til 15 bogstaver (inklusive det tomme) i det angivne rum for at finde de maksimale ord, der kan dannes med de indtastede bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer det bedste resultat",
+            "feature_text": "Ord med bogstaver genererer de bedste resultater, de højeste scoring ord i et Scrabble spil. Din gevinst er garanteret.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Let at bruge",
+            "feature_text": "Ord med disse bogstaver og 3 emner er virkelig enkle at bruge, og alle ord af enhver længde, der kan dannes med de indtastede bogstaver vises i resultatet.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Hvordan kan jeg bruge indstillingen Avanceret filter?",
+            "Answer": "For at bruge den avancerede filterindstilling skal du blot klikke på Avancerede filtre. Udfyld dine muligheder som ord starter med, præfiks, hvilke bogstaver eller ord det skal medtage, hvad det indeholder, hvad dit ord Slut med, suffikset, længden af ordet og klik på Anvend.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvad er ordbogsindstillingerne tilgængelige?",
+            "Answer": "Vores hjemmeside giver dig mulighed for at tage hensyn til tre ordbøger og dermed øge dine chancer for at finde flere ord, der giver mening. De ordbog muligheder, der er tilgængelige hos os, er Ordbog, TWLO6 (USA, Canada og Thailand), SOWPODS (UK og andre) og Aktiver (Ord med venner)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jeg sortere søgeresultaterne?",
+            "Answer": "Ja, når resultaterne vises, i henhold til antallet af resultater, der genereres, vises sorteringsfunktionen med på skærmen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvad er sorteringsmulighederne tilgængelige?",
+            "Answer": "Vi tilbyder flere sorteringsmuligheder. Du kan sortere søgeresultaterne fra A-Z og fra Z-A. Vi har også en mulighed, hvor resultaterne er sorteret efter de point, de tjener på en scrabble bord fra højeste til laveste.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jeg vide, hvor mange point vil ordet score i et ordspil?",
+            "Answer": "Ja, absolut. Vores hjemmeside giver dig ikke kun alle de mulige ordformationer fra de ord, du indtaster, men viser også de punkter, du vil score, hvis du bruger dette ord i et spil. Det nummer, der vises i nederste højre hjørne af hvert ord, er de punkter, du får fra ordet.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvilke ord kan dannes ved hjælp af bogstaver fra „afspilning“ og 3 emner?",
+            "Answer": "Alle mulige brev til ord med bogstaver ved hjælp af bogstavet AFSPILNING er som følger spiller, lønnede, æglæggende, paling, betale, plying, algin, align, aping, glædelig, indlæg, lapin, liang, ligan, linga, lingy, liggende, plain, agin, agly, anil, ayin, gevinst, gapy, glia, inly, læng, lang, ling, liny, lipa, søm, nipa, spand, smerte, bleg, pang, pial, pian, pily, pina, ping, piny, plan, spille, pyin, yagi, yang, ail, ain, alp, ani, enhver, gal, gan, hul, bøsse, gin, gip, gyp, forsinkelse, skød, lå, lin, læbe, nag, lur, nej, nul, nip, pal, pan, betale, pia, gris, pin, lags, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, i, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvad er alle de 5 bogstavord, der kan dannes af bogstaverne BEDSIDE?",
+            "Answer": "Alle de 5 bogstaver ord, der kan genereres fra bogstaverne BEDSIDE er som følger bided, bud, gerninger, sidet",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvilke ord kan dannes ved hjælp af bogstaver fra „negative“ og 3 emner?",
+            "Answer": "Hvis du er på udkig efter et ord med bogstaver, så er du på det rigtige sted. I dette tilfælde alle de bogstaver, der kan oprettes ved hjælp af bogstaverne NEGATIVE, er som følger agentive, negative, naivete, ventage, vintage, hævne, spise, Geneve, indfødte, negere, teeing, teniae, agene, agent, spist, enate, entia, begivenhed, evite, ganev, genet, genie, gigant, givet, naevi, naiv, nieve, tenie ia, tinea, tinge, veena, veganer, vegie, venae, hævn, vitae, agee, agin, ante, anti, eave, etna, selv, gaen, gain, gangart, gane, gate, gav, gen, gent, Geta, gien, gite, give, myg, skib, pæn, neve, nevi, nite, tain, tang, teen, tine, ting, vagi, forgæves, vinge, vang, vene, vena, vent, viga, vina, vin, vita, alder, ain, ait, ane, ani, ant, spiste, ave, spise, eng, eta, eve, gae, gan, gat, gee, gen, få, gie, gin, git, nae, nag, nee, netto, nit, tae, tag, tan, tav, te, tee, teg, ti, slips, tin, van, vat, vee, veg, dyrlæge, via, vie, vig, ae, ag, ai, an, at, en, et, gi, i, det, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hvilke ord kan dannes ved hjælp af bogstaver fra „positive“ og 3 emner?",
+            "Answer": "Hvis du er på udkig efter et ord med bogstaver, så er du på det rigtige sted. I dette tilfælde alle de bogstaver, der kan oprettes ved hjælp af bogstaverne POSITIVE er som følger positive, tærter, pivots, potsie, sopite, sovjetiske, estop, Ivies, pesto, piste, pivot, digtere, poise, posit, trods, stipe, stope, komfur, tipis, topes, besøg, stemmer, epos, opes, peso,, skadedyr, kæledyr, tærter, piso, gruber, digter, pois, udgør, post, potter, sept, lamel, site, spytte, spiv, spot, trin, stop, slips, tipi, tips, tæer, tope, topi, toppe, vest, veto, dyrlæger, vies, skruestik, voes, stemme, dens, oes, ope, ops, opt, ose, pes, pet, pie, pis, pit, poi,, psi, sei, sæt, slurk, sidde, sop, sot, slips, tip, tis, tå, top, dyrlæge, vie, vis, voe, es, et, er, det, oe, oi, op, os, pe, pi, si, så, ti, til",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ord med bogstaver „nedfald“ og tre emner?",
+            "Answer": "Alle de ord, der kan genereres ved hjælp af bogstaverne FALLOUT er som følger nedfald udfald afoul tild allot allot atoll fejl float float flout alto auto falde fladt føl foul fuld latu loaf loft lota lout olla tall tofu tola tolu tufa agter alle fedt influenza fou lat lot havre oat oft ud tao tau uta al på fa la lo af ta til ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ord med bogstaver „glødende“ og tre emner?",
+            "Answer": "Alle de ord, der kan genereres ved hjælp af bogstaverne glødende er som følger glødende, lowing, ogling, går, lingo, på grund, glød, gong, kjole, ling, lino, løve, lænd, lang, lown, nogg, noil, wing, wino, gig, gin, igg, ion, lin, log, lav, nul, nog, nu, olie, ugle, egen, paryk, vinde, vandt, gi, gå, ind, li, lo, nej, oi, på, ow, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

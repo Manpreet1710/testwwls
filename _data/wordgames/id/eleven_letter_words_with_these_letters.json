@@ -1,0 +1,56 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Temukan 11 kata surat dengan surat-surat ini - WordsWithLetters.org",
+    "h1": "Temukan 11 kata huruf dengan huruf-huruf ini",
+    "h2": "Masukkan huruf di bawah ini untuk menemukan 11 kata huruf",
+    "meta": "Masih memikirkan berapa banyak kata sebelas huruf yang bisa Anda buat dengan huruf-huruf ini? Gunakan alat kami untuk menemukan 11 kata huruf dengan huruf-huruf ini",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Bawa titik balik dalam permainan Anda. Hasilkan Sebelas kata huruf dengan huruf-huruf ini",
+            "feature_text": "Seringkali huruf sebelas ini menemukan jalannya dalam permainan kata. Tetapi yang utama adalah bahwa sebelas kata berhuruf ini terkadang bisa sangat mencetak gol. Namun Anda dapat menemukan penyelamatan Anda di dengan pencari kata kami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hasilkan Sebelas kata huruf dengan huruf-huruf ini",
+            "feature_text": "Pencari kata gratis kami memungkinkan Anda menemukan Sebelas kata huruf dan membantu Anda memenangkan permainan Anda",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Temukan kata bernomor dengan huruf sebelas di dalamnya",
+            "feature_text": "Pencari kata sebelas huruf memungkinkan Anda menemukan semua kata berhuruf Sebelas hingga 15 karakter.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan bahkan sebelas kata berhuruf terberat yang bahkan tidak dapat Anda pikirkan.",
+            "feature_text": "Dapatkan kumpulan skor tinggi sebelas kata huruf dalam hitungan detik dengan pembuat kata sebelas huruf gratis kami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

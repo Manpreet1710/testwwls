@@ -1,0 +1,86 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Hitta 4 bokstavsord med dessa bokstäver - Wordswithletters.org",
+    "h1": "Hitta fyra bokstäver ord med dessa bokstäver",
+    "h2": "Ange bokstäver nedan för att hitta 4 bokstavsord",
+    "meta": "Tänker du fortfarande på hur många fyra bokstäver kan du göra med dessa bokstäver? Använd vårt verktyg för att hitta 4 bokstavsord med dessa bokstäver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Ta med en vändpunkt i ditt spel. Generera fyra bokstäver ord med dessa bokstäver",
+            "feature_text": "Ofta hittar denna bokstav fyra sin väg i ordspel. Men det viktigaste är att dessa fyra bokstäver ord ibland kan vara mycket poäng. Men du kan hitta din räddning på med vår ordsökare.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generera fyra bokstäver ord med dessa bokstäver",
+            "feature_text": "Vår gratis wordfinder låter dig hitta fyra bokstäver ord och hjälpa dig att vinna ditt spel",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hitta ett numrerat ord med bokstaven fyra i det",
+            "feature_text": "Fyra bokstäver ordsökare låter dig hitta alla fyra bokstäver upp till 15 tecken.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererar även de tuffaste fyra bokstäver ord du inte ens kan tänka på.",
+            "feature_text": "Få en pool med höga poäng med fyra bokstäver på några sekunder med vår gratis ordgenerator med fyra bokstäver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

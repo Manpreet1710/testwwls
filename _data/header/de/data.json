@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Wort-Listen",
+                "links": [
+                    {
+                        "name": "Wortspiel-Generator Online",
+                        "url": "/de/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wordle-Solver",
+                        "url": "/de/wordle-solver"
+                    },
+                    {
+                        "name": "Mache Wörter mit diesen Buchstaben",
+                        "url": "/de/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wortgenerator aus Buchstaben",
+                        "url": "/de/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Wörter, die mit diesen Buchstaben geschrieben wurden ",
+                        "url": "/de/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Wie viele Wörter kann man aus diesen Buchstaben machen?",
+                        "url": "/de/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Welche Wörter kann ich mit diesen Buchstaben und einem Leerzeichen buchstabieren",
+                        "url": "/de/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit diesen Buchstaben und 2 Leerzeichen",
+                        "url": "/de/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Wörter mit diesen Buchstaben und 3 Leerzeichen",
+                        "url": "/de/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Worte der Länge",
+                "links": [
+                    {
+                        "name": "Wörter mit sechs Buchstaben mit diesen Buchstaben",
+                        "url": "/de/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit fünf Buchstaben mit diesen Buchstaben",
+                        "url": "/de/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit sieben Buchstaben mit diesen Buchstaben",
+                        "url": "/de/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit vier Buchstaben mit diesen Buchstaben",
+                        "url": "/de/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit drei Buchstaben mit diesen Buchstaben",
+                        "url": "/de/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit zwei Buchstaben mit diesen Buchstaben",
+                        "url": "/de/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit acht Buchstaben mit diesen Buchstaben",
+                        "url": "/de/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Neun Buchstaben-Wörter mit diesen Buchstaben",
+                        "url": "/de/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit zehn Buchstaben mit diesen Buchstaben",
+                        "url": "/de/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit elf Buchstaben mit diesen Buchstaben",
+                        "url": "/de/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Wörter mit zwölf Buchstaben mit diesen Buchstaben",
+                        "url": "/de/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dreizehn Buchstabenwörter mit diesen Buchstaben",
+                        "url": "/de/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Wörter mit X Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                "links": [
+                    {
+                        "name": "Wörter mit 12 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 Buchstabenwörter mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 10 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 9 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 Buchstabenwörter mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 7 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 6 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 5 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 4 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 3 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Wörter mit 2 Buchstaben mit diesen Buchstaben und einem Leerzeichen",
+                        "url": "/de/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,346 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Combien de mots pouvez-vous créer avec ces lettres ?",
+    "h1": "Combien de mots pouvez-vous créer avec ces lettres ?",
+    "h2": "Entrez les lettres ci-dessous et découvrez combien de mots peuvent être créés avec ces lettres",
+    "meta": "Vous pensez encore au nombre de mots que vous pouvez faire avec ces lettres ? Utilisez dès maintenant notre outil de mots avec des lettres !",
+    "featureNo": "02",
+    "feature_title": "Caractéristiques",
+    "blogNo": "03",
+    "blog_title": "Blogue",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "À propos",
+    "featureList": [
+        {
+            "feature_heading": "Combien de mots pouvez-vous faire avec ces lettres ?",
+            "feature_text": "Ne vous inquiétez pas du nombre de mots que vous pouvez créer avec les lettres. Vous allez perdre tant de mots qui vous aideront à obtenir plus de points et... à améliorer votre vocabulaire aussi !",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Vous pensez encore au nombre de mots que vous pouvez faire avec ces rares lettres ?",
+            "feature_text": "Notre aide-mémoire gratuit est votre remède le plus rapide pendant notre jeu.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Déchiffrer des mots loo-oong n'est pas une tâche difficile maintenant !",
+            "feature_text": "Vous pourriez penser un instant que déchiffrer un mot de 15 lettres ! ». Mais notre outil de recherche de mots peut vous aider dans votre jeu.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nouvelles mises à jour à mettre en évidence",
+            "feature_text": "Chaque nouvelle fonctionnalité liée au jeu de scrabble sera mise en évidence directement sur notre page d'accueil afin que vous puissiez les utiliser !",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "À quoi sert l'outil Combien de mots pouvez-vous créer avec ces lettres ?",
+            "Answer": "Notre outil Combien de mots pouvez-vous créer avec ces lettres génère automatiquement des mots significatifs à partir des lettres que notre utilisateur saisit et compte le nombre de mots générés à partir de ces lettres.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment utiliser l'outil Combien de mots pouvez-vous créer avec ces lettres ?",
+            "Answer": "L'utilisation de notre outil Combien de mots pouvez-vous créer avec ces lettres est très simple. Tout ce que vous avez à faire est de saisir les lettres dont vous voulez faire des mots. Vous pouvez saisir jusqu'à 15 lettres à la fois. Ensuite, sélectionnez le type de dictionnaire que vous souhaitez utiliser pour les mots à générer. Les options disponibles sont « Dictionnaire », TWL06 (États-Unis, Canada, Thaïlande), SOWPODS (Royaume-Uni et autres) et Activer (Words with Friends). Vous pouvez ensuite activer l'option Filtres avancés. Cliquez ensuite sur le bouton de recherche, qui est la loupe. Et le tour est joué ! Notre outil générera pour vous le nombre maximum de mots à partir des lettres saisies et il comptera également le nombre de mots générés à partir de ces lettres.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de lettres puis-je saisir pour que l'outil crée et compte des mots à partir de lettres ?",
+            "Answer": "Vous pouvez entrer un maximum de 15 lettres dans notre outil, pour créer et compter des mots à partir de lettres.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dois-je payer pour utiliser cet outil ?",
+            "Answer": "Non, notre outil est totalement gratuit. Vous n'avez pas à nous payer pour utiliser l'outil.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Pourquoi dois-je générer et compter le nombre total de mots ?",
+            "Answer": "Vous devrez peut-être générer des mots si vous jouez à des jeux de mots compétitifs, tels que Wordle ou Scrabble. Vous pouvez également avoir besoin de déchiffrer des mots, et notre outil vous y aidera. Vous pouvez également avoir besoin de connaître le nombre de mots que vous pouvez créer avec certaines lettres spécifiques.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Cet outil peut-il aider avec des jeux de mots tels que Wordle et Scrabble ?",
+            "Answer": "Oui, absolument. Si vous avez besoin d'aide lorsque vous jouez à des jeux de mots tels que Scrabble et Wordle, notre outil Combien de mots pouvez-vous créer avec ces lettres est la solution.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je résoudre des mots confus à l'aide de cet outil ?",
+            "Answer": "Bien sûr. Notre outil vous aidera à résoudre facilement des mots confus. Il vous suffit de saisir les lettres du mot mélangé, de spécifier la longueur du mot que vous souhaitez, et notre outil vous donnera tous les mots possibles. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quelles sont les différentes options de dictionnaire disponibles ?",
+            "Answer": "Dans cet outil, vous pouvez sélectionner le type de dictionnaire que vous souhaitez utiliser pour les mots à générer. Les options disponibles sont « Dictionnaire », TWL06 (États-Unis, Canada, Thaïlande), SOWPODS (Royaume-Uni et autres) et Activer (Words with Friends).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment utiliser les filtres avancés ?",
+            "Answer": "Les filtres avancés de notre outil vous permettent de spécifier les lettres par lesquelles les mots de résultat doivent commencer ou se terminer, les lettres que les mots doivent contenir, les lettres que vous souhaitez exclure de l'outil et la longueur de mot souhaitée. Il vous suffit de cliquer sur le bouton des filtres avancés et de saisir les données comme vous le souhaitez.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier la longueur du mot ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier le nombre de lettres que doivent contenir les mots dont vous avez besoin.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je exclure certains personnages ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres que vous ne souhaitez pas inclure dans les mots.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier des caractères obligatoires ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres que vous souhaitez absolument inclure dans les mots.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier la lettre par laquelle les mots doivent commencer ou se terminer ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres par lesquelles vous souhaitez que vos mots commencent et se terminent.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Est-il sûr d'utiliser l'outil Combien de mots pouvez-vous créer avec ces lettres ?",
+            "Answer": "Notre outil Combien de mots pouvez-vous créer avec ces lettres est l'un des outils en ligne gratuits les plus sûrs et les plus sécurisés. Il ne contient aucun lien nuisible ni aucune publicité indésirable. Il est absolument sans problème et fait parfaitement son travail. En même temps, il n'enregistre aucune donnée utilisateur. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Lorsque vous utilisez cet outil, des publicités apparaîtront ?",
+            "Answer": "Étant donné que nous gardons notre site Web totalement gratuit, ce sont les publicités qui nous aident à maintenir le site Web. Ainsi, vous verrez quelques annonces apparaître lorsque vous utilisez notre site. Mais nous pouvons garantir que cela ne détériorera pas la qualité ou le temps du résultat.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Notre outil gratuit en ligne Combien de mots pouvez-vous créer avec ces lettres ne sauvegarde aucune des données utilisateur. Son utilisation est absolument sûre. Tout ce que l'utilisateur pourrait télécharger sur notre site est supprimé de notre cloud dans un très court laps de temps.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Cet outil va-t-il enregistrer mes données sur le serveur ?"
+        },
+        {
+            "Question": "Combien de temps faut-il pour créer les mots avec des lettres et compter le nombre total de mots formés ?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Il ne faut que quelques secondes pour que notre gratuit Combien de mots pouvez-vous créer avec ces lettres fasse son travail. Il crée rapidement des mots à partir de lettres spécifiées et compte le nombre. Les résultats sont rapides et précis à 100 %."
+        },
+        {
+            "Answer": "Aucune inscription ou connexion n'est requise sur notre site Web. Vous pouvez utiliser notre ligne Combien de mots pouvez-vous créer avec ces lettres gratuitement et sans aucune invite à vous inscrire.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Devrais-je m'inscrire ou me connecter pour utiliser cet outil Combien de mots pouvez-vous créer avec ces lettres ?"
+        },
+        {
+            "Question": "Est-ce que le Combien de mots pouvez-vous créer avec ces lettres fonctionne sur les téléphones mobiles ?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Oui. Notre fonctionnalité gratuite Combien de mots pouvez-vous créer avec ces lettres fonctionne sur toutes les plateformes. Vous pouvez y accéder depuis vos téléphones portables. Tapez simplement les lettres que vous souhaitez dans vos mots, depuis votre téléphone et notre outil fera le travail pour vous."
+        },
+        {
+            "Answer": "Oui, notre outil Combien de mots pouvez-vous créer avec ces lettres et tous les autres outils prennent en charge les plates-formes Android et iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Est-ce qu'il prend en charge les plateformes Android et iOS ?"
+        },
+        {
+            "Question": "Est-ce que le Combien de mots pouvez-vous créer avec ces lettres fonctionne sur les PC et les ordinateurs portables ?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Oui. Notre site en ligne Combien de mots pouvez-vous créer avec ces lettres est accepté sur toutes les plateformes. Vous pouvez également utiliser cet outil gratuit sur votre site Web à partir de votre PC et de votre ordinateur portable. Il prend en charge Windows et Mac. Il vous suffit de saisir jusqu'à 15 lettres, de spécifier le type de dictionnaire, d'ajouter des filtres avancés si nécessaire, et c'est tout. Les mots seront générés à partir de ces lettres exactement selon vos instructions."
+        },
+        {
+            "Answer": "Notre fonction Combien de mots pouvez-vous créer avec ces lettres est entièrement basée sur le Web. Pour cette raison, il fournit à nos utilisateurs une assistance multiplateforme. Cela signifie que notre outil prend en charge toutes les versions de Windows. De manière plus générale, il prend en charge toutes les versions de tous les systèmes d'exploitation.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quelles sont les versions de Windows prises en charge par l'outil Combien de mots pouvez-vous créer avec ces lettres ?"
+        },
+        {
+            "Question": "Combien de mots de 2 lettres ces lettres peuvent-elles faire TRUTH ?",
+            "Answer": "Nous pouvons créer un total de 2 mots contenant 2 lettres et les mots sont euh et ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment faire un mot avec ces lettres BOOKS ?",
+            "Answer": "Afin de réaliser toutes les combinaisons possibles de mots avec des lettres BOOKS, nous devrons sélectionner et combiner les lettres qui donneront du sens à un mot. Un mot significatif est un mot disponible dans un dictionnaire standard. Si vous souhaitez effectuer la même opération en ligne, tapez simplement votre lettre sur notre site Web, cliquez sur Entrée et vous obtiendrez tous les résultats possibles. Dans ce cas, avec les lettres BOOKS, nous pouvons former un total de 16 mots qui sont les suivants : livres, kobos, livre, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, so",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment créer un mot avec ces lettres LABLE ?",
+            "Answer": "Afin de réaliser toutes les combinaisons possibles de mots avec des lettres LABLE, nous devrons sélectionner et combiner les lettres qui donneront un sens à un mot. Un mot significatif est un mot disponible dans un dictionnaire standard. Si vous souhaitez effectuer la même opération en ligne, tapez simplement votre lettre sur notre site Web, cliquez sur Entrée et vous obtiendrez tous les résultats possibles. Dans ce cas, avec les lettres LABLE, nous pouvons former un total de 22 mots qui sont les suivants : label, able, bale, ball, bell, blae, leal, alb, ale, all, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots de 7 lettres ces lettres peuvent-elles créer GENERATOR ?",
+            "Answer": "Un total de 18 mots de sept lettres peuvent être formés en utilisant la lettre GENERATOR et les mots sont les suivants : garrote, bénéficiaire, accordant, grantor, greaten, greater, groaner, negater, negator, réactif, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots peut-on créer à partir de ces lettres LAPTOP ?",
+            "Answer": "Le nombre total de mots qui peuvent être formés avec les lettres LAPTOP est 37 et les mots sont les suivants : laptop, alto, atop, lota, opal, palp, plat, plop, plot, tola, alp, alt, app, apt, lap, lat, lop, lot, avoine, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, at, la, lo, op, pa, ta, to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots peuvent être composés à partir de ces lettres EMAILID ?",
+            "Answer": "Le nombre total de mots qui peuvent être formés en utilisant les lettres EMAILID est 94 et les mots sont les suivants postés, medial, miladi, ailed, aimed, amide, email, ideal, iliad, imide, lamed, maile, médaille, media, medii, milia, aide, alme, amid, amie, dale, dame, deal, deil, deli, dial, diel, diel, dime, idem, inactif, ilea, ilia, imid, lade, laid, boiteux, plomb, lied, lima, chaux, fait, femme de ménage, mail, mâle, hydromel, repas, meld, midi, doux, mile, aid, ail, aim, ale, ami, dal, dam, del, die, dim, eld, orme, lad, lam, lea, led, lei, couvercle, mensonge, fou, mae, med, mel, mil, ad, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, moi, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots pouvez-vous créer avec les 26 lettres d'un alphabet ?",
+            "Answer": "Le nombre est assez énorme et il peut être trouvé en résolvant ce simple problème mathématique qui est n ! (n factoriel) où n serait le nombre total d'alphabets, donc la réponse serait 26 ! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots de 6 lettres ces lettres peuvent-elles faire KITCHEN ?",
+            "Answer": "Le nombre total de mots de 6 lettres pouvant être formés à l'aide des lettres KITCHEN est juste 1 et le mot est ethnique.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots de 6 lettres ces lettres peuvent-elles faire TROPICAL ?",
+            "Answer": "Le nombre total de 6 lettres pouvant être formées par le mot TROPICAL est de 17 et les mots sont les suivants aortique, atopique, captor, caroli, cartop, citola, citral, coïtal, lictor, lorica, patrol, picaro, portal, rialto, rictal, tailor, tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment créer des mots avec ces lettres DREAM ?",
+            "Answer": "Pour créer des mots avec ces lettres DREAM, il vous suffit de choisir des alphabets qui, combinés ensemble, peuvent former un mot significatif. Un mot significatif est un mot qui se trouve dans un dictionnaire standard. Vous n'êtes autorisé à utiliser que les mots disponibles dans le mot. Si vous êtes pressé et que vous cherchez à trouver tous les mots possibles avec le plus haut niveau de précision. Vous pouvez utiliser notre outil. Tout ce que vous avez à faire, ouvrez votre navigateur, tapez notre site Web wordswithletters.org et tapez toutes les lettres à partir desquelles vous souhaitez créer des mots. Une fois que vous avez cliqué sur Entrée, vous obtiendrez vos résultats. Dans ce cas, avec le mot DREAM, nous pouvons faire 39 mots qui sont comme suit armé, derma, rêve, madre, dame, dare, cher, derm, dram, fait, jument, hydromel, lire, rame, sont, bras, barrage, oreille, era, mad, mae, mar, med, rad, ram, red, rem, ad, ae, am, ar, da, de, ed, em, er, ma, me, ré",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment faire des mots avec ces lettres TOMMORROW ?",
+            "Answer": "Pour créer des mots avec ces lettres TOMMORROW, il vous suffit de choisir des alphabets qui, combinés ensemble, peuvent former un mot significatif. Un mot significatif est un mot qui se trouve dans un dictionnaire standard. Vous n'êtes autorisé à utiliser que les mots disponibles dans le mot. Si vous êtes pressé et que vous cherchez à trouver tous les mots possibles avec le plus haut niveau de précision. Vous pouvez utiliser notre outil. Tout ce que vous avez à faire, ouvrez votre navigateur, tapez notre site Web wordswithletters.org et tapez toutes les lettres à partir desquelles vous souhaitez créer des mots. Une fois que vous avez cliqué sur Entrée, vous obtiendrez vos résultats. Dans ce cas avec le mot TOMMORROW, nous pouvons faire 44 mots qui sont les suivants : moorwort, demain, wormroot, morrow, morro, moteur, rotor, moor, moot, mort, chambre, racine, rort, roto, toom, toro, torr, trow, ver, wort, maman, moo, mor, mot, mow, oot, ort, rom, rot, row, tom, too, tor, tow, deux, woo, wot, mm, mo, om, ou , aïe, deux, deux",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots peuvent être composés avec ces lettres APPLE ?",
+            "Answer": "Nous pouvons créer un total de 24 lettres en utilisant le mot APPLE. Les mots sont les suivants appel, apple, pepla, leap, pale, palpe, peal, plea, ale, alp, ape, app, lap, lea, pal, pap, pea, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de mots peut-on créer à partir de ces lettres SAMPLE ?",
+            "Answer": "Nous pouvons créer un total de 99 lettres en utilisant le mot SAMPLE. Les mots sont comme suit érables, échantillon, almes, ample, lames, lampes, lapse, sauts, mâles, érable, repas, pâles, paumes, peals, plasme, plaidoyers, psaume, salep, sépale, spale, ales, alme, aumône, alpes, ampères, abside, ormes, boiteux, lams, tours, lase, saut, leas, maes, mâle, cartes, repas, mels, mesa, pâle, paume, copains, pams, pase, peal, pois, plea, vente, salpe, même, samp, joint, couture, slam, slap, spae, spam, ale, alp, als, amp, ape, asp, orme, els, ems, lam, lap, las, lea, mae, carte, mas, mel, pal, pam, pas, pois, pes, sae, sal, sève, mer, sel spa, ae, al, suis, comme, el, em, es, la, ma, moi, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Combien de mots pouvez-vous créer avec ces lettres ATSFOPPQ ?",
+            "Answer": "Nous pouvons créer un total de 65 mots en utilisant ces lettres. Les mots sont les suivants fatso, softa, apps, atop, fast, graisses, fops, oafs, oast, avoine, opts, paps, passé, pats, pops, post, pots, qats, savon, canapé, doux, craché, spot, stoa, stop, taos, robinets, tops, arrière, app, apt, asp, fas, fat, fop, op af, avoine, oft, ops, opt, pap, pas, pat, pop, pot, qat, sève, sat, sop, sot, spa, tao, appuyez sur, tas, haut, comme, à, fa, de, op, os, pa, donc, ta, à"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Combien de mots pouvez-vous créer avec ces lettres XATFPS ?",
+            "Answer": "Nous pouvons créer un total de 28 mots à partir de la lettre XATFPS. Les mots sont les suivants rapide, graisses, passé, pats, craché, robinets, arrière, apt, asp, fas, graisse, fax, pas, pat, pax, sap, sat, sax, spa, robinet, tas, taxe, as, at, ax, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

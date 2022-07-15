@@ -1,0 +1,13 @@
+{
+    "title": "用最少的猜测轻松解决 wordle",
+    "h1": "通过输入到目前为止使用的字母来解决今天的单词",
+    "h2": "输入灰色、黄色和绿色的字母以查看可能的单词",
+    "meta": "输入灰色，黄色和绿色的字母，并获得匹配的5个字母的单词列表，以最小的尝试解决当今的单词，并给你的朋友留下深刻的印象",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

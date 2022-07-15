@@ -1,0 +1,50 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "title": "Kata-kata dieja dengan huruf-huruf ini",
+    "h1": "Kata-kata dieja dengan huruf-huruf ini",
+    "h2": "Masukkan huruf dan checkout berapa banyak kata yang dieja dengan huruf-huruf ini",
+    "meta": "Ketika kata-kata yang dieja dengan huruf tampak membingungkan, gunakan alat gratis kami!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Temukan Kata yang dieja dengan huruf-huruf yang membingungkan",
+            "feature_text": "Apakah Anda sering memikirkan “kata-kata apa yang bisa saya eja dengan huruf-huruf ini” saat bermain permainan kata? Maka Anda berada di situs yang tepat. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Pencari kata yang mudah, intuitif, dan ramah pengguna",
+            "feature_text": "Simly masukkan huruf di papan Anda dan di sana Anda mendapatkan berbagai kata yang dieja dengan huruf-huruf ini",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Semua aturan untuk Kata-kata dieja dengan huruf-huruf ini secara singkat",
+            "feature_text": "Jika Anda bermain permainan kata scrabble untuk pertama kalinya, Anda memerlukan seperangkat aturan ini berguna. Sederhana, dan intuitif!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Masukkan upto upto lima belas huruf!",
+            "feature_text": "Lima belas huruf! Cukup untuk mendapatkan kata terpanjang dalam Kamus Bahasa Inggris.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Mendukung sejumlah Kamus",
+            "feature_text": "Beragam kamus untuk hasil terbaik.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Anda memiliki opsi untuk menggunakan perangkat apa pun",
+            "feature_text": "Apakah Anda menggunakan laptop, tab, android atau iPhone Anda, kata-kata mobile-friendly kami dengan teman-teman scrambler solver dapat melayani tujuan Anda dari mana saja",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

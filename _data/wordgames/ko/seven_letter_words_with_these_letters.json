@@ -1,0 +1,106 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "다음 문자로 된 7 문자 단어 찾기 - Letters.org로 단어",
+    "h1": "다음 문자로 된 7 글자 단어 찾기",
+    "h2": "아래에 문자를 입력하면 7글자로 된 단어를 찾을 수 있습니다",
+    "meta": "이 글자로 얼마나 많은 일곱 글자로 된 단어를 만들 수 있는지 아직도 생각하고 계십니까?도구를 사용하여 다음 문자로 된 7 글자 단어를 찾으십시오.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "게임에 전환점을 가져오세요.다음 문자로 7 문자 단어를 생성",
+            "feature_text": "종종이 편지 7은 단어 게임에서 그 길을 찾습니다.그러나 가장 중요한 것은이 7 글자로 된 단어가 때때로 높은 점수를 얻을 수 있다는 것입니다.그러나 단어 찾기로 구조를 찾을 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "다음 문자로 7 문자 단어를 생성",
+            "feature_text": "무료 워드파인더를 사용하면 7글자로 된 단어를 찾고 게임에서 승리하는 데 도움이 됩니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "문자 7이 포함된 번호가 매겨진 단어 찾기",
+            "feature_text": "7글자 단어 찾기를 사용하면 최대 15자까지 7개의 글자로 된 단어를 모두 찾을 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "생각조차 할 수 없는 가장 힘든 7개의 글자로 된 단어도 생성합니다.",
+            "feature_text": "무료 7글자로 된 단어 생성기를 사용하여 몇 초 만에 최고 점수 7자로 된 단어 풀을 확보하십시오.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

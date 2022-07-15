@@ -1,0 +1,50 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "title": "用这些字母拼写的单词",
+    "h1": "用这些字母拼写的单词",
+    "h2": "输入字母并查看这些字母拼写了多少个单词",
+    "meta": "当用字母拼写的单词看起来令人困惑时，请使用我们的免费工具！",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "查找拼写有混乱字母的单词",
+            "feature_text": "在玩文字游戏时，你经常想到 “我能用这些字母拼出什么单词” 吗？那么你来对地方了。 ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "直观、直观且用户友好的单词查找器",
+            "feature_text": "只需在你的图板上输入字母，你就会得到一系列用这些字母拼写的单词",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "简而言之，用这些字母拼写的单词的所有规则",
+            "feature_text": "如果你是第一次玩拼字游戏的文字游戏，你需要方便地使用这套规则。简单直观！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "最多可输入 15 个字母！",
+            "feature_text": "十五封信！足以获得英语词典中最长的单词。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "它支持许多字典",
+            "feature_text": "各种各样的字典可获得最佳结果。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "你可以选择使用任何设备",
+            "feature_text": "无论您是使用笔记本电脑、平板电脑、Android 还是 iPhone，我们的移动友好型话语加扰器求解器都可以在任何地方满足你的目的",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

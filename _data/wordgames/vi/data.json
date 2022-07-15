@@ -1,0 +1,54 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Giải quyết Wordle một cách dễ dàng trong các dự đoán tối thiểu",
+    "h1": "Giải quyết Wordle ngày nay bằng cách nhập các chữ cái được sử dụng cho đến nay",
+    "h2": "Nhập các chữ cái màu xám, vàng và xanh lá cây để xem các từ tiềm năng",
+    "meta": "Nhập chữ cái trong màu xám, vàng và xanh lá cây, và nhận được danh sách các từ 5 chữ cái phù hợp để giải quyết Wordle ngày nay trong nỗ lực bắt chước, và gây ấn tượng với bạn bè của bạn",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Đơn giản để sử dụng",
+            "feature_text": "Wordle Solver thực sự đơn giản để sử dụng. Bạn chỉ cần nhập các chữ cái màu xanh lá cây trong hộp đầu tiên, chữ màu vàng ở hàng thứ hai và các chữ màu xám ở hàng cuối cùng. Nhấp vào cập nhật để xem tất cả các từ có thể có thể được thực hiện từ các chữ cái đã nhập.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kết quả tức thì",
+            "feature_text": "Kết quả được hiển thị ngay khi bạn nhập các chữ cái và nhấp vào cập nhật. Bạn không phải chờ đợi cho việc tạo kết quả.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Cross Platform",
+            "feature_text": "Trang web của chúng tôi là nền tảng độc lập. Nó hoạt động trên cả hệ điều hành Window và iOS và có thể được sử dụng mà không cần bất kỳ tải xuống nào.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nhiều câu trả lời",
+            "feature_text": "Wordle Solver cung cấp cho bạn tất cả các từ có thể có thể được thực hiện bằng cách sử dụng các chữ cái được nhập bởi bạn. Khả năng là vô tận. Hãy đoán và nhập các chữ cái trong Wordle Solver của chúng tôi. Bạn sẽ nhận được tất cả các từ có thể và làm cho bạn giành chiến thắng trong trò chơi với các thử nghiệm tối thiểu.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "An toàn và Bảo mật",
+            "feature_text": "Trang web của chúng tôi ưu tiên quyền riêng tư và bảo mật của khách hàng. Trang web không có virus và không yêu cầu bất kỳ ID hoặc đăng ký nào. Dữ liệu của bạn được an toàn với chúng tôi!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hoàn toàn miễn phí",
+            "feature_text": "Đi trước đám đông bằng cách giải quyết wordle mỗi ngày. Chia sẻ kết quả với bạn bè và gia đình của bạn và trở thành Nhà vô địch Wordle với trình giải Wordle của chúng tôi. Bạn có thể sử dụng trang web của chúng tôi nhiều lần tùy thích và bạn sẽ không bị tính phí khi sử dụng dịch vụ của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

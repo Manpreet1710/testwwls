@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "单词清单",
+                "links": [
+                    {
+                        "name": "在线文字游戏生成器",
+                        "url": "/zh/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wordle 求解器",
+                        "url": "/zh/wordle-solver"
+                    },
+                    {
+                        "name": "用这些字母说话",
+                        "url": "/zh/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "来自信件的单词生成器",
+                        "url": "/zh/word-generator-from-letters"
+                    },
+                    {
+                        "name": "用这些字母拼写的单词 ",
+                        "url": "/zh/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "你能用这些字母写出多少个单词",
+                        "url": "/zh/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "我能用这些字母和空白拼出什么单词",
+                        "url": "/zh/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "带有这些字母和 2 个空白的单词",
+                        "url": "/zh/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "带有这些字母和 3 个空白的单词",
+                        "url": "/zh/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "长度字",
+                "links": [
+                    {
+                        "name": "带有这些字母的六个字母的单词",
+                        "url": "/zh/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的五个字母的单词",
+                        "url": "/zh/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的七个字母的单词",
+                        "url": "/zh/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的四个字母的单词",
+                        "url": "/zh/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的三个字母的单词",
+                        "url": "/zh/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的两个字母的单词",
+                        "url": "/zh/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的八个字母的单词",
+                        "url": "/zh/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的九个字母的单词",
+                        "url": "/zh/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的十个字母的单词",
+                        "url": "/zh/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "十一个带有这些字母的字母的单词",
+                        "url": "/zh/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的十二个字母的单词",
+                        "url": "/zh/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "带有这些字母的十三个字母的单词",
+                        "url": "/zh/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X 个字母的单词带有这些字母和一个空白",
+                "links": [
+                    {
+                        "name": "12 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 个字母的单词加上这些字母和一个空白",
+                        "url": "/zh/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 个字母的单词加上这些字母和一个空白",
+                        "url": "/zh/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 个字母的单词带有这些字母和一个空白",
+                        "url": "/zh/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 个带有这些字母的字母单词和一个空白",
+                        "url": "/zh/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

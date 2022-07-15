@@ -1,0 +1,13 @@
+{
+    "title": "Løs wordle let i minimum gæt",
+    "h1": "Løs dagens ordlyd ved at indtaste bogstaver, der er brugt indtil videre",
+    "h2": "Angiver bogstaver i gråt, gult og grønt for at se potentielle ord",
+    "meta": "Indtast bogstaver i gråt, gul og grøn, og få en liste over matchende 5 bogstavord for at løse dagens ord i mimimumforsøg, og imponere dine venner",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

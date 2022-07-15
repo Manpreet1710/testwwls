@@ -1,0 +1,13 @@
+{
+    "title": "최소한의 추측으로 쉽게 단어 풀기",
+    "h1": "지금까지 사용한 글자를 입력하여 오늘의 단어를 풀어보세요.",
+    "h2": "회색, 노란색 및 녹색으로 문자를 입력하여 잠재적인 단어를 확인합니다.",
+    "meta": "회색, 노란색 및 녹색으로 문자를 입력하고 일치하는 5 글자 단어 목록을 가져와 오늘날의 단어를 최소한의 시도에서 해결하고 친구에게 깊은 인상을 남깁니다.",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

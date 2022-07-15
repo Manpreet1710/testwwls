@@ -1,0 +1,86 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "다음 문자로 된 4 글자 단어 찾기 - Letters.org",
+    "h1": "다음 문자로 된 네 글자로 된 단어 찾기",
+    "h2": "아래에 문자를 입력하면 4글자로 된 단어를 찾을 수 있습니다",
+    "meta": "이 글자로 된 네 글자로 된 단어를 몇 개나 만들 수 있는지 아직도 생각하고 계십니까?도구를 사용하여 다음 문자로 된 4 글자 단어를 찾으십시오.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "게임에 전환점을 가져오세요.다음 문자로 네 글자로 된 단어를 생성하십시오",
+            "feature_text": "종종이 편지 4는 단어 게임에서 그 길을 찾습니다.그러나 가장 중요한 것은이 네 글자로 된 단어가 때때로 높은 점수를 얻을 수 있다는 것입니다.그러나 단어 찾기로 구조를 찾을 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "다음 문자로 네 글자로 된 단어를 생성하십시오",
+            "feature_text": "무료 워드파인더를 사용하면 4글자로 된 단어를 찾고 게임에서 승리하는 데 도움이 됩니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "네 글자로 번호가 매겨진 단어 찾기",
+            "feature_text": "네 글자 단어 찾기를 사용하면 최대 15자까지 네 글자로 된 단어를 모두 찾을 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "생각조차 할 수 없는 가장 어려운 네 글자로 된 단어도 생성합니다.",
+            "feature_text": "무료 네 글자 단어 생성기를 사용하여 몇 초 만에 높은 점수를 얻은 네 글자로 된 단어 풀을 얻으십시오.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

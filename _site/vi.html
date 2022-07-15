@@ -1,0 +1,1579 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="Công cụ dựa trên web trực tuyến tốt nhất cho các từ có chữ cái. Công cụ của chúng tôi sẽ giúp bạn giành chiến thắng mọi scrabble hoặc lời nói với bạn bè trò chơi. Công cụ này sẽ nhanh chóng chuyển đổi các chữ cái của bạn thành các từ mà không có bất kỳ hạn chế nào. Hãy thử ngay!">
+<meta name="og:description" content="Công cụ dựa trên web trực tuyến tốt nhất cho các từ có chữ cái. Công cụ của chúng tôi sẽ giúp bạn giành chiến thắng mọi scrabble hoặc lời nói với bạn bè trò chơi. Công cụ này sẽ nhanh chóng chuyển đổi các chữ cái của bạn thành các từ mà không có bất kỳ hạn chế nào. Hãy thử ngay!">
+<meta property="og:title" content="Từ có chữ cái- Một công cụ miễn phí để tìm từ có chữ cái">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/vi">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/vi">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/vi">
+<meta data-rh="true" name="twitter:title" content="Từ có chữ cái- Một công cụ miễn phí để tìm từ có chữ cái">
+<meta data-rh="true" name="twitter:description" content="Công cụ dựa trên web trực tuyến tốt nhất cho các từ có chữ cái. Công cụ của chúng tôi sẽ giúp bạn giành chiến thắng mọi scrabble hoặc lời nói với bạn bè trò chơi. Công cụ này sẽ nhanh chóng chuyển đổi các chữ cái của bạn thành các từ mà không có bất kỳ hạn chế nào. Hãy thử ngay!">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/vi">
+
+  <link rel="canonical" href="http://localhost:4000/vi"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>Từ có chữ cái- Một công cụ miễn phí để tìm từ có chữ cái</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "Mẹo và thủ thuật để sắp xếp các từ một cách nhanh chóng",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Khi nói đến các từ unscrambling từ các chữ cái lộn xộn, có một vài chiến lược rất hữu ích. Dưới đây là một số mẹo và thủ thuật đã thử và thử nghiệm giúp bạn tìm thấy câu trả lời cho câu đố:
+-Tách biệt các phụ âm từ các nguyên âm và xem những gì bạn có thể đưa ra bằng cách ghép nối các phụ âm khác nhau với nguyên âm.
+-Ví dụ: Tìm các thuật ngữ ngắn bắt đầu bằng hai hoặc ba chữ cái. Sau đó xem nếu bạn có thể làm cho chúng lâu hơn bằng cách đa số hóa hoặc sửa đổi thì.
+-Pick từ với bất kỳ tiền tố hoặc hậu tố nào có thể mở rộng độ dài của các từ.
+Đây là một số mẹo nhanh chóng và dễ sử dụng để nhận được câu trả lời của các câu đố từ."
+         }
+       },{"@type": "Question",
+         "name": "Làm thế nào để sắp xếp những từ khó nhất?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Từ với công cụ chữ cái hoạt động tốt nhất cho những từ khó nhất cũng. Nó cung cấp danh sách dài các từ hợp lệ. Chỉ cần nhập các chữ cái bạn muốn tạo từ và nhận được kết quả mong muốn ngay lập tức. Công cụ này hoàn toàn miễn phí và rất dễ sử dụng. Công cụ này có tùy chọn nâng cao và bạn có thể sử dụng nó để có được các từ ghi điểm cao."
+         }
+       },{"@type": "Question",
+         "name": "Tôi có thể thực hiện những từ nào với những chữ cái này?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Đó là phần thú vị. Nhập chữ cái của bạn vào các từ với hộp tìm kiếm chữ cái và xem những gì nó cung cấp cho bạn. Bạn sẽ nhận được một danh sách dài các từ hợp lệ của bạn. Công cụ này hỗ trợ gạch trống (Scrabble) hoặc ký tự đại diện cũng. Đối với tâm trí con người, các trò chơi tranh giành chữ tương tự như bóng đá hoặc bóng đá: một mớ hỗn độn các chữ cái đẩy, xô đẩy và la hét để được sắp xếp thành đúng trình tự."
+         }
+       },{"@type": "Question",
+         "name": "Các từ có chữ cái có thể giúp tôi làm tốt hơn trong Scrabble không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Mỗi trò chơi giải đố, cho dù đó là một đảo chữ hay một câu đố chữ, trở nên khó khăn hơn khi nó đi. Dưới đây là một số ví dụ lý tưởng về thời điểm sử dụng công cụ của chúng tôi. 
+1. Khi có ít chữ cái liên quan đến một trò chơi, nó có thể xuất hiện đơn giản. Tuy nhiên, khi trò chơi tiến bộ và bạn đạt đến một điểm mà bạn có nhiều nguyên âm và phụ âm hơn, mọi thứ bắt đầu trở nên hơi bối rối! Đã đến lúc đưa công cụ của chúng tôi vào hoạt động.
+2. Khi bạn đi qua các cấp độ, các câu đố từ trở nên khó khăn hơn. Nó rất tự nhiên để trở nên bối rối và yêu cầu sự giúp đỡ. Đây là một cách tuyệt vời để chọn từ mới bằng cách sử dụng công cụ của chúng tôi.
+Từ với công cụ chữ cái là lý tưởng khi bạn phải tạo từ mới, bất kể bạn sẽ sử dụng chúng như thế nào. 
+"
+         }
+       },{"@type": "Question",
+         "name": "Các từ có công cụ chữ cái có thể được sử dụng cho Scrabble hoặc Words With Friends không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Công cụ này có thể được sử dụng để tìm các từ trong chữ cái của bạn cho Scrabble hoặc Words With Friends. Các từ có chữ cái cũng hỗ trợ các ký tự đại diện. Các công cụ của chúng tôi có thể giúp bạn đưa ra các ý tưởng từ scrabble (bao gồm cả gạch trống) và cũng giúp bạn trong việc tìm kiếm từ ghi điểm cao nhất. Các tùy chọn nâng cao của nó cho phép bạn lọc các từ hợp lệ và đưa ra kết quả mong muốn chỉ với vài cú nhấp chuột."
+         }
+       },{"@type": "Question",
+         "name": "Các từ có công cụ chữ cái có cho phép ký tự đại diện không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Ký tự đại diện là các ký tự đặc biệt có thể được sử dụng để thay thế các ký tự không xác định trong một giá trị văn bản. Vâng! Các từ có chữ cái hỗ trợ các ô trống trong các ký tự Scrabble hoặc ký tự đại diện. Những gạch này sẽ được so sánh với tất cả các chữ cái có thể tưởng tượng được, dẫn đến sự gia tăng rất lớn về số lượng các từ unscrambled. Nhập ký tự đại diện dưới dạng * hoặc? in the word từ solverthư thư boxcái hộp."
+         }
+       },{"@type": "Question",
+         "name": "Công cụ này có thể được sử dụng cho nhiều chữ cái?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn đã kết thúc với số lượng quá nhiều chữ cái? Đừng lo lắng từ với công cụ chữ cái sẽ giảm bớt rắc rối của bạn! Cho dù bạn có bao nhiêu chữ cái, 3,4,5 hoặc 8,9,10 công cụ này sẽ thực hiện công việc của mình. Ví dụ- Chúng tôi sẽ lấy các chữ cái R, L, I, N, K, A, R, F và O. Ở đây chúng tôi có 9 chữ cái. 
+
+Bây giờ bạn biết phải làm gì - nhập các chữ cái vào hộp và nhấn đi và nhận được kết quả mong muốn của bạn ngay lập tức. Bạn có thể sử dụng tùy chọn nâng cao để có được kết quả tinh chỉnh."
+         }
+       },{"@type": "Question",
+         "name": "Làm thế nào để tạo từ với chữ cái?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Một thế giới có chữ cái là công cụ bạn cần cho dù bạn đang chơi một trò chơi chữ hay chỉ đơn giản là thách thức bạn bè của bạn. Công cụ này tạo ra tất cả các từ có thể từ các chữ cái đã cho. Ở đây bạn nhận được một danh sách các từ được nhóm theo chiều dài để giành chiến thắng bất kỳ trò chơi chữ nào. Bạn cũng có thể sử dụng các tùy chọn nâng cao để có được kết quả mong muốn của mình. Hãy biến các chữ cái ngẫu nhiên thành những từ chiến thắng với công cụ này!"
+         }
+       },{"@type": "Question",
+         "name": "Những từ nào chúng ta có thể thực hiện với các chữ cái trực tuyến?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "38 từ có thể được làm từ các chữ cái trong từ trực tuyến. Nếu bạn đang phải đối mặt với khó khăn trong việc tìm kiếm từ chữ o, n, l, i, n, e Bạn đang ở đúng nơi. Các từ có chữ cái cung cấp cho bạn danh sách đầy đủ của tất cả các từ Scrabble có thể được thực hiện từ các chữ cái trong từ trực tuyến chỉ với một cú nhấp chuột. "
+         }
+       },{"@type": "Question",
+         "name": "Công cụ này có cho phép chữ lặp đi lặp lại không? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn sẽ có thể nhập tối đa 15 chữ cái trong thanh tìm kiếm. Để sử dụng các chữ cái nhiều lần, chỉ cần nhập chúng nhiều lần. Bạn có thể nhập mỗi chữ cái hai lần nếu bạn có 8 chữ cái khác nhau hoặc bạn có thể nhập các chữ cái bạn muốn lặp lại nó nhiều lần.
+Bạn cũng có thể chơi với các tùy chọn nâng cao."
+         }
+       },{"@type": "Question",
+         "name": "Khi nào chúng ta nên sử dụng các từ với công cụ chữ cái?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Mỗi trò chơi giải đố, cho dù đó là một đảo chữ hay một câu đố chữ, trở nên khó khăn hơn khi nó tiến hành. Dưới đây là một số ví dụ lý tưởng về thời điểm sử dụng công cụ của chúng tôi. 
+1. Khi có ít chữ cái liên quan đến một trò chơi, nó có thể xuất hiện đơn giản. Tuy nhiên, khi trò chơi tiến bộ và bạn đạt đến một điểm mà bạn có nhiều nguyên âm và phụ âm hơn, mọi thứ bắt đầu trở nên hơi bối rối! Đã đến lúc đưa công cụ của chúng tôi vào hoạt động.
+2. Khi bạn đi qua các cấp độ, các câu đố từ trở nên khó khăn hơn. Nó rất tự nhiên để trở nên bối rối và yêu cầu sự giúp đỡ. Đây là một cách tuyệt vời để chọn từ mới bằng cách sử dụng công cụ của chúng tôi.
+Từ với công cụ chữ cái là lý tưởng khi bạn phải tạo từ mới, bất kể bạn sẽ sử dụng chúng như thế nào. 
+"
+         }
+       },{"@type": "Question",
+         "name": "Lợi ích của việc sử dụng từ với công cụ chữ cái là gì?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Thành công- Ai không muốn giành chiến thắng một cách dễ dàng? Tuy nhiên, chiến thắng một câu đố từ không phải lúc nào cũng đơn giản. Chúng tôi trở nên mắc kẹt và thất vọng rất nhiều thời gian. Chúng tôi đã làm cho công cụ của chúng tôi đơn giản, nhanh chóng và tiện dụng. Sử dụng các chữ cái của chúng tôi với công cụ từ để giành chiến thắng các trò chơi chữ mà không có ràng buộc.
+Thuận tiện- Khi một câu đố trở nên bực bội hơn là thú vị, những từ có chữ cái giải quyết vấn đề này. Công cụ rất đơn giản và dễ sử dụng của nó.
+Tăng cường từ vựng của bạn- Khi chúng ta nhập các chữ cái vào từ bằng thanh tìm kiếm chữ cái, nó sẽ hiển thị một số từ bằng cách sử dụng hai hoặc nhiều chữ cái. Bằng cách này, chúng ta có được những từ khác nhau và có thể tăng vốn từ vựng của chúng ta bằng cách học những từ đó."
+         }
+       },{"@type": "Question",
+         "name": "Làm thế nào chúng ta có thể tìm thấy các từ với các chữ cái bị thiếu?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Công cụ này hoạt động tốt nhất để tìm các chữ cái bị thiếu. Dưới đây là danh sách đầy đủ các từ chứa mỗi chữ cái của bảng chữ cái. Nhưng nếu bạn muốn tập trung tìm kiếm của mình vào một độ dài từ cụ thể hoặc, thậm chí tốt hơn, một mô hình? Chúng tôi đã có tất cả mọi thứ bạn cần. Chỉ cần sử dụng các tùy chọn nâng cao của chúng tôi. Bên cạnh việc sử dụng các từ với công cụ chữ cái một chút mớ lộn xộn giải quyết mỗi ngày giúp bạn trở thành một người chơi từ hàng đầu!"
+         }
+       },{"@type": "Question",
+         "name": "Công cụ này chỉ cung cấp các từ hợp lệ không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Word with letters là một công cụ được tạo đặc biệt để giúp bạn tìm các từ có điểm cao nhất cho Scrabble, Words with Friends, và các trò chơi chữ khác. Công cụ tìm kiếm độc đáo của nó sẽ đề xuất tất cả các từ hợp lệ. Tóm lại, các từ có chữ cái cho phép bạn nhập tất cả các chữ cái bạn có trong tay và sắp xếp lại chúng để tiết lộ tất cả các kết hợp từ có thể."
+         }
+       },{"@type": "Question",
+         "name": "Công cụ này có thể giúp chiến thắng scrabble hoặc từ với bạn bè trò chơi?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Các từ có công cụ chữ cái sẽ biến đổi chữ cái của bạn thành các từ trong thời gian không. Nếu bạn cần một từ dài hoặc một từ năm chữ cái, trình tạo sẽ tạo ra tất cả các kết hợp có thể mà trò chơi của bạn chấp nhận. Bạn có thể tìm thấy những mánh gian lận tốt nhất và các từ ghi điểm cao nhất cho Scrabble, Words with Friends, và nhiều trò chơi chữ khác tại Words with Letters."
+         }
+       },{"@type": "Question",
+         "name": "Chúng ta có thể mở rộng vốn từ vựng của mình bằng cách sử dụng công cụ này không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Đừng coi chúng tôi là một từ hack, thay vào đó, hãy coi chúng tôi là một công cụ tham khảo mà bạn và bạn bè của bạn có thể sử dụng để mở rộng vốn từ vựng. Công cụ tìm kiếm của chúng tôi sẽ xem xét cả từ điển Anh và Mỹ để khám phá phù hợp nhất cho các chữ cái của bạn. Nó rất đơn giản và dễ dàng, chắc chắn thú vị để sử dụng. Nhưng cùng với việc vui chơi, bạn cũng có thể cải thiện vốn từ vựng của mình bằng cách thường xuyên sử dụng các từ với công cụ chữ cái. Sử dụng công cụ này và tăng kiến thức của bạn một cách thú vị và thú vị.."
+         }
+       },{"@type": "Question",
+         "name": "Làm thế nào để sử dụng các tùy chọn nâng cao của công cụ này?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Nếu nó có liên quan đến trò chơi bạn đang chơi, hãy thay đổi từ điển; nếu không, hãy để nó như vậy. Các tùy chọn này sẽ xuất hiện khi bạn chọn nút 'Tùy chọn'. Bạn có thể sử dụng các tùy chọn “Bắt đầu bằng” hoặc “Kết thúc bằng” hoặc “Phải bao gồm” để lọc kết quả. Vui lòng sử dụng công cụ này với sự chú ý, nếu không sẽ không có từ hợp lệ nào được đưa ra trong kết quả. Công cụ này rất đơn giản và dễ sử dụng bước đầu tiên là gõ tối đa 15 chữ cái trong hộp bên dưới và sau đó nhấn tìm kiếm và chờ công cụ tạo từ với các chữ cái này. Chúng tôi thậm chí có một bộ lọc trước mà bạn có thể tìm thấy một từ có độ dài nhất định hoặc phù hợp với một mẫu cụ thể. Bạn có thể sử dụng từ của chúng tôi với công cụ chữ cái bất cứ lúc nào vì nó hoàn toàn dựa trên web. Chỉ cần sao chép và dán URL của trang web của chúng tôi vào trình duyệt của bạn và sử dụng nó khi cần thiết."
+         }
+       },{"@type": "Question",
+         "name": "Tôi có cần bất kỳ cài đặt hoặc đăng ký nào để sử dụng các từ này với công cụ chữ cái.",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Từ với công cụ chữ cái là một công cụ dựa trên web tiên tiến. Không cần tải xuống bất kỳ phần mềm nào hoặc đăng ký công cụ này. Nó là an toàn và bảo mật dễ sử dụng công cụ. Không có kiến thức kỹ thuật là cần thiết để sử dụng ứng dụng này. Nó hỗ trợ trình duyệt khác nhau và hoạt động tốt."
+         }
+       },{"@type": "Question",
+         "name": "Những trò chơi vấn đề từ nào từ này với công cụ chữ cái giúp đỡ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "“Công cụ này rất hữu ích cho các câu đố chữ và trò chơi vấn đề từ hoặc trò chơi chữ trực tuyến.
+Lời nói với bạn bè
+Từ với công cụ chữ cái sử dụng từ điển và tìm tất cả các từ hợp lệ từ các chữ cái lộn xộn của bạn. Thật thú vị khi chơi và tăng cường kỹ năng từ ngữ của bạn.
+viết ngoáy
+Từ của chúng tôi với công cụ chữ cái sẽ giúp bạn tìm thấy các từ có điểm cao bắt đầu bằng các chữ cái bạn cần để tiến về phía trước. Scrabble tương tự như Words With Friends,
+Văn bản Twist
+Text Twist là một trò chơi chữ khác tương tự như những người khác. Đơn giản chỉ cần nhập các chữ cái vào thanh tìm kiếm từ của chúng tôi và chúng tôi sẽ tạo ra một danh sách các từ để bạn sử dụng. 
+Có những trò chơi khác như Word Trip, Daily Jumble, Wordscapes và nhiều trò chơi khác. Công cụ này rất hữu ích cho tất cả các trò chơi có vấn đề từ.”"
+         }
+       },{"@type": "Question",
+         "name": "Làm thế nào để nó hoạt động như người trợ giúp trò chơi chữ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn đã bao giờ cần phải tìm những từ đã chỉ định các chữ cái cho một câu đố từ? Nó đơn giản đối với một số chữ cái tranh giành, nhưng nó khó khăn hơn đối với các chữ cái bất thường. Bằng cách đọc hoặc tìm kiếm danh sách từ rộng lớn của chúng tôi với hàng trăm ngàn từ, bạn có thể tìm thấy từ với các chữ cái của mình. Với chữ cái sửa chữa bộ lọc nâng cao và độ dài bạn yêu cầu Vui chơi và khám phá xung quanh để xem những từ mới nào, bạn có thể đưa ra. Để sử dụng công cụ này, bạn không cần tải xuống hoặc cài đặt bất kỳ phần mềm nào trên máy tính hoặc thiết bị di động của mình. Bạn có thể sử dụng từ của chúng tôi với công cụ chữ cái bất cứ lúc nào vì nó hoàn toàn dựa trên web."
+         }
+       },{"@type": "Question",
+         "name": "Việc sử dụng các từ với công cụ chữ cái là gì?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Công cụ này rất tốt để tìm từ cho trò chơi bảng và trò chơi chữ trực tuyến. Chỉ cần nhập các chữ cái và đặt các tùy chọn nâng cao nếu cần, và các từ của chúng tôi với các chữ cái sẽ hiển thị tất cả các từ có thể. Các từ có chữ cái được tạo ra để hỗ trợ giải các câu đố chữ kiểu chữ anagram, nhưng nó có một loạt các ứng dụng, bao gồm các trò chơi chữ trực tuyến như scrabble. Các từ có chữ không chỉ là một giải pháp tranh giành, nó cũng có thể sắp xếp các chữ cái cho một loạt các trò chơi đảo chữ như từ với bạn bè, Scrabble vv Nó cũng mở ra ý tưởng có các trò chơi tranh giành cấp độ chuyên nghiệp trong đó tất cả người chơi sử dụng từ với công cụ chữ cái để giúp họ tìm từ, nhưng họ phải sử dụng tài năng để tìm ra nơi để chơi các từ trên bảng scrabble và những chữ cái để giữ. Bên cạnh đó, nếu công cụ này được sử dụng một cách thường xuyên, từ vựng có thể được cải thiện."
+         }
+       },{"@type": "Question",
+         "name": "Tôi có thể nhập bao nhiêu từ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn có thể nhập tối đa 15 chữ cái."
+         }
+       },{"@type": "Question",
+         "name": "Tôi có thể tìm thấy các từ có chữ cái của sự lựa chọn của tôi? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn có thể áp dụng các bộ lọc để có được các từ phù hợp."
+         }
+       },{"@type": "Question",
+         "name": "Tôi có thể tìm thấy từ 2 chữ không?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bạn có thể nhận được các từ bắt đầu từ 2 chữ cái đến 15 chữ cái."
+         }
+       },{"@type": "Question",
+         "name": "Là cheat sheet có sẵn?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Có, bảng gian lận có sẵn."
+         }
+       }]
+    }
+  </script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebApplication",
+    "operatingSystem":"All - Windows/Mac/iOS/Linux/Android",
+    "applicationCategory":"UtilitiesApplication",
+    "name": "wordswithletter",
+    "url":"http://localhost:4000/vi",
+    "image":"https://wordswithletters.org/assets/images/wordswithletters-logo.png",
+    "aggregateRating": {
+      "@type": "AggregateRating", 
+      "worstRating":"1",
+      "bestRating":"5",	
+      "ratingValue":"4.93",
+      "ratingCount":"60"},
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "USD"
+    }
+  }
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><body>
+<!-- header starts -->
+<header id="header">
+    <!-- navigation startss -->
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background: #f8f9fa">
+
+        <a class="navbar-brand" href="/" title="words with letters">
+            <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+            <i class="bi bi-list bi-2x bars"></i>
+        </button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
+
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-expanded="false">
+                        More
+                    </a><ul class="dropdown-menu top_tool_bar" aria-labelledby="dropdownMenuButton"><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">Danh sách Word</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/word-game-generator-online">
+                                    Word Game Generator trực tuyến
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/wordle-solver">
+                                    Trình giải Wordle
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/make-words-with-these-letters">
+                                    Tạo từ với những chữ cái
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/word-generator-from-letters">
+                                    Word Generator Từ Letters
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/words-spelled-with-these-letters">
+                                    Các từ được đánh vần bằng các chữ cái này 
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/how-many-words-can-you-make-from-these-letters">
+                                    Bạn có thể tạo bao nhiêu từ từ từ các chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/what-words-can-i-spell-with-these-letters-and-a-blank">
+                                    Những từ nào tôi có thể đánh vần với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/words-with-these-letters-and-2-blanks">
+                                    Các từ có các chữ cái này và 2 khoảng trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/words-with-these-letters-and-3-blanks">
+                                    Từ có các chữ cái này và 3 khoảng trống
+                                </a>
+                            </li></div><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">Từ dài</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/six-letter-words-with-these-letters">
+                                    Sáu chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/five-letter-words-with-these-letters">
+                                    Năm chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/seven-letter-words-with-these-letters">
+                                    Bảy chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/four-letter-words-with-these-letters">
+                                    Bốn chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/three-letter-words-with-these-letters">
+                                    Ba chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/two-letter-words-with-these-letters">
+                                    Hai từ chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/eight-letter-words-with-these-letters">
+                                    Tám chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/nine-letter-words-with-these-letters">
+                                    Chín chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/ten-letter-words-with-these-letters">
+                                    Mười chữ cái với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/eleven-letter-words-with-these-letters">
+                                    Mười một từ thư với những chữ cái này
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/twelve-letter-words-with-these-letters">
+                                    Mười hai chữ cái với những chữ cái
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/thirteen-letter-words-with-these-letters">
+                                    Mười ba từ chữ cái với những chữ cái
+                                </a>
+                            </li></div><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">Từ chữ X với các chữ cái này và một trống</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/12-letter-words-with-these-letters-and-a-blank">
+                                    12 chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/11-letter-words-with-these-letters-and-a-blank">
+                                    11 từ thư với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/10-letter-words-with-these-letters-and-a-blank">
+                                    10 từ chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/9-letter-words-with-these-letters-and-a-blank">
+                                    9 chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/8-letter-words-with-these-letters-and-a-blank">
+                                    8 từ chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/7-letter-words-with-these-letters-and-a-blank">
+                                    7 từ chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/6-letter-words-with-these-letters-and-a-blank">
+                                    6 từ chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/5-letter-words-with-these-letters-and-a-blank">
+                                    5 chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/4-letter-words-with-these-letters-and-a-blank">
+                                    4 từ chữ cái với những chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/3-letter-words-with-these-letters-and-a-blank">
+                                    3 từ chữ cái với các chữ cái này và một trống
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/vi/2-letter-words-with-these-letters-and-a-blank">
+                                    2 từ chữ cái với các chữ cái và một trống
+                                </a>
+                            </li></div></ul></li>
+            </ul>
+        </div>
+        </nav>
+    <!-- navbar close -->
+</header>
+<!-- header close -->
+
+    
+
+<!-- starting landingPage -->
+<div class="pageHeaderBg">
+    <div class="container">
+        <div class="pageHeading text-center" style="margin:22px 0px">
+            <h1 class="heading pb-0 mb-3">
+                Tìm từ với các chữ cái</h1><h2>
+                Nhập các chữ cái dưới đây</h2></div>
+    </div>
+    <div class="container-fluid" id="containerWd">
+        <div class="serachSection">
+            <div class="position-relative serachBox">
+                <form action="/vi/result" id='form' method="GET">
+                    <div style="position: relative;">
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox" value='' name="search" maxlength="15"
+                            required autocomplete="off">
+                        <span class="focus-border">
+                            <i></i>
+                        </span>
+                        <div class="letter-close-button">
+                            <i class="ltr-cls-btn bi bi-x-circle-fill"></i>
+                        </div>
+                    </div>
+
+                    <input
+                        style="border-radius: ; background-color: #000;"
+                        type="submit" class="serachBtn" id="serach" value>
+
+                    <div class="dictonaryDropdown">
+                        <select class="form-select select_dropDown2" name="dictionary"
+                            aria-label="Default select example">
+                            <option selected value="Dictionary">Dictionary</option>
+                            <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                            <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                            <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                        </select>
+                    </div>
+
+                    <div class="wrapper_dropDown d-flex justify-content-end mt-5" style="gap:15px">
+                        <div class="advancedFilter" style="position: relative;" onclick="myFunction()">
+                            <input type="button" value="Advanced Filter" class="filterButton">
+                            <div class="angle-arrow2"></div>
+                        </div>
+                    </div>
+                    <div class="fillterWrapper hide">
+                        <div class="text-right times" style="cursor: pointer;">
+                            <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                        </div>
+                        <div class="startsWith">
+                            <label for="startsWith">Starts With</label>
+                            <input type="text" id="startsWith" placeholder="Prefix" value="" name="prefix">
+                        </div>
+                        <div class="mustInclude">
+                            <label for="mustInclude">Must Contains </label>
+                            <input type="text" id="mustInclude" placeholder="Contains" name="contains">
+
+                        </div>
+                        <div class="endsWith">
+                            <label for="endsWith">End With</label>
+                            <input type="text" id="endsWith" placeholder="Suffix" name="suffix">
+                        </div>
+                        <div class="exculdeWith">
+                            <label for="exculdeWith">Exculde</label>
+                            <br>
+                            <input type="text" id="exculdeWith" placeholder="Exculde" value="" name="exculde">
+                        </div>
+
+                        <div class="inculdeWith">
+                            <label for="inculdeWith">Inculde</label>
+                            <br>
+                            <input type="text" id="inculdeWith" placeholder="Inculde" value="" name="inculde">
+                        </div>
+
+                        <div class="wordLength same">
+                            <label for="wordLength">Word Length </label>
+                            <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                value="">
+                        </div>
+                        <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                            <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                style="background-color: #000;">
+                            <input type="submit" value="Apply" class="btn-info text-white"
+                                style="background-color: #000;">
+                        </div>
+                    </div>
+                </form></div>
+        </div>
+    </div>
+</div>
+<!-- close landingPage -->
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+    let startsWith = document.getElementById('startsWith')
+    let mustInclude = document.getElementById('mustInclude')
+    let endsWith = document.getElementById('endsWith')
+    let wordLength = document.getElementById('wordLength')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const advancedFilter = document.querySelector('.advancedFilter')
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    advancedFilter.addEventListener('click', () => {
+        fillterWrapper.classList.toggle('actives')
+        fillterWrapper.classList.remove('hide')
+    })
+
+    // document.addEventListener('click', (event) => {
+    //     const withinBoundaries = event.composedPath().includes(advancedFilter)
+    //     if (!withinBoundaries) {
+    //         closeModal()
+    //     }
+    // })
+    function closeModal() {
+        fillterWrapper.classList.remove('actives')
+        fillterWrapper.classList.add('hide')
+    }
+
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+
+
+        closeModal()
+    })
+</script>
+
+    
+
+    
+
+
+<div class="container-fluid">
+    <div class="row"><div class="ads_layout">
+            <h5 class="title">Các tính năng</h5>
+            <p class="description"></p>
+        </div><div class="container">
+            <!--class earlier= col-xl-9 col-lg-12-->
+            <div class="row text-center features_data">
+                
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Làm thế nào để tạo các từ có chữ cái bằng cách sử dụng công cụ này?"></img>
+                        <h3 class="card-title">
+                            Làm thế nào để tạo các từ có chữ cái bằng cách sử dụng công cụ này?
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Bạn có nhầm lẫn những từ nào tôi có thể hình thành với những chữ cái này? Sử dụng wordswithletters.org bằng cách làm theo các bước đơn giản này và nhận được kết quả ngay lập tức.
+
+1. Nhập tối đa 15 chữ cái
+
+2. Nhấn tìm kiếm và chờ công cụ tạo từ với các chữ cái này.
+
+3. Để tìm một từ có độ dài nhất định hoặc khớp với một mẫu cụ thể, hãy sử dụng các công cụ tìm kiếm nâng cao.
+
+Hãy sẵn sàng để nâng cấp kỹ năng từ vựng của bạn, đánh bại đối thủ của bạn, và giành chiến thắng cuộc thi từ tiếp theo của bạn? Hãy vui vẻ bằng cách sử dụng từ của chúng tôiwithletters!</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Không cần cài đặt"></img>
+                        <h3 class="card-title">
+                            Không cần cài đặt
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Words with Letters là một trang web cho bạn biết bạn có thể xây dựng bao nhiêu từ trong một tập hợp các chữ cái tiếng Anh. Chúng tôi đã nỗ lực hết sức để kết hợp mọi kết hợp từ có thể cho mỗi thuật ngữ. Đó là một trang web hữu ích cho các cá nhân tìm kiếm các từ mới từ các chữ cái cụ thể. Người hâm mộ trò chơi chữ và người nói tiếng Anh sẽ thích công cụ hữu ích này. Các từ có chữ cái đang nhanh chóng trở thành một trong những tài nguyên trợ giúp trò chơi chữ phổ biến nhất trên internet. Để sử dụng công cụ này, bạn không cần tải xuống hoặc cài đặt bất kỳ phần mềm nào trên máy tính hoặc thiết bị di động của mình. Bạn có thể sử dụng từ của chúng tôi với công cụ chữ cái bất cứ lúc nào vì nó hoàn toàn dựa trên web. Chỉ cần sao chép và dán URL của trang web của chúng tôi vào trình duyệt của bạn và sử dụng nó khi cần thiết.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Mở rộng vốn từ vựng của bạn"></img>
+                        <h3 class="card-title">
+                            Mở rộng vốn từ vựng của bạn
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Không phải tất cả chúng ta đều thích chơi trò chơi chữ? Mọi người, trẻ và già, thích chơi trò chơi chữ. Chúng tôi nhớ lại những ngày khi chúng tôi sử dụng để chơi trò chơi này với gia đình và bạn bè. Scrabble, Text Twist và Word with Friends đều tuân theo cùng một bộ quy tắc. Tuy nhiên, nó gây khó chịu cho chúng ta khi chúng ta không thể hiểu một số thuật ngữ nhất định. Trên thực tế, chúng ta sẽ cần một số hỗ trợ unscrambling từ. Một số người coi đó là gian lận, nhưng cuối cùng, không ai có thể nói rằng một chút hỗ trợ là có hại. Nhận được hỗ trợ là, sau khi tất cả, một cách để học hỏi. Điều cần thiết là phải có một vốn từ vựng lớn nếu bạn muốn giành chiến thắng trong các trò chơi chữ. Rốt cuộc, đó là tất cả về việc làm chủ từ viết. Tìm hiểu các thuật ngữ mới, mở rộng kiến thức của bạn và cải thiện lệnh ngôn ngữ của bạn với ứng dụng miễn phí này. Sử dụng thường xuyên các từ có chữ cái có thể uốn cong cơ bắp từ của bạn và cải thiện kỹ năng ngôn ngữ của bạn.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Công cụ miễn phí"></img>
+                        <h3 class="card-title">
+                            Công cụ miễn phí
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Bạn không cần đăng ký hoặc đăng nhập để sử dụng các từ có công cụ chữ cái. Bạn không cần phải trả tiền để sử dụng từ với công cụ chữ cái. Bạn có thể sử dụng các từ có chữ cái nhiều lần như bạn muốn. Đây là một trang web nơi bạn có thể tìm thấy câu trả lời cho các trò chơi chữ yêu thích của bạn. Bạn sử dụng nó như một trình tạo chữ cái ngẫu nhiên để sắp xếp các chữ cái để tạo các từ có điểm cao. Nếu bạn ra khỏi câu trả lời và không thể tiến bộ vượt quá mức hiện tại của bạn, hãy sử dụng điều này như một cheat sheet cho các câu đố từ. Từ có chữ cái là một công cụ trò chơi chữ tiện dụng để tạo các từ Scrabble, xác định câu trả lời từ với bạn bè, gỡ bỏ gạch Wordfeud, tạo thành các chữ cái trong Word Cookies và giải các câu đố CodyCross. Nói một cách khác, đó là một bảng cheat cho bất kỳ trò chơi chữ phổ biến nào.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Từ có chữ cái - Tất cả những gì bạn cần để giành chiến thắng"></img>
+                        <h3 class="card-title">
+                            Từ có chữ cái - Tất cả những gì bạn cần để giành chiến thắng
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Bạn có thích chơi trò chơi chữ? Các trò chơi như Scrabble và Words with Friends có làm cho tất cả các tế bào thần kinh của bạn cháy không? Bạn có thích khám phá ý nghĩa mới? Sau đó, từ của chúng tôi với các chữ cái là chính xác những gì bạn cần. Không có vấn đề trình độ kỹ năng của bạn, mỗi một lần trong một thời gian chúng tôi đang bị mắc kẹt. Chúng ta sẽ bị vấp ngã như thế nào chúng ta sẽ bao giờ xây dựng các từ từ những chữ cái này. Đây là nơi công cụ này hoạt động như một người tiết kiệm cuộc sống. Chúng ta sẽ quen thuộc hơn với các thuật ngữ có độ dài khác nhau bắt đầu bằng nhiều chữ cái khác nhau khi vốn từ vựng của bạn mở rộng.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Dễ sử dụng"></img>
+                        <h3 class="card-title">
+                            Dễ sử dụng
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">“Tôi có thể hình thành những từ nào với những chữ cái này?” is no longer lâu hơn an issue vấn đề. “Câu trả lời cho đầu mối câu đố từ này là gì?” hoặc “câu trả lời cho đầu mối câu đố từ này là gì?” Sử dụng các từ tiện dụng của chúng tôi với trình trợ giúp thư bằng cách làm theo các bước đơn giản sau. 
+Bước đầu tiên là gõ tối đa 15 chữ cái trong hộp bên dưới và sau đó nhấn tìm kiếm và chờ công cụ tạo từ với các chữ cái này. Chúng tôi thậm chí có một bộ lọc trước mà bạn có thể tìm thấy một từ có độ dài nhất định hoặc phù hợp với một mẫu cụ thể.
+Hãy sẵn sàng để nâng cấp kỹ năng từ vựng của bạn, đánh bại đối thủ của bạn, và giành chiến thắng cuộc thi từ tiếp theo của bạn? Để giải quyết bất kỳ câu đố một cách nhanh chóng, sử dụng từ của chúng tôi với công cụ chữ cái.
+ và vui chơi bằng cách sử dụng từ của chúng tôiwithletters! </p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Word Game Helper"></img>
+                        <h3 class="card-title">
+                            Word Game Helper
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Mỗi trò chơi giải đố, cho dù đó là một đảo chữ hay một câu đố chữ, trở nên khó khăn hơn khi nó tiến hành. Những dòng này không đúng sao?
+Bạn đang tìm kiếm bất kỳ giải pháp trò chơi chữ nào? Để giải quyết bất kỳ câu đố một cách nhanh chóng, sử dụng từ của chúng tôi với công cụ chữ cái.
+Đừng nghĩ về chúng tôi như một gian lận từ, thay vì coi chúng tôi là một công cụ tham khảo mà bạn và bạn bè của bạn có thể sử dụng để giải quyết những bất đồng về tính hợp lệ của bất kỳ từ nào. Công cụ tìm kiếm của chúng tôi sẽ xem xét cả từ điển Anh và Hoa Kỳ để khám phá phù hợp nhất cho bạn. Không chỉ vậy, mà để thuận tiện hơn, bộ lọc từ nâng cao của chúng tôi sẽ sắp xếp kết quả theo độ dài từ. Các từ có công cụ chữ cái chỉ giúp bạn gây ấn tượng với đối thủ, nhưng nó cũng giúp bạn cải thiện vốn từ vựng của mình hơn bao giờ hết!</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div><!-- how to section -->
+
+
+<!-- starting news section -->
+<div class="container-fluid">
+    <div class="row rowHeight2"><div class="ads_layout">
+            <h5 class="title">CÂU HỎI THƯỜNG GẶP</h5>
+        </div><div class="container">
+            <!--class earlier=col-xl-9 col-lg-12 -->
+            <div class="row my-xl-0">
+                
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Mẹo và thủ thuật để sắp xếp các từ một cách nhanh chóng</h2>
+                        <p class="meduim-text text-center mb-0">Khi nói đến các từ unscrambling từ các chữ cái lộn xộn, có một vài chiến lược rất hữu ích. Dưới đây là một số mẹo và thủ thuật đã thử và thử nghiệm giúp bạn tìm thấy câu trả lời cho câu đố:
+-Tách biệt các phụ âm từ các nguyên âm và xem những gì bạn có thể đưa ra bằng cách ghép nối các phụ âm khác nhau với nguyên âm.
+-Ví dụ: Tìm các thuật ngữ ngắn bắt đầu bằng hai hoặc ba chữ cái. Sau đó xem nếu bạn có thể làm cho chúng lâu hơn bằng cách đa số hóa hoặc sửa đổi thì.
+-Pick từ với bất kỳ tiền tố hoặc hậu tố nào có thể mở rộng độ dài của các từ.
+Đây là một số mẹo nhanh chóng và dễ sử dụng để nhận được câu trả lời của các câu đố từ.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Làm thế nào để sắp xếp những từ khó nhất?</h2>
+                        <p class="meduim-text text-center mb-0">Từ với công cụ chữ cái hoạt động tốt nhất cho những từ khó nhất cũng. Nó cung cấp danh sách dài các từ hợp lệ. Chỉ cần nhập các chữ cái bạn muốn tạo từ và nhận được kết quả mong muốn ngay lập tức. Công cụ này hoàn toàn miễn phí và rất dễ sử dụng. Công cụ này có tùy chọn nâng cao và bạn có thể sử dụng nó để có được các từ ghi điểm cao.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Tôi có thể thực hiện những từ nào với những chữ cái này?</h2>
+                        <p class="meduim-text text-center mb-0">Đó là phần thú vị. Nhập chữ cái của bạn vào các từ với hộp tìm kiếm chữ cái và xem những gì nó cung cấp cho bạn. Bạn sẽ nhận được một danh sách dài các từ hợp lệ của bạn. Công cụ này hỗ trợ gạch trống (Scrabble) hoặc ký tự đại diện cũng. Đối với tâm trí con người, các trò chơi tranh giành chữ tương tự như bóng đá hoặc bóng đá: một mớ hỗn độn các chữ cái đẩy, xô đẩy và la hét để được sắp xếp thành đúng trình tự.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Các từ có chữ cái có thể giúp tôi làm tốt hơn trong Scrabble không?</h2>
+                        <p class="meduim-text text-center mb-0">Mỗi trò chơi giải đố, cho dù đó là một đảo chữ hay một câu đố chữ, trở nên khó khăn hơn khi nó đi. Dưới đây là một số ví dụ lý tưởng về thời điểm sử dụng công cụ của chúng tôi. 
+1. Khi có ít chữ cái liên quan đến một trò chơi, nó có thể xuất hiện đơn giản. Tuy nhiên, khi trò chơi tiến bộ và bạn đạt đến một điểm mà bạn có nhiều nguyên âm và phụ âm hơn, mọi thứ bắt đầu trở nên hơi bối rối! Đã đến lúc đưa công cụ của chúng tôi vào hoạt động.
+2. Khi bạn đi qua các cấp độ, các câu đố từ trở nên khó khăn hơn. Nó rất tự nhiên để trở nên bối rối và yêu cầu sự giúp đỡ. Đây là một cách tuyệt vời để chọn từ mới bằng cách sử dụng công cụ của chúng tôi.
+Từ với công cụ chữ cái là lý tưởng khi bạn phải tạo từ mới, bất kể bạn sẽ sử dụng chúng như thế nào. 
+</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Các từ có công cụ chữ cái có thể được sử dụng cho Scrabble hoặc Words With Friends không?</h2>
+                        <p class="meduim-text text-center mb-0">Công cụ này có thể được sử dụng để tìm các từ trong chữ cái của bạn cho Scrabble hoặc Words With Friends. Các từ có chữ cái cũng hỗ trợ các ký tự đại diện. Các công cụ của chúng tôi có thể giúp bạn đưa ra các ý tưởng từ scrabble (bao gồm cả gạch trống) và cũng giúp bạn trong việc tìm kiếm từ ghi điểm cao nhất. Các tùy chọn nâng cao của nó cho phép bạn lọc các từ hợp lệ và đưa ra kết quả mong muốn chỉ với vài cú nhấp chuột.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Các từ có công cụ chữ cái có cho phép ký tự đại diện không?</h2>
+                        <p class="meduim-text text-center mb-0">Ký tự đại diện là các ký tự đặc biệt có thể được sử dụng để thay thế các ký tự không xác định trong một giá trị văn bản. Vâng! Các từ có chữ cái hỗ trợ các ô trống trong các ký tự Scrabble hoặc ký tự đại diện. Những gạch này sẽ được so sánh với tất cả các chữ cái có thể tưởng tượng được, dẫn đến sự gia tăng rất lớn về số lượng các từ unscrambled. Nhập ký tự đại diện dưới dạng * hoặc? in the word từ solverthư thư boxcái hộp.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Công cụ này có thể được sử dụng cho nhiều chữ cái?</h2>
+                        <p class="meduim-text text-center mb-0">Bạn đã kết thúc với số lượng quá nhiều chữ cái? Đừng lo lắng từ với công cụ chữ cái sẽ giảm bớt rắc rối của bạn! Cho dù bạn có bao nhiêu chữ cái, 3,4,5 hoặc 8,9,10 công cụ này sẽ thực hiện công việc của mình. Ví dụ- Chúng tôi sẽ lấy các chữ cái R, L, I, N, K, A, R, F và O. Ở đây chúng tôi có 9 chữ cái. 
+
+Bây giờ bạn biết phải làm gì - nhập các chữ cái vào hộp và nhấn đi và nhận được kết quả mong muốn của bạn ngay lập tức. Bạn có thể sử dụng tùy chọn nâng cao để có được kết quả tinh chỉnh.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Làm thế nào để tạo từ với chữ cái?</h2>
+                        <p class="meduim-text text-center mb-0">Một thế giới có chữ cái là công cụ bạn cần cho dù bạn đang chơi một trò chơi chữ hay chỉ đơn giản là thách thức bạn bè của bạn. Công cụ này tạo ra tất cả các từ có thể từ các chữ cái đã cho. Ở đây bạn nhận được một danh sách các từ được nhóm theo chiều dài để giành chiến thắng bất kỳ trò chơi chữ nào. Bạn cũng có thể sử dụng các tùy chọn nâng cao để có được kết quả mong muốn của mình. Hãy biến các chữ cái ngẫu nhiên thành những từ chiến thắng với công cụ này!</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Những từ nào chúng ta có thể thực hiện với các chữ cái trực tuyến?</h2>
+                        <p class="meduim-text text-center mb-0">38 từ có thể được làm từ các chữ cái trong từ trực tuyến. Nếu bạn đang phải đối mặt với khó khăn trong việc tìm kiếm từ chữ o, n, l, i, n, e Bạn đang ở đúng nơi. Các từ có chữ cái cung cấp cho bạn danh sách đầy đủ của tất cả các từ Scrabble có thể được thực hiện từ các chữ cái trong từ trực tuyến chỉ với một cú nhấp chuột. </p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Công cụ này có cho phép chữ lặp đi lặp lại không? </h2>
+                        <p class="meduim-text text-center mb-0">Bạn sẽ có thể nhập tối đa 15 chữ cái trong thanh tìm kiếm. Để sử dụng các chữ cái nhiều lần, chỉ cần nhập chúng nhiều lần. Bạn có thể nhập mỗi chữ cái hai lần nếu bạn có 8 chữ cái khác nhau hoặc bạn có thể nhập các chữ cái bạn muốn lặp lại nó nhiều lần.
+Bạn cũng có thể chơi với các tùy chọn nâng cao.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Khi nào chúng ta nên sử dụng các từ với công cụ chữ cái?</h2>
+                        <p class="meduim-text text-center mb-0">Mỗi trò chơi giải đố, cho dù đó là một đảo chữ hay một câu đố chữ, trở nên khó khăn hơn khi nó tiến hành. Dưới đây là một số ví dụ lý tưởng về thời điểm sử dụng công cụ của chúng tôi. 
+1. Khi có ít chữ cái liên quan đến một trò chơi, nó có thể xuất hiện đơn giản. Tuy nhiên, khi trò chơi tiến bộ và bạn đạt đến một điểm mà bạn có nhiều nguyên âm và phụ âm hơn, mọi thứ bắt đầu trở nên hơi bối rối! Đã đến lúc đưa công cụ của chúng tôi vào hoạt động.
+2. Khi bạn đi qua các cấp độ, các câu đố từ trở nên khó khăn hơn. Nó rất tự nhiên để trở nên bối rối và yêu cầu sự giúp đỡ. Đây là một cách tuyệt vời để chọn từ mới bằng cách sử dụng công cụ của chúng tôi.
+Từ với công cụ chữ cái là lý tưởng khi bạn phải tạo từ mới, bất kể bạn sẽ sử dụng chúng như thế nào. 
+</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Lợi ích của việc sử dụng từ với công cụ chữ cái là gì?</h2>
+                        <p class="meduim-text text-center mb-0">Thành công- Ai không muốn giành chiến thắng một cách dễ dàng? Tuy nhiên, chiến thắng một câu đố từ không phải lúc nào cũng đơn giản. Chúng tôi trở nên mắc kẹt và thất vọng rất nhiều thời gian. Chúng tôi đã làm cho công cụ của chúng tôi đơn giản, nhanh chóng và tiện dụng. Sử dụng các chữ cái của chúng tôi với công cụ từ để giành chiến thắng các trò chơi chữ mà không có ràng buộc.
+Thuận tiện- Khi một câu đố trở nên bực bội hơn là thú vị, những từ có chữ cái giải quyết vấn đề này. Công cụ rất đơn giản và dễ sử dụng của nó.
+Tăng cường từ vựng của bạn- Khi chúng ta nhập các chữ cái vào từ bằng thanh tìm kiếm chữ cái, nó sẽ hiển thị một số từ bằng cách sử dụng hai hoặc nhiều chữ cái. Bằng cách này, chúng ta có được những từ khác nhau và có thể tăng vốn từ vựng của chúng ta bằng cách học những từ đó.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Làm thế nào chúng ta có thể tìm thấy các từ với các chữ cái bị thiếu?</h2>
+                        <p class="meduim-text text-center mb-0">Công cụ này hoạt động tốt nhất để tìm các chữ cái bị thiếu. Dưới đây là danh sách đầy đủ các từ chứa mỗi chữ cái của bảng chữ cái. Nhưng nếu bạn muốn tập trung tìm kiếm của mình vào một độ dài từ cụ thể hoặc, thậm chí tốt hơn, một mô hình? Chúng tôi đã có tất cả mọi thứ bạn cần. Chỉ cần sử dụng các tùy chọn nâng cao của chúng tôi. Bên cạnh việc sử dụng các từ với công cụ chữ cái một chút mớ lộn xộn giải quyết mỗi ngày giúp bạn trở thành một người chơi từ hàng đầu!</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Công cụ này chỉ cung cấp các từ hợp lệ không?</h2>
+                        <p class="meduim-text text-center mb-0">Word with letters là một công cụ được tạo đặc biệt để giúp bạn tìm các từ có điểm cao nhất cho Scrabble, Words with Friends, và các trò chơi chữ khác. Công cụ tìm kiếm độc đáo của nó sẽ đề xuất tất cả các từ hợp lệ. Tóm lại, các từ có chữ cái cho phép bạn nhập tất cả các chữ cái bạn có trong tay và sắp xếp lại chúng để tiết lộ tất cả các kết hợp từ có thể.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Công cụ này có thể giúp chiến thắng scrabble hoặc từ với bạn bè trò chơi?</h2>
+                        <p class="meduim-text text-center mb-0">Các từ có công cụ chữ cái sẽ biến đổi chữ cái của bạn thành các từ trong thời gian không. Nếu bạn cần một từ dài hoặc một từ năm chữ cái, trình tạo sẽ tạo ra tất cả các kết hợp có thể mà trò chơi của bạn chấp nhận. Bạn có thể tìm thấy những mánh gian lận tốt nhất và các từ ghi điểm cao nhất cho Scrabble, Words with Friends, và nhiều trò chơi chữ khác tại Words with Letters.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Chúng ta có thể mở rộng vốn từ vựng của mình bằng cách sử dụng công cụ này không?</h2>
+                        <p class="meduim-text text-center mb-0">Đừng coi chúng tôi là một từ hack, thay vào đó, hãy coi chúng tôi là một công cụ tham khảo mà bạn và bạn bè của bạn có thể sử dụng để mở rộng vốn từ vựng. Công cụ tìm kiếm của chúng tôi sẽ xem xét cả từ điển Anh và Mỹ để khám phá phù hợp nhất cho các chữ cái của bạn. Nó rất đơn giản và dễ dàng, chắc chắn thú vị để sử dụng. Nhưng cùng với việc vui chơi, bạn cũng có thể cải thiện vốn từ vựng của mình bằng cách thường xuyên sử dụng các từ với công cụ chữ cái. Sử dụng công cụ này và tăng kiến thức của bạn một cách thú vị và thú vị..</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Làm thế nào để sử dụng các tùy chọn nâng cao của công cụ này?</h2>
+                        <p class="meduim-text text-center mb-0">Nếu nó có liên quan đến trò chơi bạn đang chơi, hãy thay đổi từ điển; nếu không, hãy để nó như vậy. Các tùy chọn này sẽ xuất hiện khi bạn chọn nút 'Tùy chọn'. Bạn có thể sử dụng các tùy chọn “Bắt đầu bằng” hoặc “Kết thúc bằng” hoặc “Phải bao gồm” để lọc kết quả. Vui lòng sử dụng công cụ này với sự chú ý, nếu không sẽ không có từ hợp lệ nào được đưa ra trong kết quả. Công cụ này rất đơn giản và dễ sử dụng bước đầu tiên là gõ tối đa 15 chữ cái trong hộp bên dưới và sau đó nhấn tìm kiếm và chờ công cụ tạo từ với các chữ cái này. Chúng tôi thậm chí có một bộ lọc trước mà bạn có thể tìm thấy một từ có độ dài nhất định hoặc phù hợp với một mẫu cụ thể. Bạn có thể sử dụng từ của chúng tôi với công cụ chữ cái bất cứ lúc nào vì nó hoàn toàn dựa trên web. Chỉ cần sao chép và dán URL của trang web của chúng tôi vào trình duyệt của bạn và sử dụng nó khi cần thiết.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Tôi có cần bất kỳ cài đặt hoặc đăng ký nào để sử dụng các từ này với công cụ chữ cái.</h2>
+                        <p class="meduim-text text-center mb-0">Từ với công cụ chữ cái là một công cụ dựa trên web tiên tiến. Không cần tải xuống bất kỳ phần mềm nào hoặc đăng ký công cụ này. Nó là an toàn và bảo mật dễ sử dụng công cụ. Không có kiến thức kỹ thuật là cần thiết để sử dụng ứng dụng này. Nó hỗ trợ trình duyệt khác nhau và hoạt động tốt.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Những trò chơi vấn đề từ nào từ này với công cụ chữ cái giúp đỡ?</h2>
+                        <p class="meduim-text text-center mb-0">“Công cụ này rất hữu ích cho các câu đố chữ và trò chơi vấn đề từ hoặc trò chơi chữ trực tuyến.
+Lời nói với bạn bè
+Từ với công cụ chữ cái sử dụng từ điển và tìm tất cả các từ hợp lệ từ các chữ cái lộn xộn của bạn. Thật thú vị khi chơi và tăng cường kỹ năng từ ngữ của bạn.
+viết ngoáy
+Từ của chúng tôi với công cụ chữ cái sẽ giúp bạn tìm thấy các từ có điểm cao bắt đầu bằng các chữ cái bạn cần để tiến về phía trước. Scrabble tương tự như Words With Friends,
+Văn bản Twist
+Text Twist là một trò chơi chữ khác tương tự như những người khác. Đơn giản chỉ cần nhập các chữ cái vào thanh tìm kiếm từ của chúng tôi và chúng tôi sẽ tạo ra một danh sách các từ để bạn sử dụng. 
+Có những trò chơi khác như Word Trip, Daily Jumble, Wordscapes và nhiều trò chơi khác. Công cụ này rất hữu ích cho tất cả các trò chơi có vấn đề từ.”</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Làm thế nào để nó hoạt động như người trợ giúp trò chơi chữ?</h2>
+                        <p class="meduim-text text-center mb-0">Bạn đã bao giờ cần phải tìm những từ đã chỉ định các chữ cái cho một câu đố từ? Nó đơn giản đối với một số chữ cái tranh giành, nhưng nó khó khăn hơn đối với các chữ cái bất thường. Bằng cách đọc hoặc tìm kiếm danh sách từ rộng lớn của chúng tôi với hàng trăm ngàn từ, bạn có thể tìm thấy từ với các chữ cái của mình. Với chữ cái sửa chữa bộ lọc nâng cao và độ dài bạn yêu cầu Vui chơi và khám phá xung quanh để xem những từ mới nào, bạn có thể đưa ra. Để sử dụng công cụ này, bạn không cần tải xuống hoặc cài đặt bất kỳ phần mềm nào trên máy tính hoặc thiết bị di động của mình. Bạn có thể sử dụng từ của chúng tôi với công cụ chữ cái bất cứ lúc nào vì nó hoàn toàn dựa trên web.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Việc sử dụng các từ với công cụ chữ cái là gì?</h2>
+                        <p class="meduim-text text-center mb-0">Công cụ này rất tốt để tìm từ cho trò chơi bảng và trò chơi chữ trực tuyến. Chỉ cần nhập các chữ cái và đặt các tùy chọn nâng cao nếu cần, và các từ của chúng tôi với các chữ cái sẽ hiển thị tất cả các từ có thể. Các từ có chữ cái được tạo ra để hỗ trợ giải các câu đố chữ kiểu chữ anagram, nhưng nó có một loạt các ứng dụng, bao gồm các trò chơi chữ trực tuyến như scrabble. Các từ có chữ không chỉ là một giải pháp tranh giành, nó cũng có thể sắp xếp các chữ cái cho một loạt các trò chơi đảo chữ như từ với bạn bè, Scrabble vv Nó cũng mở ra ý tưởng có các trò chơi tranh giành cấp độ chuyên nghiệp trong đó tất cả người chơi sử dụng từ với công cụ chữ cái để giúp họ tìm từ, nhưng họ phải sử dụng tài năng để tìm ra nơi để chơi các từ trên bảng scrabble và những chữ cái để giữ. Bên cạnh đó, nếu công cụ này được sử dụng một cách thường xuyên, từ vựng có thể được cải thiện.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Tôi có thể nhập bao nhiêu từ?</h2>
+                        <p class="meduim-text text-center mb-0">Bạn có thể nhập tối đa 15 chữ cái.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Tôi có thể tìm thấy các từ có chữ cái của sự lựa chọn của tôi? </h2>
+                        <p class="meduim-text text-center mb-0">Bạn có thể áp dụng các bộ lọc để có được các từ phù hợp.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Tôi có thể tìm thấy từ 2 chữ không?</h2>
+                        <p class="meduim-text text-center mb-0">Bạn có thể nhận được các từ bắt đầu từ 2 chữ cái đến 15 chữ cái.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Là cheat sheet có sẵn?</h2>
+                        <p class="meduim-text text-center mb-0">Có, bảng gian lận có sẵn.</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- close -->
+    
+    
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/vi" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/vi" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/vi" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> --><div class="rating-tool">
+  <img id="rating-img" loading='lazy' src="/assets/images/rating.webp" alt="rating-img">
+  <div class="rating-text">Rate this tool</div>
+  <div class="rating-stars">
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill  rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+
+  </div>
+  <div class="rating-value ml-2"><span class="rating"> <strong id='rating'>4.93</strong><span>/5</span> </span>
+    &nbsp; <span class="total-ratings" id='count'>60 </span> votes
+  </div>
+</div>
+<script>
+  const ratingValue = document.getElementById('rating')
+  const count = document.getElementById('count')
+  const setRating = async (rating) => {
+    const name = 'wordswithletters'
+    const tool = 'wordswithletter'
+    const data = { website: name, feature: tool, rating: rating };
+    fetch('https://ratingapi-main.netlify.app/.netlify/functions/api/v1/rating/add', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+      .then(response => response.json())
+      .then(data => {
+        ratingValue.innerText = data.rating
+        count.innerText = data.count
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+      });
+  }
+  const tool = 'wordswithletter'
+  const fetchRating = async () => {
+
+    const data = await fetch(`https://ratingapi-main.netlify.app/.netlify/functions/api/v1/${tool}/rating`).then(res => res.json())
+    ratingValue.innerText = data.rating
+    count.innerText = data.votes
+  }
+  let ratingImg = document.querySelector('#rating-img');
+  ratingImg.addEventListener('load', (event) => {
+    fetchRating()
+  });
+  const ratingNode = document.getElementsByClassName('rating-star')
+  let ratedValue = localStorage.getItem(`${tool}rating`)
+  if (ratedValue) {
+    Array.from(ratingNode).slice(0, ratedValue).map(item => {
+      item.style.color = '#FDD300'
+    })
+  }
+
+  Array.from(ratingNode).map(item => item.addEventListener('click', () => {
+    const tool = 'wordswithletter'
+    if (!localStorage.getItem(`${tool}rating`)) {
+      function indexInClass(node) {
+        var className = node.className;
+        var num = 0;
+        for (var i = 0; i < ratingNode.length; i++) {
+          if (ratingNode[i] === node) {
+            return num;
+          }
+          num++;
+        }
+        return -1;
+      }
+      const index = indexInClass(item)
+      Array.from(ratingNode).slice(0, index + 1).map(item => {
+        item.style.color = '#FDD300'
+      })
+      setRating(index + 1)
+      localStorage.setItem(`${tool}rating`, index + 1)
+    }
+  }))
+</script><div class="container">
+    <div class="relatedPosts">
+
+        
+        <div class="row">
+            <div class="col-lg-8 mx-auto"><h2 class="related_post_heading text-center">Recent Posts</h2><div class="row">
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/wordle-hard-mode-tutorial">
+                                <img src="/uploads/output-5-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="Wordle hard mode tutorial ">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/wordle-hard-mode-tutorial" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">Wordle hard mode tutorial </h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/wordle-hard-mode-tutorial"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique">
+                                <img src="/uploads/output-9.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="What are the finest paraphrase tools to make your content unique?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">What are the finest paraphrase tools to make your content unique?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games">
+                                <img src="/uploads/output-6-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="The top 5 free online wordle generator tools for word games">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">The top 5 free online wordle generator tools for word games</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism">
+                                <img src="/uploads/output-7-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="The best rewriter tool for text rewriter and spinner to prevent plagiarism">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">The best rewriter tool for text rewriter and spinner to prevent plagiarism</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game">
+                                <img src="/uploads/output-3-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="How to use our wordle generator to create a wordle game?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">How to use our wordle generator to create a wordle game?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool">
+                                <img src="/uploads/output-2-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="How to make your content unique online, using the paragraph rewriter tool?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">How to make your content unique online, using the paragraph rewriter tool?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Công cụ</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/word-game-generator-online">Word Game Generator trực tuyến</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/wordle-solver">Trình giải Wordle</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/make-words-with-these-letters">Tạo từ với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/word-generator-from-letters">Trình tạo từ chữ cái</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/words-spelled-with-these-letters">Các từ được đánh vần bằng các chữ cái này </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/what-words-can-i-spell-with-these-letters-and-a-blank">Những từ nào tôi có thể đánh vần với những chữ cái này và một trống</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/words-with-these-letters-and-2-blanks">Các từ có các chữ cái này và 2 khoảng trống</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/words-with-these-letters-and-3-blanks">Từ có các chữ cái này và 3 khoảng trống</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Từ dài</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/six-letter-words-with-these-letters">Sáu chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/five-letter-words-with-these-letters">Năm chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/seven-letter-words-with-these-letters">Bảy chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/four-letter-words-with-these-letters">Bốn chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/three-letter-words-with-these-letters">Ba chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/two-letter-words-with-these-letters">Hai từ chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/eight-letter-words-with-these-letters">Tám chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/nine-letter-words-with-these-letters">Chín chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/ten-letter-words-with-these-letters">Mười chữ cái với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/eleven-letter-words-with-these-letters">Mười một từ thư với những chữ cái này</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/twelve-letter-words-with-these-letters">Mười hai chữ cái với những chữ cái</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vi/thirteen-letter-words-with-these-letters">Mười ba từ chữ cái với những chữ cái</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">TÀI NGUYÊN</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Công ty</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">Điều khoản và điều kiện</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">Chính sách bảo mật</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">Khước từ</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><center>
+                                <button type="button" class="drop-down-btn" data-toggle="modal"
+                                    data-target="#staticBackdrop">
+                                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+                                        <path
+                                            d="M12 4C16.4183 4 20 7.58172 20 12C20 16.4183 16.4183 20 12 20C7.58172 20 4 16.4183 4 12C4 7.58172 7.58172 4 12 4ZM11.619 15.428L8.57155 15.4289C8.9774 16.7012 9.60471 17.924 10.4358 19.0678C10.8198 19.1532 11.2151 19.2073 11.6191 19.2282L11.619 15.428ZM15.4284 15.4289L12.38 15.428L12.3809 19.2282C12.7849 19.2073 13.1802 19.1532 13.5641 19.0687C14.3953 17.924 15.0226 16.7012 15.4284 15.4289ZM18.3762 15.4285L16.0984 15.4284C15.7811 16.5746 15.31 17.6754 14.703 18.7169C16.2768 18.0829 17.5774 16.9109 18.3762 15.4285ZM7.90159 15.4284L5.62381 15.4285C6.42258 16.9109 7.72324 18.0829 9.29827 18.717C8.69002 17.6754 8.21891 16.5746 7.90159 15.4284ZM7.4355 12.3803L4.77175 12.3809C4.81342 13.1846 4.98617 13.9535 5.26904 14.6669L7.71488 14.6666C7.55555 13.9205 7.46086 13.1572 7.4355 12.3803ZM15.9653 12.3808L12.38 12.38V14.666L15.6434 14.6671C15.8277 13.9178 15.9362 13.1537 15.9653 12.3808ZM19.2282 12.3809L16.5645 12.3803C16.5391 13.1572 16.4444 13.9205 16.2851 14.6666L18.731 14.6669C19.0138 13.9535 19.1866 13.1846 19.2282 12.3809ZM11.619 12.38L8.03469 12.3808C8.06384 13.1537 8.17229 13.9178 8.35656 14.6671L11.619 14.666V12.38ZM7.78068 8.95226L5.43294 8.95224C5.05284 9.76985 4.82095 10.6703 4.77175 11.6191L7.4329 11.6194C7.45634 10.71 7.57476 9.81899 7.78068 8.95226ZM15.5678 8.95239L12.38 8.952V11.619H15.968L15.9673 11.5875C15.9382 10.6945 15.8033 9.81313 15.5678 8.95239ZM18.5671 8.95224L16.2193 8.95226C16.4252 9.81899 16.5437 10.71 16.5671 11.6194L19.2282 11.6191C19.1791 10.6703 18.9472 9.76985 18.5671 8.95224ZM11.619 8.952L8.43217 8.95239C8.16446 9.93108 8.02667 10.9364 8.02667 11.9553L8.031 11.619H11.619V8.952ZM9.22964 5.31048L9.02453 5.39982C7.70745 5.99451 6.60023 6.97185 5.84458 8.19011L7.98594 8.19044C8.28727 7.19147 8.70587 6.2283 9.22964 5.31048ZM12.3809 4.77175L12.38 8.19L15.3312 8.18991C14.9387 7.06132 14.371 5.97399 13.6406 4.949C13.2322 4.85405 12.8116 4.79408 12.3809 4.77175ZM14.7693 5.31058L14.9321 5.60148C15.3809 6.43124 15.7444 7.2965 16.0141 8.19044L18.1554 8.19011C17.3607 6.9088 16.177 5.89399 14.7693 5.31058ZM10.5701 4.90311L10.3594 4.949C9.629 5.97399 9.06128 7.06132 8.66884 8.18991L11.619 8.19L11.6191 4.77175C11.262 4.79027 10.9117 4.83467 10.5701 4.90311Z">
+                                        </path>
+                                    </svg> Tiếng Việt
+                                </button>
+                            </center>
+
+                            <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false"
+                                tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                <div class="modal-dialog ">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title text-center w-100 " id="staticBackdropLabel">Select
+                                                Language
+                                            </h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body px-md-5">
+                                            <ul class="language-drop-down-menu"><li class="language-drop-down-item ram"><a href="/id">Bahasa Indonesia
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/da">Dansk
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/de">Deutsch
+                                                    </a></li><li class="language-drop-down-item"><a href="/">English</a></li><li class="language-drop-down-item ram"><a href="/es">Español
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/fr">Français
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/it">Italiano
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/nl">Nederlands
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/pl">Polski
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/pt">(Português)
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/sv">Svenska
+                                                    </a></li><li class="language-drop-down-item font-weight-bold "><a class="active-lang" href="vi">Tiếng Việt
+                                                        <i class="fas fa-check ml-auto "></i> </a></li><li class="language-drop-down-item ram"><a href="/tr">Türkçe
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ru">Русский
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/uk">Українська
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ar">العربية
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/hi">हिन्दी
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/th">ภาษาไทย
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ko">한국어
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ja">日本語
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/zh">拼音
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/zh-tw">繁體中文
+                                                    </a></li></ul>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script>
+        let letterCloseButton = document.querySelector('.letter-close-button')
+        let txtBox = document.querySelector('.txtBox')
+        let focusBorder = document.querySelector('.focus-border')
+        txtBox.focus()
+
+        txtBox.addEventListener('input', (e) => {
+            if (e.target.value === "") {
+                letterCloseButton.classList.remove("close_ltr_icon")
+            }
+            else {
+                letterCloseButton.classList.add("close_ltr_icon")
+            }
+
+            focusBorder.classList.remove("focus-border")
+            e.target.value = e.target.value.replace(/[^a-zA-Z? ]/g, "")
+            let rangeOfBlankTile = ''
+            if (rangeOfBlankTile === "") {
+                rangeOfBlankTile = 3
+            }
+            e.target.value = e.target.value.replace(/ /g, '?')
+            let data = []
+            data = e.target.value.split('').filter((i) => i === '?')
+            // console.log(data.length)
+            // console.log(rangeOfBlankTile)
+            if (data.length > rangeOfBlankTile) {
+                e.target.value = e.target.value.replace(/\?$/, '')
+            }
+        })
+
+        letterCloseButton.addEventListener("click", () => {
+            txtBox.value = ""
+            letterCloseButton.classList.remove("close_ltr_icon")
+        })
+    </script>
+</body>
+
+</html>

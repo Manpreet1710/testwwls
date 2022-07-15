@@ -1,0 +1,116 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Encontre palavras de duas letras com essas letras - WordsWithLetters.org",
+    "h1": "Encontre palavras de 2 letras com essas letras",
+    "h2": "Gere palavras de duas letras com essas letras",
+    "meta": "Ainda pensando em quantas palavras de duas letras você pode fazer com essas letras? Use nossa ferramenta para encontrar palavras de 2 letras com essas letras",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Traga um ponto de viragem no seu jogo. Gere palavras de duas letras com essas letras",
+            "feature_text": "Muitas vezes, essa letra dois encontra seu caminho em jogos de palavras. Mas o principal é que essas palavras com duas letras às vezes podem ter uma pontuação alta. No entanto, você pode encontrar seu resgate em com nosso localizador de palavras.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gere palavras de duas letras com essas letras",
+            "feature_text": "Nosso localizador de palavras gratuito permite que você encontre palavras de duas letras e ajude você a ganhar seu jogo",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Encontre qualquer palavra numerada com a letra Dois",
+            "feature_text": "O localizador de palavras de duas letras permite que você encontre todas as palavras com duas letras de até 15 caracteres.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gera até mesmo as palavras com duas letras mais difíceis nas quais você nem consegue pensar.",
+            "feature_text": "Obtenha um conjunto de palavras de duas letras com pontuação alta em segundos com nosso gerador de palavras gratuito de duas letras.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

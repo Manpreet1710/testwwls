@@ -1,0 +1,54 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "title": "최소한의 추측으로 Wordle을 쉽게 해결",
+    "h1": "지금까지 사용한 글자를 입력하여 오늘의 Wordle을 푸세요",
+    "h2": "회색, 노란색 및 녹색으로 문자를 입력하여 잠재적인 단어를 확인합니다.",
+    "meta": "회색, 노란색 및 녹색으로 문자를 입력하고 일치하는 5 글자 단어 목록을 가져와 오늘날의 Wordle을 최소한의 시도에서 해결하고 친구에게 깊은 인상을 남깁니다.",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "간편한 사용",
+            "feature_text": "워들 솔버는 사용법이 정말 간단합니다.첫 번째 상자에 녹색 문자를 입력하고 두 번째 줄에 노란색 문자를 입력하고 마지막 행에 회색 문자를 입력하기 만하면됩니다.입력한 글자로 만들 수 있는 모든 단어를 보려면 업데이트를 클릭하십시오.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "즉각적인 결과",
+            "feature_text": "문자를 입력하고 업데이트를 클릭하면 결과가 바로 표시됩니다. 결과 생성을 기다릴 필요가 없습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "크로스 플랫폼",
+            "feature_text": "당사 웹사이트는 플랫폼에 독립적입니다.Window 및 iOS 운영 체제에서 모두 작동하며 다운로드 없이도 사용할 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "복수 답변",
+            "feature_text": "Wordle Solver는 사용자가 입력한 문자를 사용하여 만들 수 있는 모든 단어를 제공합니다.가능성은 무한합니다.단어 솔버에 추측하고 문자를 입력하십시오.가능한 모든 단어를 얻고 최소한의 시련으로 게임에서 승리하게 될 것입니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "안전 및 보안",
+            "feature_text": "당사 웹 사이트는 고객의 개인 정보 보호 및 보안을 우선시합니다. 웹 사이트는 바이러스가 없으며 ID 나 등록을 요구하지 않습니다.귀하의 데이터는 안전합니다!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "완전 무료",
+            "feature_text": "매일 단어를 해결하여 군중보다 앞서 나가십시오.친구 및 가족과 결과를 공유하고 Wordle 솔버로 Wordle 챔피언이 되십시오.당사 웹 사이트를 원하는 횟수만큼 사용할 수 있으며 서비스 사용에 대한 비용이 청구되지 않습니다.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

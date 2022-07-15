@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="Você pode gerar palavras aleatórias facilmente com este gerador de palavras fácil de usar da ferramenta de letras. Com apenas um clique, você pode criar novas palavras a partir de suas letras existentes. Aumente o nível do seu jogo de palavras!">
+<meta name="og:description" content="Você pode gerar palavras aleatórias facilmente com este gerador de palavras fácil de usar da ferramenta de letras. Com apenas um clique, você pode criar novas palavras a partir de suas letras existentes. Aumente o nível do seu jogo de palavras!">
+<meta property="og:title" content="Gerador de palavras de letras - Crie palavras com qualquer letra facilmente">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/pt/word-generator-from-letters/result">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/pt/word-generator-from-letters/result">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/pt/word-generator-from-letters/result">
+<meta data-rh="true" name="twitter:title" content="Gerador de palavras de letras - Crie palavras com qualquer letra facilmente">
+<meta data-rh="true" name="twitter:description" content="Você pode gerar palavras aleatórias facilmente com este gerador de palavras fácil de usar da ferramenta de letras. Com apenas um clique, você pode criar novas palavras a partir de suas letras existentes. Aumente o nível do seu jogo de palavras!">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/pt/word-generator-from-letters/result">
+
+  <link rel="canonical" href="http://localhost:4000/pt/word-generator-from-letters/result"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>Gerador de palavras de letras - Crie palavras com qualquer letra facilmente</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "O que a ferramenta Gerador de palavras faz?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Nossa ferramenta Gerador de palavras gera automaticamente palavras significativas a partir das letras que nosso usuário insere."
+         }
+       },{"@type": "Question",
+         "name": "Como usar a ferramenta Gerador de palavras?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Usar nossa ferramenta Gerador de palavras é muito simples. Tudo o que você precisa fazer é digitar as letras das quais deseja criar palavras. Você pode inserir até 15 letras por vez. Em seguida, selecione o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com Amigos). Em seguida, você pode ativar a opção Filtros avançados. Em seguida, clique no botão de pesquisa, que é a lupa. E voila! Nossa ferramenta gerará o número máximo possível de palavras a partir das letras inseridas para você."
+         }
+       },{"@type": "Question",
+         "name": "Quantas letras posso inserir para a ferramenta fazer palavras com letras?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Você pode inserir no máximo 15 letras em nossa ferramenta, para fazer palavras com letras."
+         }
+       },{"@type": "Question",
+         "name": "Eu tenho que pagar para usar essa ferramenta?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Não, nossa ferramenta é totalmente gratuita. Você não precisa nos pagar para usar a ferramenta."
+         }
+       },{"@type": "Question",
+         "name": "Por que preciso gerar palavras?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Você pode precisar gerar palavras se estiver jogando jogos de palavras competitivos, como Wordle ou Scrabble. Você também pode precisar decifrar palavras, e nossa ferramenta o ajudará com isso."
+         }
+       },{"@type": "Question",
+         "name": "Essa ferramenta pode ajudar com jogos de palavras como Wordle e Scrabble?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, absolutamente. Se você precisar de ajuda ao jogar jogos de palavras como Scrabble e Wordle, nossa ferramenta Criador de palavras é o caminho a percorrer."
+         }
+       },{"@type": "Question",
+         "name": "Posso resolver palavras confusas com a ajuda dessa ferramenta?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "É claro. Nossa ferramenta o ajudará a resolver palavras confusas facilmente. Tudo o que você precisa fazer é inserir as letras na palavra confusa, especificar o comprimento da palavra que você deseja e nossa ferramenta fornecerá todas as palavras possíveis. "
+         }
+       },{"@type": "Question",
+         "name": "Quais são as diferentes opções de dicionário disponíveis?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Nesta ferramenta, você pode selecionar o tipo de dicionário que deseja usar para as palavras a serem geradas - as opções disponíveis são “Dicionário”, TWL06 (EUA, Canadá, Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com amigos)."
+         }
+       },{"@type": "Question",
+         "name": "Como posso usar os filtros avançados?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Os filtros avançados em nossa ferramenta incluem a opção para você especificar com quais letras as palavras resultantes devem começar ou terminar, quais letras as palavras devem conter, quais letras você gostaria que a ferramenta excluísse e qual é o tamanho desejado da palavra. Tudo o que você precisa fazer é clicar no botão de filtros avançados e inserir os dados conforme desejar."
+         }
+       },{"@type": "Question",
+         "name": "Posso especificar o tamanho da palavra?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar o número de letras que as palavras que você precisa devem ter."
+         }
+       },{"@type": "Question",
+         "name": "Posso excluir certos caracteres?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você não quer que as palavras tenham."
+         }
+       },{"@type": "Question",
+         "name": "Posso especificar caracteres obrigatórios?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar as letras que você definitivamente deseja que as palavras tenham."
+         }
+       },{"@type": "Question",
+         "name": "Posso especificar com qual letra as palavras devem começar ou terminar?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, você pode usar a seção de filtros avançados de nossa ferramenta para especificar quais letras você deseja que suas palavras comecem ou terminem."
+         }
+       },{"@type": "Question",
+         "name": "É seguro usar a ferramenta Word Creator?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "O Word Generator é uma das ferramentas online gratuitas mais seguras e seguras. Não tem links prejudiciais ou anúncios indesejados. É absolutamente livre de problemas e faz seu trabalho perfeitamente bem. Ao mesmo tempo, ele não salva nenhum dos dados do usuário. "
+         }
+       },{"@type": "Question",
+         "name": "Ao usar essa ferramenta, algum anúncio será exibido?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Como mantemos nosso site totalmente gratuito para uso, os anúncios são o que nos ajudam a manter o site. assim, você verá alguns anúncios aparecendo quando usar nosso site. Mas podemos garantir que isso não irá deteriorar a qualidade ou o tempo do resultado."
+         }
+       },{"@type": "Question",
+         "name": "Essa ferramenta salvará meus dados no servidor?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Nosso gerador de palavras online gratuito não salva nenhum dos dados do usuário. É absolutamente seguro de usar. Qualquer coisa que o usuário possa enviar para o nosso site é excluída da nossa nuvem em um período muito curto de tempo."
+         }
+       },{"@type": "Question",
+         "name": "Quanto tempo é necessário para fazer as palavras com letras?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Leva apenas alguns segundos para que nosso gerador de palavras gratuito faça seu trabalho. Ele cria palavras rapidamente a partir de letras especificadas. Os resultados são rápidos e 100% precisos."
+         }
+       },{"@type": "Question",
+         "name": "Terei que me inscrever ou fazer login para usar essa ferramenta do Word Generator?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Não é necessário se inscrever ou fazer login em nosso site. Você pode usar nosso Word Creator online gratuitamente e sem nenhum aviso para se inscrever."
+         }
+       },{"@type": "Question",
+         "name": "O gerador de palavras funciona em telefones celulares?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim. Nosso recurso gratuito de geração de palavras funciona em todas as plataformas. Você pode acessá-lo de seus telefones celulares. Basta digitar as letras que você deseja em suas palavras, do seu telefone e nossa ferramenta fará o trabalho para você."
+         }
+       },{"@type": "Question",
+         "name": "Ele suporta as plataformas Android e iOS?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim, nossa ferramenta Gerador de palavras e todas as outras ferramentas suportam as plataformas Android e iOS."
+         }
+       },{"@type": "Question",
+         "name": "O gerador de palavras funciona em PCs e laptops?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sim. Nosso gerador de palavras online é aceito em todas as plataformas. Você pode usar essa ferramenta gratuita em seu site a partir do seu PC e laptop também. Ele suporta Windows e Mac. Tudo o que você precisa fazer é inserir até 15 letras, especificar o tipo de dicionário, adicionar filtros avançados, se necessário, e isso é tudo. As palavras serão geradas a partir dessas letras exatamente de acordo com suas instruções."
+         }
+       },{"@type": "Question",
+         "name": "Quais versões do Windows a ferramenta Word Generator suporta?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Nosso recurso Gerador de palavras é totalmente baseado na web. Por causa disso, ele fornece aos nossos usuários suporte multiplataforma. Isso significa que nossa ferramenta oferece suporte a todas as versões do Windows. Em termos mais gerais, ele suporta todas as versões de todos os sistemas operacionais."
+         }
+       },{"@type": "Question",
+         "name": "Gerador de letra para palavra usando as letras JOGANDO",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todo o gerador de letra a palavra possível usando a letra JOGANDO são os seguintes jogando, ganhamente, deitado, empalidecer, pagando, plying, algin, alinhar, aping, alegremente, embutimento, lapin, liang, ligan, linga, lingy, mentindo, planície, agin, agly, anil, ayin, ganho, gapy, glia, inly, deitado, lang, ling, liny, lipa, unha, nipa, balde, dor, paly, dor, pial, pian, pily, pina, ping, piny, plano, jogar, pyin, yagi, yang, ail, ain, alp, ani, qualquer, gal, gan, lacuna, homossexual, gip, gip, gyp, lag, colo, lay, lin, lábio, nag, soneca, não, nil, beliscão, amigo, pan, pagar, pia, porco, pino, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, em, la, li, na, pa, pi, ya"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de letra para palavra usando as letras AGÊNCIA",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todo o gerador de letra a palavra possível usando a carta AGÊNCIA são as seguintes agência, cagey, acne, gaiola, cagy, cana, ciano, gaen, gane, yang, yean, ace, age, ane, any, aye, can, cay, eng, gae, gan, gays, gen, gey, nae, nag, nay, yag, yea, yen, ae, ag, an, ay, en, não, não, sim, sim"
+         }
+       },{"@type": "Question",
+         "name": "Quais são todos os geradores de palavras de 5 letras das letras BLUETOOTH?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras de 5 letras que podem ser geradas a partir dessas letras BLUETOOTH são as seguintes: bhoot, bluet, booth, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, tooth"
+         }
+       },{"@type": "Question",
+         "name": "Quais são todos os geradores de palavras de 5 letras das letras BEDSIDE?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras de 5 letras que podem ser geradas a partir das letras BEDSIDE são as seguintes: bided, bides, ações, sided"
+         }
+       },{"@type": "Question",
+         "name": "Quais são todos os geradores de palavras de quatro letras com as letras MENTINDO?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras de quatro letras que podem ser geradas com as letras MENTINDO são as seguintes: inly, ling, liny"
+         }
+       },{"@type": "Question",
+         "name": "Quais são todos os geradores de palavras de 4 letras com as letras TABLETOP?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras de 4 letras que podem ser geradas com as letras TABLETOP são as seguintes: abet, able, aloe, alto, atop, bale, bate, batt, beat, belt, beta, blae, blat, blet, blot, boat, bola, bole, bolt, bota, bott, late, leap, lept, lope, lota, olea, opala, pale, pate, peal al, turfa, pele, plat, fundamento, plebe, enredo, poeta, pólo, tael, conto, fita, tate, cerceta, tetina, tela, tepa, toea, tola, tole, tope, tote"
+         }
+       },{"@type": "Question",
+         "name": "Qual será o gerador de palavras com letras NEGATIVAS?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Se você está procurando um gerador de palavras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras NEGATIVO são as seguintes: agente, negativo, ingenuidade, ventage, vintage, vingar, comer, genebra, ingate, nativo, negar, teeing, teniae, agene, agente, comido, enate, entia, evento, evite, ganev, genet, genie, gigante, dado, naevi, naive, nieve, tenia, tinea, tinge, veena, vegan, vegie, venae, vingança, vitae, agee, agin, ante, anti, beiral, etna, mesmo, gaen, ganho, marcha, gane, portão, deu, gene, gent, geta, gien, gite, dar, mosquito, nave, puro, neve, nevi, noite, tain, tang, teen, tine, ting, vagi, vão, palheta, vang, veia, veia, ventilação, viga, vina, videira, vita, idade, ain, espera, ane, ani, formiga, comeu, ave, comer, eng, eta, véspera, jogo, gangue, cabra, Gee, gen, obter, dar, gin, presente, nome, nag, necessidade, net, nit, tae, tag, tanque, tav, chá, árvore, teg, adolescente, tempo, lata, van, vee, veg, veterinário, via, vie, vig, idade, ag, ai, an, at, en, et, gi, in, it, na, ne, ta, ti"
+         }
+       },{"@type": "Question",
+         "name": "Qual será o gerador de palavras com letras POSITIVE?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Se você está procurando um gerador de palavras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras POSITIVO são as seguintes positivas, piedade, pivôs, potsie, sopite, soviético, estop, ivies, pesto, pista, pivô, poetas, postura, despeito, stipe, stope, fogão, tipis, topes, topis, visita, votos, epos, opes, opts, peso, praga, animais de estimação, tortas, piso, poços, poeta, pois, pose, postar, potes, sept, deslize, local, cuspir, spiv, ponto, passo, parar, laços, tipi, dicas, dedos do pé, tope, tópico, tops, colete, veto, veterinários, views, torno, votos, votos, votos, kits, oes, ope, ops, opt, ose, pes, animal de estimação, torta, pis, poço, poi, pote, psi, semi, conjunto, navio, sentar, loja, macio, gravata, dicas, dicas, dedo do pé, topo, veterinário, vie, vis, vote, es, et, é, it, oe, oi, op, so, pe, pi, si, so, ti, to"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras usando letras FALLOUT",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras que podem ser geradas usando as letras FALLOUT são as seguintes fallout outfall afoul allot aloft atoll falha float flota flout alto auto queda plana potro falta latu pão loft lota lout olla tall tofu tola tolu tufa aft all alt fat gripe fou lat lot oaf aveia oft out tao tau uta al at fa la lo of toque para cortar"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras usando letras BRILHANDO",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras que podem ser geradas usando as letras GLOWING são as seguintes brilhando, lowing, ogling, indo, linguagem, devido, brilho, gongo, vestido, ling, lino, leão, lombo, longo, lown, nogg, noil, asa, wino, gig, gin, igg, ion, lin, log, baixo, nil, nog, agora, óleo, coruja, próprio, peruca, vitória, won, gi, vai, em, li, lo, não, oi, não, Agora, dois"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras contendo letras FULLFORM",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras possíveis que podem ser geradas a partir das palavras FULLFORM são as seguintes: formful, farinha, fluor, forum, form, foul, four, from, full, furl, lour, luff, moll, muff, mull, rolf, roll, ruff, flu, for, fou, fro, fur, lum, mol, mor, off, our, rom, rum, lo, mo, mu, of, om, ou, hum"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras contendo letras PRETO",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras possíveis que podem ser geradas a partir das palavras BLACK são as seguintes black, back, balk, calk, lack, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la"
+         }
+       },{"@type": "Question",
+         "name": "Como você pode obter um gerador de palavras de 7 letras das letras RAINFOREST?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "É bem simples. Tudo o que você precisa fazer é mencionar todas as letras com as quais gostaria de criar uma palavra e clicar em Enter. Temos um limite de 15 letras. Portanto, caso você queira gerar palavras de sete letras, tudo o que você precisa fazer é mencionar as letras desejadas que são maiores ou iguais a 7 e menores que 15 e pressionar Enter. Você obterá os resultados desejados em segundos. Neste caso, todas as palavras de 7 letras que você pode criar usando as letras RAINFOREST são as seguintes: anestri, antsier, aroints, artsier, atoners, atonies, erasion, errants, mais fraco, mais fraco, mais justo, foreran, forints, quarenta, fraters, fronter, frontes, infares, na medida em que, ironers, nastier, norites, oestrin, oriente dentes , vigas, ranters, ratines, rações, refrão, refrontar, retém, retinas, retreinar, retsina, manifestantes, torrador, roister, rotifer, senador, serrano, sierran, snifter, snorter, stainer, estearina, stonier, strafer, tarsier, terreno, treinador, traição"
+         }
+       },{"@type": "Question",
+         "name": "Como você pode obter um gerador de palavras de sete letras das letras TROPICAL?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "É bem simples. Tudo o que você precisa fazer é mencionar todas as letras com as quais gostaria de criar uma palavra e clicar em Enter. Temos um limite de 15 letras. Portanto, caso você queira gerar palavras de sete letras, tudo o que você precisa fazer é mencionar as letras desejadas que são maiores ou iguais a 7 e menores que 15 e pressionar Enter. Você obterá os resultados desejados em segundos. Neste caso, todas as palavras de sete letras que você pode criar usando as letras TROPICAL são as seguintes: damasco, aprotic, caltrop, capitol, coalpit, óptico, parótico, tópico"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras das letras TRUCK",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras que podem ser geradas usando as letras TRUCK são as seguintes truck, curt, ruck, tuck, turk, cur, cut, rut, ut"
+         }
+       },{"@type": "Question",
+         "name": "Gerador de palavras das letras AEIOU",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Todas as palavras que podem ser geradas usando as letras AEIOU são as seguintes: eau, ae, ai, oe, oi"
+         }
+       }]
+    }
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><style>
+  .footer-container {
+    margin-top: 200px !important;
+  }
+
+  @media(max-width:768px) {
+
+    /* social icons style */
+    .social-icons {
+      position: relative !important;
+      width: 100% !important;
+      height: 0px;
+      display: flex;
+      top: 0;
+      font-size: 15px;
+      color: #fff;
+      flex-direction: row;
+      z-index: 0;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      background: transparent !important;
+      box-shadow: none !important;
+      line-height: 30px;
+    }
+
+    .social-icons a {
+      padding: 50px;
+      color: #000 !important;
+      font-size: 2rem !important;
+    }
+
+    .social-icon {
+      margin: 0 !important;
+      color: gray;
+    }
+
+    .social-icon:hover {
+      color: black;
+    }
+
+    .social-icons a {
+      padding: 10px;
+    }
+  }
+</style>
+
+<body>
+
+
+
+<!-- start commonPage as LandingPage -->
+
+<!-- header starts -->
+<!-- <header class="container" id="resultHeader"> -->
+<!-- navigation startss -->
+<nav class="result_navbar_section navbar-expand-lg navbar-dark" style="background-color: #fff;">
+    <a class="nav_menu_bar" href="/" title="" style="position: absolute; top:5px">
+        <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+    </a><span class="mobile_bars"><i style="top:0px" id="bars_style" class="bi bi-list bi-2x bars"></i></span>
+    <div id="open_list_bar"><div style="padding:2rem 0">
+            <a class="cat_bar_logo_link" href="/" title="">
+                <img class="cat_bar_img" src="/assets/images/wordswithletters-logo.png" alt="wordswithletters">
+                <span class="cat_title">Word with letters</span>
+            </a>
+            <div class="close_bar_btn">
+                <i class="bi bi-x"></i>
+            </div>
+        </div><div class="list-items-container">
+            <li class="list_cat_heading">Listas de palavras</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/word-game-generator-online">
+                Gerador de jogos de palavras on-line
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/wordle-solver">
+                Solucionador de mundos
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/make-words-with-these-letters">
+                Faça palavras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/word-generator-from-letters">
+                Gerador de palavras a partir de letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/words-spelled-with-these-letters">
+                Palavras escritas com essas letras 
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/how-many-words-can-you-make-from-these-letters">
+                Quantas palavras você pode fazer com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/what-words-can-i-spell-with-these-letters-and-a-blank">
+                Que palavras posso soletrar com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/words-with-these-letters-and-2-blanks">
+                Palavras com essas letras e 2 espaços em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/words-with-these-letters-and-3-blanks">
+                Palavras com essas letras e 3 espaços em branco
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Palavras de comprimento</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/six-letter-words-with-these-letters">
+                Palavras de seis letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/five-letter-words-with-these-letters">
+                Palavras de cinco letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/seven-letter-words-with-these-letters">
+                Palavras de sete letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/four-letter-words-with-these-letters">
+                Palavras de quatro letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/three-letter-words-with-these-letters">
+                Palavras de três letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/two-letter-words-with-these-letters">
+                Palavras de duas letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/eight-letter-words-with-these-letters">
+                Palavras de oito letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/nine-letter-words-with-these-letters">
+                Palavras de nove letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/ten-letter-words-with-these-letters">
+                Palavras de dez letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/eleven-letter-words-with-these-letters">
+                Palavras de onze letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/twelve-letter-words-with-these-letters">
+                Palavras de doze letras com essas letras
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/thirteen-letter-words-with-these-letters">
+                Palavras de treze letras com essas letras
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Palavras de letra X com essas letras e um espaço em branco</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/12-letter-words-with-these-letters-and-a-blank">
+                Palavras de 12 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/11-letter-words-with-these-letters-and-a-blank">
+                Palavras de 11 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/10-letter-words-with-these-letters-and-a-blank">
+                Palavras de 10 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/9-letter-words-with-these-letters-and-a-blank">
+                Palavras de 9 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/8-letter-words-with-these-letters-and-a-blank">
+                Palavras de 8 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/7-letter-words-with-these-letters-and-a-blank">
+                Palavras de 7 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/6-letter-words-with-these-letters-and-a-blank">
+                Palavras de 6 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/5-letter-words-with-these-letters-and-a-blank">
+                Palavras de 5 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/4-letter-words-with-these-letters-and-a-blank">
+                Palavras de 4 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/3-letter-words-with-these-letters-and-a-blank">
+                Palavras de 3 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/pt/2-letter-words-with-these-letters-and-a-blank">
+                Palavras de 2 letras com essas letras e um espaço em branco
+            </a>
+            <!-- </li> --></div></div><div class="container" id="containerWd">
+        <section class="result_sticky_nav">
+            <div class="pageHeading text-center">
+                <h1 class="result_heading m-0 pb-0">
+                    Gerador de palavras: Crie palavras contendo essas letras</h1>
+            </div>
+            <div class="serachSection2">
+                <div class="position-relative serachBox mt-4">
+                    <form action="" id='form'>
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox resultPageTxtBox" value='' name="search"
+                            maxlength="15" value required autocomplete="off">
+                        <div class="letter-close-button-commonPage">
+                            <i class="ltr-cls-btn-commonPage bi bi-x-circle-fill"></i>
+                        </div>
+                        <input
+                            style="border-radius: ; background-color: #000;"
+                            type="submit" class="serachBtn resultPageSearchBtn" id="serach" value>
+                        <div class="dictonaryDropdown">
+                            <select class="form-select select_dropDown2 resultPageDropdown2" name="dictionary"
+                                aria-label="Default select example">
+                                <option selected value="Dictionary">Dictionary</option>
+                                <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                                <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                                <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                            </select>
+                        </div><div class="tab_link_wrapper" style="position: relative;">
+    <div id="tab-scroll" class="tab-scroll flex-row">
+        <input type="button" name="" id="prev" class="prev tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+        <div id="tab-container" class="search-container tab_container flex-row">
+
+        </div>
+        <input type="button" name="" id="next" class="next tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+    </div>
+</div><div class="wrapper_dropDown mt-3 d-flex justify-content-end" style="gap:10px;">
+                            <div class="Advancedbtn" style="position: relative;" onclick="myFunction()">
+                                <span class="filter_count" style="display: none;"></span>
+                                <input type="button" value="Advanced Filter" class="filterButton">
+                                <div class="angle-arrow"></div>
+                            </div>
+                            <div id="sort-select">
+                                <select class="form-select sort-select" id="select_dropDown">
+                                    <option selected="true" hidden id="alpha" value="alpha">Sort by</option>
+                                    <option id="alpha" value="alpha">A-Z</option>
+                                    <option id="alpha" value="alpha">Z-A</option>
+                                    <option id="alpha" value="alpha">Points</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="fillterWrapper hide">
+                            <div class="text-right times" style="cursor: pointer; margin-top:-15px;">
+                                <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                            </div>
+                            <div class="startsWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that starts with these letters" for="startsWith">Starts
+                                    With</label>
+                                <input type="text" class="filter_val" id="startsWith" placeholder="Prefix" value=""
+                                    name="prefix">
+                            </div>
+                            <div class="mustInclude same">
+                                <label for="mustInclude" data-toggle="tooltip" data-placement="top"
+                                    title=" Words that contain letters in this order(ab)">Must Contains </label>
+                                <input type="text" class="filter_val" id="mustInclude" placeholder="Contains"
+                                    name="contains" value="">
+                            </div>
+                            <div class="endsWith same">
+                                <label for="endsWith" data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that ends with these letters">End With</label>
+                                <input type="text" class="filter_val" id="endsWith" placeholder="Suffix" name="suffix"
+                                    value="">
+                            </div>
+                            <div class="exculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that not contain the letters you enter here"
+                                    for="exculdeWith">Exculde</label>
+                                <br>
+                                <input type="text" class="filter_val" id="exculdeWith" placeholder="Exculde" value=""
+                                    name="exculde">
+                            </div>
+                            <div class="inculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that contain the letters you enter here"
+                                    for="inculdeWith">Include</label>
+                                <br>
+                                <input type="text" class="filter_val" id="inculdeWith" placeholder="Include" value=""
+                                    name="include">
+                            </div>
+                            <div class="wordLength same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words with this length" for="wordLength">Word Length </label>
+                                <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                    value="">
+                            </div>
+
+                            <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                                <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                    style="background-color:#808080;">
+                                <input id="applyBtn" type="submit" value="Apply" class="btn-info  text-white"
+                                    style="background: #808080">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</nav>
+<!-- </header> -->
+<div class="container" id="containerWd"><div class="row pad">
+    <div class="col-md-12">
+        <div class="filters d-flex justify-content-between align-items-center">
+            <div class="wordCount"></div>
+
+            <div class="filterSortedIcons">
+                <div class="filter-icon" onclick="myFunction()" data-toggle="tooltip" data-placement="top"
+                    title="Filter">
+                    <i class="bi bi-filter"></i>
+                </div>
+                <div class="sortup-icon" data-toggle="tooltip" data-placement="top" title="Sort">
+                    <i class="bi bi-sort-up"></i>
+                </div>
+            </div>
+        </div><div class="main"></div><div class="errorMsg"></div>
+    </div>
+</div>
+</div>
+<!-- navbar close -->
+<!-- header close -->
+
+
+<!-- close commonPage as LandingPage -->
+<link rel="stylesheet" href="/assets/css/advancedFilter.css">
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        inculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    function myFunction() {
+        fillterWrapper.classList.toggle('hide')
+    }
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+        fillterWrapper.classList.add('hide')
+    })
+
+</script>
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/pt/word-generator-from-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/pt/word-generator-from-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/pt/word-generator-from-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Ferramentas</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/word-game-generator-online">Gerador de jogos de palavras on-line</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/wordle-solver">Solucionador de mundos</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/make-words-with-these-letters">Faça palavras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/word-generator-from-letters">Gerador de palavras a partir de letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/words-spelled-with-these-letters">Palavras escritas com essas letras </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/what-words-can-i-spell-with-these-letters-and-a-blank">Que palavras posso soletrar com essas letras e um espaço em branco</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/words-with-these-letters-and-2-blanks">Palavras com essas letras e 2 espaços em branco</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/words-with-these-letters-and-3-blanks">Palavras com essas letras e 3 espaços em branco</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Palavras de comprimento</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/six-letter-words-with-these-letters">Palavras de seis letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/five-letter-words-with-these-letters">Palavras de cinco letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/seven-letter-words-with-these-letters">Palavras de sete letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/four-letter-words-with-these-letters">Palavras de quatro letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/three-letter-words-with-these-letters">Palavras de três letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/two-letter-words-with-these-letters">Palavras de duas letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/eight-letter-words-with-these-letters">Palavras de oito letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/nine-letter-words-with-these-letters">Palavras de nove letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/ten-letter-words-with-these-letters">Palavras de dez letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/eleven-letter-words-with-these-letters">Palavras de onze letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/twelve-letter-words-with-these-letters">Palavras de doze letras com essas letras</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/pt/thirteen-letter-words-with-these-letters">Palavras de treze letras com essas letras</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">RECURSOS</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Empresa</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">Termos e condições</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">Política de privacidade</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">Aviso de responsabilidade</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><div></div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script defer src="/assets/js/leftNav.js"></script><script defer data-url="http://localhost:4000" data-range="" src="/assets/js/wordScrabble-test.js
+  "></script></body>
+
+</html>

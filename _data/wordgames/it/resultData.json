@@ -1,0 +1,13 @@
+{
+    "title": "Risolvi il mondo facilmente in ipotesi minime",
+    "h1": "Risolvi il mondo di oggi inserendo le lettere usate finora",
+    "h2": "Immette lettere in grigio, giallo e verde per visualizzare le parole potenziali",
+    "meta": "Inserisci lettere in grigio, giallo e verde e ottieni un elenco di parole corrispondenti a 5 lettere per risolvere il mondo di oggi nei minimi tentativi e impressionare i tuoi amici",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

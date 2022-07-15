@@ -1,0 +1,13 @@
+{
+    "title": "Resuelve wordle fácilmente con un mínimo de conjeturas",
+    "h1": "Resuelva el mundo de hoy introduciendo las letras utilizadas hasta ahora",
+    "h2": "Introduce las letras en gris, amarillo y verde para ver posibles palabras",
+    "meta": "Escribe letras en gris, amarillo y verde, y obtén una lista de palabras de 5 letras que coincidan para resolver el mundo de hoy con un mínimo de intentos e impresionar a tus amigos.",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

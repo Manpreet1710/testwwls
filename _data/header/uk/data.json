@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Списки слів",
+                "links": [
+                    {
+                        "name": "Генератор гри в слова онлайн",
+                        "url": "/uk/word-game-generator-online"
+                    },
+                    {
+                        "name": "Вердл вирішувач",
+                        "url": "/uk/wordle-solver"
+                    },
+                    {
+                        "name": "Складіть слова з цими літерами",
+                        "url": "/uk/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Генератор слів з букв",
+                        "url": "/uk/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Слова, написані цими буквами ",
+                        "url": "/uk/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Скільки слів можна скласти з цих букв",
+                        "url": "/uk/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Які слова я можу писати з цими буквами і бланком",
+                        "url": "/uk/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Слова з цими літерами і 2 прогалини",
+                        "url": "/uk/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Слова з цими літерами і 3 прогалини",
+                        "url": "/uk/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Слова довжини",
+                "links": [
+                    {
+                        "name": "Шість літерних слів з цими літерами",
+                        "url": "/uk/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "П'ять буквених слів з цими літерами",
+                        "url": "/uk/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Сім літерних слів з цими літерами",
+                        "url": "/uk/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Чотири літерні слова з цими літерами",
+                        "url": "/uk/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Три буквені слова з цими літерами",
+                        "url": "/uk/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Дволітерні слова з цими літерами",
+                        "url": "/uk/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Вісім літерних слів з цими літерами",
+                        "url": "/uk/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Слова з дев'яти літер з цими літерами",
+                        "url": "/uk/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Десять букв з цими літерами",
+                        "url": "/uk/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Одинадцять літерних слів з цими літерами",
+                        "url": "/uk/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Дванадцять літерних слів з цими літерами",
+                        "url": "/uk/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Тринадцять літерних слів з цими літерами",
+                        "url": "/uk/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X букв слова з цими літерами і порожнім",
+                "links": [
+                    {
+                        "name": "12 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 буквених слів з цими літерами і порожнім",
+                        "url": "/uk/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 літерних слів з цими літерами та порожнім",
+                        "url": "/uk/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 літерні слова з цими літерами та порожнім",
+                        "url": "/uk/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 літерні слова з цими літерами та порожнім",
+                        "url": "/uk/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 літерні слова з цими літерами та порожнім",
+                        "url": "/uk/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

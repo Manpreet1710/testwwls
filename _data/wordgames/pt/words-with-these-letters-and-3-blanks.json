@@ -1,0 +1,139 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "Palavras com essas letras e 3 em branco - Palavras com letras",
+    "h1": "Palavras com essas letras e 3 espaços em branco",
+    "h2": "Digite as letras abaixo para encontrar palavras com letras e 3 espaços em branco",
+    "meta": "Você tem 3 peças em branco e está se perguntando o que fazer? Não se preocupe, nós temos você coberto. Encontre todas as combinações possíveis de palavras que podem ser formadas com 3 blocos em branco com palavras com letras facilmente.",
+    "featureNo": "02",
+    "feature_title": "Características",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "PERGUNTAS FREQUENTES",
+    "aboutNo": "05",
+    "about_title": "Sobre",
+    "featureList": [
+        {
+            "feature_heading": "Absolutamente grátis!",
+            "feature_text": "Nossa plataforma é totalmente gratuita para usar. Não temos absolutamente nenhum anúncio em nosso site, o que permite que você se concentre no que você veio aqui.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrar e classificar facilmente",
+            "feature_text": "Você pode classificar e filtrar facilmente os resultados conforme sua conveniência. Esse recurso é muito fácil de usar e ajudará você a obter o resultado desejado quase instantaneamente.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Digite até 15 letras",
+            "feature_text": "Você pode inserir até 15 letras (incluindo o espaço em branco) no espaço fornecido para encontrar o máximo de palavras que podem ser formadas com as letras inseridas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gera o melhor resultado",
+            "feature_text": "Palavras com letras geram os melhores resultados, as palavras com maior pontuação em um jogo de Scrabble. Sua vitória é garantida.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Fácil de usar",
+            "feature_text": "Palavras com essas letras e 3 espaços em branco são realmente simples de usar e todas as palavras de qualquer tamanho que possam ser formadas com as letras inseridas são exibidas no resultado.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Como posso usar a opção de filtro Avançado?",
+            "Answer": "Para usar a opção de filtro avançado, basta clicar em Filtros avançados. Preencha suas opções como palavra começa com, o prefixo, quais letras ou palavras ela deve incluir, o que ela contém, o que sua palavra termina com, o sufixo, o comprimento da palavra e clique em aplicar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são as opções de dicionário disponíveis?",
+            "Answer": "Nosso site permite que você leve em consideração três dicionários, aumentando assim suas chances de encontrar mais palavras que façam sentido. As opções de dicionário disponíveis conosco são Dicionário, TWLO6 (EUA, Canadá e Tailândia), SOWPODS (Reino Unido e outros) e Ativar (Palavras com amigos)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso classificar os resultados da pesquisa?",
+            "Answer": "Sim, uma vez que os resultados são exibidos, de acordo com o número de resultados gerados, a função de classificação com aparece na tela.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são as opções de classificação disponíveis?",
+            "Answer": "Oferecemos várias opções de classificação. Você pode classificar os resultados da pesquisa de A-Z e Z-A. Também temos uma opção em que os resultados são classificados pelos pontos que eles ganham em um tabuleiro de scrabble do maior para o menor.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso saber quantos pontos a palavra marcará em um jogo de palavras?",
+            "Answer": "Sim, absolutamente. Nosso site não apenas fornece todas as formações de palavras possíveis a partir das palavras inseridas por você, mas também exibe os pontos que você marcará se usar essa palavra em um jogo. O número exibido no canto inferior direito de cada palavra são os pontos que você obterá da palavra.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais palavras podem ser formadas usando letras de “jogar” e 3 espaços em branco?",
+            "Answer": "Todas as letras possíveis com letras usando a letra JOGANDO são as seguintes jogando, ganhamente, deitado, empalidecendo, pagando, plying, algin, alinhar, aping, alegremente, embutimento, lapin, liang, ligan, linga, lingy, mentindo, simples, agin, agly, anil, ayin, ganho, gapy, glia, inly, lain, lang, ling, liny, lipa, unha, nipa, balde, dor, paly, dor, pial, pian, pily, pina, ping, piny, plano, jogar, pyin, yagi, yang, ail, ain, alp, ani, qualquer, gal, gan, lacuna, homossexual, gip, gip, gyp, lag, colo, lay, lin, lábio, nag, soneca, não, nil, beliscão, amigo, pan, pagar, pia, porco, pino, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, em, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais são todas as palavras de 5 letras que podem ser formadas a partir das letras BEDSIDE?",
+            "Answer": "Todas as palavras de 5 letras que podem ser geradas a partir das letras BEDSIDE são as seguintes: bided, bides, ações, sided",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais palavras podem ser formadas usando letras de “negativo” e 3 espaços em branco?",
+            "Answer": "Se você está procurando palavras com letras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras NEGATIVO são as seguintes: agente, negativo, ingenuidade, ventage, vintage, vingar, comer, genebra, ingate, nativo, negar, teeing, teniae, agene, agente, comido, enate, entia, evento, evite, ganev, genet, genie, gigante, dado, naevi, naive, nieve, tenia, tinea, tinge, veena, vegan, vegie, venae, vingança, vitae, agee, agin, ante, anti, beiral, etna, mesmo, gaen, ganho, marcha, gane, portão, deu, gene, gent, geta, gien, gite, dar, mosquito, nave, puro, neve, nevi, noite, tain, tang, teen, tine, ting, vagi, vão, palheta, vang, veia, veia, ventilação, viga, vina, videira, vita, idade, ain, espera, ane, ani, formiga, comeu, ave, comer, eng, eta, véspera, jogo, gangue, cabra, Gee, gen, obter, dar, gin, presente, nome, nag, necessidade, net, nit, tae, tag, tanque, tav, chá, árvore, teg, adolescente, tempo, lata, van, vee, veg, veterinário, via, vie, vig, idade, ag, ai, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quais palavras podem ser formadas usando letras de “positivo” e 3 espaços em branco?",
+            "Answer": "Se você está procurando palavras com letras, está no lugar certo. Neste caso, todas as letras que podem ser criadas usando as letras POSITIVO são as seguintes positivas, piedade, pivôs, potsie, sopite, soviético, estop, ivies, pesto, pista, pivô, poetas, postura, despeito, stipe, stope, fogão, tipis, topes, topis, visita, votos, epos, opes, opts, peso, praga, animais de estimação, tortas, piso, poços, poeta, pois, pose, postar, potes, sept, deslize, local, cuspir, spiv, ponto, passo, parar, laços, tipi, dicas, dedos do pé, tope, tópico, tops, colete, veto, veterinários, views, torno, votos, votos, votos, kits, oes, ope, ops, opt, ose, pes, animal de estimação, torta, pis, poço, poi, pote, psi, semi, conjunto, navio, sentar, loja, macio, gravata, dicas, dicas, dedo do pé, topo, veterinário, vie, vis, vote, es, et, é, it, oe, oi, op, so, pe, pi, si, so, ti, to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Palavras com letras “fallout” e três espaços em branco?",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras FALLOUT são as seguintes fallout outfall afoul allot aloft atoll falha float flota flout alto auto queda plana potro falta latu pão loft lota lout olla tall tofu tola tolu tufa aft all alt fat gripe fou lat lot oaf aveia oft out tao tau uta al at fa la lo of toque para cortar",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Palavras com letras “brilhantes” e três espaços em branco?",
+            "Answer": "Todas as palavras que podem ser geradas usando as letras GLOWING são as seguintes brilhando, lowing, ogling, indo, linguagem, devido, brilho, gongo, vestido, ling, lino, leão, lombo, longo, lown, nogg, noil, asa, wino, gig, gin, igg, ion, lin, log, baixo, nil, nog, agora, óleo, coruja, próprio, peruca, vitória, won, gi, vai, em, li, lo, não, oi, não, Agora, dois"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

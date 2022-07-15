@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Списки слов",
+                "links": [
+                    {
+                        "name": "Генератор игр в слова онлайн",
+                        "url": "/ru/word-game-generator-online"
+                    },
+                    {
+                        "name": "Решатель слов",
+                        "url": "/ru/wordle-solver"
+                    },
+                    {
+                        "name": "Составляйте слова из этих букв",
+                        "url": "/ru/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Генератор слов из букв",
+                        "url": "/ru/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Слова, написанные этими буквами ",
+                        "url": "/ru/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Сколько слов можно составить из этих букв",
+                        "url": "/ru/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Какие слова я могу написать этими буквами и пробелом",
+                        "url": "/ru/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Слова с этими буквами и 2 пробелами",
+                        "url": "/ru/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Слова с этими буквами и 3 пробелами",
+                        "url": "/ru/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Слова длины",
+                "links": [
+                    {
+                        "name": "Шесть буквенных слов с этими буквами",
+                        "url": "/ru/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Пятибуквенные слова с этими буквами",
+                        "url": "/ru/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Семибуквенные слова с этими буквами",
+                        "url": "/ru/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Четырехбуквенные слова с этими буквами",
+                        "url": "/ru/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Трехбуквенные слова с этими буквами",
+                        "url": "/ru/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Двухбуквенные слова с этими буквами",
+                        "url": "/ru/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Восемь буквенных слов с этими буквами",
+                        "url": "/ru/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Девять буквенных слов с этими буквами",
+                        "url": "/ru/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Десять буквенных слов с этими буквами",
+                        "url": "/ru/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Одиннадцать буквенных слов с этими буквами",
+                        "url": "/ru/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Двенадцать буквенных слов с этими буквами",
+                        "url": "/ru/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Тринадцать буквенных слов с этими буквами",
+                        "url": "/ru/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X буквенные слова с этими буквами и пробелом",
+                "links": [
+                    {
+                        "name": "12 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 буквенных слов с этими буквами и пробелом",
+                        "url": "/ru/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5-буквенные слова с этими буквами и пробелом",
+                        "url": "/ru/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4-буквенные слова с этими буквами и пробелом",
+                        "url": "/ru/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3-буквенные слова с этими буквами и пробелом",
+                        "url": "/ru/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 буквенных слова с этими буквами и пробелом",
+                        "url": "/ru/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

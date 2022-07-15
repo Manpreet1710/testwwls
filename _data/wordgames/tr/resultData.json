@@ -1,0 +1,13 @@
+{
+    "title": "Minimum tahminlerde wordle\"ı kolayca çözün",
+    "h1": "Şimdiye kadar kullanılan harfleri girerek bugünün wordle'ını çözün",
+    "h2": "Potansiyel kelimeleri görmek için harfleri gri, sarı ve yeşil olarak girer",
+    "meta": "Gri, sarı ve yeşil harfleri girin ve bugünün wordle'ını mimimum girişimlerinde çözmek ve arkadaşlarınızı etkilemek için eşleşen 5 harfli kelimelerin listesini alın",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

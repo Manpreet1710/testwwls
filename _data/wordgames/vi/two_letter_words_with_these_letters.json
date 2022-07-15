@@ -1,0 +1,116 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Tìm 2 chữ cái với những chữ cái này- WordsWithletters.org",
+    "h1": "Tìm 2 từ chữ cái với các chữ cái",
+    "h2": "Tạo ra hai từ chữ cái với các chữ cái",
+    "meta": "Vẫn đang nghĩ đến bao nhiêu từ hai chữ cái bạn có thể tạo ra với những chữ cái này? Sử dụng công cụ của chúng tôi để tìm 2 từ chữ cái với các chữ cái này",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Mang lại một bước ngoặt trong trò chơi của bạn. Tạo ra hai từ chữ cái với các chữ cái",
+            "feature_text": "Thường thì lá thư này hai tìm đường trong trò chơi chữ. Nhưng điều chính là hai từ viết chữ này đôi khi có thể được ghi điểm cao. Tuy nhiên, bạn có thể tìm thấy giải cứu của bạn tại với công cụ tìm từ của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra hai từ chữ cái với các chữ cái",
+            "feature_text": "Wordfinder miễn phí của chúng tôi cho phép bạn tìm thấy hai từ chữ cái và giúp bạn giành chiến thắng trò chơi của bạn",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tìm bất kỳ từ được đánh số nào có chữ cái Hai trong đó",
+            "feature_text": "Hai chữ cái tìm kiếm cho phép bạn tìm tất cả Hai từ chữ tối đa 15 ký tự.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra ngay cả hai từ khắc nghiệt nhất mà bạn thậm chí không thể nghĩ đến.",
+            "feature_text": "Nhận được một hồ bơi ghi điểm cao hai từ chữ trong vài giây với máy tạo từ hai chữ cái miễn phí của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

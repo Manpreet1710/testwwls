@@ -1,0 +1,28 @@
+{
+    "networkSites": [
+        {
+            "name": "Blog",
+            "url": "/blog"
+        },
+        {
+            "name": "Popular Pages",
+            "url": "/allpages"
+        },
+        {
+            "name": "Vowels",
+            "url": "/vowels"
+        },
+        {
+            "name": "Words with silent letters",
+            "url": "/words-with-silent-letters"
+        },
+        {
+            "name": "Long words with letters",
+            "url": "/long-words-with-letters"
+        },
+        {
+            "name": "Short words with letters",
+            "url": "/short-words-with-letters"
+        }
+    ]
+}

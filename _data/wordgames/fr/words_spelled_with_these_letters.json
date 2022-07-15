@@ -1,0 +1,50 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Mots épelés avec ces lettres",
+    "h1": "Mots épelés avec ces lettres",
+    "h2": "Entrez les lettres et vérifiez combien de mots sont orthographiés avec ces lettres",
+    "meta": "Lorsque les mots orthographiés avec des lettres vous semblent confus, utilisez notre outil gratuit !",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Trouver des mots orthographiés avec des lettres confuses",
+            "feature_text": "Est-ce que vous pensez souvent à « quels mots puis-je épeler avec ces lettres » lorsque vous jouez à des jeux de mots ? Alors vous êtes sur le bon site. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Outil de recherche de mots simple, intuitif et convivial",
+            "feature_text": "Il vous suffit de saisir les lettres sur votre tableau et vous obtiendrez une série de mots orthographiés avec ces lettres",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Toutes les règles pour les mots orthographiés avec ces lettres en bref",
+            "feature_text": "Si vous jouez à des jeux de mots au scrabble pour la toute première fois, vous avez besoin de ces règles pratiques. Simple et intuitif !",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Entrez jusqu'à quinze lettres !",
+            "feature_text": "Quinze lettres ! Assez pour obtenir le mot le plus long du dictionnaire anglais.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Il prend en charge un certain nombre de dictionnaires",
+            "feature_text": "Un large éventail de dictionnaires pour des résultats optimaux.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Vous avez la possibilité d'utiliser n'importe quel appareil",
+            "feature_text": "Que vous utilisiez un ordinateur portable, une tablette, un appareil Android ou votre iPhone, notre solveur de mots avec des amis adapté aux mobiles peut vous aider où que vous soyez",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

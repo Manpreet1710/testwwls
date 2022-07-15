@@ -1,0 +1,54 @@
+{
+    "Language": "简体中文",
+    "htmlLangAtt": "zh",
+    "title": "用最少的猜测轻松解决 Wordle",
+    "h1": "通过输入到目前为止使用的字母来解决今天的 Wordle",
+    "h2": "输入灰色、黄色和绿色的字母以查看可能的单词",
+    "meta": "输入灰色，黄色和绿色的字母，并获得匹配的5个字母的单词列表，以最小的尝试解决今天的Wordle，并打动你的朋友",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "简单易用",
+            "feature_text": "Wordle 求解器使用起来非常简单。您只需要在第一个框中输入绿色字母，在第二行输入黄色字母，在最后一行输入灰色字母。单击 “更新” 以查看可以用输入的字母组成的所有可能的单词。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "即时结果",
+            "feature_text": "输入字母并单击 Update 后立即显示结果。您不必等待结果的生成。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "跨平台",
+            "feature_text": "我们的网站是独立于平台的。它适用于Window和iOS操作系统，无需任何下载即可使用。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "多个答案",
+            "feature_text": "Wordle Solver 为你提供了所有可能的单词，这些单词可以使用你输入的字母创作。可能性是无限的。猜猜一下，然后在我们的 Wordle 求解器中输入字母。您将获得所有可能的单词，并以最少的尝试赢得比赛。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "安全又可靠",
+            "feature_text": "我们的网站优先考虑客户的隐私和安全。该网站没有病毒，不要求任何ID或注册。您的数据对我们来说是安全的！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "完全免费",
+            "feature_text": "每天通过解决 wordle 来领先于人群。与您的朋友和家人分享结果，并使用我们的 Wordle 求解器成为 Wordle 冠军。您可以根据需要多次使用我们的网站，使用我们的服务无需付费。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

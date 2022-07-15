@@ -1,0 +1,56 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 10 letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Zoek 10 letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om woorden van tien letters te vinden",
+    "meta": "Denk je nog steeds aan hoeveel tienletterige woorden je met deze letters kunt maken? Gebruik onze tool om 10 letterwoorden met deze letters te vinden",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer woorden van tien letters met deze letters",
+            "feature_text": "Vaak vindt deze letter tien zijn weg in woordspelletjes. Maar het belangrijkste is dat deze woorden met tien letters soms zeer scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer woorden van tien letters met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je woorden van tien letters vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Tien erin",
+            "feature_text": "Met de woordzoeker van tien letters kunt u alle woorden van tien letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden met tien letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg binnen enkele seconden een pool van goed scorende woorden met tien letters met onze gratis woordgenerator van tien letters.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

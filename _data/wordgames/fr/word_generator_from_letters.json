@@ -1,0 +1,364 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Générateur de mots à partir de lettres - Créez facilement des mots avec n'importe quelle lettre",
+    "h1": "Générateur de mots : créez des mots contenant ces lettres",
+    "h2": "Entrez les lettres ci-dessous et découvrez combien de mots peuvent être créés à l'aide de ce générateur de mots en nuage",
+    "meta": "Vous pouvez facilement générer des mots aléatoires avec ce générateur de mots facile à utiliser à partir de l'outil de lettres. D'un simple clic, vous pouvez créer de nouveaux mots à partir de vos lettres existantes. Améliorez votre jeu de mots !",
+    "featureNo": "02",
+    "feature_title": "Caractéristiques",
+    "blogNo": "03",
+    "blog_title": "Blogue",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "À propos",
+    "featureList": [
+        {
+            "feature_heading": "Listes de mots Pictionary",
+            "feature_text": "Vous n'avez pas de plateau de jeu ou de cartes, mais vous voulez quand même jouer au jeu Pictionary avec vos amis ? Ce générateur de mots est l'outil parfait pour vous y aider. À l'aide des options avancées, vous pouvez sélectionner les types de mots à afficher.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Jeux Wordle",
+            "feature_text": "Vous avez du mal à Wordle ? Vous pouvez désormais maîtriser ce jeu de mots très populaire. Créez une liste de mots avec cet outil. Le générateur de mots à partir de l'outil de lettres vous permet d'ajuster les paramètres des mots aléatoires pour répondre au mieux à vos besoins",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Générateur de mots pour les lettres les plus marquantes",
+            "feature_text": "Maintenant, créez des mots avec ces lettres a, s, i, d, e le plus rapidement possible !",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Générateur de mots pour la ligue des lettres difficiles",
+            "feature_text": "Créez des mots avec ces lettres difficiles comme j, k, x en utilisant notre générateur de mots gratuit.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Générateur de mots simple, intuitif et convivial",
+            "feature_text": "Entrez les lettres sur votre tableau et vous obtiendrez une gamme de mots orthographiés avec ces lettres.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Génère les mots les plus difficiles",
+            "feature_text": "Obtenez un pool de mots les plus marquants en quelques secondes grâce à notre générateur de mots gratuit.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "À quoi sert l'outil Word Generator ?",
+            "Answer": "Notre outil Word Generator génère automatiquement des mots significatifs à partir des lettres que notre utilisateur saisit.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment utiliser l'outil Word Generator ?",
+            "Answer": "L'utilisation de notre outil Word Generator est très simple. Tout ce que vous avez à faire est de saisir les lettres dont vous voulez faire des mots. Vous pouvez saisir jusqu'à 15 lettres à la fois. Ensuite, sélectionnez le type de dictionnaire que vous souhaitez utiliser pour les mots à générer. Les options disponibles sont « Dictionnaire », TWL06 (États-Unis, Canada, Thaïlande), SOWPODS (Royaume-Uni et autres) et Activer (Words with Friends). Vous pouvez ensuite activer l'option Filtres avancés. Cliquez ensuite sur le bouton de recherche, qui est la loupe. Et le tour est joué ! Notre outil générera pour vous le plus grand nombre de mots possible à partir des lettres saisies.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de lettres puis-je entrer dans l'outil pour créer des mots à partir de lettres ?",
+            "Answer": "Vous pouvez saisir un maximum de 15 lettres dans notre outil, pour créer des mots à partir de lettres.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dois-je payer pour utiliser cet outil ?",
+            "Answer": "Non, notre outil est totalement gratuit. Vous n'avez pas à nous payer pour utiliser l'outil.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Pourquoi dois-je générer des mots ?",
+            "Answer": "Vous devrez peut-être générer des mots si vous jouez à des jeux de mots compétitifs, tels que Wordle ou Scrabble. Vous pouvez également avoir besoin de déchiffrer des mots, et notre outil vous y aidera.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Cet outil peut-il aider avec des jeux de mots tels que Wordle et Scrabble ?",
+            "Answer": "Oui, absolument. Si vous avez besoin d'aide lorsque vous jouez à des jeux de mots tels que Scrabble et Wordle, notre outil Word Creator est la solution.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je résoudre des mots confus à l'aide de cet outil ?",
+            "Answer": "Bien sûr. Notre outil vous aidera à résoudre facilement des mots confus. Il vous suffit de saisir les lettres du mot mélangé, de spécifier la longueur du mot que vous souhaitez, et notre outil vous donnera tous les mots possibles. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quelles sont les différentes options de dictionnaire disponibles ?",
+            "Answer": "Dans cet outil, vous pouvez sélectionner le type de dictionnaire que vous souhaitez utiliser pour les mots à générer. Les options disponibles sont « Dictionnaire », TWL06 (États-Unis, Canada, Thaïlande), SOWPODS (Royaume-Uni et autres) et Activer (Words with Friends).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment utiliser les filtres avancés ?",
+            "Answer": "Les filtres avancés de notre outil vous permettent de spécifier les lettres par lesquelles les mots de résultat doivent commencer ou se terminer, les lettres que les mots doivent contenir, les lettres que vous souhaitez exclure de l'outil et la longueur de mot souhaitée. Il vous suffit de cliquer sur le bouton des filtres avancés et de saisir les données comme vous le souhaitez.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier la longueur du mot ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier le nombre de lettres que doivent contenir les mots dont vous avez besoin.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je exclure certains personnages ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres que vous ne souhaitez pas inclure dans les mots.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier des caractères obligatoires ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres que vous souhaitez absolument inclure dans les mots.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je spécifier la lettre par laquelle les mots doivent commencer ou se terminer ?",
+            "Answer": "Oui, vous pouvez utiliser la section des filtres avancés de notre outil pour spécifier les lettres par lesquelles vous souhaitez que vos mots commencent et se terminent.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Est-il sécuritaire d'utiliser l'outil Word Creator ?",
+            "Answer": "Word Generator est l'un des outils en ligne gratuits les plus sûrs et les plus sécurisés. Il ne contient aucun lien nuisible ni aucune publicité indésirable. Il est absolument sans problème et fait parfaitement son travail. En même temps, il n'enregistre aucune donnée utilisateur. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Lorsque vous utilisez cet outil, des publicités apparaîtront ?",
+            "Answer": "Étant donné que nous gardons notre site Web totalement gratuit, ce sont les publicités qui nous aident à maintenir le site Web. Ainsi, vous verrez quelques annonces apparaître lorsque vous utilisez notre site. Mais nous pouvons garantir que cela ne détériorera pas la qualité ou le temps du résultat.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Cet outil va-t-il enregistrer mes données sur le serveur ?",
+            "Answer": "Notre générateur de mots gratuit en ligne n'enregistre aucune des données utilisateur. Son utilisation est absolument sûre. Tout ce que l'utilisateur pourrait télécharger sur notre site est supprimé de notre cloud dans un très court laps de temps.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Combien de temps faut-il pour créer les mots avec des lettres ?",
+            "Answer": "Cela ne prend que quelques secondes pour que notre générateur de mots gratuit fasse son travail. Il crée rapidement des mots à partir de lettres spécifiées. Les résultats sont rapides et précis à 100 %.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Devrais-je m'inscrire ou me connecter pour utiliser cet outil Word Generator ?",
+            "Answer": "Aucune inscription ou connexion n'est requise sur notre site Web. Vous pouvez utiliser notre créateur de mots en ligne gratuitement et sans aucune demande d'inscription.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Le générateur de mots fonctionne-t-il sur les téléphones mobiles ?",
+            "Answer": "Oui. Notre fonction gratuite de génération de mots fonctionne sur toutes les plateformes. Vous pouvez y accéder depuis vos téléphones portables. Tapez simplement les lettres que vous souhaitez dans vos mots, depuis votre téléphone et notre outil fera le travail pour vous.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Est-ce qu'il prend en charge les plateformes Android et iOS ?",
+            "Answer": "Oui, notre outil Word Generator et tous les autres outils prennent en charge les plateformes Android et iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Le générateur de mots fonctionne-t-il sur les PC et les ordinateurs portables ?",
+            "Answer": "Oui. Notre générateur de mots en ligne est accepté sur toutes les plateformes. Vous pouvez également utiliser cet outil gratuit sur votre site Web à partir de votre PC et de votre ordinateur portable. Il prend en charge Windows et Mac. Il vous suffit de saisir jusqu'à 15 lettres, de spécifier le type de dictionnaire, d'ajouter des filtres avancés si nécessaire, et c'est tout. Les mots seront générés à partir de ces lettres exactement selon vos instructions.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quelles sont les versions de Windows prises en charge par l'outil Word Generator ?",
+            "Answer": "Notre fonctionnalité Word Generator est entièrement basée sur le Web. Pour cette raison, il fournit à nos utilisateurs une assistance multiplateforme. Cela signifie que notre outil prend en charge toutes les versions de Windows. De manière plus générale, il prend en charge toutes les versions de tous les systèmes d'exploitation.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de lettres à mots utilisant les lettres PLAYING",
+            "Answer": "Tous les générateurs de lettres à mots possibles en utilisant la lettre JOUER sont les suivants jouer, gainly, pose, pâlir, payer, jouer, algin, aligner, aping, gaily, inlay, lapin, liang, ligan, linga, linga, lingy, couché, plaine, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, liny, lipa, clou, téton, seau, douleur, paly, pang, pial, pian, pily, pina, ping, piny, plan, jouer, pyin, yagi, yang, ail, ain, alp, ani, tout, gal, gan, gap, gay, gin, gip, gyp, lag, lap, lay, lin, lèvre, nag, sieste, nay, nil, nip, pal, pan, payer, pia, cochon, pin, pli, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, dans, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de lettres à mots utilisant les lettres AGENCY",
+            "Answer": "Tous les générateurs de lettres à mots possibles en utilisant la lettre AGENCE sont les suivants agence, cagey, acné, cage, cagy, canne, cyan, gaen, gane, yang, yean, ace, age, ane, any, aye, can, cay, eng, gae, gan, gay, gen, gey, nae, nag, nay, yag, yea, yen, ae, ag, an, ay, en, na, non, oui, oui",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels sont tous les générateurs de mots à 5 lettres à partir des lettres BLUETOOTH ?",
+            "Answer": "Tous les mots de 5 lettres qui peuvent être générés à partir de ces lettres BLUETOOTH sont les suivants : bhoot, bluet, booth, botel, boule, buteo, butle, butte, helot, hotel, lotte, lotto, obole, thole, tooth",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels sont les générateurs de mots à 5 lettres des lettres BEDSIDE ?",
+            "Answer": "Tous les mots de 5 lettres qui peuvent être générés à partir des lettres BEDSIDE sont les suivants : enchère, offre, acte, face",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels sont les générateurs de mots à quatre lettres avec les lettres ALLYING ?",
+            "Answer": "Tous les mots de quatre lettres qui peuvent être générés avec les lettres LYING sont les suivants : inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels sont les générateurs de mots à 4 lettres avec les lettres TABLETOP ?",
+            "Answer": "Tous les mots de 4 lettres qui peuvent être générés avec les lettres TABLE sont les suivants abet, able, aloe, alto, atop, bale, bate, batt, beat, ceinture, beta, blae, blat, blet, blot, bateau, bola, bole, boulon, bota, bott, late, saut, lept, lobe, lope, lota, olea, opale, pâle, pate, peate tourbe, peau, plat, plèbe, plèbe, parcelle, poète, poteau, tael, conte, bande, tate, sarcelle, tétine, tela, tepa, toea, tola, tole, tope, tope, fourre-tout",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quel sera le générateur de mots avec les lettres NEGATIVE ?",
+            "Answer": "Si vous recherchez un générateur de mots, vous êtes au bon endroit. Dans ce cas, toutes les lettres qui peuvent être créées en utilisant les lettres NÉGATIVES sont les suivantes agentive, négatif, naïve, ventage, vintage, venge, manger, genève, ingate, natif, négate, teeing, teniae, agene, agent, mangé, enate, entia, événement, evite, ganev, genet, genie, géant, donné, naevi, naïf, nieve, tene ia, teigne, teinte, veena, vegan, vegie, venae, venge, vitae, agee, agin, ante, anti, eave, etna, même, gaen, gain, démarche, gane, porte, a donné, gene, gent, geta, gien, gite, donner, moucheron, neve, nevi, nite, tain, tang, ado, tine ting, vagi, vain, girouette, vang, veine, veine, vent, viga, vina, vigne, vita, age, ain, ait, ane, ani, ant, a mangé, ave, manger, eng, eta, veille, gae, gan, gat, gee, gen, obtenir, gie, gin, git, nae, nag, nee, net, nit, tae, tag, bronzage, tav, thé, tee, teg, dix, cravate, étain, van, vat, vee, veg, vet, via, vie, vig, ae, ag, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quel sera le générateur de mots avec les lettres POSITIVES ?",
+            "Answer": "Si vous recherchez un générateur de mots, vous êtes au bon endroit. Dans ce cas, toutes les lettres qui peuvent être créées en utilisant les lettres POSITIVES sont les suivantes : positif, pities, pivots, potsie, sopite, soviétique, estop, ivies, pesto, piste, pivot, poets, poise, posit, dépit, stipe, stope, poêle, tipis, topes, visite, votes, epos, opes, opts, peso, pest, pets, pies, piso, fosses, poète, pois, pose, poste, pots, sept, sipe, site, cracher, spiv, place, étape, arrêter, cravates, tipi, conseils, orteils, tope, topi, tops, gilet, veto, vétérinaires, vies, étau, voes, vote, its, oes, ope, ops, opt, ose, pes, animal de compagnie, tarte, pis, fosse, poi, pot, psi, sei, set, siroter, s'asseoir, sop, sot, cravate, pointe, conseils, orteils, haut, vétérinaire, vue, vis, voe, es, et, est, il, oe, oi, op, os, pe, pi, si, donc, ti, à",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de mots utilisant des lettres FALLOUT",
+            "Answer": "Tous les mots qui peuvent être générés en utilisant les lettres FALLOUT sont les suivants : émissaire de retombées afoul allouer en altitude atoll faille flotteur flota flout alto chute automatique poulain faute complet pain de latu loft lota lout olla haut tofu tola toll tolu tufa arrière tout alt fat flu fou lat lot oaf avoine oft out tao tau uta al at fa la lo de ta à ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de mots utilisant des lettres GLOWING",
+            "Answer": "Tous les mots qui peuvent être générés en utilisant les lettres GLOWING sont les suivants : glow, lowing, ogling, going, lingo, owing, glow, gong, gown, ling, lino, lion, loin, long, lown, nogg, noil, wing, wino, gig, gin, igg, ion, lin, log, low, nil, nog, now, oil, owl, own, wig, win, gi, allez, dans, li, lo, non, oi, non, non, non, Aïe, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de mots contenant des lettres FULLFORM",
+            "Answer": "Tous les mots possibles qui peuvent être générés à partir des mots FULLFORM sont les suivants formful, farine, fluor, forum, forme, faute, quatre, de, plein, furl, lour, luff, moll, muff, mull, rolf, roll, ruff, flu, for, fou, fro, fur, lum, mol, mor, off, our, rom, rum, lo, mo, de om,, ou, euh",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de mots contenant des lettres BLACK",
+            "Answer": "Tous les mots possibles qui peuvent être générés à partir des mots BLACK sont les suivants : black, back, balk, calk, lack, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment obtenir un générateur de mots de 7 lettres à partir des lettres RAINFOREST ?",
+            "Answer": "C'est assez simple. Il vous suffit de mentionner toutes les lettres avec lesquelles vous souhaitez créer un mot et de cliquer sur Entrée. Nous avons une limite de 15 lettres. Donc, si vous cherchez à générer des mots de sept lettres, il vous suffit de mentionner les lettres souhaitées qui sont supérieures ou égales à 7 et inférieures à 15 et d'appuyer sur Entrée. Vous obtiendrez les résultats souhaités en quelques secondes. Dans ce cas, tous les mots de 7 lettres que vous pouvez créer en utilisant les lettres RAINFOREST sont comme suit anestri, antsier, aroints, artsier, atoners, atonies, erasion, errants, plus faible, plus faible, plus juste, foreran, forints, quarties, fraters, fronter, frontes, infares, insofar, ironers, nastier, norites, oestrin, orioritentes , chevrons, ranters, ratines, rations, refrain, refront, retient, rétines, retrain, retsina, émeutiers, torréfacteur, roister, rotifer, sénateur, serrano, sierran, snifter, snifter, stainer, stéarine, stonier, strafer, tarsier, terrain, entraîneur, trahison",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Comment obtenir un générateur de mots de sept lettres à partir des lettres TROPICAL ?",
+            "Answer": "C'est assez simple. Il vous suffit de mentionner toutes les lettres avec lesquelles vous souhaitez créer un mot et de cliquer sur Entrée. Nous avons une limite de 15 lettres. Donc, si vous cherchez à générer des mots de sept lettres, il vous suffit de mentionner les lettres souhaitées qui sont supérieures ou égales à 7 et inférieures à 15 et d'appuyer sur Entrée. Vous obtiendrez les résultats souhaités en quelques secondes. Dans ce cas, les sept mots que vous pouvez créer en utilisant les lettres TROPICAL sont les suivants : abricot, aprotique, caltrop, capitole, charbon, optique, parotique, topique",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Générateur de mots à partir des lettres TRUCK",
+            "Answer": "Tous les mots qui peuvent être générés à l'aide des lettres TRUCK sont les suivants : truck, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Générateur de mots à partir des lettres AEIOU",
+            "Answer": "Tous les mots qui peuvent être générés à l'aide des lettres AEIOU sont les suivants : eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

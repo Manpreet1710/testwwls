@@ -1,0 +1,86 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 4 harfli kelime bul - WordsWithLetters.org",
+    "h1": "Bu harflerle dört harfli kelimeler bulun",
+    "h2": "4 harfli kelimeleri bulmak için aşağıya harfleri girin",
+    "meta": "Hala bu harflerle kaç tane dört harfli kelime yapabileceğini düşünüyorum? Bu harflerle 4 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle dört harfli kelime oluştur",
+            "feature_text": "Genellikle bu dört harf kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu dört harfli kelimenin bazen yüksek puanlı olabilmesidir.. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle dört harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, Dört harfli kelimeleri bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde dört harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "Dört harfli kelime bulucu, dört harfli kelimeyi bulmanızı sağlar. 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyeceğiniz en zor dört harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz dört harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı dört harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

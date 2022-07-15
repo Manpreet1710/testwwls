@@ -1,0 +1,56 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Vind 12 letterwoorden met deze letters - Wordswithletters.org",
+    "h1": "Zoek 12 letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om woorden van 12 letters te vinden",
+    "meta": "Denk je nog steeds aan hoeveel twaalfletterwoorden je met deze letters kunt maken? Gebruik onze tool om woorden van 12 letters te vinden met deze letters",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer twaalf letterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter twaalf zijn weg in woordspelletjes. Maar het belangrijkste is dat deze twaalfletterige woorden soms zeer scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer twaalf letterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je woorden van twaalf letters vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Twaalf erin",
+            "feature_text": "Met een woordzoeker van twaalf letters kunt u alle woorden van twaalf letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden van twaalf letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg een pool van hoogscorende woorden van twaalf letters in seconden met onze gratis twaalfletterige woordgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

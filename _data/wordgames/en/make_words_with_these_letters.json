@@ -1,0 +1,180 @@
+{
+    "Language": "English",
+  "htmlLangAtt": "en",
+    "title": "Make words with these letters",
+    "h1": "Make words with these letters",
+    "h2": "Enter the letters below and make words using these letters",
+    "meta": "Make words with these letters!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Unscramble upto 15 words and letters",
+            "feature_text": "Don't worry if you get a FIFTEEN lettered word during your scrabble game. Our word finde won't let you down!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Get  high-scoring rare words from the commonest letters",
+            "feature_text": "Whether if yoo get a or i or s, a number of high scoring words can be made with these letters. And guess what? YOu will have all of them under your banner!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Straightforward, User-friendly and intuitive unscrambler",
+            "feature_text": "All you have to do is enter the letters on your board, wait for just a second and then you can make a list of words with the letters.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Unscrambling long words in easy now",
+            "feature_text": "You might think for a moment that unscrambling a 15 lettered word!\". But our word unscrambler can give you those answers also in seconds",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "New Updates gets highlighted on a monthly basis",
+            "feature_text": "Every new update related to scrabble will be highlighted so that you can use them in your game!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Our word finder Supports a number of Dictionaries",
+            "feature_text": "We are currently working on a number of dictionaries to give the best possible results",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "How to make words containing these letters SHELF easily?",
+            "Answer": "You can make words with any letters easily using our tool to make words with these letters. Just type all your desired results hit enter and you will get all your results within seconds. In this case, all the possible words with SHELF are as follows flesh, shelf, fehs, self, efs, elf, els, feh, hes, sel, she, ef, eh, el, es, fe, he, sh",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Can I make words with these letters ROAD?",
+            "Answer": "Yes, you can make words with these letters ROAD. All the possible words are as follows orad, road, ado, dor, oar, oda, ora, rad, rod, ad, ar, da, do, od, or",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Can I make words with these letters BROWN?",
+            "Answer": "Yes, you can make words with these letters BROWN. All the possible words are as follows brown, born, brow, worn, bow, bro, nob, nor, now, orb, own, rob, row, won, bo, no, on, or, ow, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Is it okay to make words using these letters LOLLDUP?",
+            "Answer": "Yes, it's perfectly fine to make words using these letters LOLLDUP. All you have to do is put any letters on our tool and find your results easily. We allow a limit of 15 words. So, add any 15 letters and get your results within seconds. In this case, all the words using these letters LOLLDUP are as follows doll, dull, loll, loud, loup, lull, plod, poll, pull, updo, dol, duo, dup, lop, old, oud, pod, pol, pud, pul, udo, upo, do, lo, od, op, up",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Is it okay to make words using these letters TEGFOT?",
+            "Answer": "Yes, it's perfectly fine to make words using these letters TFFFOT. All you have to do is put any letters on our tool and find your results easily. We allow a limit of 15 words. So, add any 15 letters and get your results within seconds. In this case, all the words using these letters TEGFOT are as follows toft, tote, eft, ego, fet, foe, fog, get, got, oft, teg, tet, toe, tog, tot, ef, et, fe, go, oe, of, to",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words containing these letters EXERCISE",
+            "Answer": "All the words that can be made containing these letters EXERCISE are as follows exercise, cerise, creese, excise, sexier, ceres, cires, cries, eerie, execs, resee, rexes, rices, scree, siree, xeric, cees, cere, cire, cris, exec, exes, ices, ires, recs, rees, reis, rice, rise, seer, sere, sice, sire, cee, cis, ere, ers, ice, ire, rec, ree, rei, res, rex, sec, see, sei, ser, sex, sic, sir, six, sri, xis, er, es, ex, is, re, si, xi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words containing these letters BREATH",
+            "Answer": "All the words that can be made containing these letters BREATH are as follows bather, bertha, breath, bathe, berth, earth, hater, heart, rathe, rehab, taber, abet, baht, bare, bate, bath, bear, beat, beta, beth, brae, brat, eath, haet, hare, hart, hate, hear, heat, herb, rate, rath, rhea, tahr, tare, tear, thae, arb, are, art, ate, bah, bar, bat, bet, bra, ear, eat, era, eta, eth, hae, hat, her, het, rah, rat, reb, ret, tab, tae, tar, tea, the, ab, ae, ah, ar, at, ba, be, eh, er, et, ha, he, re, ta",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Can I make words out of these letters TRIPPED accurately?",
+            "Answer": "Yes if you are looking to make words out of these letters TRIPPED, then our tool makes words with these letters provides you with the most accurate results. We segregate all the letters with their word length so that it becomes easy for you to choose from. In this case all the letters that can be made with these letters TRIPPED are as follows tripped, dipper, peptid, redipt, ripped, tipped, tipper, trepid, dript, piped, piper, pipet, pride, pried, redip, riped, tepid, tired, tried, tripe, diet, dipt, dire, dirt, dite, drip, edit, ired, iter, peri, perp, pert, pied, pier, pipe, prep, repp, ride, ripe, rite, tide, tied, tier, tire, trip, die, dip, dit, ire, ped, pep, per, pet, pie, pip, pit, red, rei, rep, ret, rid, rip, ted, tie, tip, de, di, ed, er, et, id, it, pe, pi, re, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": " Can I make words out of these letters DROPPING accurately?",
+            "Answer": "Yes, if you are looking to make words out of these letters DROPPING, then our tool makes words with these letters provides you with the most accurate results. We segregate all the letters with their word length so that it becomes easy for you to choose from. In this case all the letters that can be made with these letters DROPPING are as follows dropping, doping, pongid, poring, roping, dingo, doing, gipon, giron, grind, groin, oping, orpin, pingo, pirog, poind, prion, prong, ding, dino, dong, dorp, drip, drop, gird, girn, giro, gorp, grid, grin, grip, inro, iron, nodi, noir, nori, ping, pion, pirn, pond, pong, porn, prig, prod, prog, prop, rind, ring, dig, din, dip, dog, don, dor, gid, gin, gip, god, gor, ion, nip, nod, nog, nor, pig, pin, pip, pod, poi, pop, pro, rid, rig, rin, rip, rod, di, do, gi, go, id, in, no, od, oi, on, op, or, pi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words from the following letters OCEAN",
+            "Answer": "All the words that are possible from the following letters OCEAN are as follows canoe, ocean, acne, aeon, cane, cone, once, ace, ane, can, con, eon, nae, oca, one, ae, an, en, na, ne, no, oe, on",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words from the following letters YELLOW",
+            "Answer": "All the words that are possible from the following letters YELLOW are as follows yellow, lowly, welly, lowe, well, wyle, yell, yowe, yowl, ell, ley, low, lye, ole, owe, owl, woe, wye, yew, yow, el, lo, oe, ow, oy, we, wo, ye, yo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words from these letters BELOW",
+            "Answer": "All the words that are possible using these letters BELOW are as follows below, bowel, elbow, blew, blow, bole, bowl, lobe, lowe, bel, bow, lob, low, obe, ole, owe, owl, web, woe, be, bo, el, lo, oe, ow, we, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Make words from these letters AMERICA",
+            "Answer": "All the words that are possible using these letters AMERICA are as follows camera, acari, aecia, aimer, amice, arame, areca, areic, ceria, cream, crime, erica, macer, maria, micra, ramie, acme, acre, amia, amie, amir, area, aria, came, care, cire, cram, emic, emir, maar, mace, mair, mara, marc, mare, mica, mice, mire, race, raia, rami, ream, rice, rime, ace, aim, air, ama, ami, arc, are, arm, cam, car, ear, era, ice, ire, mac, mae, mar, mic, mir, rai, ram, rec, rei, rem, ria, rim, aa, ae, ai, am, ar, em, er, ma, me, mi, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "How to make words with these letters only TYPING?",
+            "Answer": "In order to make words with the letters TYPING, all you have to do is type all the letters on our tool that is easily available on our website. Once you press enter you will find a result of all the possible words that can be made with the word TYPING. Therefore, all the words that can be made with the letters TYPING are as follows typing, tying, ping, pint, piny, pity, pyin, ting, tiny, tyin, gin, gip, git, gyp, nip, nit, pig, pin, pit, tin, tip, yin, yip, gi, in, it, pi, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "How to make words with these letters only TRYING?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "In order to make words with the letters TRYING, all you have to do is type all the letters on our tool that is easily available on our website. Once you press enter you will find a result of all the possible words that can be made with the word TRYING. Therefore, all the words that can be made with the letters TRYING are as follows trying, tyring, tying, girn, girt, grin, grit, gyri, ring, ting, tiny, trig, tyin, gin, git, nit, rig, rin, tin, try, yin, gi, in, it, ti"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

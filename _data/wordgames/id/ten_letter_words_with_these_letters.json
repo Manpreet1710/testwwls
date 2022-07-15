@@ -1,0 +1,56 @@
+{
+    "Language": "Bahasa Indonesia",
+    "htmlLangAtt": "id",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Temukan 10 kata huruf dengan huruf-huruf berikut - WordsWithLetters.org",
+    "h1": "Temukan 10 kata huruf dengan huruf-huruf ini",
+    "h2": "Masukkan huruf di bawah ini untuk menemukan sepuluh kata huruf",
+    "meta": "Masih memikirkan berapa banyak kata sepuluh huruf yang bisa Anda buat dengan huruf-huruf ini? Gunakan alat kami untuk menemukan 10 kata huruf dengan huruf-huruf ini",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Bawa titik balik dalam permainan Anda. Hasilkan Sepuluh kata huruf dengan huruf-huruf ini",
+            "feature_text": "Seringkali huruf sepuluh ini menemukan jalannya dalam permainan kata. Tetapi yang utama adalah bahwa sepuluh kata berhuruf ini terkadang bisa sangat mencetak gol. Namun Anda dapat menemukan penyelamatan Anda di dengan pencari kata kami.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hasilkan Sepuluh kata huruf dengan huruf-huruf ini",
+            "feature_text": "Pencari kata gratis kami memungkinkan Anda menemukan Sepuluh kata huruf dan membantu Anda memenangkan permainan Anda",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Temukan kata bernomor dengan huruf sepuluh di dalamnya",
+            "feature_text": "Pencari kata sepuluh huruf memungkinkan Anda menemukan semua Sepuluh kata berhuruf hingga 15 karakter.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Menghasilkan sepuluh kata berhuruf terberat yang bahkan tidak dapat Anda pikirkan.",
+            "feature_text": "Dapatkan kumpulan skor tinggi sepuluh kata berhuruf dalam hitungan detik dengan generator kata sepuluh huruf gratis kami.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

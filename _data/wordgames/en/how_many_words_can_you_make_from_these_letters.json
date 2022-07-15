@@ -1,0 +1,350 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "title": "How many words can you make with these letters ?",
+  "h1": "How many words can you make with these letters ?",
+  "h2": "Enter the letters below and find out how many words can be created with these letters",
+  "meta": "Still thinking of how many words can you make with these letters? Use our words with letters tool now!",
+  "featureNo": "02",
+  "feature_title": "Features",
+  "blogNo": "03",
+  "blog_title": "Blog",
+  "FaqNo": "04",
+  "Faq_title": "FAQ",
+  "aboutNo": "05",
+  "about_title": "About",
+  "featureList": [
+    {
+      "feature_heading": "How many words can you make with the letters ?",
+      "feature_text": "Don't wory about how many words can you make with the letters. You are going to get a lost of so so so many words that will help you score more and...enhance your vocab too!",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Still thinking of how many words can you make with these rare letters?",
+      "feature_text": "Our free cheat sheet is your quickest remedy during our game.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Unscrambling loo--oong words in not a tough task now!",
+      "feature_text": "You might think for a moment that unscrambling a 15 lettered word!\". But our word finder can help you in your game.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "New Updates to be Highlighted",
+      "feature_text": "Every new feature related to scrabble game will be highlighted right at our home page so that you can use them!",
+      "fa_class": "/assets/images/star.svg"
+    }
+  ],
+  "faqList": [
+    {
+      "Question": "What does the How Many Words Can You Make with These Letters tool do?",
+      "Answer": "Our How Many Words Can You Make with These Letters tool automatically generates meaningful words from the letters that our user enters and counts the number of words generated from those letters.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to use the How Many Words Can You Make with These Letters tool?",
+      "Answer": "Using our How Many Words Can You Make with These Letters tool is very simple. All you have to do is enter the letters you want to make words out of. You can enter up to 15 letters at a time. Next, select the type of dictionary you want to use for the words to be generated- the options available are \"Dictionary\", TWL06(US, Canada, Thailand), SOWPODS(the UK and others), and Enable(Words with Friends). You can then enable the Advanced filters option. Then click on the search button, which is the magnifying glass. And voila! Our tool will generate the maximum possible number of words from the entered letters for you and it will also count the number of words generated from those letters.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many letters can I enter for the tool to make and count words out of letters?",
+      "Answer": "You can enter a maximum of 15 letters in our tool, to make and count words out of letters.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Do I have to pay to use this tool?",
+      "Answer": "No, our tool is completely free to use. You don't have to pay us to use the tool.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Why do I need to generate and count total number of words?",
+      "Answer": "You might need to generate words if you are playing competitive word games, like Wordle, or Scrabble. You might also need to unscramble words, and our tool will help you with that. You might also need to know the number of words you can make with some specific letters.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can this tool help with word games like Wordle and Scrabble?",
+      "Answer": "Yes absolutely. If you need any help while playing word games like Scrabble and Wordle, our How Many Words Can You Make with These Letters tool is the way to go.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I solve jumbled words with the help of this tool?",
+      "Answer": "Of course. Our tool will help you solve jumbled words easily. All you need to do is enter the letters in the jumbled word, specify the word length you desire, and our tool will give you all the words possible. ",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What are the different dictionary options available?",
+      "Answer": "In this tool, you can select the type of dictionary you want to use for the words to be generated- the options available are \"Dictionary\", TWL06(US, Canada, Thailand), SOWPODS(UK and others), and Enable(Words with Friends).",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How can I use the advanced filters?",
+      "Answer": "The advanced filters in our tool includes the option for you to specify which letters the result words must start or end with, which letters the words must contain, which letters you would like the tool to exclude, and what the desired word length is. All you need to do is just click on the advanced filters button and input the data as you desire.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I specify word length?",
+      "Answer": "Yes, you can use the advanced filters section of our tool to specify the number of letters the words you need should have.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I exclude certain characters?",
+      "Answer": "Yes, you can use the advanced filters section of our tool to specify the letters you don't want the words to have.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I specify compulsory characters?",
+      "Answer": "Yes, you can use the advanced filters section of our tool to specify the letters you definitely want the words to have.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I specify which letter the words should begin or end with?",
+      "Answer": "Yes, you can use the advanced filters section of our tool to specify which letters you want your words to begin as well as end with.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Is it safe to use the How Many Words Can You Make with These Letters tool?",
+      "Answer": "Our How Many Words Can You Make with These Letters tool is one of the safest and most secure free online tools. It has no harmful links or unwanted ads. It is absolutely trouble-free and does its job perfectly well. At the same time, it does not save any of the user data. ",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "While using this tool, will any ads pop up?",
+      "Answer": "Since we keep our website completely free to use, the ads are what help us with maintaining the website. so, you will see a few ads popping up when you use our site. But we can guarantee that it will not deteriorate the result quality or time.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Answer": "Our online free How Many Words Can You Make with These Letters tool does not save any of the user data. It is absolutely safe to use. Any thing that the user might upload to our site is deleted from our cloud within a very short span of time.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "Will this tool save my data to the server?"
+    },
+    {
+      "Question": "How much time does it need to make the words with letters and count the total number of words formed?",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Answer": "It takes just a few seconds for our free How Many Words Can You Make with These Letters to do its job. It swiftly creates words from specified letters and counts the number. The results are fast and a 100% accurate."
+    },
+    {
+      "Answer": "No signing up or logging in is required on our website. You can use our online How Many Words Can You Make with These Letters for free and without any prompts for signing up.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "Will I have to sign up or log in to use this How Many Words Can You Make with These Letters tool?"
+    },
+    {
+      "Question": "Does the How Many Words Can You Make with These Letters work on mobile phones?",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Answer": "Yes. Our free How Many Words Can You Make with These Letters feature works on all platforms. You can access it from your mobile phones. Simply type in the letters you want in your words, from your phone and our tool will do the job for you."
+    },
+    {
+      "Answer": "Yes, our How Many Words Can You Make with These Letters tool and all other tools support both Android and iOS platforms.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "Does it support both Android and iOS platforms?"
+    },
+    {
+      "Question": "Does the How Many Words Can You Make with These Letters work on pcs and laptops?",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Answer": "Yes. Our online How Many Words Can You Make with These Letters is accepted on all platforms. You can use this free tool on your website from your pc and your laptop as well. It supports both Windows and Mac. All you need to do is enter up to 15 letters, specify the Dictionary type, add advanced filters if needed, and that's all. The words will be generated from those letters exactly according to your instructions."
+    },
+    {
+      "Answer": "Our How Many Words Can You Make with These Letters feature is completely web-based. Because of that, it provides our users cross-platform support. This means that our tool supports all versions of Windows. In more general terms, it supports all the versions of all Operating Systems.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "Which Windows versions does the How Many Words Can You Make with These Letters tool support?"
+    },
+    {
+      "Question": "How many 2 letter words can these letters make TRUTH?",
+      "Answer": "We can make a total of 2 words that have 2 letters in it and the words are uh and ut",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to make a word with these letters BOOKS?",
+      "Answer": "In order to make all the possible combinations of words with letters BOOKS, we will have to select and combine those letters that will result in a meaningful word. A meaningful word is a word that is available in a standard dictionary. If you want to perform the same operation online then just type your letter on our website click enter and you will get all the possible results. In this case with the letters BOOKS we can form a total of 16 words that are as follows books, kobos, book, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, so",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to make a word with these letters LABLE?",
+      "Answer": "In order to make all the possible combinations of words with letters LABLE, we will have to select and combine those letters that will result in a meaningful word. A meaningful word is a word that is available in a standard dictionary. If you want to perform the same operation online then just type your letter on our website click enter and you will get all the possible results. In this case with the letters LABLE we can form a total of 22 words that are as follows label, able, bale, ball, bell, blae, leal, alb, ale, all, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many 7 letter words can these letters make GENERATOR?",
+      "Answer": "A total of 18 seven letter words can be formed using the letter GENERATOR and the words are as follows garrote, grantee, granter, grantor, greaten, greater, groaner, negater, negator, reagent, regrant, regrate, terrane",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many words can be made from these letters LAPTOP?",
+      "Answer": "The total number of words that can be formed using the letters LAPTOP is 37 and the words are as follows laptop, alto, atop, lota, opal, palp, plat, plop, plot, tola, alp, alt, app, apt, lap, lat, lop, lot, oat, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, at, la, lo, op, pa, ta, to",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many words can be made from these letters EMAILID?",
+      "Answer": "The total number of words that can be formed using the letters EMAILID is 94 and the words are as follows mailed, medial, miladi, ailed, aimed, amide, email, ideal, iliad, imide, lamed, limed, maile, medal, media, medii, milia, aide, alme, amid, amie, dale, dame, deal, deil, deli, dial, diel, dime, idem, idle, ilea, ilia, imid, lade, laid, lame, lead, lied, lima, lime, made, maid, mail, male, mead, meal, meld, midi, mild, mile, aid, ail, aim, ale, ami, dal, dam, del, die, dim, eld, elm, lad, lam, lea, led, lei, lid, lie, mad, mae, med, mel, mid, mil, ad, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, me, mi",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many words can you make with all the 26 letters of an alphabet?",
+      "Answer": "The number is pretty huge and it can be found by solving this simple mathematics problem that is n! (n factorial) where n would be the total number of alphabets so the answer would be 26!= 403291461126605635584000000.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many 6 letter words can these letters make KITCHEN?",
+      "Answer": "The total number of 6 letter words that can be formed using the letters KITCHEN is just 1 and the word is ethnic.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many 6 letter words can these letters make TROPICAL?",
+      "Answer": "The total number of 6 letters that can be formed by the word TROPICAL is 17 and the words are as follows aortic, atopic, captor, caroli, cartop, citola, citral, coital, lictor, lorica, patrol, picaro, portal, rialto, rictal, tailor, tropic",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to make words with these letters DREAM?",
+      "Answer": "In order to make words with these letter DREAM, all you have to do is pick up alphabets that when combined together can form a meaningful word. A meaningful word is a word that can be found in a standard dictionary. You are only allowed to use the words that are available in the word. If you are in a hurry and are looking to find all the possible words with the highest level of accuracy. You can make use of our tool. All you have to do this open your browser, type our website wordswithletters.org and type all the letters from which you would like to make words. Once you click enter you will get your results. In this case with the word DREAM we can make 39 words that are as follows armed, derma, dream, madre, dame, dare, dear, derm, dram, made, mare, mead, read, ream, are, arm, dam, ear, era, mad, mae, mar, med, rad, ram, red, rem, ad, ae, am, ar, da, de, ed, em, er, ma, me, re",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to make words with these letters TOMMORROW?",
+      "Answer": "In order to make words with these letters TOMMORROW, all you have to do is pick up alphabets that when combined together can form a meaningful word. A meaningful word is a word that can be found in a standard dictionary. You are only allowed to use the words that are available in the word. If you are in a hurry and are looking to find all the possible words with the highest level of accuracy. You can make use of our tool. All you have to do this open your browser, type our website wordswithletters.org and type all the letters from which you would like to make words. Once you click enter you will get your results. In this case with the word TOMMORROW we can make 44 words that are as follows moorwort, tomorrow, wormroot, morrow, morro, motor, rotor, moor, moot, mort, room, root, rort, roto, toom, toro, torr, trow, worm, wort, mom, moo, mor, mot, mow, oot, ort, rom, rot, row, tom, too, tor, tow, two, woo, wot, mm, mo, om, or, ow, to, wo",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many words can be made with these letters APPLE?",
+      "Answer": "We can make a total of 24 letters using the word APPLE. The words are as follows appel, apple, pepla, leap, pale, palp, peal, plea, ale, alp, ape, app, lap, lea, pal, pap, pea, pep, ae, al, el, la, pa, pe",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How many words can be made from these letters SAMPLE?",
+      "Answer": "We can make a total of 99 letters using the word SAMPLE. The words are as follows maples, sample, almes, ample, lames, lamps, lapse, leaps, males, maple, meals, pales, palms, peals, plasm, pleas, psalm, salep, sepal, spale, ales, alme, alms, alps, amps, apes, apse, elms, lame, lamp, lams, laps, lase, leap, leas, maes, male, maps, meal, mels, mesa, pale, palm, pals, pams, pase, peal, peas, plea, sale, salp, same, samp, seal, seam, slam, slap, spae, spam, ale, alp, als, amp, ape, asp, elm, els, ems, lam, lap, las, lea, mae, map, mas, mel, pal, pam, pas, pea, pes, sae, sal, sap, sea, sel, spa, ae, al, am, as, el, em, es, la, ma, me, pa, pe",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "How many words can you make with these letters ATSFOPPQ?",
+      "Answer": "We can make a total of 65 words using these letters. The words are as follows fatso, softa, apps, atop, fast, fats, fops, oafs, oast, oats, opts, paps, past, pats, pops, post, pots, qats, soap, sofa, soft, spat, spot, stoa, stop, taos, taps, tops, aft, app, apt, asp, fas, fat, fop, oaf, oat, oft, ops, opt, pap, pas, pat, pop, pot, qat, sap, sat, sop, sot, spa, tao, tap, tas, top, as, at, fa, of, op, os, pa, so, ta, to"
+    },
+    {
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": "",
+      "Question": "How many words can you make with these letters XATFPS?",
+      "Answer": "We can make a total of 28 words out of the letter XATFPS. The words are as follows fast, fats, past, pats, spat, taps, aft, apt, asp, fas, fat, fax, pas, pat, pax, sap, sat, sax, spa, tap, tas, tax, as, at, ax, fa, pa, ta"
+    }
+  ],
+  "aboutList": [
+    {
+      "aboutText": "This is the first about text"
+    },
+    {
+      "aboutText": "This is the second about second"
+    }
+  ],
+  "tags": [
+
+  ],
+  "categories": [
+
+  ]
+}

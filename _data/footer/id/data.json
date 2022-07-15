@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Perusahaan",
+    "networksitestitle": "SUMBER",
+    "linksTitle": "Alat",
+    "producttitle": "Kata-kata panjang",
+    "company": [
+        {
+            "name": "Syarat dan ketentuan",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Kebijakan Privasi",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Penafian",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Enam huruf kata dengan huruf-huruf ini",
+            "url": "/id/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Lima kata huruf dengan huruf-huruf ini",
+            "url": "/id/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tujuh kata huruf dengan huruf-huruf ini",
+            "url": "/id/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Empat kata huruf dengan huruf-huruf ini",
+            "url": "/id/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tiga kata huruf dengan huruf-huruf ini",
+            "url": "/id/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dua kata huruf dengan huruf-huruf ini",
+            "url": "/id/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Delapan kata huruf dengan huruf-huruf ini",
+            "url": "/id/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Sembilan kata huruf dengan huruf-huruf ini",
+            "url": "/id/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Sepuluh kata huruf dengan huruf-huruf ini",
+            "url": "/id/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Sebelas kata huruf dengan huruf-huruf ini",
+            "url": "/id/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dua belas kata huruf dengan huruf-huruf ini",
+            "url": "/id/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tiga belas kata huruf dengan huruf-huruf ini",
+            "url": "/id/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Firman Permainan Generator Online",
+            "url": "/id/word-game-generator-online"
+        },
+        {
+            "name": "Wordle pemecah",
+            "url": "/id/wordle-solver"
+        },
+        {
+            "name": "Buat kata-kata dengan huruf-huruf ini",
+            "url": "/id/make-words-with-these-letters"
+        },
+        {
+            "name": "Generator kata dari huruf",
+            "url": "/id/word-generator-from-letters"
+        },
+        {
+            "name": "Kata-kata dieja dengan huruf-huruf ini ",
+            "url": "/id/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Kata-kata apa yang bisa saya eja dengan huruf-huruf ini dan kosong",
+            "url": "/id/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Kata-kata dengan huruf-huruf ini dan 2 kosong",
+            "url": "/id/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Kata-kata dengan huruf-huruf ini dan 3 kosong",
+            "url": "/id/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "twitter"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

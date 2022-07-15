@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "單詞列表",
+                "links": [
+                    {
+                        "name": "文字遊戲生成器在線",
+                        "url": "/zh-TW/word-game-generator-online"
+                    },
+                    {
+                        "name": "工作求解器",
+                        "url": "/zh-TW/wordle-solver"
+                    },
+                    {
+                        "name": "用這些字母製作單詞",
+                        "url": "/zh-TW/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "字母中的單詞生成器",
+                        "url": "/zh-TW/word-generator-from-letters"
+                    },
+                    {
+                        "name": "以這些字母拼寫的單詞 ",
+                        "url": "/zh-TW/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "您可以用這些字母製作多少個單詞",
+                        "url": "/zh-TW/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "我可以用這些字母和一個空白拼寫什麼單詞",
+                        "url": "/zh-TW/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "帶有這些字母和 2 個空白的單詞",
+                        "url": "/zh-TW/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "帶有這些字母和 3 個空白的單詞",
+                        "url": "/zh-TW/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "長度字",
+                "links": [
+                    {
+                        "name": "帶有這些字母的六個字母單詞",
+                        "url": "/zh-TW/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的五個字母單詞",
+                        "url": "/zh-TW/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的七個字母單詞",
+                        "url": "/zh-TW/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "四個字母的單詞與這些字母",
+                        "url": "/zh-TW/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的三個字母單詞",
+                        "url": "/zh-TW/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的兩個字母單詞",
+                        "url": "/zh-TW/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的八個字母單詞",
+                        "url": "/zh-TW/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的九個字母單詞",
+                        "url": "/zh-TW/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的十個字母單詞",
+                        "url": "/zh-TW/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的十一個字母單詞",
+                        "url": "/zh-TW/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的十二個字母單詞",
+                        "url": "/zh-TW/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "帶有這些字母的十三個字母的單詞",
+                        "url": "/zh-TW/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "X 字母單詞與這些字母和一個空白",
+                "links": [
+                    {
+                        "name": "12 個帶有這些字母和一個空白的字母單詞",
+                        "url": "/zh-TW/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 個帶有這些字母和空白的字母單詞",
+                        "url": "/zh-TW/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "這些字母和一個空白的 10 個字母單詞",
+                        "url": "/zh-TW/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 個字母單詞與這些字母和一個空白",
+                        "url": "/zh-TW/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "帶有這些字母的 8 個字母單詞和一個空白",
+                        "url": "/zh-TW/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "帶有這些字母的 7 個字母單詞和一個空白",
+                        "url": "/zh-TW/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "這些字母和一個空白的 6 個字母單詞",
+                        "url": "/zh-TW/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 個字母單詞與這些字母和一個空白",
+                        "url": "/zh-TW/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "這些字母和一個空白的 4 個字母單詞",
+                        "url": "/zh-TW/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "這些字母和一個空白的 3 個字母單詞",
+                        "url": "/zh-TW/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "帶有這些字母的 2 個字母單詞和一個空白",
+                        "url": "/zh-TW/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

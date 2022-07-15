@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "شركة",
+    "networksitestitle": "مصادر",
+    "linksTitle": "أدوات",
+    "producttitle": "كلمات الطول",
+    "company": [
+        {
+            "name": "الشروط والأحكام",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "سياسة الخصوصية",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "إخلاء المسؤولية",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "كلمات مكونة من ستة أحرف مع هذه الأحرف",
+            "url": "/ar/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "خمس كلمات بأحرف مع هذه الأحرف",
+            "url": "/ar/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "سبع كلمات بأحرف مع هذه الأحرف",
+            "url": "/ar/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "كلمات مكونة من أربعة أحرف مع هذه الأحرف",
+            "url": "/ar/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "كلمات مكونة من ثلاثة أحرف مع هذه الأحرف",
+            "url": "/ar/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "كلمات مكونة من حرفين مع هذه الأحرف",
+            "url": "/ar/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "ثمانية كلمات بأحرف مع هذه الأحرف",
+            "url": "/ar/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "تسع كلمات بأحرف مع هذه الأحرف",
+            "url": "/ar/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "عشر كلمات بأحرف مع هذه الحروف",
+            "url": "/ar/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "أحد عشر كلمة حرف مع هذه الحروف",
+            "url": "/ar/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "اثنا عشر كلمة بحرف مع هذه الحروف",
+            "url": "/ar/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "ثلاثة عشر كلمة حرف مع هذه الحروف",
+            "url": "/ar/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "لعبة كلمة مولد أون لاين",
+            "url": "/ar/word-game-generator-online"
+        },
+        {
+            "name": "عالم سولفر",
+            "url": "/ar/wordle-solver"
+        },
+        {
+            "name": "اصنع كلمات بهذه الحروف",
+            "url": "/ar/make-words-with-these-letters"
+        },
+        {
+            "name": "مولد الكلمات من الحروف",
+            "url": "/ar/word-generator-from-letters"
+        },
+        {
+            "name": "الكلمات المكتوبة بهذه الحروف ",
+            "url": "/ar/words-spelled-with-these-letters"
+        },
+        {
+            "name": "ما هي الكلمات التي يمكنني تهجئتها بهذه الحروف وفارغة",
+            "url": "/ar/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "كلمات بهذه الحروف وفراغتان",
+            "url": "/ar/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "كلمات بهذه الحروف و 3 فراغات",
+            "url": "/ar/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "فيس بوك"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "انستغرام"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "لينكدن"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "تويتر"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

@@ -1,0 +1,45 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "title": "Wat kan ik spellen met deze letters en een blanco - Woorden met letters",
+    "h1": "Woorden met deze letters en een blanco",
+    "h2": "Voer onderstaande letters in en controleer hoeveel er gespeld kunnen worden met een spatie",
+    "meta": "Heb je 1 lege titel en vraag je je af hoe je moet spellen? Maak je geen zorgen, we hebben je gedekt. Vind eenvoudig alle mogelijke combinaties van woorden die kunnen worden gespeld met 1 lege tegel met woorden met letters.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Helemaal gratis!",
+            "feature_text": "Ons platform is helemaal gratis te gebruiken. We hebben absoluut geen advertenties op onze website waarmee u zich kunt concentreren op waarvoor u hier bent gekomen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Eenvoudig filteren en sorteren",
+            "feature_text": "U kunt de resultaten eenvoudig op uw gemak sorteren en filteren. Deze functie is heel gemakkelijk te gebruiken en helpt je vrijwel onmiddellijk het gewenste resultaat te krijgen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Voer tot 15 letters in",
+            "feature_text": "U kunt maximaal 15 letters (inclusief de blanco) invoeren in de daarvoor bestemde ruimte om de maximale woorden te vinden die kunnen worden gevormd met de ingevoerde letters.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert het beste resultaat",
+            "feature_text": "Woorden met letters genereren de beste resultaten, de hoogst scorende woorden in een Scrabble-spel. Je winst is gegarandeerd.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Makkelijk te gebruiken",
+            "feature_text": "Woorden met deze letters en een blanco zijn heel eenvoudig te gebruiken en alle woorden van elke lengte die kunnen worden gevormd met de ingevoerde letters worden weergegeven in het resultaat.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

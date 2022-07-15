@@ -1,0 +1,50 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Słowa pisane tymi literami",
+    "h1": "Słowa pisane tymi literami",
+    "h2": "Wprowadź litery i sprawdź, ile słów jest pisanych tymi literami",
+    "meta": "Kiedy słowa pisane literami wydają się mylące, skorzystaj z naszego bezpłatnego narzędzia!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Znajdź słowa pisane mylącymi literami",
+            "feature_text": "Czy często myślisz o „jakie słowa mogę przeliterować tymi literami” podczas grania w gry słowne? W takim razie jesteś na właściwej stronie. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Prosta, intuicyjna i przyjazna dla użytkownika wyszukiwarka słów",
+            "feature_text": "Simly wprowadź litery na tablicy, a tam otrzymasz szereg słów pisanych tymi literami",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wszystkie zasady dotyczące słów pisanych tymi literami w pigułce",
+            "feature_text": "Jeśli grasz w gry słowne scrabble po raz pierwszy, potrzebujesz tego zestawu reguł pod ręką. Prosty i intuicyjny!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wpisz do piętnastu liter!",
+            "feature_text": "Piętnaście listów! Wystarczająco dużo, aby uzyskać najdłuższe słowo w słowniku języka angielskiego.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Obsługuje wiele słowników",
+            "feature_text": "Szeroka gama słowników zapewniających najlepsze wyniki.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Masz możliwość korzystania z dowolnego urządzenia",
+            "feature_text": "Niezależnie od tego, czy używasz laptopa, karty, Androida czy iPhone'a, nasze przyjazne dla urządzeń mobilnych słowa z przyjaciółmi Scrambler Solver mogą służyć Twojemu celowi z dowolnego miejsca",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

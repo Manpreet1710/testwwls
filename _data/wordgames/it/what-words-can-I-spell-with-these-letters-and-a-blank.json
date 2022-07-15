@@ -1,0 +1,45 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "title": "Cosa si può scrivere con queste lettere e uno spazio vuoto - Wordswithletters",
+    "h1": "Parole con queste lettere e uno spazio vuoto",
+    "h2": "Inserisci le lettere qui sotto e controlla quante possono essere scritte con uno spazio vuoto",
+    "meta": "Hai 1 titolo vuoto e ti stai chiedendo come si scrive? Non preoccuparti, ti abbiamo coperto. Trova facilmente tutte le possibili combinazioni di parole che possono essere scritte con 1 tessera vuota con parole con lettere.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Assolutamente gratuito!",
+            "feature_text": "La nostra piattaforma è assolutamente gratuita. Non abbiamo assolutamente alcuna pubblicità sul nostro sito Web che ti consenta di concentrarti su ciò per cui sei venuto qui.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrare e ordinare facilmente",
+            "feature_text": "Puoi facilmente ordinare e filtrare i risultati a tuo piacimento. Questa funzione è davvero facile da usare e ti aiuterà a ottenere il risultato desiderato quasi istantaneamente.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Inserisci fino a 15 lettere",
+            "feature_text": "Puoi inserire fino a 15 lettere (incluso lo spazio vuoto) nell'apposito spazio per trovare il numero massimo di parole che possono essere formate con le lettere inserite.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera il miglior risultato",
+            "feature_text": "Le parole con lettere generano i migliori risultati, le parole con il punteggio più alto in un gioco di Scrabble. La tua vittoria è garantita.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Facile da usare",
+            "feature_text": "Le parole con queste lettere e uno spazio vuoto sono davvero semplici da usare e tutte le parole di qualsiasi lunghezza che possono essere formate con le lettere inserite vengono visualizzate nel risultato.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

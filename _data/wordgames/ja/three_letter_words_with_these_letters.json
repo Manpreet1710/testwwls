@@ -1,0 +1,156 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "この文字で三文字の単語を探せ-WordsWithLetters.org",
+    "h1": "これらの文字を含む三文字の単語を検索する",
+    "h2": "下の文字を入力して3文字の単語を検索してください",
+    "meta": "これらの文字で三文字の単語をいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む3文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字で三文字の単語を生成する",
+            "feature_text": "多くの場合、この文字3は単語ゲームでその方法を見つけます。しかし、主なことは、これらの3文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字で三文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで三文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "文字3を含む数字の付いた単語を検索する",
+            "feature_text": "3文字の単語ファインダーでは、15文字までの3文字の単語をすべて検索できます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "あなたが考えもしない最も難しい三文字の単語も生成します。",
+            "feature_text": "無料の3文字単語ジェネレーターで、高得点の3文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

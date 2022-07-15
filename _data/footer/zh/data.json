@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "公司",
+    "networksitestitle": "资源",
+    "linksTitle": "工具",
+    "producttitle": "长度字",
+    "company": [
+        {
+            "name": "条款和条件",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "隐私政策",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "免责声明",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "带有这些字母的六个字母的单词",
+            "url": "/zh/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的五个字母的单词",
+            "url": "/zh/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的七个字母的单词",
+            "url": "/zh/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的四个字母的单词",
+            "url": "/zh/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的三个字母的单词",
+            "url": "/zh/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的两个字母的单词",
+            "url": "/zh/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的八个字母的单词",
+            "url": "/zh/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的九个字母的单词",
+            "url": "/zh/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的十个字母的单词",
+            "url": "/zh/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "十一个带有这些字母的字母的单词",
+            "url": "/zh/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的十二个字母的单词",
+            "url": "/zh/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "带有这些字母的十三个字母的单词",
+            "url": "/zh/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "在线文字游戏生成器",
+            "url": "/zh/word-game-generator-online"
+        },
+        {
+            "name": "Wordle 求解器",
+            "url": "/zh/wordle-solver"
+        },
+        {
+            "name": "用这些字母写单词",
+            "url": "/zh/make-words-with-these-letters"
+        },
+        {
+            "name": "来自字母的单词生成器",
+            "url": "/zh/word-generator-from-letters"
+        },
+        {
+            "name": "用这些字母拼写的单词 ",
+            "url": "/zh/words-spelled-with-these-letters"
+        },
+        {
+            "name": "我能用这些字母和空白拼出什么单词",
+            "url": "/zh/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "带有这些字母和 2 个空白的单词",
+            "url": "/zh/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "带有这些字母和 3 个空白的单词",
+            "url": "/zh/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "脸书"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instag"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "推特"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

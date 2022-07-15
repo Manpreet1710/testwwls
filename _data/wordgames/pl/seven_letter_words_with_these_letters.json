@@ -1,0 +1,106 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znaleźć 7 liter słów z tymi literami- WordsWithLetters.org",
+    "h1": "Znaleźć 7 liter słów z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć słowa 7-literowe",
+    "meta": "Wciąż myślisz o tym, ile siedmioletnich słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć słowa 7-literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj siedem słów literowych za pomocą tych liter",
+            "feature_text": "Często ta litera siódma trafia do gier słownych. Ale najważniejsze jest to, że te siedem liter może czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj siedem słów literowych za pomocą tych liter",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć siedmioliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Seven w nim",
+            "feature_text": "Siedmioliterowa wyszukiwarka słów pozwala znaleźć wszystkie Siedem liter do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze siedem słów, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę siedmiu słów z wysoką liczbą liter w kilka sekund dzięki naszemu bezpłatnemu siedmioliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

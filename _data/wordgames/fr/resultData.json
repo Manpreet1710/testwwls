@@ -1,0 +1,13 @@
+{
+    "title": "Résolvez Wordle facilement en un minimum de devinettes",
+    "h1": "Résolvez le mot d'aujourd'hui en saisissant les lettres utilisées jusqu'à présent",
+    "h2": "Saisit des lettres en gris, en jaune et en vert pour voir les mots potentiels",
+    "meta": "Entrez des lettres en gris, jaune et vert, et obtenez une liste de mots de 5 lettres correspondants pour résoudre le mot d'aujourd'hui en un minimum de tentatives et impressionner vos amis",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

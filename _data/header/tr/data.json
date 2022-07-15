@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Kelime Listeleri",
+                "links": [
+                    {
+                        "name": "Kelime Oyunu Oluşturucu Çevrimiçi",
+                        "url": "/tr/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wordle Çözücü",
+                        "url": "/tr/wordle-solver"
+                    },
+                    {
+                        "name": "Bu Harflerle Kelimeler Yap",
+                        "url": "/tr/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Harflerden Kelime Oluşturucu",
+                        "url": "/tr/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Bu harflerle yazılan kelimeler ",
+                        "url": "/tr/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerden kaç kelime yapabilirsin",
+                        "url": "/tr/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle hangi kelimeleri heceleyebilirim ve boş",
+                        "url": "/tr/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harfleri ve 2 boşlukları olan kelimeler",
+                        "url": "/tr/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Bu harfler ve 3 boşluk içeren kelimeler",
+                        "url": "/tr/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Uzunluk sözcükleri",
+                "links": [
+                    {
+                        "name": "Bu harflerle altı harfli kelimeler",
+                        "url": "/tr/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle beş harfli kelimeler",
+                        "url": "/tr/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle yedi harfli kelimeler",
+                        "url": "/tr/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle dört harfli kelimeler",
+                        "url": "/tr/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle üç harfli kelimeler",
+                        "url": "/tr/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle iki harfli kelimeler",
+                        "url": "/tr/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle sekiz harfli kelimeler",
+                        "url": "/tr/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle dokuz harfli kelimeler",
+                        "url": "/tr/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle on harfli kelime",
+                        "url": "/tr/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle on bir harfli kelime",
+                        "url": "/tr/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle on iki harfli kelime",
+                        "url": "/tr/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Bu harflerle on üç harfli kelime",
+                        "url": "/tr/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Bu harflerle X harfli kelimeler ve boş",
+                "links": [
+                    {
+                        "name": "Bu harflerle 12 harfli kelime ve boş",
+                        "url": "/tr/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 11 harfli kelime ve boş",
+                        "url": "/tr/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 10 harfli kelime ve boş",
+                        "url": "/tr/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 9 harfli kelimeler ve boş",
+                        "url": "/tr/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 8 harfli kelimeler ve boş",
+                        "url": "/tr/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 7 harfli kelime ve boş",
+                        "url": "/tr/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 6 harfli kelime ve boş",
+                        "url": "/tr/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 5 harfli kelime ve boş",
+                        "url": "/tr/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 4 harfli kelimeler ve boş",
+                        "url": "/tr/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 3 harfli kelime ve boş",
+                        "url": "/tr/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Bu harflerle 2 harfli kelime ve boş",
+                        "url": "/tr/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

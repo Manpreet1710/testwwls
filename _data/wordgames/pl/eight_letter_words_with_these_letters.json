@@ -1,0 +1,106 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payments",
+                "x": "8",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolute",
+                "x": "8",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znajdź 8 liter słów z tymi literami - WordsWithLetters.org",
+    "h1": "Znajdź ośmioliterowe słowa z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 8-literowe słowa z tymi literami",
+    "meta": "Wciąż zastanawiasz się, ile ośmioletnich słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 8 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Generuj ośmioliterowe słowa z tymi literami",
+            "feature_text": "Często ta litera ósma trafia do gier słownych. Ale najważniejsze jest to, że te osiem słów z literami może czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuj ośmioliterowe słowa z tymi literami",
+            "feature_text": "Nasza darmowa wyszukiwarka słów pozwala znaleźć ośmioliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Osiem w nim",
+            "feature_text": "Ośmioliterowa wyszukiwarka słów pozwala znaleźć wszystkie Osiem liter do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze osiem słów, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę ośmiu słów z wysokimi punktami w kilka sekund dzięki naszemu bezpłatnemu ośmioliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,364 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "title": "Wortgenerator aus Buchstaben - Erstellen Sie einfach Wörter mit beliebigen Buchstaben",
+    "h1": "Wortgenerator: Erstelle Wörter mit diesen Buchstaben",
+    "h2": "Geben Sie die Buchstaben unten ein und finden Sie heraus, wie viele Wörter mit diesem Cloud-Wortgenerator erstellt werden können",
+    "meta": "Mit diesem benutzerfreundlichen Wortgenerator aus dem Buchstaben-Tool können Sie ganz einfach zufällige Wörter generieren. Mit nur einem Klick können Sie aus Ihren vorhandenen Buchstaben neue Wörter erstellen. Verbessere dein Wortspiel!",
+    "featureNo": "02",
+    "feature_title": "Funktionen",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Über",
+    "featureList": [
+        {
+            "feature_heading": "Pictionary-Wortlisten",
+            "feature_text": "Sie haben kein Spielbrett oder keine Karten in der Nähe, möchten aber trotzdem mit Ihren Freunden ein Pictionary-Spiel spielen? Dieser Word Generator ist das perfekte Tool, um Ihnen dabei zu helfen. Mithilfe der erweiterten Optionen können Sie auswählen, welche Worttypen angezeigt werden sollen.\n",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wordle Spiele",
+            "feature_text": "Haben Sie Probleme bei Wordle? Sie können dieses äußerst beliebte Wortspiel jetzt beherrschen. Erstellen Sie mit diesem Tool eine Liste von Wörtern. Mit dem Wortgenerator aus dem Buchstaben-Tool können Sie die Parameter der zufälligen Wörter an Ihre Bedürfnisse anpassen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wortgenerator für Buchstaben mit den meisten Punkten",
+            "feature_text": "Erstellen Sie nun so schnell wie möglich Wörter mit diesen Buchstaben a, s, i, d, e!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wortgenerator für die Liga der harten Buchstaben",
+            "feature_text": "Bilden Sie Wörter mit diesen schwierigen Buchstaben wie j, k, x mit unserem freien Wortgenerator.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Unkomplizierter, intuitiver und benutzerfreundlicher Wortgenerator",
+            "feature_text": "Gib die Buchstaben auf deinem Brett ein und dort bekommst du eine Reihe von Wörtern, die mit diesen Buchstaben geschrieben sind.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Erzeugt selbst die schwierigsten Wörter",
+            "feature_text": "Holen Sie sich mit unserem kostenlosen Wortgenerator in Sekundenschnelle einen Pool an Wörtern mit hoher Punktzahl.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Was macht das Word Generator-Tool?",
+            "Answer": "Unser Word Generator-Tool generiert automatisch aussagekräftige Wörter aus den Buchstaben, die unser Benutzer eingibt.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie benutzt man das Word Generator-Tool?",
+            "Answer": "Die Verwendung unseres Word Generator-Tools ist sehr einfach. Alles was Sie tun müssen, ist die Buchstaben einzugeben, aus denen Sie Wörter machen möchten. Sie können bis zu 15 Buchstaben gleichzeitig eingeben. Wählen Sie als Nächstes den Wörterbuchtyp aus, den Sie für die zu generierenden Wörter verwenden möchten. Die verfügbaren Optionen sind „Wörterbuch“, TWL06 (USA, Kanada, Thailand), SOWPODS (Großbritannien und andere) und Enable (Wörter mit Freunden). Sie können dann die Option „Erweiterte Filter“ aktivieren. Klicken Sie dann auf die Suchschaltfläche, bei der es sich um die Lupe handelt. Und voila! Unser Tool generiert für Sie die maximal mögliche Anzahl an Wörtern aus den eingegebenen Buchstaben.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Buchstaben kann ich für das Tool eingeben, um aus Buchstaben Wörter zu machen?",
+            "Answer": "Sie können in unserem Tool maximal 15 Buchstaben eingeben, um aus Buchstaben Wörter zu machen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Muss ich bezahlen, um dieses Tool zu nutzen?",
+            "Answer": "Nein, unser Tool ist völlig kostenlos. Sie müssen uns nicht bezahlen, um das Tool nutzen zu können.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Warum muss ich Wörter generieren?",
+            "Answer": "Möglicherweise müssen Sie Wörter generieren, wenn Sie wettbewerbsfähige Wortspiele wie Wordle oder Scrabble spielen. Möglicherweise müssen Sie auch Wörter entschlüsseln, und unser Tool hilft Ihnen dabei.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann dieses Tool bei Wortspielen wie Wordle und Scrabble helfen?",
+            "Answer": "Ja absolut. Wenn Sie beim Spielen von Wortspielen wie Scrabble und Wordle Hilfe benötigen, ist unser Word Creator-Tool genau das Richtige für Sie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich mit Hilfe dieses Tools verwirrte Wörter lösen?",
+            "Answer": "Natürlich. Unser Tool hilft Ihnen dabei, verwirrte Wörter einfach zu lösen. Alles, was Sie tun müssen, ist, die Buchstaben in das durcheinander gebrachte Wort einzugeben, die gewünschte Wortlänge anzugeben, und unser Tool gibt Ihnen alle möglichen Wörter. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Welche verschiedenen Wörterbuchoptionen sind verfügbar?",
+            "Answer": "In diesem Tool können Sie den Wörterbuchtyp auswählen, den Sie für die zu generierenden Wörter verwenden möchten. Die verfügbaren Optionen sind „Wörterbuch“, TWL06 (USA, Kanada, Thailand), SOWPODS (Großbritannien und andere) und Enable (Wörter mit Freunden).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie kann ich die erweiterten Filter verwenden?",
+            "Answer": "Die erweiterten Filter in unserem Tool enthalten die Option, mit denen Sie angeben können, mit welchen Buchstaben die Ergebniswörter beginnen oder enden müssen, welche Buchstaben die Wörter enthalten müssen, welche Buchstaben das Tool ausschließen soll und wie lang die gewünschte Wortlänge ist. Alles was Sie tun müssen, ist einfach auf die Schaltfläche für erweiterte Filter zu klicken und die Daten nach Ihren Wünschen einzugeben.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich die Wortlänge angeben?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Anzahl der Buchstaben anzugeben, die die Wörter enthalten sollen, die Sie benötigen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich bestimmte Charaktere ausschließen?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Buchstaben anzugeben, die die Wörter nicht haben sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich Pflichtzeichen angeben?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Buchstaben anzugeben, die die Wörter auf jeden Fall haben sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich angeben, mit welchem Buchstaben die Wörter beginnen oder enden sollen?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um anzugeben, mit welchen Buchstaben Ihre Wörter beginnen und enden sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ist es sicher, das Word Creator-Tool zu verwenden?",
+            "Answer": "Word Generator ist eines der sichersten und sichersten kostenlosen Online-Tools. Es enthält keine schädlichen Links oder unerwünschten Anzeigen. Es ist absolut problemlos und macht seine Arbeit perfekt. Gleichzeitig werden keine Benutzerdaten gespeichert. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Werden bei der Verwendung dieses Tools Anzeigen angezeigt?",
+            "Answer": "Da wir unsere Website völlig kostenlos nutzen können, helfen uns die Anzeigen bei der Pflege der Website. Wenn Sie unsere Website nutzen, werden also einige Anzeigen geschaltet. Wir können jedoch garantieren, dass die Ergebnisqualität oder -zeit nicht beeinträchtigt wird.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Speichert dieses Tool meine Daten auf dem Server?",
+            "Answer": "Unser kostenloser Online-Word-Generator speichert keine Benutzerdaten. Es ist absolut sicher in der Anwendung. Alles, was der Benutzer auf unsere Website hochlädt, wird innerhalb kürzester Zeit aus unserer Cloud gelöscht.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viel Zeit braucht es, um die Wörter mit Buchstaben zu machen?",
+            "Answer": "Es dauert nur ein paar Sekunden, bis unser kostenloser Word Generator seine Arbeit erledigt. Es erstellt schnell Wörter aus bestimmten Buchstaben. Die Ergebnisse sind schnell und zu 100% genau.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Muss ich mich anmelden oder einloggen, um dieses Word Generator-Tool zu verwenden?",
+            "Answer": "Auf unserer Website ist keine Anmeldung oder Anmeldung erforderlich. Sie können unseren Online-Word Creator kostenlos und ohne Aufforderung zur Anmeldung nutzen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Funktioniert der Word Generator auf Mobiltelefonen?",
+            "Answer": "Ja. Unsere kostenlose Worterzeugungsfunktion funktioniert auf allen Plattformen. Sie können von Ihrem Handy aus darauf zugreifen. Geben Sie einfach die gewünschten Buchstaben in Ihre Worte von Ihrem Telefon aus ein und unser Tool erledigt die Arbeit für Sie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Unterstützt es sowohl Android- als auch iOS-Plattformen?",
+            "Answer": "Ja, unser Word Generator-Tool und alle anderen Tools unterstützen sowohl Android- als auch iOS-Plattformen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Funktioniert der Word Generator auf PCs und Laptops?",
+            "Answer": "Ja. Unser Online-Wortgenerator wird auf allen Plattformen akzeptiert. Sie können dieses kostenlose Tool auch von Ihrem PC und Ihrem Laptop aus auf Ihrer Website verwenden. Es unterstützt sowohl Windows als auch Mac. Sie müssen lediglich bis zu 15 Buchstaben eingeben, den Wörterbuchtyp angeben, bei Bedarf erweiterte Filter hinzufügen, und das ist alles. Die Wörter werden aus diesen Buchstaben genau nach Ihren Anweisungen generiert.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Welche Windows-Versionen unterstützt das Word Generator-Tool?",
+            "Answer": "Unsere Word-Generator-Funktion ist vollständig webbasiert. Aus diesem Grund bietet es unseren Benutzern plattformübergreifenden Support. Das bedeutet, dass unser Tool alle Versionen von Windows unterstützt. Allgemeiner gesagt werden alle Versionen aller Betriebssysteme unterstützt.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Buchstabe-zu-Wort-Generator mit den Buchstaben PLAYING",
+            "Answer": "Alle möglichen Buchstabe-zu-Wort-Generator mit dem Buchstaben SPIELEN sind wie folgt spielen, gewinnen, paling, zahlen, plying, algin, ausrichten, aping, gaily, inlay, lapin, liang, ligan, lingy, liegend, ebene, agin, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, liny, liy Nagel, Nipa, Eimer, schmerz, paly, pang, pial, pian, pily, pina, ping, piny, plan, spielen, pyin, yagi, yang, ail, ain, alp, ani, any, gal, gan, Lücke, schwul, gin, gip, gyp, lag, Schoß, legen, lin, lippe, nörgeln, nap, nay, nil, nip, pal, pan, zahlen, pia, schwein, pin, ply, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, in, la, li, na, pa, pi, ja",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Buchstabe-zu-Wort-Generator mit den Buchstaben AGENCY",
+            "Answer": "Alle möglichen Buchstaben-zu-Wort-Generator mit dem Buchstaben AGENCY sind wie folgt Agentur, Käfig, Akne, Käfig, Cay, Stock, Cyan, Gaen, Gane, Yang, yean, Ass, Alter, ane, any, aye, can, cay, eng, gae, gan, gay, gen, gey, nae, nag, yag, yen, ae, ag, an, ay, en, na, ne, ja, ja",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was sind alle 5-Buchstaben-Wortgeneratoren aus den Buchstaben BLUETOOTH?",
+            "Answer": "Alle 5-Buchstaben-Wörter, die aus diesen Buchstaben erzeugt werden können BLUETOOTH sind wie folgt: Bhoot, Bluet, Booth, Botel, Boule, Buteo, Butle, Butte, Helot, Hotel, Lotte, Lotto, Obole, Thole, Zahn",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was sind die ganzen 5-Buchstaben-Wortgeneratoren aus den Buchstaben BEDSIDE?",
+            "Answer": "Alle 5 Buchstabenwörter, die aus den Buchstaben BEDDED generiert werden können, sind wie folgt geboten, Gebote, Urkunden, einseitig",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was sind alle Wortgenerator mit vier Buchstaben mit den Buchstaben LIEGEND?",
+            "Answer": "Alle vier Buchstabenwörter, die mit den Buchstaben LIEGEND generiert werden können, sind wie folgt: inly, ling, liny",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was sind alle 4-Buchstaben-Wortgeneratoren mit den Buchstaben TABLETOP?",
+            "Answer": "Alle 4 Buchstaben Wörter, die mit den Buchstaben TABLETOP generiert werden können, sind wie folgt: abet, able, aloe, alto, atop, ballen, bate, batt, schlagen, gürtel, beta, blae, blat, blat, blot, boot, bola, bole, bolzen, bota, bott, spät, sprung, lept, lobe, lope, lota, olea, opal, blass, pate, peate al, Torf, Fell, Plat, Plädoyer, Pleb, Grundstück, Dichter, Stange, Tael, Geschichte, Band, Geschmack, Petrol, Zitze, Tela, Tepa, Toea, Tola, Tole, Tole, Tope, Tragetasche",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was wird der Wortgenerator mit Buchstaben NEGATIV sein?",
+            "Answer": "Wenn Sie nach einem Wortgenerator suchen, sind Sie hier genau richtig. In diesem Fall sind alle Buchstaben, die mit den Buchstaben NEGATIV erstellt werden können, wie folgt: Agentive, Negativ, Naivität, Ventage, Jahrgang, Rache, Essen, Genf, ingate, nativ, negieren, Teeing, Teniae, Agente, Agent, gegessen, enate, entia, Ereignis, evite, ganev, genet, genie, riese, gegeben, naevi, naiv, nieve, tene ia, Tinea, Tönung, Veena, vegan, Veggie, venae, Rache, Alter, wieder, ante, Ante, Anti, Eave, Ätna, sogar, Garten, Gewinn, Gang, Spiel, Tor, geben, Gen, Gent, Gite, geben, Gite, geben, Mücke, Schiff, ordentlich, Neve, Nävi, Nacht, Zug, Tang, Teen, Zinke, ting, vagi, vergeblich, vane, vang, vena, vena, vent, viga, vina, rebe, vita, alter, ain, ait, ane, ani, ant, aß, ave, essen, eng, eta, vorabend, gae, gan, gat, gee, gen, get, gie, gin, git, nae, nae, nae, net, nit, tae, tag, tan, tav, tee, tee, teg, zehn, tie, zinn, van, vat, vee, veg, tierarzt, via, vie, vig, ae, ag, ai, an, at, en, et, gi, in, es, na, ne, ta, it",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Was wird der Wortgenerator mit Buchstaben POSITIV sein?",
+            "Answer": "Wenn Sie nach einem Wortgenerator suchen, sind Sie hier genau richtig. In diesem Fall sind alle Buchstaben, die mit den Buchstaben POSITIV erstellt werden können, wie folgt positiv, Mitleid, Pivots, Potsie, Sopite, sowjetisch, Estop, Ivies, Pesto, Piste, Pivot, Dichter, Poise, posit, trotz, Stipe, stope, Herd, Tipis, Topes, Topis, Besuch, Stimmen, Epos, Opts, Peso, Pest, Haustiere, Pies, piso, Gruben, Dichter, Pois, Pose, Post, Töpfe, sept, wischen, Website, spucken, spiv, Stelle, Schritt, Stopp, Krawatten, Tipi, Tipps, Zehen, Tope, Thema, Tops, Weste, Veto, Tierärzte, Ansichten, Schraubstock, Stimmen, Abstimmung, its, oes, open, ops, opt, ose, pes, pet, pie, pis, pit, poi, pot, psi, halb, set, überspringen, sitzen, stopp, weich, binden, spitzen, tipps, zehen, top, weste, sehen, vise, stimme, ja, et, ist, es, oe, oi, op, os, pe, pi, si, so, ti, zu",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wortgenerator mit Buchstaben FALLOUT",
+            "Answer": "Alle Wörter, die mit den Buchstaben FALLOUT generiert werden können, sind wie folgt fallout outfall afoul alloft atoll Fehler float flota flout alto fallen flach Fohlen Foul voll Latu Laib loft lota lout olla hoch tofu tola toll tolu tufa achtern alt fett grippe fou lat lot oaf oaf oft out tao tau uta al at fa la lo von tippen Sie auf schneiden",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wortgenerator mit Buchstaben GLÜHEND",
+            "Answer": "Alle Wörter, die mit den Buchstaben GLOWING erzeugt werden können, sind wie folgt: glühend, lowing, ogling, gehen, lingo, schulden, glühen, gong, kleid, ling, lino, Löwe, Lende, lang, lown, Nogg, noil, Flügel, Wino, Gin, igg, Ion, Lin, log, niedrig, nil, nog, jetzt, öl, eule, eigene, Perücke, gewinnen, gewonnen, gi, gehen, in, li, lo, nein, oi, nein, Jetzt, zwei",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wortgenerator mit Buchstaben FULLFORM",
+            "Answer": "Alle möglichen Wörter, die aus den Wörtern FULLFORM generiert werden können, sind wie folgt: formful, mehl, fluor, forum, form, foul, vier, aus, voll, furl, lour, luff, moll, muff, mull, rolf, roll, ruff, flu, für, fou, fro, pelz, lum, mol, mor, off, unser, rom, rum, mo, mu, om, oder, ähm",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wortgenerator mit Buchstaben BLACK",
+            "Answer": "Alle möglichen Wörter, die aus den Wörtern BLACK generiert werden können, sind: black, back, balk, calk, lack, alb, bal, cab, kab, lab, lac, ab, al, ba, ka, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie kann man aus den Buchstaben RAINFOREST einen Wortgenerator mit 7 Buchstaben erhalten?",
+            "Answer": "Es ist ziemlich einfach. Alles was Sie tun müssen, ist alle Buchstaben zu erwähnen, mit denen Sie ein Wort erstellen möchten, und auf Enter klicken. Wir haben ein Limit von 15 Buchstaben. Wenn Sie also Wörter mit sieben Buchstaben generieren möchten, müssen Sie nur die gewünschten Buchstaben angeben, die größer oder gleich 7 und kleiner als 15 sind, und die Eingabetaste drücken. Sie erhalten in Sekundenschnelle die gewünschten Ergebnisse. In diesem Fall alle 7 Buchstaben Wörter, die Sie mit den Buchstaben RAINFOREST erstellen können, sind wie folgt: anestri, antsier, aroints, artsier, atoners, atonies, ausradierung, fehlerhaft, schwächste, schwächste, fairste, forints, vierziger, fraters, fronter, frontes, infaren, infaren, ironers, böser, norites, oestrin, oriz Gents , Sparren, Ranter, Ratinen, Rationen, unterlassen, zurückziehen, behält, Netzhaut, umschulen, Retsina, Randalierer, Röster, Roster, Rädertierer, Senator, Serrano, Sierran, Snifter, Snorter, Stainer, Stearin, Stoner, Strafer, Teeren, Tarsier, Gelände, Trainer, Verrat",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie kann man aus den Buchstaben TROPICAL einen Wortgenerator mit sieben Buchstaben erhalten?",
+            "Answer": "Es ist ziemlich einfach. Alles was Sie tun müssen, ist alle Buchstaben zu erwähnen, mit denen Sie ein Wort erstellen möchten, und auf Enter klicken. Wir haben ein Limit von 15 Buchstaben. Wenn Sie also Wörter mit sieben Buchstaben generieren möchten, müssen Sie nur die gewünschten Buchstaben angeben, die größer oder gleich 7 und kleiner als 15 sind, und die Eingabetaste drücken. Sie erhalten in Sekundenschnelle die gewünschten Ergebnisse. In diesem Fall sind alle sieben Buchstabenwörter, die Sie mit den Buchstaben TROPICAL erstellen können, wie folgt: Aprikose, aprotisch, Caltrop, Capitol, Copit, optisch, parotisch, aktuell",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wortgenerator aus den Buchstaben TRUCK",
+            "Answer": "Alle Wörter, die mit den Buchstaben TRUCK generiert werden können, sind wie folgt: truck, curt, ruck, tuck, turk, cur, cut, rut, ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Wortgenerator aus den Buchstaben AEIOU",
+            "Answer": "Alle Wörter, die mit den Buchstaben AEIOU generiert werden können, lauten wie folgt: eau, ae, ai, oe, oi"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

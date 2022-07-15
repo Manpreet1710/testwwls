@@ -1,0 +1,346 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Bu mektuplarla kaç kelime yapabilirsin?",
+    "h1": "Bu mektuplarla kaç kelime yapabilirsin?",
+    "h2": "Aşağıdaki harfleri girin ve bu harflerle kaç kelime oluşturulabileceğini öğrenin",
+    "meta": "Hala bu mektuplarla kaç kelime edebileceğini düşünüyor musun? Şimdi harfler aracıyla kelimelerimizi kullanın!",
+    "featureNo": "02",
+    "feature_title": "Özellikler",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "SSS",
+    "aboutNo": "05",
+    "about_title": "Hakkında",
+    "featureList": [
+        {
+            "feature_heading": "Harflerle kaç kelime yapabilirsin?",
+            "feature_text": "Harflerle kaç kelime yapabileceğini merak etme. Sen çok daha fazla puan ve... kelime geliştirmek yardımcı olacak o kadar çok kelime kaybolmak için gidiyoruz!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hala bu nadir harflerle kaç kelime edebileceğini düşünüyor musun?",
+            "feature_text": "Ücretsiz hile sayfamız oyunumuz sırasında en hızlı çözümünüzdür.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Çırpınan gevşek kelimeleri şimdi zor bir görev değil!",
+            "feature_text": "Bir an için 15 harfli bir kelime çözülmesini düşünebilirsiniz!”. Ama kelime bulucumuz oyununuzda size yardımcı olabilir.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Vurgulanacak Yeni Güncellemeler",
+            "feature_text": "Scrabble oyunu ile ilgili her yeni özellik, bunları kullanabilmeniz için ana sayfamızda vurgulanacaktır!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Bu Harflerle Kaç Kelime Yapabilirsiniz aracı ne yapar?",
+            "Answer": "Bu Harflerle Kaç Kelimeler Yapabilirsiniz aracımız otomatik olarak kullanıcımızın girdiği harflerden anlamlı kelimeler oluşturur ve bu harflerden oluşturulan sözcüklerin sayısını sayar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu Harflerle Kaç Sözcük Yapabilirsiniz aracını nasıl kullanabilirim?",
+            "Answer": "Bu Harflerle Kaç Kelime Yapabilirsin aracımızı kullanmak çok basittir. Tek yapman gereken kelimeleri çıkarmak istediğin harfleri girmek. Bir seferde en fazla 15 harf girebilirsiniz. Ardından, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçin - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler). Daha sonra Gelişmiş filtreler seçeneğini etkinleştirebilirsiniz. Ardından büyüteç olan arama düğmesine tıklayın. Ve işte! Aracımız sizin için girilen harflerden mümkün olan maksimum sayıda kelime oluşturacak ve aynı zamanda bu harflerden üretilen sözcüklerin sayısını da sayacaktır.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Aracı harflerden kelimeleri yapmak ve saymak için kaç harf girebilirim?",
+            "Answer": "Aracımıza maksimum 15 harf girebilirsiniz, harflerden kelimeleri yapmak ve saymak için.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracı kullanmak için ödeme yapmak zorunda mıyım?",
+            "Answer": "Hayır, aracımızın kullanımı tamamen ücretsizdir. Aleti kullanmak için bize para ödemene gerek yok.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Neden toplam kelime sayısını oluşturmam ve saymam gerekiyor?",
+            "Answer": "Wordle veya Scrabble gibi rekabetçi kelime oyunları oynuyorsanız kelimeler oluşturmanız gerekebilir. Ayrıca kelimeleri çözmeniz gerekebilir ve aracımız bu konuda size yardımcı olacaktır. Bazı özel harflerle yapabileceğiniz sözcüklerin sayısını da bilmeniz gerekebilir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu araç Wordle ve Scrabble gibi kelime oyunları ile yardımcı olabilir mi?",
+            "Answer": "Evet, kesinlikle. Scrabble ve Wordle gibi kelime oyunları oynarken herhangi bir yardıma ihtiyacınız varsa, Bu Harflerle Kaç Kelimeler Yapabilirsiniz aracımız gitmenin yoludur.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracın yardımıyla karışık kelimeleri çözebilir miyim?",
+            "Answer": "Tabii ki. Aracımız karmakarışık kelimeleri kolayca çözmenize yardımcı olacaktır. Tek yapmanız gereken, karışık kelimeye harfleri girmek, istediğiniz kelime uzunluğunu belirtmek ve aracımız size mümkün olan tüm kelimeleri verecektir. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Mevcut farklı sözlük seçenekleri nelerdir?",
+            "Answer": "Bu araçta, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçebilirsiniz - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Gelişmiş filtreleri nasıl kullanabilirim?",
+            "Answer": "Aracımızdaki gelişmiş filtreler, sonuç kelimelerinin hangi harflerle başlaması veya bitmesi gerektiğini, kelimelerin hangi harfleri içermesi gerektiğini, aracın dışlanmasını istediğiniz harfleri ve istediğiniz kelime uzunluğunun ne olduğunu belirtmeniz için seçenek içerir. Tek yapmanız gereken gelişmiş filtreler düğmesine tıklamanız ve verileri istediğiniz gibi girmektir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kelime uzunluğunu belirtebilir miyim?",
+            "Answer": "Evet, ihtiyacınız olan kelimelerin sahip olması gereken harf sayısını belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bazı karakterleri hariç tutabilir miyim?",
+            "Answer": "Evet, kelimelerin sahip olmasını istemediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Zorunlu karakterleri belirleyebilir miyim?",
+            "Answer": "Evet, kelimelerin olmasını kesinlikle istediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kelimelerin hangi harfle başlayacağını veya bitmesi gerektiğini belirleyebilir miyim?",
+            "Answer": "Evet, aracımızın gelişmiş filtreler bölümünü kullanarak kelimelerinizin hangi harflerle başlamasını istediğinizi ve bitmesini istediğiniz harfleri belirleyebilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu Harflerle Kaç Kelime Yapabilirsin aracını kullanmak güvenli midir?",
+            "Answer": "Bu Harflerle Kaç Kelime Yapabilirsiniz aracımız en güvenli ve en güvenli ücretsiz çevrimiçi araçlardan biridir. Zararlı bağlantıları veya istenmeyen reklamları yoktur. Kesinlikle sorunsuz ve işini mükemmel bir şekilde yapar. Aynı zamanda, kullanıcı verilerinden herhangi birini kaydetmez. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu aracı kullanırken herhangi bir reklam açılır mı?",
+            "Answer": "Web sitemizi kullanmak için tamamen ücretsiz tuttuğumuz için, reklamlar web sitesini korumak için bize yardımcı olan şeylerdir. böylece, Eğer sitemizi kullanırken haşhaş birkaç reklam göreceksiniz. Ancak sonuç kalitesini veya zamanını bozmayacağını garanti edebiliriz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Online ücretsiz Bu Harfler ile Kaç Kelimeler Yapabilirsiniz aracımız kullanıcı verilerinin hiçbirini kaydetmez. Kullanımı kesinlikle güvenlidir. Kullanıcının sitemize yükleyebileceği herhangi bir şey bulutumuzdan çok kısa bir süre içinde silinir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Bu araç verilerimi sunucuya kaydedecek mi?"
+        },
+        {
+            "Question": "Kelimeleri harflerle yapmak ve oluşan toplam kelime sayısını saymak için ne kadar zamana ihtiyacı var?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Bu Mektuplarla Kaç Kelimeler Yapabilirsiniz Ücretsiz kendi işini yapmak için sadece birkaç saniye sürer. Belirtilen harflerden kelimeleri hızla oluşturur ve sayıyı sayar. Sonuçlar hızlı ve% 100 doğru."
+        },
+        {
+            "Answer": "Web sitemizde kaydolmak veya oturum açmak gerekmez. Bu Mektuplarla Kaç Kelime Yapabileceğinizi online olarak ücretsiz ve kaydolmak için herhangi bir istem olmadan kullanabilirsiniz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Bu Harflerle Kaç Kelime Yapabilirsin aracını kullanmak için kaydolmam veya oturum açmam gerekecek mi?"
+        },
+        {
+            "Question": "Bu Mektuplarla Kaç Kelimeler Yapabilirsiniz Cep telefonlarında çalışır mı?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Evet. Ücretsiz Bu Harflerle Kaç Kelime Yapabilirsin özelliğimiz tüm platformlarda çalışır. Cep telefonlarınızdan erişebilirsiniz. Kelimelerinizle istediğiniz mektupları yazmanız yeterlidir, telefonunuzdan ve aracımız işi sizin için yapar."
+        },
+        {
+            "Answer": "Evet, Bu Harflerle Kaç Kelime Yapabilirsiniz aracımız ve diğer tüm araçlar hem Android hem de iOS platformlarını destekler.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Hem Android hem de iOS platformlarını destekliyor mu?"
+        },
+        {
+            "Question": "Bu Mektuplarla Kaç Kelimeler Yapabilirsin? adet ve dizüstü bilgisayarlarda işe yarıyor mu?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Evet. Online Bu Mektuplarla Kaç Kelime Yapabilirsin? Bu ücretsiz aracı web sitenizde PC'nizden ve dizüstü bilgisayarınızdan da kullanabilirsiniz. Hem Windows hem de Mac'i destekler. Tek yapmanız gereken 15 harfe kadar girmek, Sözlük türünü belirtmek, gerekirse gelişmiş filtreler eklemek ve hepsi bu. Kelimeler bu harflerden tam olarak sizin talimatlarınıza göre üretilecektir."
+        },
+        {
+            "Answer": "Bu Harflerle Kaç Kelime Yapabilirsiniz özelliğimiz tamamen web tabanlı. Bu nedenle, kullanıcılarımıza platformlar arası destek sağlar. Bu, aracımızın tüm Windows sürümlerini desteklediği anlamına gelir. Daha genel anlamda, tüm İşletim Sistemlerinin tüm sürümlerini destekler.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Hangi Windows sürümlerini Bu Harflerle Kaç Sözcük Yapabilirsiniz aracını destekler?"
+        },
+        {
+            "Question": "Bu harfler kaç tane 2 harfli kelime GERÇEĞI yapabilir?",
+            "Answer": "Toplamda 2 harf olan 2 kelime yapabiliriz ve kelimeler uh ve ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nasıl bu harfler KİTAPLAR ile bir kelime yapmak için?",
+            "Answer": "Kitaplar harfleri ile olası tüm kelime kombinasyonlarını yapmak için, anlamlı bir kelimeyle sonuçlanacak bu harfleri seçip birleştirmeliyiz. Anlamlı bir kelime, standart bir sözlükte bulunan bir kelimedir. Aynı işlemi çevrimiçi olarak gerçekleştirmek istiyorsanız, web sitemize mektubunuzu yazın ve tüm olası sonuçları alacaksınız. Bu durumda kitaplar kitaplar, kobos, kitap, boos, bosk, kobo, kobs, kobs, sook, boo, bos, kob, kob, kob, kob, kos, hıçkıran, bo, os, böylece harflerle kitaplar, toplam 16 kelime oluşturabilir",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nasıl LABLE bu harflerle bir kelime yapmak için?",
+            "Answer": "Kelimelerin olası tüm kombinasyonlarını LABLE harflerle yapmak için, anlamlı bir kelimeyle sonuçlanacak bu harfleri seçip birleştirmeliyiz. Anlamlı bir kelime, standart bir sözlükte bulunan bir kelimedir. Aynı işlemi çevrimiçi olarak gerçekleştirmek istiyorsanız, web sitemize mektubunuzu yazın ve tüm olası sonuçları alacaksınız. Bu durumda LABLE harfleri ile toplam 22 kelime oluşturabilir etiket, mümkün, balya, top, çan, blae, leal, alb, ale, tüm, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kaç tane 7 harfli kelime bu harfler JENERATÖR yapabilir?",
+            "Answer": "Toplam 18 yedi harfli kelime JENERATÖR harfi kullanılarak oluşturulabilir ve kelimeler aşağıdaki gibidir boğucu, grantee, granter, grantor, greaten, daha büyük, groaner, negater, negator, reaktif, regrant, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu harflerden kaç kelime yapılabilir LAPTOP?",
+            "Answer": "Dizüstü harfler kullanılarak oluşturulabilecek toplam kelime sayısı 37 ve kelimeler aşağıdaki gibidir dizüstü, alto, atop, lota, opal, palp, plat, plop, arsa, tola, alp, alt, app, apt, lap, lat, lop, lot, yulaf, opt, pal, pap, pat, pol, pop, pot, tao, tap, üst, al, at, la, lo, op, pa, ta,",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu harflerden kaç kelime yapılabilir EMAILID?",
+            "Answer": "EMAILID harfleri kullanılarak oluşturulabilecek toplam kelime sayısı 94 ve kelimeler aşağıdaki gibidir, medial, miladi, ailed, amaçlanan, amide, e-posta, ideal, iliad, imide, lamed, limed, maile, maile, madalya, medya, medii, milia, aide, alme, amid, amie, dale, dame, deal, deil,, diel, kuruş, idem, boşta, ilea, ilia, imid, lade, koydu, topal, kurşun, yalan, lima, kireç, yapılan, hizmetçi, posta, erkek, mead, yemek, meld, midi, hafif, mil, yardım, ail, nişan, bira, ami, dal, baraj, del, die, loş, eld, karaağaç, delikanlı, lam, lea, led, lei, kapak, yalan, deli, mae, med, mel, orta, mil, reklam, ae, ai, al, ben, da, de, di, ed, el, em, id, la, li, ma, ben, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bir alfabenin 26 harfiyle kaç kelime yapabilirsin?",
+            "Answer": "Sayı oldukça büyük ve n olan bu basit matematik problemini çözerek bulunabilir! (n faktöriyel) n toplam alfabe sayısı olurdu, böylece cevap 26 olurdu! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kaç tane 6 harfli kelime bu harfler MUTFAK yapabilir?",
+            "Answer": "MUTFAK harfleri kullanılarak oluşturulabilecek 6 harfli kelimelerin toplam sayısı sadece 1'dir ve kelime etniktir.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kaç tane 6 harfli kelime bu harfler TROPIKAL yapabilir?",
+            "Answer": "TROPICAL kelimesi ile oluşturulabilecek 6 harflerin toplam sayısı 17'dir ve kelimeler aort, atopik, kaptor, caroli, cartop, citola, citral, coital, lictor, lorica, devriye, picaro, portal, rialto, rictal, terzi, tropik",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Nasıl bu harflerle kelimeler RÜYA yapmak için?",
+            "Answer": "Bu harf DREAM ile kelimeler yapmak için, yapmanız gereken tek şey birleştirildiğinde anlamlı bir kelime oluşturabilecek alfabeleri toplamaktır. Anlamlı bir kelime, standart bir sözlükte bulunabilen bir kelimedir. Yalnızca sözcükte bulunan sözcükleri kullanmanıza izin verilir. Aceleniz varsa ve en yüksek doğruluk seviyesine sahip olası tüm kelimeleri bulmak istiyorsanız. Bizim aracımızı kullanabilirsiniz. Bunu yapmanız gereken tek şey tarayıcınızı açın, web sitemize wordswithletters.org yazın ve kelimeleri yapmak istediğiniz tüm harfleri yazın. Enter'a tıkladığınızda sonuçlarınızı alacaksınız. RÜYA kelimesi ile bu durumda silahlı, derma, rüya, madre, dame, cesaret, sevgili, derm, dram, made, kısrak, mead, okumak, ream'lerdir, kol, baraj, kulak, çağ, deli, mae, mar, med, rad, ram, kırmızı, rem, reklam, ae, benim, ar, da, de, ed, em, er, anne, ben, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu harflerle kelimeler nasıl yapılır TOMMORROW?",
+            "Answer": "TOMMORROW bu harflerle kelimeler yapmak için tek yapmanız gereken bir araya getirildiğinde anlamlı bir kelime oluşturabilecek alfabeleri toplamaktır. Anlamlı bir kelime, standart bir sözlükte bulunabilen bir kelimedir. Yalnızca sözcükte bulunan sözcükleri kullanmanıza izin verilir. Aceleniz varsa ve en yüksek doğruluk seviyesine sahip olası tüm kelimeleri bulmak istiyorsanız. Bizim aracımızı kullanabilirsiniz. Bunu yapmanız gereken tek şey tarayıcınızı açın, web sitemize wordswithletters.org yazın ve kelimeleri yapmak istediğiniz tüm harfleri yazın. Enter'a tıkladığınızda sonuçlarınızı alacaksınız. Bu durumda TOMMORROW sözcüğüyle, yarın, solucan kökü, yarın, morro, motor, rotor, moor, moot, mort, oda, root, rort, roto, toom, toro, torr, trow, solucan, wort, anne, moo, mor, mot, biçmek, oot, ort, rom, çürüme, satır, tom, çok, tor, çekici, iki, woo, wot, mm, mo, om, veya , ow, to, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "APPLE bu harflerle kaç kelime yapılabilir?",
+            "Answer": "APPLE kelimesini kullanarak toplam 24 harf yapabiliriz. Sözler şu şekildedir: appel, elma, pepla, sıçrama, soluk, palp, peal, plea, ale, alp, maymun, app, lap, lea, pal, pap, bezelye, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Bu harflerden kaç kelime yapılabilir ÖRNEK?",
+            "Answer": "NUMUNE kelimesini kullanarak toplam 99 harf yapabiliriz. Sözler şu şekildedir: akçaağaç, örnek, almes, bol, topal, lambalar, atlamalar, erkekler, akçaağaç, yemek, soluk, avuç içi, peals, plazma, yalvarma, mezmur, salep, sepal, spale, bira, sadaka, alms, Alpler, amper, maymunlar, apse, karaağaç, topal, lamba, kuzular, tur, lase, sıçrama, leas, Maes, erkek, haritalar, yemek, mels, mesa, soluk, palmiye, dostlar, pams, pase, peal, bezelye, savunma, satış, salp, aynı, samp, mühür, dikiş, slam, tokat, spae, spae, spae, spae, als, amp, maymun, asp, karaağaç, els, ems, lam, lap, las, lea, mae, harita, mas, mel, pal, pampe, pas, bezelye,, sae, sal, sap, deniz, sel, spa, ae, al, ben, el, em, es, la, ma, ben, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "ATSFOPPQ bu harflerle kaç kelime yapabilirsiniz?",
+            "Answer": "Bu harfleri kullanarak toplam 65 kelime yapabiliriz. Şişko, softa, uygulamalar, atop, hızlı, yağlar, fops, oafs, oast, yulaf, opts, paps, geçmiş, pats, post, tencere, qats, sabun, kanepe, yumuşak, tükürük, spot, stoa, dur, taos, musluklar, üstleri, kıç, app, apt, asp, fas, yağ, fop, oaf, yulaf, oft, ops, opt, pap, pas, pat, pop, pot, qat, sap, oturdu, sop, sot, spa, tao, musluk, tas, üst, olarak, at, fa, of, op, os, pa, yani, ta, için"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Bu harflerle XATFPS kaç kelime yapabilirsiniz?",
+            "Answer": "XATFPS harfinden toplam 28 kelime yapabiliriz. Sözler hızlı, yağlar, geçmiş, pats, tükürük, musluklar, kıç, apt, asp, fas, yağ, faks, pas, pat, pax, sap, sat, saksafon, spa, musluk, tas, vergi, gibi, at, balta, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

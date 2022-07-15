@@ -1,0 +1,56 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "これらの文字を含む11文字の単語を検索してください-WordsWithLetters.org",
+    "h1": "これらの文字を含む11文字の単語を検索する",
+    "h2": "下の文字を入力して11文字の単語を検索してください",
+    "meta": "これらの文字で11文字の単語をいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む11文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字で11文字の単語を生成する",
+            "feature_text": "多くの場合、この手紙11は単語ゲームでその方法を見つけます。しかし、主なことは、これらの11文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字で11文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで11文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "イレブンという文字を含む数字の付いた単語を検索する",
+            "feature_text": "11文字の単語ファインダーでは、15文字までの11文字の単語をすべて見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "あなたが考えることさえできない最も難しい11文字の単語さえ生成します。",
+            "feature_text": "無料の11文字単語ジェネレーターで、高得点の11文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

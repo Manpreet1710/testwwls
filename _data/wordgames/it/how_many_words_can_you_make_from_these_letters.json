@@ -1,0 +1,346 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "title": "Quante parole riesci a fare con queste lettere?",
+    "h1": "Quante parole riesci a fare con queste lettere?",
+    "h2": "Inserisci le lettere qui sotto e scopri quante parole possono essere create con queste lettere",
+    "meta": "Stai ancora pensando a quante parole puoi fare con queste lettere? Usa subito il nostro strumento parole con lettere!",
+    "featureNo": "02",
+    "feature_title": "Caratteristiche",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Informazioni su",
+    "featureList": [
+        {
+            "feature_heading": "Quante parole riesci a fare con le lettere?",
+            "feature_text": "Non preoccuparti di quante parole riesci a fare con le lettere. Ti perderai così tante parole che ti aiuteranno a segnare di più e... migliorare anche il tuo vocabolario!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Stai ancora pensando a quante parole riesci a fare con queste rare lettere?",
+            "feature_text": "Il nostro cheat sheet gratuito è il tuo rimedio più veloce durante il nostro gioco.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Riscrivere parole lunghe non è un compito difficile ora!",
+            "feature_text": "Potresti pensare per un momento che decifrare una parola di 15 lettere!». Ma il nostro word finder può aiutarti nel tuo gioco.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nuovi aggiornamenti da evidenziare",
+            "feature_text": "Ogni nuova funzionalità relativa al gioco scrabble verrà evidenziata direttamente nella nostra home page in modo che tu possa usarle!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Cosa fa lo strumento Quante parole puoi fare con queste lettere?",
+            "Answer": "Il nostro strumento Quante parole puoi fare con queste lettere genera automaticamente parole significative dalle lettere che il nostro utente inserisce e conta il numero di parole generate da quelle lettere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come usare lo strumento Quante parole puoi fare con queste lettere?",
+            "Answer": "Usare il nostro strumento Quante parole puoi fare con queste lettere è molto semplice. Tutto quello che devi fare è inserire le lettere da cui vuoi creare parole. È possibile inserire fino a 15 lettere alla volta. Quindi, seleziona il tipo di dizionario che desideri utilizzare per le parole da generare: le opzioni disponibili sono «Dizionario», TWL06 (Stati Uniti, Canada, Thailandia), SOWPODS (Regno Unito e altri) e Abilita (Parole con gli amici). È quindi possibile abilitare l'opzione Filtri avanzati. Quindi fare clic sul pulsante di ricerca, che è la lente di ingrandimento. E voilà! Il nostro strumento genererà per te il numero massimo possibile di parole dalle lettere inserite e conterà anche il numero di parole generate da tali lettere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante lettere posso inserire per lo strumento per creare e contare le parole senza lettere?",
+            "Answer": "Puoi inserire un massimo di 15 lettere nel nostro strumento, per creare e contare le parole senza lettere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Devo pagare per utilizzare questo strumento?",
+            "Answer": "No, il nostro strumento è completamente gratuito. Non devi pagarci per usare lo strumento.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Perché devo generare e contare il numero totale di parole?",
+            "Answer": "Potresti aver bisogno di generare parole se stai giocando a giochi di parole competitivi, come Wordle o Scrabble. Potrebbe anche essere necessario decifrare le parole e il nostro strumento ti aiuterà in questo. Potrebbe anche essere necessario conoscere il numero di parole che è possibile creare con alcune lettere specifiche.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Questo strumento può aiutare con giochi di parole come Wordle e Scrabble?",
+            "Answer": "Sì assolutamente. Se hai bisogno di aiuto mentre giochi a giochi di parole come Scrabble e Wordle, il nostro strumento Quante parole puoi fare con queste lettere è la strada da percorrere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso risolvere parole confuse con l'aiuto di questo strumento?",
+            "Answer": "Certo. Il nostro strumento ti aiuterà a risolvere facilmente parole confuse. Tutto quello che devi fare è inserire le lettere nella parola confusa, specificare la lunghezza della parola che desideri e il nostro strumento ti fornirà tutte le parole possibili. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quali sono le diverse opzioni di dizionario disponibili?",
+            "Answer": "In questo strumento, puoi selezionare il tipo di dizionario che desideri utilizzare per le parole da generare: le opzioni disponibili sono «Dizionario», TWL06 (Stati Uniti, Canada, Thailandia), SOWPODS (Regno Unito e altri) e Abilita (Parole con gli amici).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come posso usare i filtri avanzati?",
+            "Answer": "I filtri avanzati nel nostro strumento includono l'opzione per specificare con quali lettere devono iniziare o finire le parole risultanti, quali lettere devono contenere le parole, quali lettere si desidera che lo strumento escluda e qual è la lunghezza della parola desiderata. Tutto quello che devi fare è fare clic sul pulsante dei filtri avanzati e inserire i dati come desideri.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso specificare la lunghezza della parola?",
+            "Answer": "Sì, puoi utilizzare la sezione filtri avanzati del nostro strumento per specificare il numero di lettere che le parole di cui hai bisogno devono avere.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso escludere determinati personaggi?",
+            "Answer": "Sì, puoi utilizzare la sezione filtri avanzati del nostro strumento per specificare le lettere che non vuoi che le parole abbiano.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso specificare caratteri obbligatori?",
+            "Answer": "Sì, puoi utilizzare la sezione filtri avanzati del nostro strumento per specificare le lettere che vuoi che abbiano le parole.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Posso specificare con quale lettera devono iniziare o finire le parole?",
+            "Answer": "Sì, puoi utilizzare la sezione filtri avanzati del nostro strumento per specificare con quali lettere vuoi che le tue parole inizino e finiscano.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "È sicuro usare lo strumento Quante parole puoi fare con queste lettere?",
+            "Answer": "Il nostro strumento Quante parole puoi fare con queste lettere è uno degli strumenti online gratuiti più sicuri e protetti. Non ha link dannosi o annunci indesiderati. È assolutamente privo di problemi e svolge perfettamente il suo lavoro. Allo stesso tempo, non salva nessuno dei dati dell'utente. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Durante l'utilizzo di questo strumento, verranno visualizzati annunci pubblicitari?",
+            "Answer": "Poiché manteniamo il nostro sito Web completamente gratuito, gli annunci sono ciò che ci aiuta a mantenere il sito Web. Quindi, vedrai apparire alcuni annunci quando utilizzi il nostro sito. Ma possiamo garantire che non deteriorerà la qualità o il tempo del risultato.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Il nostro strumento online gratuito Quante parole puoi fare con queste lettere non salva nessuno dei dati dell'utente. È assolutamente sicuro da usare. Qualsiasi cosa che l'utente possa caricare sul nostro sito viene eliminata dal nostro cloud in un lasso di tempo molto breve.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Questo strumento salverà i miei dati sul server?"
+        },
+        {
+            "Question": "Quanto tempo è necessario per fare le parole con lettere e contare il numero totale di parole formate?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Bastano pochi secondi per il nostro gratuito Quante parole puoi fare con queste lettere per fare il suo lavoro. Crea rapidamente parole da lettere specificate e conta il numero. I risultati sono rapidi e accurati al 100%."
+        },
+        {
+            "Answer": "Non è richiesta alcuna registrazione o accesso sul nostro sito Web. Puoi usare il nostro online Quante parole puoi fare con queste lettere gratuitamente e senza alcuna richiesta di iscrizione.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Dovrò registrarmi o accedere per utilizzare questo strumento Quante parole puoi fare con queste lettere?"
+        },
+        {
+            "Question": "Quante parole puoi fare con queste lettere funziona sui telefoni cellulari?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Sì. La nostra funzione gratuita Quante parole puoi fare con queste lettere funziona su tutte le piattaforme. Puoi accedervi dai tuoi telefoni cellulari. Basta digitare le lettere che desideri nelle tue parole, dal tuo telefono e il nostro strumento farà il lavoro per te."
+        },
+        {
+            "Answer": "Sì, il nostro strumento Quante parole puoi fare con queste lettere e tutti gli altri strumenti supportano sia le piattaforme Android che iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Supporta sia le piattaforme Android che iOS?"
+        },
+        {
+            "Question": "Quante parole puoi fare con queste lettere funziona su PC e laptop?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Sì. Il nostro online Quante parole puoi fare con queste lettere è accettato su tutte le piattaforme. Puoi utilizzare questo strumento gratuito sul tuo sito Web dal tuo PC e anche dal tuo laptop. Supporta sia Windows che Mac. Tutto quello che devi fare è inserire fino a 15 lettere, specificare il tipo di dizionario, aggiungere filtri avanzati se necessario e basta. Le parole verranno generate da quelle lettere esattamente secondo le tue istruzioni."
+        },
+        {
+            "Answer": "La nostra funzione Quante parole puoi fare con queste lettere è completamente basata sul web. Per questo motivo, fornisce ai nostri utenti un supporto multipiattaforma. Ciò significa che il nostro strumento supporta tutte le versioni di Windows. In termini più generali, supporta tutte le versioni di tutti i sistemi operativi.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quali versioni di Windows supporta lo strumento Quante parole puoi fare con queste lettere?"
+        },
+        {
+            "Question": "Quante parole di 2 lettere possono rendere VERITÁ queste lettere?",
+            "Answer": "Possiamo fare un totale di 2 parole che contengono 2 lettere e le parole sono uh e ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come fare una parola con queste lettere BOOKS?",
+            "Answer": "Per creare tutte le possibili combinazioni di parole con lettere BOOKS, dovremo selezionare e combinare quelle lettere che risulteranno in una parola significativa. Una parola significativa è una parola disponibile in un dizionario standard. Se desideri eseguire la stessa operazione online, digita semplicemente la tua lettera sul nostro sito Web, fai clic su Invio e otterrai tutti i risultati possibili. In questo caso con le lettere BOOKS possiamo formare un totale di 16 parole che sono i seguenti: books, kobos, book, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, so",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come fare una parola con queste lettere LABLE?",
+            "Answer": "Per rendere tutte le possibili combinazioni di parole con lettere LABLE, dovremo selezionare e combinare quelle lettere che risulteranno in una parola significativa. Una parola significativa è una parola disponibile in un dizionario standard. Se desideri eseguire la stessa operazione online, digita semplicemente la tua lettera sul nostro sito Web, fai clic su Invio e otterrai tutti i risultati possibili. In questo caso con le lettere LABLE possiamo formare un totale di 22 parole che sono le seguenti label, able, bale, ball, bell, blae, leal, alb, ale, all, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole di 7 lettere possono fare queste lettere GENERATOR?",
+            "Answer": "Un totale di 18 parole di sette lettere possono essere formate usando il generatore di lettere e le parole sono le seguenti: garrote, grantee, granter, grantor, greaten, greater, groaner, negater, negator, reagent, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole si possono ricavare da queste lettere LAPTOP?",
+            "Answer": "Il numero totale di parole che possono essere formate usando le lettere LAPTOP è 37 e le parole sono le seguenti laptop, alto, in cima, lota, opal, palp, plat, plop, trama, tola, alp, alt, app, apt, lap, lat, lop, lot, oat, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, at, la, lo, op, pa, ta, top",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole si possono ricavare da queste lettere EMAILID?",
+            "Answer": "Il numero totale di parole che possono essere formate usando le lettere EMAILID è 94 e le parole sono le seguenti spedite, mediale, miladi, ailed, mirata, amide, e-mail, ideale, iliade, imide, lamed, limed, maile, medaglia, media, medii, milia, aide, alme, amid, amie, dale, dame, deal, deil, deli, dial, diel, dime, dime, idem, inattivo, ileo, ilia, imid, lama, posato, zoppo, condurre, lied, lima, calce, fatto, domestica, posta, maschio, idromele, pasto, meld, midi, mite, miglio, aiuto, ail, scopo, ale, ami, dal, diga, del, morire, dim, eld, olmo, lad, lam, lea, guidato, lei, coperchio, menzogna, pazzo, mae, med, mel, metà, mil, annuncio, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, me, me",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole riesci a fare con tutte le 26 lettere di un alfabeto?",
+            "Answer": "Il numero è piuttosto enorme e può essere trovato risolvendo questo semplice problema matematico che è n! (n fattoriale) dove n sarebbe il numero totale di alfabeti, quindi la risposta sarebbe 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole di 6 lettere possono fare queste lettere KITCHEN?",
+            "Answer": "Il numero totale di parole di 6 lettere che possono essere formate usando le lettere KITCHEN è solo 1 e la parola è etnica.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole di 6 lettere possono rendere TROPICAL queste lettere?",
+            "Answer": "Il numero totale di 6 lettere che possono essere formate dalla parola TROPICAL è 17 e le parole sono le seguenti aortic, atopic, captor, caroli, cartop, citola, citral, coital, lictor, lorica, patrol, picaro, portal, rialto, rictal, tailor, tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come creare parole con queste lettere DREAM?",
+            "Answer": "Per creare parole con questa lettera DREAM, tutto ciò che devi fare è raccogliere alfabeti che, se combinati insieme, possono formare una parola significativa. Una parola significativa è una parola che può essere trovata in un dizionario standard. È consentito utilizzare solo le parole disponibili nella parola. Se hai fretta e stai cercando di trovare tutte le parole possibili con il massimo livello di precisione. Puoi utilizzare il nostro strumento. Tutto quello che devi fare è aprire il tuo browser, digitare il nostro sito web wordswithletters.org e digitare tutte le lettere da cui desideri creare parole. Dopo aver fatto clic su Invio, otterrai i risultati. In questo caso con la parola DREAM possiamo fare 39 parole che sono come segue: armati, derma, dream, madre, dame, osare, dear, derm, dram, made, mare, mead, read, ream, are, arm, dam, ear, era, mad, mae, mar, med, rad, ram, red, rem, ad, ae, am, ar, da, de, ed, em, ma, me, ri",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Come fare parole con queste lettere TOMMORROW?",
+            "Answer": "Per creare parole con queste lettere TOMMORROW, tutto ciò che devi fare è raccogliere alfabeti che, se combinati insieme, possono formare una parola significativa. Una parola significativa è una parola che può essere trovata in un dizionario standard. È consentito utilizzare solo le parole disponibili nella parola. Se hai fretta e stai cercando di trovare tutte le parole possibili con il massimo livello di precisione. Puoi utilizzare il nostro strumento. Tutto quello che devi fare è aprire il tuo browser, digitare il nostro sito web wordswithletters.org e digitare tutte le lettere da cui desideri creare parole. Dopo aver fatto clic su Invio, otterrai i risultati. In questo caso con la parola TOMMORROW possiamo fare 44 parole che sono le seguenti moorwort, domani, wormroot, morrow, morro, motore, rotore, brughiera, moot, mort, room, root, rort, roto, toom, toro, torr, trow, worm, wort, mom, moo, mor, mot, mow, oot, ort, rom, rot, row, tom, too, tor, traino, due, woo, wot, mm, mo, om, o , ow, due, due",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole si possono fare con queste lettere APPLE?",
+            "Answer": "Possiamo fare un totale di 24 lettere usando la parola APPLE. Le parole sono le seguenti appel, apple, pepla, leap, pale, palp, peal, plea, ale, alp, ape, app, lap, lea, pal, pap, pea, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quante parole si possono ricavare da queste lettere SAMPLE?",
+            "Answer": "Possiamo creare un totale di 99 lettere usando la parola SAMPLE. Le parole sono le seguenti aceri, campione, almes, ampio, lames, lampade, lapse, salti, maschi, acero, pasti, pales, palme, peals, plasma, suppliche, salmo, salep, sepalo, spale, ales, alme, elemosina, Alpi, amp, scimmie, abside, olmi, zoppo, lampada, lams, giri, lase, salto, leas, maschi, maschio, mappe, pasto, mels, mesa, pallido, palm, pals, palme, incollare, perla, piselli, motivo, vendita, cuoio capelluto, stesso, palude, sigillo, cucitura, slam, schiaffo, spazio, spam, ale, alp, als, amp, scimmia, asp, olmo, els, ems, lam, lap, las, foglia, maschio, mappa, mas, mel, pal, palma, pas, pisello, pes, sae, sal, linfa, mare, sel, spa, ae, al, am, come, el, em, es, la, ma, me, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quante parole si possono fare con queste lettere ATSFOPPQ?",
+            "Answer": "Possiamo fare un totale di 65 parole usando queste lettere. Le parole sono le seguenti: fatso, softa, applicazioni, in cima, veloce, grassi, fops, oafs, oast, avena, opts, paps, passato, pats, pops, posta, pentole, qats, sapone, divano, morbido, sputare, spot, stoa, stop, taos, rubinetti, top, pops, app, apt, asp, fas, grasso, fop, oaf, avena, oft, ops, optare, pap, pas, pat, pop, pentola, qat, linfa, sat, sop, sot, spa, tao, tap, tas, top, as, at, fa, of, op, os, pa, so, ta, to"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Quante parole puoi fare con queste lettere XATFPS?",
+            "Answer": "Possiamo fare un totale di 28 parole con la lettera XATFPS. Le parole sono le seguenti: veloce, grassi, passato, pat, sputato, rubinetti, poppa, apt, asp, fas, grasso, fax, pas, pat, pax, sap, sat, sax, spa, tap, tas, tassa, as, at, ax, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

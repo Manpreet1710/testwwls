@@ -1,0 +1,106 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "lasagna",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " jewelry",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "7",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "payment",
+                "x": "7",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Find 7 brev ord med disse bogstaver- Wordswithletters.org",
+    "h1": "Find 7 bogstavsord med disse bogstaver",
+    "h2": "Indtast bogstaverne nedenfor for at finde 7 bogstavsord",
+    "meta": "Tænker stadig på, hvor mange syv-bogstaver ord kan du lave med disse bogstaver? Brug vores værktøj til at finde 7 bogstavsord med disse bogstaver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Medbring et vendepunkt i dit spil. Generer syv bogstavsord med disse bogstaver",
+            "feature_text": "Ofte finder dette brev syv vej i ordspil. Men det vigtigste er, at disse syv bogstaver kan nogle gange være meget scorende. Du kan dog finde din redning på med vores ordfinder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generer syv bogstavsord med disse bogstaver",
+            "feature_text": "Vores gratis wordfinder giver dig mulighed for at finde syv bogstavsord og hjælpe dig med at vinde dit spil",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Find et nummereret ord med bogstavet syv i det",
+            "feature_text": "Ordfinder med syv bogstaver giver dig mulighed for at finde alle syv bogstaver ord op til 15 tegn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer selv de hårdeste syv bogstaver ord, du ikke engang kan tænke på.",
+            "feature_text": "Få en pulje med højt scorende syv bogstaver på få sekunder med vores gratis ordgenerator med syv bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

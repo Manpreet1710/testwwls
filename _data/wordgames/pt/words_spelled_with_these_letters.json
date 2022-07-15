@@ -1,0 +1,50 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "Palavras escritas com essas letras",
+    "h1": "Palavras escritas com essas letras",
+    "h2": "Insira as letras e confira quantas palavras estão escritas com essas letras",
+    "meta": "Quando palavras escritas com letras parecerem confusas, use nossa ferramenta gratuita!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Encontre palavras escritas com letras confusas",
+            "feature_text": "Você costuma pensar em “que palavras posso soletrar com essas letras” enquanto joga jogos de palavras? Então você está no site certo. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Localizador de palavras simples, intuitivo e fácil de usar",
+            "feature_text": "Basta inserir as letras no seu quadro e lá você terá uma variedade de palavras escritas com essas letras.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Todas as regras para palavras escritas com essas letras em poucas palavras",
+            "feature_text": "Se você está jogando jogos de palavras scrabble pela primeira vez, você precisa desse conjunto de regras em mãos. Simples e intuitivo!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Digite até quinze letras!",
+            "feature_text": "Quinze letras! O suficiente para obter a palavra mais longa no Dicionário de Inglês.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ele suporta vários dicionários",
+            "feature_text": "Uma grande variedade de dicionários para obter os melhores resultados.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Você tem a opção de usar qualquer dispositivo",
+            "feature_text": "Se você usa um laptop, guia, Android ou seu iPhone, nosso solucionador de palavras com amigos compatível com dispositivos móveis pode servir ao seu propósito de qualquer lugar",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

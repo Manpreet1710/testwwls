@@ -1,0 +1,56 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Personality",
+                "x": "11",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 11 harfli kelime bul - WordsWithLetters.org",
+    "h1": "Bu harflerle 11 harfli kelime bul",
+    "h2": "Bulmak için aşağıya harfleri girin 11 harfli kelimeler",
+    "meta": "Hala bu harflerle on bir harfli kaç kelime yapabileceğinizi düşünüyorum? Bu harflerle 11 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle Onbir harfli kelime oluştur",
+            "feature_text": "Genellikle bu mektup onbir kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu on bir harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle Onbir harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, Onbir harf kelimesini bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Onbir harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "On bir harfli kelime bulucu, tüm Onbir harfli kelimeyi bulmanızı sağlar 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklınıza bile gelemeyeceğiniz en zor on bir harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz on bir harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı on bir harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

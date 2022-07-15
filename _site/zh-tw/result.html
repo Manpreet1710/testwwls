@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="最好的在線基於網絡的工具的單詞與字母.我們的工具將幫助您贏得每個拼字遊戲或與朋友遊戲的單詞。這個工具將快速將你的字母轉換成單詞，沒有任何約束。立即試試！">
+<meta name="og:description" content="最好的在線基於網絡的工具的單詞與字母.我們的工具將幫助您贏得每個拼字遊戲或與朋友遊戲的單詞。這個工具將快速將你的字母轉換成單詞，沒有任何約束。立即試試！">
+<meta property="og:title" content="帶字母的單詞-一個免費的工具來找到字母單詞">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/zh-tw/result">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/zh-tw/result">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/zh-tw/result">
+<meta data-rh="true" name="twitter:title" content="帶字母的單詞-一個免費的工具來找到字母單詞">
+<meta data-rh="true" name="twitter:description" content="最好的在線基於網絡的工具的單詞與字母.我們的工具將幫助您贏得每個拼字遊戲或與朋友遊戲的單詞。這個工具將快速將你的字母轉換成單詞，沒有任何約束。立即試試！">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/zh-tw/result">
+
+  <link rel="canonical" href="http://localhost:4000/zh-tw/result"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>帶字母的單詞-一個免費的工具來找到字母單詞</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "快速解讀單詞的提示和技巧",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "當談到解除混亂字母中的單詞時，有一些策略非常有幫助。以下是一些經過驗證和測試的技巧和技巧，幫助您找到難題的答案：
+-將輔音與元音分開，看看您可以通過將各種輔音與元音配對來獲得什麼。
+-例如，查找以兩個或三個字母開頭的短術語。然後看看是否可以通過複數或修改時態來使它們更長。
+-選取帶有任何前綴或後綴的單詞，可以延長單詞的長度。
+這些是一些快速和易於使用的提示，用於獲取單詞拼圖的答案。"
+         }
+       },{"@type": "Question",
+         "name": "如何解開最難的話？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "帶字母的單詞工具也最適合最難的單詞。它提供了有效單詞的長列表。只需輸入您想要使用的字母，並在任何時間內獲得所需的結果。這個工具是完全免費的，非常容易使用。這個工具有先進的選項，你可以使用它來獲得高得分的單詞。"
+         }
+       },{"@type": "Question",
+         "name": "我可以用這些字母做什麼？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "這是有趣的部分。輸入你的字母到字母搜索框中的字母，看看它給你什麼.你會得到一個很長的有效單詞列表。此工具還支持空白拼貼（拼字遊戲）或通配符。對於人類的思想來説，詞拼遊戲類似於足球或足球：一個混亂的字母推、推動和喊叫，以便按正確的順序排序。"
+         }
+       },{"@type": "Question",
+         "name": "帶字母的單詞可以幫助我在拼字遊戲中做得更好嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "每個益智遊戲，無論是字謎還是單詞拼圖，都會變得更加困難。以下是何時使用我們的工具的一些理想示例。 
+1.當遊戲中涉及的字母較少時，它可能看起來很簡單。然而，隨着遊戲的進步，你到達了一個你有更多的元音和輔音的地步，事情開始變得有點困惑！現在是時候把我們的工具投入使用。
+2.當你通過的水平，這個詞謎變得更加困難。這是非常自然的變得困惑和需要幫助。這是通過使用我們的工具來拿起新詞的好方式。
+詞與字母工具是理想的，當你必須做出新的單詞，無論你要如何使用它們。 
+"
+         }
+       },{"@type": "Question",
+         "name": "帶字母的單詞工具可以用於拼字遊戲或與朋友的單詞？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "此工具可用於在拼字遊戲或與朋友一起找到字母中的單詞。帶有字母的單詞也支持通配符。我們的工具可以幫助您提出拼字遊戲的想法（包括空白拼圖），並幫助您找到最高得分詞。它的高級選項允許你過濾有效的單詞，並給出所需的結果只需點擊幾下。"
+         }
+       },{"@type": "Question",
+         "name": "帶字母的單詞工具允許通配符嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "通配符是特殊字符，可用於替換文本值中的未知字符。是的！帶字母的單詞支持拼字遊戲或通配符中的空白拼貼。這些瓷磚將與所有可想象的字母進行比較，導致在不混亂的單詞數量大幅增加。輸入通配符以 * 或?在單詞求解器字母框中。"
+         }
+       },{"@type": "Question",
+         "name": "此工具可以用於多個字母嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "你是否有過多的字母？不用擔心字母工具的單詞會緩解你的煩惱！無論你有多少個字母，要麼 3,4,5 或 8,9,10 這個工具將完成它的工作。例如-我們將採取字母 R, L, I, N, K, A, R, F 和 O. 在這裏我們有 9 個字母. 
+
+現在你知道該怎麼做-在框中輸入字母，並點擊去，並在任何時間獲得您想要的結果。您可以使用高級選項獲得精細的結果。"
+         }
+       },{"@type": "Question",
+         "name": "如何使字母的單詞？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "無論您是在玩文字遊戲還是隻是挑戰朋友，一個帶有字母的世界都是您需要的工具。此工具從給定的字母生成所有可能的單詞。在這裏，您可以獲得按長度分組的單詞列表，以贏得任何文字遊戲。您還可以使用高級選項來獲得所需的結果。讓我們用這個工具將隨機字母變成獲獎單詞！"
+         }
+       },{"@type": "Question",
+         "name": "我們可以用網上的字母做什麼？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "38 個單詞可以從字母在線的字母。如果你在找到字母 o，n，l，i，n，e 的詞彙方面遇到困難，你是在正確的地方。帶有字母的單詞為您提供了所有拼字遊戲單詞的完整列表，只需點擊一下即可從字母中的字母在線。 "
+         }
+       },{"@type": "Question",
+         "name": "這個工具是否允許重複字母？ ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "您可以在搜索欄中輸入最多 15 個字母。要多次使用字母，只需鍵入多次。如果您有 8 個不同的字母，您可以輸入每個字母兩次，或者您可以輸入要重複多次的字母。
+您還可以使用高級選項播放。"
+         }
+       },{"@type": "Question",
+         "name": "我們應該什麼時候使用字母工具的單詞？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "每個益智遊戲，無論是字謎還是單詞拼圖，都變得越來越困難。以下是何時使用我們的工具的一些理想示例。 
+1.當遊戲中涉及的字母較少時，它可能看起來很簡單。然而，隨着遊戲的進步，你到達了一個你有更多的元音和輔音的地步，事情開始變得有點困惑！現在是時候把我們的工具投入使用。
+2.當你通過的水平，這個詞謎變得更加困難。這是非常自然的變得困惑和需要幫助。這是通過使用我們的工具來拿起新詞的好方式。
+詞與字母工具是理想的，當你必須做出新的單詞，無論你要如何使用它們。 
+"
+         }
+       },{"@type": "Question",
+         "name": "使用字母工具的單詞有什麼好處？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "成功-誰不想輕易贏？然而，贏得一個字謎並不總是簡單。我們變得卡住和沮喪了很多時間。我們使我們的工具簡單、快速和方便。使用我們的字母與單詞工具贏得文字遊戲，沒有任何限制。
+方便-當一個謎題變得令人沮喪而不是有趣時，帶有字母的單詞解決了這個問題。它非常簡單，易於使用的工具。
+提高您的詞彙量-當我們輸入字母與字母搜索欄單詞時，它顯示了一些單詞使用兩個或更多的字母。通過這種方式，我們得到不同的單詞，並可以通過學習這些單詞來增加我們的詞彙量。"
+         }
+       },{"@type": "Question",
+         "name": "我們怎樣才能找到缺少字母的單詞？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "此工具最適合查找缺失的字母。這裏是包含字母表的每個字母的單詞的完整列表。但是，如果你想把你的搜索重點放在特定的單詞長度上，或者更好的是一個模式？我們已經得到了你需要的一切只需使用我們的高級選項即可。除了使用字母工具的單詞之外，每一天都有點混亂的解決可以幫助你成為一個頂級單詞播放器！"
+         }
+       },{"@type": "Question",
+         "name": "此工具是否僅提供有效的詞語？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Word 與字母是一個專門創建的工具，用於幫助您找到拼字遊戲、與朋友的單詞和其他文字遊戲得分最高的單詞。其獨特的搜索引擎將建議所有有效的詞。簡而言之，帶有字母的單詞允許您輸入手中的所有字母，並將它們重新排列，以顯示所有可能的單詞組合。"
+         }
+       },{"@type": "Question",
+         "name": "這個工具可以幫助贏得拼字遊戲或與朋友的話遊戲?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "字母工具的單詞將轉換你的字母變成單詞在任何時間。如果您需要一個長字或五個字母的單詞，生成器將生成您的遊戲接受的所有可能的組合。你可以找到拼字遊戲，與朋友的話，以及許多其他文字遊戲最好的作弊和得分最高的單詞。"
+         }
+       },{"@type": "Question",
+         "name": "我們可以通過使用這個工具擴大我們的詞彙量嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "不要把我們視為一個詞黑客，而是考慮我們一個參考工具，你和你的朋友可以用來擴展詞彙量。我們的搜索引擎將查看英國和美國字典，以找到最適合您的字母的匹配。這是非常簡單和容易, 當然有趣的使用.但隨着樂趣，你也可以通過經常使用字母工具的單詞來提高你的詞彙量。使用這個工具，並在一個有趣和有趣的方式增加你的知識。."
+         }
+       },{"@type": "Question",
+         "name": "如何使用此工具的高級選項？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "如果它與您正在玩的遊戲相關，請更改字典；否則，保持原樣。當您選擇「選項」按鈕時，將顯示這些選項。您可以使用「以開頭」、「結尾為」或「必須包括」選項來篩選結果。請注意使用此工具，否則不會給出任何有效的詞語。這個工具是簡單和易於使用的第一步是鍵入多達 15 個字母在下面的框中，然後按搜索並等待工具，使這些字母的單詞。我們甚至有一個先進的過濾器，你可以通過它找到一個具有給定長度或匹配特定模式的單詞。您可以隨時使用我們的單詞與字母工具，因為它是完全基於 Web 的。只需將我們網站的 URL 複製並粘貼到您的瀏覽器中，並根據需要使用它。"
+         }
+       },{"@type": "Question",
+         "name": "我是否需要任何安裝或註冊使用這個詞與字母工具.",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "字母單詞工具是一個先進的基於 Web 的工具。無需下載任何軟件或註冊此工具。它是安全和安全易於使用的工具。使用此應用程序不需要任何技術知識。它支持不同的瀏覽器，並且工作良好。"
+         }
+       },{"@type": "Question",
+         "name": "什麼單詞問題遊戲這個詞與字母工具有幫助?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "「這個工具對於單詞拼圖和單詞問題遊戲或在線文字遊戲非常有用。
+與朋友的話
+詞與字母工具使用字典，並找到所有有效的單詞從你的混亂的字母。這是有趣的發揮和提高你的單詞技能.
+拼字遊戲
+我們的字母單詞工具將幫助您找到以您需要前進的字母開頭的高分單詞。拼字遊戲類似於與朋友的話，
+文本扭曲
+文本扭曲是另一種類似於其他文字遊戲。只需在我們的單詞搜索欄中輸入字母，我們就會生成一個單詞列表供您使用。 
+還有其他的遊戲，如單詞之旅，每日混亂，字幕等等。這個工具對於所有單詞問題遊戲都很有幫助。」"
+         }
+       },{"@type": "Question",
+         "name": "它是如何作為文字遊戲助手工作的？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "你有沒有需要找到一個單詞拼圖指定字母的單詞？對於一些混亂的字母來説很簡單，但對於不規則的字母來説更加困難。通過閲讀或搜索我們數十萬個單詞的龐大單詞列表，你可以找到你的字母的單詞。隨着先進的過濾器修復字母和長度，你需要有樂趣和探索周圍，看看什麼新詞，你可以拿出。要使用此工具，您無需在計算機或移動設備上下載或安裝任何軟件。您可以隨時使用我們的單詞與字母工具，因為它是完全基於 Web 的。"
+         }
+       },{"@type": "Question",
+         "name": "字母工具的單詞有什麼用途？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "這個工具是偉大的尋找單詞棋盤遊戲和在線文字遊戲.只需輸入字母並設置高級選項，如果需要，我們的字母將顯示所有可能的單詞。字母的單詞是為了幫助解決字母類型的單詞拼圖，但它具有廣泛的應用範圍，包括在線文字遊戲，如拼字遊戲。帶字母的單詞不僅是拼字遊戲解算器，還可以為各種字母遊戲解碼字母，如與朋友的單詞，拼字遊戲等，它也開闢了一個想法，讓所有玩家都使用帶字母的單詞工具來幫助他們找到單詞，但他們必須使用才能找出在哪裏播放拼字遊戲板上的單詞和哪些字母保留。除此之外，如果定期使用這個工具，詞彙量可以改進。"
+         }
+       },{"@type": "Question",
+         "name": "我可以輸入多少個單詞？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "您最多可以輸入 15 個字母。"
+         }
+       },{"@type": "Question",
+         "name": "我可以找到帶有我選擇的字母的單詞嗎？ ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "您可以應用過濾器來獲取量身定製的單詞。"
+         }
+       },{"@type": "Question",
+         "name": "我可以找到 2 字母的單詞嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "你可以得到從 2 個字母到 15 個字母開始的單詞。"
+         }
+       },{"@type": "Question",
+         "name": "作弊表可用嗎？",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "是的，作弊表是可用的。"
+         }
+       }]
+    }
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><style>
+  .footer-container {
+    margin-top: 200px !important;
+  }
+
+  @media(max-width:768px) {
+
+    /* social icons style */
+    .social-icons {
+      position: relative !important;
+      width: 100% !important;
+      height: 0px;
+      display: flex;
+      top: 0;
+      font-size: 15px;
+      color: #fff;
+      flex-direction: row;
+      z-index: 0;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      background: transparent !important;
+      box-shadow: none !important;
+      line-height: 30px;
+    }
+
+    .social-icons a {
+      padding: 50px;
+      color: #000 !important;
+      font-size: 2rem !important;
+    }
+
+    .social-icon {
+      margin: 0 !important;
+      color: gray;
+    }
+
+    .social-icon:hover {
+      color: black;
+    }
+
+    .social-icons a {
+      padding: 10px;
+    }
+  }
+</style>
+
+<body>
+
+
+
+<!-- start commonPage as LandingPage -->
+
+<!-- header starts -->
+<!-- <header class="container" id="resultHeader"> -->
+<!-- navigation startss -->
+<nav class="result_navbar_section navbar-expand-lg navbar-dark" style="background-color: #fff;">
+    <a class="nav_menu_bar" href="/" title="" style="position: absolute; top:5px">
+        <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+    </a><span class="mobile_bars"><i style="top:0px" id="bars_style" class="bi bi-list bi-2x bars"></i></span>
+    <div id="open_list_bar"><div style="padding:2rem 0">
+            <a class="cat_bar_logo_link" href="/" title="">
+                <img class="cat_bar_img" src="/assets/images/wordswithletters-logo.png" alt="wordswithletters">
+                <span class="cat_title">Word with letters</span>
+            </a>
+            <div class="close_bar_btn">
+                <i class="bi bi-x"></i>
+            </div>
+        </div><div class="list-items-container">
+            <li class="list_cat_heading">單詞列表</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/word-game-generator-online">
+                文字遊戲生成器在線
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/wordle-solver">
+                工作求解器
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/make-words-with-these-letters">
+                用這些字母製作單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/word-generator-from-letters">
+                字母中的單詞生成器
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/words-spelled-with-these-letters">
+                以這些字母拼寫的單詞 
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/how-many-words-can-you-make-from-these-letters">
+                您可以用這些字母製作多少個單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/what-words-can-i-spell-with-these-letters-and-a-blank">
+                我可以用這些字母和一個空白拼寫什麼單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/words-with-these-letters-and-2-blanks">
+                帶有這些字母和 2 個空白的單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/words-with-these-letters-and-3-blanks">
+                帶有這些字母和 3 個空白的單詞
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">長度字</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/six-letter-words-with-these-letters">
+                帶有這些字母的六個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/five-letter-words-with-these-letters">
+                帶有這些字母的五個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/seven-letter-words-with-these-letters">
+                帶有這些字母的七個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/four-letter-words-with-these-letters">
+                四個字母的單詞與這些字母
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/three-letter-words-with-these-letters">
+                帶有這些字母的三個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/two-letter-words-with-these-letters">
+                帶有這些字母的兩個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/eight-letter-words-with-these-letters">
+                帶有這些字母的八個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/nine-letter-words-with-these-letters">
+                帶有這些字母的九個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/ten-letter-words-with-these-letters">
+                帶有這些字母的十個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/eleven-letter-words-with-these-letters">
+                帶有這些字母的十一個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/twelve-letter-words-with-these-letters">
+                帶有這些字母的十二個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/thirteen-letter-words-with-these-letters">
+                帶有這些字母的十三個字母的單詞
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">X 字母單詞與這些字母和一個空白</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/12-letter-words-with-these-letters-and-a-blank">
+                12 個帶有這些字母和一個空白的字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/11-letter-words-with-these-letters-and-a-blank">
+                11 個帶有這些字母和空白的字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/10-letter-words-with-these-letters-and-a-blank">
+                這些字母和一個空白的 10 個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/9-letter-words-with-these-letters-and-a-blank">
+                9 個字母單詞與這些字母和一個空白
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/8-letter-words-with-these-letters-and-a-blank">
+                帶有這些字母的 8 個字母單詞和一個空白
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/7-letter-words-with-these-letters-and-a-blank">
+                帶有這些字母的 7 個字母單詞和一個空白
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/6-letter-words-with-these-letters-and-a-blank">
+                這些字母和一個空白的 6 個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/5-letter-words-with-these-letters-and-a-blank">
+                5 個字母單詞與這些字母和一個空白
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/4-letter-words-with-these-letters-and-a-blank">
+                這些字母和一個空白的 4 個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/3-letter-words-with-these-letters-and-a-blank">
+                這些字母和一個空白的 3 個字母單詞
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/zh-TW/2-letter-words-with-these-letters-and-a-blank">
+                帶有這些字母的 2 個字母單詞和一個空白
+            </a>
+            <!-- </li> --></div></div><div class="container" id="containerWd">
+        <section class="result_sticky_nav">
+            <div class="pageHeading text-center">
+                <h1 class="result_heading m-0 pb-0">
+                    使用字母查找單詞</h1>
+            </div>
+            <div class="serachSection2">
+                <div class="position-relative serachBox mt-4">
+                    <form action="" id='form'>
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox resultPageTxtBox" value='' name="search"
+                            maxlength="15" value required autocomplete="off">
+                        <div class="letter-close-button-commonPage">
+                            <i class="ltr-cls-btn-commonPage bi bi-x-circle-fill"></i>
+                        </div>
+                        <input
+                            style="border-radius: ; background-color: #000;"
+                            type="submit" class="serachBtn resultPageSearchBtn" id="serach" value>
+                        <div class="dictonaryDropdown">
+                            <select class="form-select select_dropDown2 resultPageDropdown2" name="dictionary"
+                                aria-label="Default select example">
+                                <option selected value="Dictionary">Dictionary</option>
+                                <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                                <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                                <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                            </select>
+                        </div><div class="tab_link_wrapper" style="position: relative;">
+    <div id="tab-scroll" class="tab-scroll flex-row">
+        <input type="button" name="" id="prev" class="prev tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+        <div id="tab-container" class="search-container tab_container flex-row">
+
+        </div>
+        <input type="button" name="" id="next" class="next tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+    </div>
+</div><div class="wrapper_dropDown mt-3 d-flex justify-content-end" style="gap:10px;">
+                            <div class="Advancedbtn" style="position: relative;" onclick="myFunction()">
+                                <span class="filter_count" style="display: none;"></span>
+                                <input type="button" value="Advanced Filter" class="filterButton">
+                                <div class="angle-arrow"></div>
+                            </div>
+                            <div id="sort-select">
+                                <select class="form-select sort-select" id="select_dropDown">
+                                    <option selected="true" hidden id="alpha" value="alpha">Sort by</option>
+                                    <option id="alpha" value="alpha">A-Z</option>
+                                    <option id="alpha" value="alpha">Z-A</option>
+                                    <option id="alpha" value="alpha">Points</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="fillterWrapper hide">
+                            <div class="text-right times" style="cursor: pointer; margin-top:-15px;">
+                                <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                            </div>
+                            <div class="startsWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that starts with these letters" for="startsWith">Starts
+                                    With</label>
+                                <input type="text" class="filter_val" id="startsWith" placeholder="Prefix" value=""
+                                    name="prefix">
+                            </div>
+                            <div class="mustInclude same">
+                                <label for="mustInclude" data-toggle="tooltip" data-placement="top"
+                                    title=" Words that contain letters in this order(ab)">Must Contains </label>
+                                <input type="text" class="filter_val" id="mustInclude" placeholder="Contains"
+                                    name="contains" value="">
+                            </div>
+                            <div class="endsWith same">
+                                <label for="endsWith" data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that ends with these letters">End With</label>
+                                <input type="text" class="filter_val" id="endsWith" placeholder="Suffix" name="suffix"
+                                    value="">
+                            </div>
+                            <div class="exculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that not contain the letters you enter here"
+                                    for="exculdeWith">Exculde</label>
+                                <br>
+                                <input type="text" class="filter_val" id="exculdeWith" placeholder="Exculde" value=""
+                                    name="exculde">
+                            </div>
+                            <div class="inculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that contain the letters you enter here"
+                                    for="inculdeWith">Include</label>
+                                <br>
+                                <input type="text" class="filter_val" id="inculdeWith" placeholder="Include" value=""
+                                    name="include">
+                            </div>
+                            <div class="wordLength same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words with this length" for="wordLength">Word Length </label>
+                                <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                    value="">
+                            </div>
+
+                            <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                                <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                    style="background-color:#808080;">
+                                <input id="applyBtn" type="submit" value="Apply" class="btn-info  text-white"
+                                    style="background: #808080">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</nav>
+<!-- </header> -->
+<div class="container" id="containerWd"><div class="row pad">
+    <div class="col-md-12">
+        <div class="filters d-flex justify-content-between align-items-center">
+            <div class="wordCount"></div>
+
+            <div class="filterSortedIcons">
+                <div class="filter-icon" onclick="myFunction()" data-toggle="tooltip" data-placement="top"
+                    title="Filter">
+                    <i class="bi bi-filter"></i>
+                </div>
+                <div class="sortup-icon" data-toggle="tooltip" data-placement="top" title="Sort">
+                    <i class="bi bi-sort-up"></i>
+                </div>
+            </div>
+        </div><div class="main"></div><div class="errorMsg"></div>
+    </div>
+</div>
+</div>
+<!-- navbar close -->
+<!-- header close -->
+
+
+<!-- close commonPage as LandingPage -->
+<link rel="stylesheet" href="/assets/css/advancedFilter.css">
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        inculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    function myFunction() {
+        fillterWrapper.classList.toggle('hide')
+    }
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+        fillterWrapper.classList.add('hide')
+    })
+
+</script>
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/zh-tw/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/zh-tw/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/zh-tw/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">工具</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/word-game-generator-online">文字遊戲生成器在線</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/wordle-solver">工作求解器</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/make-words-with-these-letters">用這些字母製作單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/word-generator-from-letters">來自字母的單詞生成器</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/words-spelled-with-these-letters">以這些字母拼寫的單詞 </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/what-words-can-i-spell-with-these-letters-and-a-blank">我可以用這些字母和一個空白拼寫什麼單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/words-with-these-letters-and-2-blanks">帶有這些字母和 2 個空白的單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/words-with-these-letters-and-3-blanks">帶有這些字母和 3 個空白的單詞</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">長度字</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/six-letter-words-with-these-letters">帶有這些字母的六個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/five-letter-words-with-these-letters">帶有這些字母的五個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/seven-letter-words-with-these-letters">帶有這些字母的七個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/four-letter-words-with-these-letters">四個字母的單詞與這些字母</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/three-letter-words-with-these-letters">帶有這些字母的三個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/two-letter-words-with-these-letters">帶有這些字母的兩個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/eight-letter-words-with-these-letters">帶有這些字母的八個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/nine-letter-words-with-these-letters">帶有這些字母的九個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/ten-letter-words-with-these-letters">帶有這些字母的十個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/eleven-letter-words-with-these-letters">帶有這些字母的十一個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/twelve-letter-words-with-these-letters">帶有這些字母的十二個字母單詞</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/zh-TW/thirteen-letter-words-with-these-letters">帶有這些字母的十三個字母的單詞</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">資源</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">公司</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">條款及細則</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">隱私權政策</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">棄權書</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><div></div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script defer src="/assets/js/leftNav.js"></script><script defer data-url="http://localhost:4000" data-range="" src="/assets/js/wordScrabble-test.js
+  "></script></body>
+
+</html>

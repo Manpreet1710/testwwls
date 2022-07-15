@@ -1,0 +1,50 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "title": "これらの文字で綴られた単語",
+    "h1": "これらの文字で綴られた単語",
+    "h2": "文字を入力して、これらの文字で綴られている単語の数を確認してください",
+    "meta": "文字で綴られた単語がわかりにくい場合は、無料のツールを使用してください！",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "紛らわしい文字で綴られた単語を検索する",
+            "feature_text": "単語ゲームをしているときに「この文字でどんな単語の綴りができる？」とよく思い浮かべますか？次に、あなたは正しいサイトにいます。 ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "わかりやすく、直感的でユーザーフレンドリーなワードファインダー",
+            "feature_text": "ボードに文字を入力するだけで、その文字で綴られたさまざまな単語が表示されます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "一言で言えば、これらの文字で綴られた単語のすべてのルール",
+            "feature_text": "スクラブルワードゲームを初めてプレイする場合は、これらのルールセットが便利です。シンプルで直感的！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "最大15文字まで入力してください！",
+            "feature_text": "十五文字！英語辞書で一番長い単語を出すのに十分。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "多数の辞書をサポートしています",
+            "feature_text": "最良の結果を得るための幅広い辞書。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "どのデバイスでも使用できます",
+            "feature_text": "ノートパソコン、タブ、Android、iPhoneのいずれを使用する場合でも、モバイルフレンドリーな友達との単語スクランブラーソルバーはどこからでもあなたの目的を果たすことができます",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

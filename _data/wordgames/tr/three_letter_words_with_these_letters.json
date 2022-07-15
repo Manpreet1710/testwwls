@@ -1,0 +1,156 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "eighty",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "paper",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "gopher",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "whole",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "survey",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "likely",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "garage",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "normal",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "event",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "words with friends"
+            },
+            {
+                "word": "vanilla",
+                "x": "3",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "car",
+                "x": "3",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 3 harfli kelime bul - WordsWithLetters.org",
+    "h1": "Bu harflerle üç harfli kelime bulun",
+    "h2": "Bulmak için aşağıya harfleri girin 3 harfli kelimeler",
+    "meta": "Hala bu harflerle kaç tane üç harfli kelime yapabileceğinizi düşünüyorum? Bu harflerle 3 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle üç harfli kelime oluştur",
+            "feature_text": "Genellikle bu mektup üç kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu üç harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle üç harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, Üç harfli kelimeleri bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Üç harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "Üç harfli kelime bulucu, üç harfli kelimeyi de bulmanızı sağlar 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyen en zor üç harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz üç harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı üç harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

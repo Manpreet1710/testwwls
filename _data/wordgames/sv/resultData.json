@@ -1,0 +1,13 @@
+{
+    "title": "Lös wordle enkelt i minsta gissningar",
+    "h1": "Lös dagens wordle genom att skriva in bokstäver som hittills använts",
+    "h2": "Skriver in bokstäver i grått, gult och grönt för att se potentiella ord",
+    "meta": "Inmatningsbokstäver i grått, gult och grönt, och få en lista över matchande 5 bokstavsord för att lösa dagens wordle i mimimum-försök, och imponera på dina vänner",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

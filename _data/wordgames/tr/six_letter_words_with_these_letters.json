@@ -1,0 +1,126 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": " mileage",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " mileage",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " prevent",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " prevent",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " average",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "average",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " traffic",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " traffic",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "meaning",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "meaning",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": " ottoman",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": " ottoman",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "emerged",
+                "x": "6",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "emerged",
+                "x": "6",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "python",
+                "x": "6",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "design",
+                "x": "6",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 6 harfli kelime bul - WordsWithLetters.org",
+    "h1": "Bu harflerle 6 harfli kelime bul",
+    "h2": "Altı harfli kelimeleri bulmak için aşağıya harfleri girin",
+    "meta": "Hala bu harflerle kaç tane altı harfli kelime yapabileceğini düşünüyorum? Bu harflerle 6 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle altı harfli kelime oluştur",
+            "feature_text": "Genellikle bu altı harf kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu altı harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle altı harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz, Altı harfli kelime bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Altı harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "Altı harfli kelime bulucu, altı harfli kelimeyi bulmanızı sağlar. 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyeceğin en zor altı harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz altı harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı altı harfli kelime havuzuna sahip olun.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

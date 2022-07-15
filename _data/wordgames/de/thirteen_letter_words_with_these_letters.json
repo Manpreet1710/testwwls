@@ -1,0 +1,56 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde Wörter mit 13 Buchstaben mit diesen Buchstaben - WordsWithLetters.org",
+    "h1": "Finde 13 Buchstaben-Wörter mit diesen Buchstaben",
+    "h2": "Gib unten Buchstaben ein, um Wörter mit 13 Buchstaben zu finden",
+    "meta": "Denken Sie immer noch daran, wie viele Wörter mit dreizehn Buchstaben Sie mit diesen Buchstaben machen können? Verwenden Sie unser Tool, um Wörter mit 13 Buchstaben mit diesen Buchstaben zu finden",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Bringen Sie einen Wendepunkt in Ihr Spiel. Generieren Sie Dreizehn Buchstabenwörter mit diesen Buchstaben",
+            "feature_text": "Oft findet dieser Buchstabe dreizehn seinen Weg in Wortspielen. Aber die Hauptsache ist, dass diese dreizehn Wörter mit dreizehn Buchstaben manchmal eine hohe Punktzahl erzielen können. Sie können jedoch Ihre Rettung unter mit unserem Wortfinder finden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generieren Sie Dreizehn Buchstabenwörter mit diesen Buchstaben",
+            "feature_text": "Mit unserem kostenlosen Wordfinder können Sie Wörter mit dreizehn Buchstaben finden und Ihr Spiel gewinnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Finde ein beliebiges nummeriertes Wort mit dem Buchstaben Dreizehn",
+            "feature_text": "Mit der Wortsuche mit dreizehn Buchstaben können Sie alle dreizehn Wörter mit bis zu 15 Zeichen finden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Erzeugt selbst die härtesten dreizehn Wörter mit Buchstaben, an die Sie nicht einmal denken können.",
+            "feature_text": "Mit unserem kostenlosen Wortgenerator mit dreizehn Buchstaben erhalten Sie in Sekunden einen Pool von dreizehn Wörtern mit hoher Punktzahl.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,106 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payments",
+                "x": "8",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolute",
+                "x": "8",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Bu harflerle 8 harfli kelimeleri bul - WordsWithLetters.org",
+    "h1": "Bu harflerle sekiz harfli kelime bul",
+    "h2": "Bu harflerle 8 harfli kelimeleri bulmak için aşağıya harfleri girin",
+    "meta": "Hala bu harflerle kaç tane sekiz harfli kelime yapabileceğini düşünüyorum? Bu harflerle 8 harfli kelime bulmak için aracımızı kullanın",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Oyununuza bir dönüm noktası getirin. Bu harflerle sekiz harfli kelime oluştur",
+            "feature_text": "Genellikle bu sekiz harf kelime oyunlarında yolunu bulur. Ancak asıl mesele, bu sekiz harfli kelimenin bazen yüksek puanlı olabilmesidir. Ancak kurtarmanızı kelime bulucumuzla bulabilirsiniz..",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bu harflerle sekiz harfli kelime oluştur",
+            "feature_text": "Ücretsiz kelime bulucumuz Sekiz harfli kelime bulmanızı ve oyununuzu kazanmanıza yardımcı olmanızı sağlar",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "İçinde Sekiz harfi olan herhangi bir numaralı kelimeyi bulun",
+            "feature_text": "Sekiz harfli kelime bulucu, sekiz harfli kelimeyi bulmanızı sağlar. 15 karakterler.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Aklıma bile gelemeyeceğiniz en zor sekiz harfli kelimeyi bile üretir.",
+            "feature_text": "Ücretsiz sekiz harfli kelime oluşturucumuzla saniyeler içinde yüksek puanlı sekiz harfli kelimeden oluşan bir havuz edinin.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,54 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Łatwo rozwiązuj Wordle przy minimalnych domysłach",
+    "h1": "Rozwiąż dzisiejsze Wordle, wprowadzając dotychczas używane litery",
+    "h2": "Wpisuje litery w kolorze szarym, żółtym i zielonym, aby zobaczyć potencjalne słowa",
+    "meta": "Wprowadź litery w kolorze szarym, żółtym i zielonym, i uzyskaj listę pasujących 5 słowa literowe, aby rozwiązać dzisiejsze słowo w mimimum prób, i zaimponuj znajomym",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Prosty w użyciu",
+            "feature_text": "Wordle Solver jest naprawdę prosty w użyciu. Wystarczy wpisać zielone litery w pierwszym polu, żółtą w drugim rzędzie, a szare w ostatnim rzędzie. Kliknij aktualizację, aby zobaczyć wszystkie możliwe słowa, które można wykonać z wprowadzonych liter.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "natychmiastowe rezultaty",
+            "feature_text": "Wyniki są wyświetlane zaraz po wpisaniu liter i kliknięciu aktualizacji. Nie musisz czekać na generowanie wyników.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Platforma krzyżowa",
+            "feature_text": "Nasza strona internetowa jest niezależna od platformy. Działa zarówno w systemach operacyjnych Windows, jak i iOS i może być używany bez konieczności pobierania.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wiele odpowiedzi",
+            "feature_text": "Wordle Solver daje wszystkie możliwe słowa, które można wykonać za pomocą liter wprowadzonych przez Ciebie. Możliwości są nieograniczone. Zgaduj i wprowadź litery w naszym Wordle Solver. Otrzymasz wszystkie możliwe słowa i sprawić, że wygrasz grę przy minimalnych próbach.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bezpieczne i bezpieczne",
+            "feature_text": "Nasza strona internetowa stawia na prywatność i bezpieczeństwo swoich klientów. Witryna jest wolna od wirusów i nie prosi o żadne identyfikatory ani rejestracje. Twoje dane są u nas bezpieczne!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Całkowicie za darmo",
+            "feature_text": "Wyprzedzaj tłum, rozwiązując sformułowanie każdego dnia. Podziel się wynikami ze znajomymi i rodziną i zostań mistrzem Wordle dzięki naszemu rozwiązaniu Wordle. Możesz korzystać z naszej strony internetowej tyle razy, ile chcesz i nie zostaniesz obciążony opłatą za korzystanie z naszych usług.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

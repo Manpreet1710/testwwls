@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Daftar Kata",
+                "links": [
+                    {
+                        "name": "Firman Permainan Generator Online",
+                        "url": "/id/word-game-generator-online"
+                    },
+                    {
+                        "name": "Wordle Solver",
+                        "url": "/id/wordle-solver"
+                    },
+                    {
+                        "name": "Buat Kata-kata Dengan Surat-Surat Ini",
+                        "url": "/id/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Firman Generator Dari Surat",
+                        "url": "/id/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Kata-kata dieja dengan huruf-huruf ini ",
+                        "url": "/id/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Berapa banyak kata yang dapat Anda buat dari huruf-huruf ini",
+                        "url": "/id/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Kata-kata apa yang bisa saya eja dengan huruf-huruf ini dan kosong",
+                        "url": "/id/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Kata-kata dengan huruf-huruf ini dan 2 kosong",
+                        "url": "/id/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Kata-kata dengan huruf-huruf ini dan 3 kosong",
+                        "url": "/id/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Kata-kata panjang",
+                "links": [
+                    {
+                        "name": "Enam huruf kata dengan huruf-huruf ini",
+                        "url": "/id/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Lima kata huruf dengan huruf-huruf ini",
+                        "url": "/id/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tujuh kata huruf dengan huruf-huruf ini",
+                        "url": "/id/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Empat kata huruf dengan huruf-huruf ini",
+                        "url": "/id/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tiga kata huruf dengan huruf-huruf ini",
+                        "url": "/id/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dua kata huruf dengan huruf-huruf ini",
+                        "url": "/id/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Delapan kata huruf dengan huruf-huruf ini",
+                        "url": "/id/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Sembilan kata huruf dengan huruf-huruf ini",
+                        "url": "/id/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Sepuluh kata huruf dengan huruf-huruf ini",
+                        "url": "/id/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Sebelas kata huruf dengan huruf-huruf ini",
+                        "url": "/id/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Dua belas kata huruf dengan huruf-huruf ini",
+                        "url": "/id/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Tiga belas kata huruf dengan huruf-huruf ini",
+                        "url": "/id/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Kata huruf X dengan huruf-huruf ini dan kosong",
+                "links": [
+                    {
+                        "name": "12 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "5 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "3 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "2 kata huruf dengan huruf-huruf ini dan kosong",
+                        "url": "/id/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

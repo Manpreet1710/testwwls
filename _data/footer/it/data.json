@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "L'azienda",
+    "networksitestitle": "RISORSE",
+    "linksTitle": "Utensili",
+    "producttitle": "Parole di lunghezza",
+    "company": [
+        {
+            "name": "Termini e condizioni",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Informativa sulla privacy",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "Esclusione di responsabilità",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Parole di sei lettere con queste lettere",
+            "url": "/it/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di cinque lettere con queste lettere",
+            "url": "/it/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di sette lettere con queste lettere",
+            "url": "/it/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di quattro lettere con queste lettere",
+            "url": "/it/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di tre lettere con queste lettere",
+            "url": "/it/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di due lettere con queste lettere",
+            "url": "/it/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di otto lettere con queste lettere",
+            "url": "/it/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di nove lettere con queste lettere",
+            "url": "/it/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di dieci lettere con queste lettere",
+            "url": "/it/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di undici lettere con queste lettere",
+            "url": "/it/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Parole di dodici lettere con queste lettere",
+            "url": "/it/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tredici parole di lettere con queste lettere",
+            "url": "/it/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Generatore di giochi di parole online",
+            "url": "/it/word-game-generator-online"
+        },
+        {
+            "name": "Risolutore mondiale",
+            "url": "/it/wordle-solver"
+        },
+        {
+            "name": "Crea parole con queste lettere",
+            "url": "/it/make-words-with-these-letters"
+        },
+        {
+            "name": "Generatore di parole da lettere",
+            "url": "/it/word-generator-from-letters"
+        },
+        {
+            "name": "Parole scritte con queste lettere ",
+            "url": "/it/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Quali parole posso scrivere con queste lettere e uno spazio vuoto",
+            "url": "/it/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Parole con queste lettere e 2 spazi vuoti",
+            "url": "/it/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Parole con queste lettere e 3 spazi vuoti",
+            "url": "/it/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linkden"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "twitter"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

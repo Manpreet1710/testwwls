@@ -1,0 +1,45 @@
+{
+    "Language": "Português",
+    "htmlLangAtt": "pt",
+    "title": "O que posso soletrar com essas letras e um espaço em branco - Palavras com letras",
+    "h1": "Palavras com essas letras e um espaço em branco",
+    "h2": "Digite as letras abaixo e verifique quantas podem ser escritas com um espaço em branco",
+    "meta": "Você tem 1 título em branco e está se perguntando como soletrar? Não se preocupe, nós temos tudo para você. Encontre todas as combinações possíveis de palavras que podem ser escritas com 1 bloco em branco com palavras com letras facilmente.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Absolutamente grátis!",
+            "feature_text": "Nossa plataforma é totalmente gratuita. Não temos absolutamente nenhum anúncio em nosso site, o que permite que você se concentre no que você veio aqui.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrar e classificar facilmente",
+            "feature_text": "Você pode facilmente classificar e filtrar os resultados conforme sua conveniência. Esse recurso é muito fácil de usar e ajudará você a obter o resultado desejado quase instantaneamente.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Digite até 15 letras",
+            "feature_text": "Você pode inserir até 15 letras (incluindo o espaço em branco) no espaço fornecido para encontrar o máximo de palavras que podem ser formadas com as letras inseridas.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Gera o melhor resultado",
+            "feature_text": "Palavras com letras geram os melhores resultados, as palavras com maior pontuação em um jogo de Scrabble. Sua vitória é garantida.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Fácil de usar",
+            "feature_text": "Palavras com essas letras e um espaço em branco são realmente simples de usar e todas as palavras de qualquer tamanho que podem ser formadas com as letras inseridas são exibidas no resultado.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

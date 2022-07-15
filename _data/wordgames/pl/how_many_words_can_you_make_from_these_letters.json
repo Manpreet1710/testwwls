@@ -1,0 +1,346 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Ile słów możesz zrobić za pomocą tych liter?",
+    "h1": "Ile słów możesz zrobić za pomocą tych liter?",
+    "h2": "Wpisz litery poniżej i dowiedz się, ile słów można utworzyć za pomocą tych liter",
+    "meta": "Nadal myślisz o tym, ile słów możesz zrobić tymi literami? Użyj naszych słów z narzędziem liter teraz!",
+    "featureNo": "02",
+    "feature_title": "Cechy",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "O",
+    "featureList": [
+        {
+            "feature_heading": "Ile słów możesz zrobić z literami?",
+            "feature_text": "Nie przejmuj się, ile słów możesz zrobić literami. Masz zamiar zgubić tak wiele słów, które pomogą Ci zdobyć więcej i... zwiększyć swój vocab też!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nadal zastanawiasz się, ile słów możesz zrobić tymi rzadkimi literami?",
+            "feature_text": "Nasz darmowy arkusz do ściągania jest najszybszym lekarstwem podczas naszej gry.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Rozszyfrowanie grabie—oong słów nie jest teraz trudnym zadaniem!",
+            "feature_text": "Można pomyśleć przez chwilę, że rozszyfrować 15 literowe słowo! Ale nasz wyszukiwarka słów może ci pomóc w grze.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nowe aktualizacje do podświetlenia",
+            "feature_text": "Każda nowa funkcja związana z grą w scrabble zostanie podświetlona bezpośrednio na naszej stronie głównej, dzięki czemu można z nich korzystać!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Co robi narzędzie Ile słów można zrobić za pomocą tych liter?",
+            "Answer": "Nasze narzędzie Ile słów można zrobić z tymi literami automatycznie generuje znaczące słowa z liter, które wchodzą nasz użytkownik i zlicza liczbę słów wygenerowanych z tych liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak korzystać z narzędzia Ile słów można zrobić za pomocą tych liter?",
+            "Answer": "Korzystanie z naszego narzędzia Ile słów można zrobić z tych liter jest bardzo proste. Wszystko, co musisz zrobić, to wpisać litery, z których chcesz wytworzyć słowa. Możesz wpisywać maksymalnie 15 liter naraz. Następnie wybierz typ słownika, którego chcesz użyć do generowania słów- dostępne opcje to Słownik, TWL06 (USA, Kanada, Tajlandia), SOWPODS (Wielka Brytania i inne) oraz Włącz (Słowa z przyjaciółmi). Następnie można włączyć opcję Filtry zaawansowane. Następnie kliknij przycisk wyszukiwania, który jest szkłem powiększającym. I voila! Nasze narzędzie wygeneruje dla Ciebie maksymalną możliwą liczbę słów z wprowadzonych liter, a także zlicza liczbę słów wygenerowanych z tych liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile liter mogę wprowadzić, aby narzędzie do wytworzenia i zliczania słów z liter?",
+            "Answer": "Możesz wprowadzić maksymalnie 15 liter w naszym narzędziu, aby tworzyć i liczyć słowa z liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy muszę płacić za korzystanie z tego narzędzia?",
+            "Answer": "Nie, nasze narzędzie jest całkowicie bezpłatne w użyciu. Nie musisz nam płacić za korzystanie z narzędzia.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Dlaczego muszę generować i liczyć całkowitą liczbę słów?",
+            "Answer": "Jeśli grasz w konkurencyjne gry słowne, takie jak Wordle czy Scrabble, może być konieczne wygenerowanie słów. Być może trzeba też rozszyfrować słowa, a nasze narzędzie pomoże ci w tym. Może być również konieczne poznanie liczby słów, które można zrobić za pomocą niektórych konkretnych liter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy to narzędzie może pomóc w grach słownych, takich jak Wordle i Scrabble?",
+            "Answer": "Tak, absolutnie. Jeśli potrzebujesz pomocy podczas grania w gry słowne, takie jak Scrabble i Wordle, nasze narzędzie Ile słów można zrobić z tymi literami jest sposób, aby przejść.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę rozwiązać pomieszane słowa za pomocą tego narzędzia?",
+            "Answer": "Oczywiście. Nasze narzędzie pomoże Ci łatwo rozwiązać pomieszane słowa. Wszystko, co musisz zrobić, to wpisać litery w pomieszane słowo, określić długość słowa, którą pragniesz, a nasze narzędzie da Ci wszystkie możliwe słowa. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jakie są różne opcje słownika dostępne?",
+            "Answer": "W tym narzędziu możesz wybrać typ słownika, którego chcesz użyć do generowania słów — dostępne opcje to Słownik, TWL06 (USA, Kanada, Tajlandia), SOWPODS (Wielka Brytania i inne) i Włącz (Słowa ze znajomymi).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak mogę korzystać z zaawansowanych filtrów?",
+            "Answer": "Zaawansowane filtry w naszym narzędziu zawiera opcję, aby określić, które litery muszą zaczynać się lub kończyć wynikami, które litery muszą zawierać słowa, które litery chcesz wykluczyć narzędzie i jaka jest pożądana długość słowa. Wszystko, co musisz zrobić, to wystarczy kliknąć na przycisk zaawansowanych filtrów i wprowadzić dane, jak chcesz.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić długość słowa?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić liczbę liter, których potrzebujesz słowa.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę wykluczyć niektóre znaki?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić litery, których nie chcesz mieć słów.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić obowiązkowe znaki?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić litery, które na pewno chcesz mieć słowa.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy mogę określić, którą literę mają się zaczynać lub kończyć wyrazy?",
+            "Answer": "Tak, możesz użyć sekcji Zaawansowane filtry naszego narzędzia, aby określić, które litery mają się zaczynać i kończyć słowami.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy można bezpiecznie używać narzędzia Ile słów można zrobić za pomocą tych liter?",
+            "Answer": "Nasze narzędzie Ile słów można zrobić za pomocą tych liter jest jednym z najbezpieczniejszych i najbezpieczniejszych darmowych narzędzi online. Nie ma żadnych szkodliwych linków ani niechcianych reklam. Jest absolutnie bezproblemowy i doskonale wykonuje swoją pracę. W tym samym czasie nie zapisuje żadnych danych użytkownika. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Czy podczas korzystania z tego narzędzia pojawią się reklamy?",
+            "Answer": "Ponieważ utrzymujemy naszą stronę całkowicie za darmo w użyciu, reklamy są tym, co pomaga nam w utrzymaniu strony internetowej. tak, zobaczysz kilka reklam pojawiających się podczas korzystania z naszej strony. Ale możemy zagwarantować, że nie pogorszy to jakości wyników ani czasu.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Nasz darmowy online Jak wiele słów można zrobić z tymi literami narzędzie nie zapisuje żadnych danych użytkownika. Jest całkowicie bezpieczny w użyciu. Każda rzecz, którą użytkownik może przesłać na naszą stronę, zostanie usunięta z naszej chmury w bardzo krótkim czasie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Czy to narzędzie zapisze moje dane na serwerze?"
+        },
+        {
+            "Question": "Ile czasu potrzeba, aby słowa literami i policzyć całkowitą liczbę utworzonych słów?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "To trwa zaledwie kilka sekund, aby nasz wolny Ile słów można zrobić z tymi literami, aby wykonać swoją pracę. Szybko tworzy słowa z określonych liter i zlicza liczbę. Wyniki są szybkie i w 100% dokładne."
+        },
+        {
+            "Answer": "Rejestracja lub logowanie nie jest wymagane na naszej stronie internetowej. Możesz skorzystać z naszej online Ile słów można zrobić z tymi literami za darmo i bez żadnych monitów o rejestrację.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Czy będę musiał się zarejestrować lub zalogować, aby użyć tego narzędzia Ile słów można zrobić za pomocą tych liter?"
+        },
+        {
+            "Question": "Czy Ile słów można zrobić za pomocą tych listów działa na telefony komórkowe?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Tak. Nasza darmowa funkcja Ile słów można zrobić z tymi literami działa na wszystkich platformach. Dostęp do niego można uzyskać z telefonów komórkowych. Wystarczy wpisać litery, które chcesz w swoich słowach, z telefonu, a nasze narzędzie wykona zadanie za Ciebie."
+        },
+        {
+            "Answer": "Tak, nasze narzędzie Ile słów można zrobić za pomocą tych liter i wszystkie inne narzędzia obsługują zarówno platformy Android, jak i iOS.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Czy obsługuje zarówno platformy Android, jak i iOS?"
+        },
+        {
+            "Question": "Czy Ile słów można zrobić z tymi literami działa na komputerach i laptopach?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Tak. Nasza online Ile słów można zrobić z tych listów jest akceptowana na wszystkich platformach. Można użyć tego darmowego narzędzia na swojej stronie z komputera i laptopa, jak również. Obsługuje zarówno Windows, jak i Mac. Wszystko, co musisz zrobić, to wpisać do 15 liter, określić typ słownika, w razie potrzeby dodać zaawansowane filtry i to wszystko. Słowa zostaną wygenerowane z tych liter dokładnie zgodnie z twoimi instrukcjami."
+        },
+        {
+            "Answer": "Nasza funkcja Ile słów można zrobić z tych liter jest całkowicie oparta na Internecie. Z tego powodu zapewnia naszym użytkownikom wsparcie międzyplatformowe. Oznacza to, że nasze narzędzie obsługuje wszystkie wersje systemu Windows. Ogólnie rzecz biorąc, obsługuje wszystkie wersje wszystkich systemów operacyjnych.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Które wersje systemu Windows obsługuje narzędzie Ile słów można zrobić za pomocą tych liter?"
+        },
+        {
+            "Question": "Ile dwuliterowych słów może zrobić prawdę?",
+            "Answer": "Możemy zrobić w sumie 2 słowa, które mają 2 litery w nim i słowa są uh i ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak zrobić słowo z tych liter KSIĄŻKI?",
+            "Answer": "Aby wszystkie możliwe kombinacje słów z literami KSIĄŻKI, będziemy musieli wybrać i połączyć te litery, które spowodują znaczące słowo. Znaczące słowo to słowo, które jest dostępne w standardowym słowniku. Jeśli chcesz wykonać tę samą operację online, po prostu wpisz swój list na naszej stronie kliknij Enter, a otrzymasz wszystkie możliwe wyniki. W tym przypadku z literami KSIĄŻKI możemy utworzyć łącznie 16 słów, które są następujące książki, kobos, książka, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, tak",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak zrobić słowo z tych liter LABLE?",
+            "Answer": "Aby wykonać wszystkie możliwe kombinacje słów z literami LABLE, będziemy musieli wybrać i połączyć te litery, które spowodują znaczące słowo. Znaczące słowo to słowo, które jest dostępne w standardowym słowniku. Jeśli chcesz wykonać tę samą operację online, po prostu wpisz swój list na naszej stronie kliknij Enter, a otrzymasz wszystkie możliwe wyniki. W tym przypadku z literami LABLE możemy utworzyć łącznie 22 słowa, które są następujące etykiety, stanie, bela, piłka, dzwon, blae, leal, alb, ale, wszystko, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów 7 literowych może tworzyć te litery GENERATOR?",
+            "Answer": "W sumie 18 siedem słów literowych mogą być tworzone za pomocą generatora litery i słowa są następujące garrote, grantee, granter, grantor, greaten, większy, jęk, negater, negator, odczynnik, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów można zrobić z tych liter LAPTOP?",
+            "Answer": "Całkowita liczba słów, które mogą być utworzone za pomocą liter LAPTOP jest 37, a słowa są następujące laptop, alto, atop, lota, opal, palp, plat, plop, działka, tola, alp, alt, app, apt, lap, lat, lop, lot, opt, pal, pap, pat, pol, pop, pot, tao, tap, top, al, w, la, lo, op, pa, TA, do",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów można zrobić z tych liter EMAILID?",
+            "Answer": "Łączna liczba słów, które mogą być utworzone za pomocą liter EMAILID jest 94, a słowa są następujące wysłane pocztą elektroniczną, medial, miladi, Aid, Email, idealny, iliad, imide, lamed, wapnione, maile, medal, media, medii, milia, aide, alme, pośród, amie, dale, Dame, deal, deil, deli, deli, dial, diel, dime, idem, bezczynny, Ilea, Ilia, Imid, lade, położył, lame, prowadzić, kłamał, Lima, wapno, wykonane, pokojówka, poczta, mężczyzna, miód pitny, posiłek, meld, midi, łagodny, mile, pomoc, ail, cel, ale, ami, dal, dam, del, die, dim, eld, wiązu, lad, lam, lea, led, lei, pokrywa, mad, Mae, med, Mel, połowy, mil, ad, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, mnie, mi, Mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów możesz zrobić ze wszystkimi 26 literami alfabetu?",
+            "Answer": "Liczba jest dość ogromna i można go znaleźć, rozwiązując ten prosty problem matematyki, który jest n! (n silni) gdzie n będzie całkowita liczba alfabetów, więc odpowiedź będzie 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile 6 literowych słów może zrobić te litery KITCHEN?",
+            "Answer": "Łączna liczba 6 literowych słów, które mogą być utworzone za pomocą liter KUCHNIA to tylko 1, a słowo jest etniczne.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile 6 literowych słów może tworzyć te litery TROPICAL?",
+            "Answer": "Całkowita liczba 6 liter, które mogą być utworzone przez słowo TROPICAL wynosi 17, a słowa są następujące aorty, atopowe, Captor, Caroli, karton, citola, cytral, coital, lictor, lorica, patrol, picaro, portal, rialto, rictal, krawiec, tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak zrobić słowa z tych liter DREAM?",
+            "Answer": "Aby słowa z tymi literami DREAM, wszystko, co musisz zrobić, to podnieść alfabety, które w połączeniu mogą tworzyć znaczące słowo. Znaczące słowo to słowo, które można znaleźć w standardowym słowniku. Możesz używać tylko słów, które są dostępne w słowie. Jeśli się spieszysz i szukasz znaleźć wszystkie możliwe słowa z najwyższym poziomem dokładności. Możesz skorzystać z naszego narzędzia. Wszystko, co musisz zrobić to otworzyć przeglądarkę, wpisać naszą stronę internetową wordswithletters.org i wpisać wszystkie litery, z których chcesz tworzyć słowa. Po kliknięciu Enter otrzymasz wyniki. W tym przypadku ze słowem DREAM możemy zrobić 39 słów, które są następujące uzbrojone, derma, sen, madre, dame, dare, kochanie, derm, dram, wykonane, klacz, miód pitny, czytać, ryza, są, ramię, tama, ucho, era, mad, mae, mar, med, rad, ram, czerwony, rem, ad, ae, am, ar, da, de, ed, em,, MA, ja, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Jak zrobić słowa z tych liter JUMMORROW?",
+            "Answer": "Aby tworzyć słowa z tymi literami TOMMORROW, wszystko, co musisz zrobić, to podnieść alfabety, które w połączeniu mogą tworzyć znaczące słowo. Znaczące słowo to słowo, które można znaleźć w standardowym słowniku. Możesz używać tylko słów, które są dostępne w słowie. Jeśli się spieszysz i szukasz znaleźć wszystkie możliwe słowa z najwyższym poziomem dokładności. Możesz skorzystać z naszego narzędzia. Wszystko, co musisz zrobić to otworzyć przeglądarkę, wpisać naszą stronę internetową wordswithletters.org i wpisać wszystkie litery, z których chcesz tworzyć słowa. Po kliknięciu Enter otrzymasz wyniki. W tym przypadku ze słowem TOMMORROW możemy zrobić 44 słowa, które są następujące moorwort, jutro, romroot, rano, morro, silnik, wirnik, wrzosowiska, moot, mort, pokój, korzeń, rort, roto, toom, torr, torr, trow, robak, brzeczka, mama, moo, mor, mot, kosz, oot, ort, rom, zgnilizna, rząd, Tom, zbyt, Tor, holownik, dwa, woo, wot, mm, mo, om, lub , ow, do, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów można zrobić za pomocą tych liter APPLE?",
+            "Answer": "Możemy zrobić w sumie 24 litery za pomocą słowa APPLE. Słowa są następujące appel, jabłko, pepla, skok, blady, palp, peal, zarzut, ale, alp, małpa, app, okrążenie, lea, pal, pap, groch, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ile słów można zrobić z tych liter PRÓBKI?",
+            "Answer": "Możemy zrobić w sumie 99 liter za pomocą słowa PRÓBKA. Słowa są następujące klony, próbka, almes, obszerny, lames, lampy, lapse, skokowe, mężczyźni, klon, posiłki, blees, dłonie, płatki, plazm, pleas, psalm, salep, sepal, spale, ale, jałma, jałmużna, almy, almy, almy, almy, jałmużna, ampy, apsa, wiązy, lams, lams, lams, lams, lams, s, låse, skok, Leas, Maes, mężczyzna, mapy, posiłek, mels, Mesa, blady, palmy, kumple, pams, pase, groch, groch, zarzut, sprzedaż, salp, sam, samp, uszczelka, szew, slam, klapy, spae, spam, ale, alp, als, amp, ape, asp, wiąz, els, ems, lam, lap, las, lea, mae, mapa, mas, mel, pal, pam, pas, groch, pes,, Sal, sap, morze, Sel, Spa, ae, Al, am, jak, El, em, es, la, MA, mnie, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Ile słów można zrobić z tych liter ATSFOPPQ?",
+            "Answer": "Możemy zrobić łącznie 65 słów używając tych liter. Słowa są następujące Fatso, Softa, aplikacje, na szczycie, szybko, tłuszcze, fops, oafs, oast, owies, opts, paps, przeszłość, pats, pops, post, garnki, qats, mydło, sofa, miękkie, spat, spot, stoa, stop, taos, krany, topy, aft, app, apt, asp, fas, tłuszcz, p, oaf, owies, oft, ops, opt, pap, pas, pat, pop, pot, qat, sap, sat, sop, sot, spa, tao, dotknij, tas, top, jako, w, fa, z, op, os, pa, tak, TA, do"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Ile słów można zrobić z tych liter XATFPS?",
+            "Answer": "Możemy zrobić w sumie 28 słów z litery XATFPS. Słowa są następujące szybko, tłuszcze, przeszłość, klepie, spat, krany, rufa, apt, asp, fas, tłuszcz, faks, pas, pat, pax, sap, sat, sax, spa, kran, tas, podatek, jak, w, siekiera, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

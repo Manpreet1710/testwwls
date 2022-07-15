@@ -1,0 +1,86 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "aiaitcs",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "otmhre",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "stuzxawo",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "white",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "study",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "daily",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "greed",
+                "x": "4",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "dietp",
+                "x": "4",
+                "gameName": "scrabble"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "これらの文字を含む4文字の単語を検索してください-WordsWithLetters.org",
+    "h1": "これらの文字を含む4文字の単語を検索する",
+    "h2": "以下の文字を入力して4文字の単語を検索してください",
+    "meta": "これらの文字で4文字の単語をいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む4文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字を含む四文字の単語を生成する",
+            "feature_text": "多くの場合、この文字4は単語ゲームでその方法を見つけます。しかし、主なことは、これらの4文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字を含む四文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで四文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "文字4を含む数字の付いた単語を検索する",
+            "feature_text": "4文字の単語ファインダーでは、15文字までの4文字の単語をすべて検索できます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "あなたが考えることさえできない最も難しい四文字の単語さえも生成します。",
+            "feature_text": "無料の4文字単語ジェネレーターで、高得点の4文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

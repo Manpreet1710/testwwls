@@ -1,0 +1,17 @@
+{
+    "short_name": "wordswithletters",
+    "name": "wordswithletters",
+    "description": "Best online web based tool for words with letters. Our tool will help you win every scrabble or words with friends game. This tool will quickly convert your letters into words without any constrain. Try Now!",
+    "icons": [
+        {
+            "src": "/assets/images/wordswithletters-logo.png",
+            "type": "image/png",
+            "sizes": "435x435"
+        }
+    ],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff",
+    "scope": "/"
+}

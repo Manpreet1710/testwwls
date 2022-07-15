@@ -1,0 +1,21 @@
+{
+    "title": "Make Your Own Wordle",
+    "h1": "",
+    "h2": "",
+    "meta": "Guess this wordle in 6 tries. You can also share with your friends and challenge them !",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "jsfilepaths": [
+        "/assets/js/game.js",
+        "/assets/js/confetti.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/game.css"
+    ]
+}

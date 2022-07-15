@@ -1,0 +1,13 @@
+{
+    "title": "Resolva palavras facilmente com o mínimo de suposições",
+    "h1": "Resolva as palavras de hoje digitando as letras usadas até agora",
+    "h2": "Insere letras em cinza, amarelo e verde para ver palavras em potencial",
+    "meta": "Insira letras em cinza, amarelo e verde e obtenha uma lista de palavras correspondentes de 5 letras para resolver as palavras de hoje em tentativas mínimas e impressionar seus amigos",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

@@ -1,0 +1,139 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Ord med dessa bokstäver och 2 blanks- WordswithLetters",
+    "h1": "Ord med dessa bokstäver och 2 ämnen",
+    "h2": "Skriv in bokstäverna nedan och Kontrollera hur många som kan stavas med två tomma",
+    "meta": "Har du 2 tomma plattor och undrar vad du ska göra? Oroa dig inte, vi har dig täckt. Hitta alla möjliga kombinationer av ord som kan bildas med 2 tomma plattor med ord med bokstäver lätt.",
+    "featureNo": "02",
+    "feature_title": "Funktioner",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Om",
+    "featureList": [
+        {
+            "feature_heading": "Lätt att använda",
+            "feature_text": "Ord med dessa bokstäver och 2 ämnen är väldigt enkla att använda och alla ord av vilken längd som helst som kan formas med bokstäverna som anges visas i resultatet.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererar det bästa resultatet",
+            "feature_text": "Ord med bokstäver genererar de bästa resultaten, de högsta poängorden i ett Alfap-spel. Din vinst är garanterad.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Ange upp till 15 bokstäver",
+            "feature_text": "Du kan ange upp till 15 bokstäver (inklusive tomma) i utrymmet för att hitta de maximala ord som kan formas med bokstäverna inmatade.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrera och sortera enkelt",
+            "feature_text": "Du kan enkelt sortera och filtrera ut resultaten när det passar dig. Den här funktionen är väldigt lätt att använda och hjälper dig att få önskat resultat nästan omedelbart.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Helt gratis!",
+            "feature_text": "Vår plattform är helt gratis att använda. Vi har absolut inga annonser på vår hemsida som låter dig fokusera på vad du kom hit för.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Hur kan jag använda alternativet Avancerat filter?",
+            "Answer": "För att använda det avancerade filteralternativet klickar du bara på Avancerade filter. Fyll i dina alternativ som ordet Börjar med, prefixet, vilka bokstäver eller ord det måste innehålla, vad det innehåller, vad ditt ord Avsluta med, suffixet, längden på ordet och klicka på använd.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka är ordboksalternativen tillgängliga?",
+            "Answer": "Vår hemsida låter dig ta hänsyn till två ordböcker, vilket ökar dina chanser att hitta fler ord som är meningsfulla. De ordlista alternativ som finns med oss är ordbok, TWLO6 (USA, Kanada och Thailand), SOWPODS (Storbritannien och andra) och Aktivera (Ord med vänner)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag sortera sökresultaten?",
+            "Answer": "Ja, när resultaten visas visas, beroende på antalet genererade resultat, sorteringsfunktionen med visas på skärmen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka sorteringsalternativ finns tillgängliga?",
+            "Answer": "Vi erbjuder flera sorteringsalternativ. Du kan sortera sökresultaten från A-Z och från Z-A. Vi har också ett alternativ där resultaten sorteras efter de poäng de tjänar på en scrabble board från högsta till lägsta.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag veta hur många poäng som ordet får i ett ordspel?",
+            "Answer": "Ja, absolut. Vår hemsida ger dig inte bara alla möjliga ordformationer från de ord du angett utan visar också de poäng som du kommer att göra poäng om du använder detta ord i ett spel. Numret som visas i det nedre högra hörnet av varje ord är de punkter du får från ordet.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka ord kan bildas med bokstäver från ”spela” och 2 ämnen?",
+            "Answer": "Alla möjliga brev till ord med bokstäver som använder bokstaven PLAY är följande spel, gainly, läggning, paling, betala, plying, algin, align, aping, gaily, inlägg, lapin, liang, ligan, linga, lingy, liggande, vanligt, agin, agly, anil, ayin, vinst, gapy, glia, inly, lain, lang, ling,, Liny, Lipa, spik, nipa, hink, smärta, paly, Pang, pial, pian, pily, pina, ping, piny, plan, spela, pyin, yagi, yang, ail, ain, alp, ani, någon, gal, gan, gap, gay, gin, gip, gyp, fördröjning, knä, låg, lin, läpp, nag, nap, nay, noll, nip, kompis, Pan, betala, Pia, gris, stift, ply, pya, yag, yap, yin, yip, ag, ai, al, en, ay, gi, i, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vad är alla 5 bokstäver ord som kan bildas från bokstäverna BEDSIDE?",
+            "Answer": "Alla 5 bokstäver ord som kan genereras från bokstäverna BEDSIDE är följande bud, bides, gärningar, sidiga",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka ord kan bildas med bokstäver från ”negativa” och 2 ämnen?",
+            "Answer": "Om du letar efter ett ord med bokstäver så är du på rätt plats. I detta fall alla bokstäver som kan skapas med hjälp av bokstäverna NEGATIVA är följande agentiva, negativa, naivitet, ventage, vintage, hämnas, äta, Genève, ingate, infödda, negate, teeing, teniae, agene, agent, ätit, enate, entia, händelse, evite, ganev, genet, ande, jätte, given, naevi, naiv, nieve, tenia, tenia, tinea, tinge, veena, vegan, vegie, venae, hämnd, vitae, agee, agin, ante, anti, eave, etna, även, gaen, vinst, gång, gane, gate, gav, gen, gent, geta, gien, gite, ge, gnat, nave, snyggt, neve, nevi, nite, tain, tang, tonåring, Tine, ting, Vagi, förgäves, vang, ven, vena, vent, viga, vina, Vine, Vita, ålder, Ain, ait, ane, Ani, Ant, åt, Ave, äta, eng, eta, eve, gae, gan, gat, gen, get, get, gie, gin, git, nae, nag, nee, netto, nit, tae, tagg, tan, tav, te, tee, tee, teg, tio, slips, tenn, van, vat, vee, veg, veg, via, vie, tee, tee, teg, tio, slips, tenn, van, vat, vee, veg, veg, veg, vig, ae, ag, ai, en, at, en, et, gi, i, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka ord kan bildas med bokstäver från ”positiva” och 2 ämnen?",
+            "Answer": "Om du letar efter ett ord med bokstäver så är du på rätt plats. I detta fall alla bokstäver som kan skapas med hjälp av bokstäverna POSITIVA är följande positiva, pivoter, pivots, potsie, sopit, sovjetiska, estop, ivies, pesto, piste, pivot, poeter, poise, posit, trots, stipe, stope, spis, tipis, topes, topis, besök, röster, epos, opes, opes, opts, opts, o, skadedjur, Husdjur, pajer, piso, gropar, poet, pois, pose, inlägg, krukor, sept, sipe, plats, spotta, spiv, spot, steg, stopp, slipsar, tipi, tips, tår, tope, topi, toppar, väst, veto, veterinärer, vies, skruvstäd, voes, rösta, dess, oes, ope, ops, opt, ose, pes, husdjur, paj, pis, grop, poi, potten, psi, sei, set, smutta, sitta, sop, sot, slips, tips, tis, tå, topp, veterinär, vie, vis, voe, es, et, är, det, OE, oi, op, os, pe, pi, si, så, ti, till",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ord med bokstäver ”fallout” och två ämnen?",
+            "Answer": "Alla ord som kan genereras med hjälp av bokstäverna FALLOUT är följande nedfall utfall afoul tilldelning aloft atoll fel float flota flout alto auto fall platt föl foul full latu loaf loaf loft lota lout olla tall tofu tola toll toll tolu tufa akter allt alt fett influensa fou lat mycket oaf havre oft ut tao tau uta al på fa la lo av ta till ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ord med bokstäver ”glödande” och två ämnen?",
+            "Answer": "Alla ord som kan genereras med bokstäverna GLÖDANDE är följande glödande, lowing, ogling, gå, lingo, på grund, glöd, gong, klänning, ling, lino, lejon, loin, lång, lown, nogg, noil, vinge, wino, gig, gin, igg, jon, lin, log, låg, noll, nog, nu, olja,, egen, peruk, vinna, vann, gi, gå, i, li, lo, nej, oi, på, aj, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

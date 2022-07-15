@@ -1,0 +1,13 @@
+{
+    "title": "Löse Wordle einfach mit minimalem Raten",
+    "h1": "Löse das heutige Wort, indem du bisher verwendete Buchstaben eingibst",
+    "h2": "Gibt Buchstaben in Grau, Gelb und Grün ein, um mögliche Wörter zu sehen",
+    "meta": "Geben Sie Buchstaben in Grau, Gelb und Grün ein und erhalten Sie eine Liste mit passenden Wörtern mit 5 Buchstaben, um das heutige Wort in minimalen Versuchen zu lösen und Ihre Freunde zu beeindrucken",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

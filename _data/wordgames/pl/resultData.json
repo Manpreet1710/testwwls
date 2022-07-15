@@ -1,0 +1,13 @@
+{
+    "title": "Łatwo rozwiązuj wordle przy minimalnych domysłach",
+    "h1": "Rozwiąż dzisiejsze sformułowania, wprowadzając dotychczas używane litery",
+    "h2": "Wpisuje litery w kolorze szarym, żółtym i zielonym, aby zobaczyć potencjalne słowa",
+    "meta": "Wprowadź litery w kolorze szarym, żółtym i zielonym, i uzyskaj listę pasujących 5 słowa literowe, aby rozwiązać dzisiejsze słowa w mimimum prób, i zaimponuj znajomym",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

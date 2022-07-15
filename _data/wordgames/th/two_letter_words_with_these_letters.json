@@ -1,0 +1,116 @@
+{
+    "Language": "ภาษาไทย",
+    "htmlLangAtt": "th",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "ค้นหา 2 คำตัวอักษรที่มีตัวอักษรเหล่านี้- WordsWithletters.org",
+    "h1": "ค้นหาคำตัวอักษร 2 คำที่มีตัวอักษรเหล่านี้",
+    "h2": "สร้างคำสองตัวอักษรด้วยตัวอักษรเหล่านี้",
+    "meta": "ยังคงคิดเกี่ยวกับวิธีการหลายคำสองตัวอักษรที่คุณสามารถทำกับตัวอักษรเหล่านี้?ใช้เครื่องมือของเราเพื่อค้นหาคำ 2 ตัวอักษรที่มีตัวอักษรเหล่านี้",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "นำจุดเปลี่ยนในเกมของคุณ.สร้างคำสองตัวอักษรด้วยตัวอักษรเหล่านี้",
+            "feature_text": "บ่อยครั้งที่จดหมายสองตัวนี้พบทางในเกมคำแต่สิ่งที่สำคัญคือว่าทั้งสองคำที่มีตัวอักษรบางครั้งสามารถให้คะแนนสูงอย่างไรก็ตามคุณสามารถค้นหาการช่วยเหลือของคุณด้วยการค้นหาคำของเรา",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "สร้างคำสองตัวอักษรด้วยตัวอักษรเหล่านี้",
+            "feature_text": "wordfinder ฟรีของเราช่วยให้คุณค้นหาคำสองตัวอักษรและช่วยให้คุณชนะเกมของคุณ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "ค้นหาคำที่มีหมายเลขใด ๆ ที่มีตัวอักษรสองอยู่ในนั้น",
+            "feature_text": "ตัวค้นหาคำสองตัวช่วยให้คุณสามารถค้นหาคำที่มีตัวอักษรสองคำได้ไม่เกิน 15 ตัวอักษร",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "สร้างแม้แต่คำที่ยากที่สุดสองตัวอักษรที่คุณไม่สามารถแม้แต่จะคิด",
+            "feature_text": "รับคะแนนสูงสองคำในไม่กี่วินาทีด้วยโปรแกรมสร้างคำสองตัวอักษรฟรีของเรา",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

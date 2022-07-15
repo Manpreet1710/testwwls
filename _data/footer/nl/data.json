@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "Bedrijf",
+    "networksitestitle": "MIDDELEN",
+    "linksTitle": "Gereedschap",
+    "producttitle": "Woorden van lengte",
+    "company": [
+        {
+            "name": "Algemene voorwaarden",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "Privacybeleid",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "vrijwaring",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "Zesletterwoorden met deze letters",
+            "url": "/nl/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "Vijf letterwoorden met deze letters",
+            "url": "/nl/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "Zeven letterwoorden met deze letters",
+            "url": "/nl/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Vier letterwoorden met deze letters",
+            "url": "/nl/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "Drie letterwoorden met deze letters",
+            "url": "/nl/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "Twee letterwoorden met deze letters",
+            "url": "/nl/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "Achtletterwoorden met deze letters",
+            "url": "/nl/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "Negen letterwoorden met deze letters",
+            "url": "/nl/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "Tien letterwoorden met deze letters",
+            "url": "/nl/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "Elfletterwoorden met deze letters",
+            "url": "/nl/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "Twaalf letterwoorden met deze letters",
+            "url": "/nl/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "Dertien letterwoorden met deze letters",
+            "url": "/nl/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "Word Game Generator Online",
+            "url": "/nl/word-game-generator-online"
+        },
+        {
+            "name": "Oplosser van de wereld",
+            "url": "/nl/wordle-solver"
+        },
+        {
+            "name": "Maak woorden met deze letters",
+            "url": "/nl/make-words-with-these-letters"
+        },
+        {
+            "name": "Woordgenerator uit letters",
+            "url": "/nl/word-generator-from-letters"
+        },
+        {
+            "name": "Woorden gespeld met deze letters ",
+            "url": "/nl/words-spelled-with-these-letters"
+        },
+        {
+            "name": "Welke woorden kan ik spellen met deze letters en een blanco",
+            "url": "/nl/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "Woorden met deze letters en 2 spaties",
+            "url": "/nl/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "Woorden met deze letters en 3 spaties",
+            "url": "/nl/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "facebook"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "instagram"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "linken"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "twitter"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

@@ -1,0 +1,56 @@
+{
+    "Language": "Nederlands",
+    "htmlLangAtt": "nl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Zoek 9 letterwoorden met deze letters - WordsWithLetters.org",
+    "h1": "Vind negen letterwoorden met deze letters",
+    "h2": "Voer hieronder letters in om 9 letterwoorden met die letters te vinden",
+    "meta": "Denk je nog steeds aan hoeveel negenletterige woorden je met deze letters kunt maken? Gebruik onze tool om 9-letterwoorden met deze letters te vinden",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Breng een keerpunt in je spel. Genereer negen letterwoorden met deze letters",
+            "feature_text": "Vaak vindt deze letter negen zijn weg in woordspelletjes. Maar het belangrijkste is dat deze woorden met negen letters soms zeer scoren. U kunt echter uw redding vinden bij onze woordzoeker.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereer negen letterwoorden met deze letters",
+            "feature_text": "Met onze gratis woordzoeker kun je negen letterwoorden vinden en je helpen je spel te winnen",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Zoek een genummerd woord met de letter Nine erin",
+            "feature_text": "Met een woordzoeker van negen letters kunt u alle woorden van negen letters tot 15 tekens vinden.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genereert zelfs de zwaarste woorden met negen letters die je niet eens kunt bedenken.",
+            "feature_text": "Krijg een pool van goed scorende woorden van negen letters in seconden met onze gratis woordgenerator van negen letters.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

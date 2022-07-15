@@ -1,0 +1,56 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Nutrition",
+                "x": "9",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Znajdź 9 liter słów z tymi literami - WordsWithletters.org",
+    "h1": "Znaleźć dziewięć słów literowych z tymi literami",
+    "h2": "Wpisz litery poniżej, aby znaleźć 9 słowa literowe z tymi literami",
+    "meta": "Wciąż zastanawiasz się, ile dziewięcioletnich słów możesz zrobić tymi literami? Skorzystaj z naszego narzędzia, aby znaleźć 9 słowa literowe z tymi literami",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Przynieś punkt zwrotny w swojej grze. Wygeneruj dziewięć liter za pomocą tych liter",
+            "feature_text": "Często ta litera dziewiąta znajduje swoją drogę w grach słownych. Ale najważniejsze jest to, że te dziewięcioliterowe słowa mogą czasami mieć wysoką punktację. Jednak możesz znaleźć swój ratunek w naszej wyszukiwarce słów.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wygeneruj dziewięć liter za pomocą tych liter",
+            "feature_text": "Nasz darmowy wordfinder pozwala znaleźć dziewięcioliterowe słowa i pomóc Ci wygrać grę",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Znajdź dowolne ponumerowane słowo z literą Dziewięć",
+            "feature_text": "Dziewięcioliterowa wyszukiwarka słów pozwala znaleźć wszystkie Dziewięć liter do 15 postacie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje nawet najtrudniejsze dziewięć liter słów, o których nawet nie możesz pomyśleć.",
+            "feature_text": "Zdobądź pulę dziewięciu słów z wysokimi punktami w kilka sekund dzięki naszemu bezpłatnemu dziewięcioliterowemu generatorowi słów.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

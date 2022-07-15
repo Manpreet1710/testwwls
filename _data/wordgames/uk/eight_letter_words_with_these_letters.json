@@ -1,0 +1,106 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "influentialness",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "accepted",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "withdraw",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "sunshine",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "hanging",
+                "x": "8",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "payments",
+                "x": "8",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolute",
+                "x": "8",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Знайдіть 8 літерних слів з цими літерами - WordWithLetters.org",
+    "h1": "Знайдіть вісім слів з цими літерами",
+    "h2": "Введіть літери нижче, щоб знайти 8 літерних слів з цими літерами",
+    "meta": "Все ще думаєте про те, скільки слів з восьми літерами ви можете скласти за допомогою цих букв? Використовуйте наш інструмент, щоб знайти 8 буквених слів з цими літерами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Принесіть переломний момент у вашій грі. Створіть вісім літерних слів з цими літерами",
+            "feature_text": "Часто ця буква вісімка знаходить свій шлях в іграх на слова. Але головне, що ці вісім літерних слів іноді можуть бути високо оцінені. Однак ви можете знайти свій порятунок за допомогою нашого пошуку слів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створіть вісім літерних слів з цими літерами",
+            "feature_text": "Наш безкоштовний wordfinder дозволяє знайти вісім буквених слів і допомогти вам виграти гру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Знайти будь-яке пронумероване слово з літерою вісім",
+            "feature_text": "Вісім листів слово шукач дозволяє знайти всі вісім літерних слів до 15 символів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створює навіть найжорсткіші вісім літерних слів, про які ви навіть не можете придумати.",
+            "feature_text": "Отримайте пул з високою оцінкою восьми літерних слів за лічені секунди за допомогою нашого безкоштовного генератора слів із вісьмома літерами.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

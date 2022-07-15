@@ -1,0 +1,152 @@
+{
+    "navbarBrandText": "",
+    "tooltip": "words with letters",
+    "megaMenu": {
+        "nav-link-name": "Tools",
+        "dropdown": [
+            {
+                "categoryName": "Listes de mots",
+                "links": [
+                    {
+                        "name": "Générateur de jeu de mots en ligne",
+                        "url": "/fr/word-game-generator-online"
+                    },
+                    {
+                        "name": "Solveur Wordle",
+                        "url": "/fr/wordle-solver"
+                    },
+                    {
+                        "name": "Faites des mots avec ces lettres",
+                        "url": "/fr/make-words-with-these-letters"
+                    },
+                    {
+                        "name": "Générateur de mots à partir de lettres",
+                        "url": "/fr/word-generator-from-letters"
+                    },
+                    {
+                        "name": "Mots épelés avec ces lettres ",
+                        "url": "/fr/words-spelled-with-these-letters"
+                    },
+                    {
+                        "name": "Combien de mots pouvez-vous créer à partir de ces lettres ?",
+                        "url": "/fr/how-many-words-can-you-make-from-these-letters"
+                    },
+                    {
+                        "name": "Quels mots puis-je épeler avec ces lettres et un blanc",
+                        "url": "/fr/what-words-can-i-spell-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Mots avec ces lettres et 2 blancs",
+                        "url": "/fr/words-with-these-letters-and-2-blanks"
+                    },
+                    {
+                        "name": "Mots avec ces lettres et 3 blancs",
+                        "url": "/fr/words-with-these-letters-and-3-blanks"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Mots de longueur",
+                "links": [
+                    {
+                        "name": "Mots de six lettres avec ces lettres",
+                        "url": "/fr/six-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de cinq lettres avec ces lettres",
+                        "url": "/fr/five-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de sept lettres avec ces lettres",
+                        "url": "/fr/seven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de quatre lettres avec ces lettres",
+                        "url": "/fr/four-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de trois lettres avec ces lettres",
+                        "url": "/fr/three-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de deux lettres avec ces lettres",
+                        "url": "/fr/two-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de huit lettres avec ces lettres",
+                        "url": "/fr/eight-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de neuf lettres avec ces lettres",
+                        "url": "/fr/nine-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de dix lettres avec ces lettres",
+                        "url": "/fr/ten-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Onze lettres avec ces lettres",
+                        "url": "/fr/eleven-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Mots de douze lettres avec ces lettres",
+                        "url": "/fr/twelve-letter-words-with-these-letters"
+                    },
+                    {
+                        "name": "Treize lettres avec ces lettres",
+                        "url": "/fr/thirteen-letter-words-with-these-letters"
+                    }
+                ]
+            },
+            {
+                "categoryName": "Mots de X lettres avec ces lettres et un blanc",
+                "links": [
+                    {
+                        "name": "12 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/12-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "11 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/11-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "10 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/10-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "9 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/9-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "8 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/8-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "7 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/7-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "6 mots de lettres avec ces lettres et un blanc",
+                        "url": "/fr/6-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Mots de 5 lettres avec ces lettres et un blanc",
+                        "url": "/fr/5-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "4 mots avec ces lettres et un blanc",
+                        "url": "/fr/4-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Mots de 3 lettres avec ces lettres et un blanc",
+                        "url": "/fr/3-letter-words-with-these-letters-and-a-blank"
+                    },
+                    {
+                        "name": "Mots de 2 lettres avec ces lettres et un blanc",
+                        "url": "/fr/2-letter-words-with-these-letters-and-a-blank"
+                    }
+                ]
+            }
+        ]
+    }
+}

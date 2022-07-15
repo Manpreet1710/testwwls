@@ -1,0 +1,1579 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="Кращий онлайн веб-інструмент для слів з літерами. Наш інструмент допоможе вам виграти кожну гру Scrabble або слова з друзями. Цей інструмент швидко перетворить ваші букви в слова без будь-яких обмежень. Спробуйте зараз!">
+<meta name="og:description" content="Кращий онлайн веб-інструмент для слів з літерами. Наш інструмент допоможе вам виграти кожну гру Scrabble або слова з друзями. Цей інструмент швидко перетворить ваші букви в слова без будь-яких обмежень. Спробуйте зараз!">
+<meta property="og:title" content="Слова з буквами- Безкоштовний інструмент для пошуку слів з буквами">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/uk">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/uk">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/uk">
+<meta data-rh="true" name="twitter:title" content="Слова з буквами- Безкоштовний інструмент для пошуку слів з буквами">
+<meta data-rh="true" name="twitter:description" content="Кращий онлайн веб-інструмент для слів з літерами. Наш інструмент допоможе вам виграти кожну гру Scrabble або слова з друзями. Цей інструмент швидко перетворить ваші букви в слова без будь-яких обмежень. Спробуйте зараз!">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/uk">
+
+  <link rel="canonical" href="http://localhost:4000/uk"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>Слова з буквами- Безкоштовний інструмент для пошуку слів з буквами</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "Поради та рекомендації, як швидко розшифровувати слова",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Коли справа доходить до розшифровці слів зі стрибків букв, є кілька стратегій, які дуже корисні. Ось кілька перевірених порад і рекомендацій, які допоможуть вам знайти відповіді на головоломку:
+-Відділяйте приголосні від голосних і подивіться, що ви можете придумати, поєднуючи різні приголосні з голосними.
+-Шукайте короткі терміни, які починаються, наприклад, з двох або трьох букв. Потім подивіться, чи можете ви зробити їх довшими, плюралізуючи або змінюючи час.
+-Підкиньте слова будь-якими префіксами або суфіксами, які можуть продовжити довжину слів.
+Ось кілька швидких і простих у використанні порад для отримання відповідей на слово головоломки."
+         }
+       },{"@type": "Question",
+         "name": "Як розшифровувати найважчі слова?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Слова з літерами інструмент найкраще працює для найважчих слів також. Він надає довгий список дійсних слів. Просто введіть літери, з якими ви хочете зробити слова, і отримати бажаний результат в найкоротші терміни. Цей інструмент абсолютно безкоштовний і дуже простий у використанні. Цей інструмент має розширений варіант, і ви можете використовувати його, щоб отримати високі скорингові слова."
+         }
+       },{"@type": "Question",
+         "name": "Які слова можна скласти за допомогою цих букв?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Це найцікавіша частина. Введіть свої букви в слова з буквами пошукового вікна і подивіться, що він вам дає. Ви отримаєте довгий список ваших дійсних слів. Цей інструмент підтримує порожні плитки (Scrabble) або символи підстановки також. Для людського розуму ігри в слова сутички схожі на футбол чи футбол: перебирання букв, штовхаючи, кричати та кричати, щоб бути відсортовані у правильній послідовності."
+         }
+       },{"@type": "Question",
+         "name": "Чи можуть слова з літерами допомогти мені зробити краще в Scrabble?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Кожна гра-головоломка, будь то анаграма чи слова-головоломка, стає все важче, як це відбувається. Ось кілька ідеальних прикладів того, коли використовувати наш інструмент. 
+1. Коли в грі беруть участь менше букв, це може здатися простим. Однак, коли гра просувається, і ви досягаєте точки, де у вас є набагато більше голосних і приголосних, все починає трохи заплутатися! Настав час поставити наш інструмент на роботу.
+2. У міру проходження рівнів, слово головоломки стають все складніше. Дуже природно заплутатися і вимагати допомоги. Це відмінний спосіб підібрати нові слова за допомогою нашого інструменту.
+Слова з літерами інструмент ідеально підходить, коли вам доведеться складати нові слова, незалежно від того, як ви збираєтеся їх використовувати. 
+"
+         }
+       },{"@type": "Question",
+         "name": "Чи можна використовувати слова з літерами інструмент для Scrabble або «Слова з друзями»?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Цей інструмент можна використовувати для пошуку слів у ваших літерах для Scrabble або Words With Friends. Слова з літерами також підтримують символи підстановки. Наші інструменти можуть допомогти вам придумати ідеї слів (включаючи порожні плитки), а також допомогти вам у пошуку найвищого скорингу слова. Його розширені параметри дозволяють відфільтрувати дійсні слова і дати бажаний результат всього за кілька кліків."
+         }
+       },{"@type": "Question",
+         "name": "Чи дозволяють слова з інструментом букв символів підстановки?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Символи підстановки — це спеціальні символи, які можна використовувати для заміни невідомих символів у текстовому значенні. Так! Слова з літерами підтримують порожні плитки в символах Scrabble або підстановки. Ці плитки будуть порівнюватися з усіма мислимими літерами, в результаті чого буде величезне збільшення кількості необроблених слів. Введіть символ підстановки як * або? у слові вирішувач буквиці."
+         }
+       },{"@type": "Question",
+         "name": "Чи можна використовувати цей інструмент для декількох букв?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "У вас закінчилася надмірна кількість букв? Не хвилюйтеся слова з літерами інструмент полегшить ваші неприємності! Незалежно від того, скільки букв у вас є, або 3,4,5 або 8,9,10 цей інструмент зробить свою роботу. Наприклад- візьмемо літери R, L, I, N, K, A, R, F та O. Тут у нас 9 букв. 
+
+Тепер ви знаєте, що робити - введіть літери в поле і натискайте go і отримаєте бажаний результат в найкоротші терміни. Ви можете скористатися розширеною опцією для отримання уточнених результатів."
+         }
+       },{"@type": "Question",
+         "name": "Як скласти слова з буквами?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Світи з літерами - це інструмент, який вам потрібен, незалежно від того, чи граєте ви в гру слів або просто кидаєте виклик своїм друзям. Цей інструмент генерує всі можливі слова з заданих букв. Тут ви отримаєте список слів, згрупованих за довжиною, щоб виграти будь-яку гру слів. Ви також можете використовувати додаткові параметри, щоб отримати бажані результати. Давайте перетворимо випадкові букви в виграшні слова за допомогою цього інструменту!"
+         }
+       },{"@type": "Question",
+         "name": "Які слова ми можемо скласти з літерами онлайн?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "38 слів можна зробити з букв у слові онлайн. Якщо ви зіткнулися з труднощами в пошуку слів з букви o, n, l, i, n, е. ви перебуваєте в потрібному місці. Слова з літерами дає вам повний список всіх слів Scrabble, які можна зробити з букв у слові онлайн одним клацанням миші. "
+         }
+       },{"@type": "Question",
+         "name": "Чи дозволяє цей інструмент повторювані букви? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Ви зможете ввести до 15 букв у рядку пошуку. Щоб використовувати літери більше одного разу, просто введіть їх кілька разів. Ви можете ввести кожну букву двічі, якщо у вас 8 різних букв, або ви можете ввести літери, які хочете повторити, не один раз.
+Ви також можете грати з розширеними опціями."
+         }
+       },{"@type": "Question",
+         "name": "Коли ми повинні використовувати слова з літерами?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Кожна гра-головоломка, будь то анаграма або словесна головоломка, стає все складніше в міру її проходження. Ось кілька ідеальних прикладів того, коли використовувати наш інструмент. 
+1. Коли в грі беруть участь менше букв, це може здатися простим. Однак, коли гра просувається, і ви досягаєте точки, де у вас є набагато більше голосних і приголосних, все починає трохи заплутатися! Настав час поставити наш інструмент на роботу.
+2. У міру проходження рівнів, слово головоломки стають все складніше. Дуже природно заплутатися і вимагати допомоги. Це відмінний спосіб підібрати нові слова за допомогою нашого інструменту.
+Слова з літерами інструмент ідеально підходить, коли вам доведеться складати нові слова, незалежно від того, як ви збираєтеся їх використовувати. 
+"
+         }
+       },{"@type": "Question",
+         "name": "Які переваги використання слів з літерами інструменту?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Успіх - Хто не хоче легко перемагати? Однак виграти слово головоломки не завжди просто. Ми застрягли і розчаровані багато часу. Ми зробили наш інструмент простим, швидким і зручним. Використовуйте наші букви з інструментом слів, щоб виграти ігри в слова без обмежень.
+Зручність - Коли головоломка стає неприємною, а не цікавою, слова з буквами вирішують цю проблему. Його дуже простий і зручний у використанні інструмент.
+Підвищіть свій словниковий запас - Коли ми вводимо літери в слово з буквами рядок пошуку, він показує ряд слів, використовуючи дві або більше букв. Таким чином ми отримуємо різні слова і можемо збільшити свій словниковий запас, вивчаючи ці слова."
+         }
+       },{"@type": "Question",
+         "name": "Як ми можемо знайти слова з відсутніми літерами?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Цей інструмент найкраще працює для пошуку відсутніх букв. Ось повний список слів, які містять кожну букву алфавіту. Але якщо ви хочете зосередити свій пошук на певній довжині слова або, ще краще, шаблоні? У нас є все, що вам потрібно. Просто скористайтеся нашими розширеними можливостями. Крім використання слів з літер інструмент трохи перемички рішення кожен день допоможе вам стати найкращим гравцем слова!"
+         }
+       },{"@type": "Question",
+         "name": "Чи надає цей інструмент лише дійсні слова?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Слово з літерами - це інструмент, спеціально створений, щоб допомогти вам знайти найвищі скорингові слова для Scrabble, Слова з друзями та інші ігри в слова. Його унікальна пошукова система запропонує всі дійсні слова. У двох словах слова з літерами дозволяють вводити всі літери, які ви маєте в руці, і їх переставляти, щоб виявити всі можливі словосполучення."
+         }
+       },{"@type": "Question",
+         "name": "Чи може цей інструмент допомогти у виграші Scrabble або слова з друзями гри?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Слова з літерами інструмент перетворить ваші букви в слова в найкоротші терміни. Якщо вам потрібно довге слово або слово з п'яти літер, генератор буде генерувати всі можливі комбінації, які приймає ваша гра. Ви можете знайти найкращі чіти та найвищі скорингові слова для Scrabble, Слова з друзями та багато інших словесних ігор на Words with Letters."
+         }
+       },{"@type": "Question",
+         "name": "Чи можемо ми розширити свій словниковий запас за допомогою цього інструменту?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Не розглядайте нас як слово хак, скоріше, вважайте нас довідковим інструментом, який ви та ваші друзі можете використовувати для розширення словникового запасу. Наша пошукова система перегляне словники Великобританії та США, щоб виявити найкращу відповідність вашим листам. Це дуже просто і легко, звичайно цікаво використовувати. Але разом із задоволенням ви також можете покращити свій словниковий запас, часто використовуючи слова з літерами інструмент. Використовуйте цей інструмент і підвищуйте свої знання весело та цікаво.."
+         }
+       },{"@type": "Question",
+         "name": "Як користуватися розширеними опціями цього інструменту?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Якщо це стосується гри, в яку ви граєте, змініть словник; в іншому випадку залиште його таким, яким він є. Ці параметри з'являться, коли ви натиснете кнопку «Параметри». Для фільтрування результатів можна використовувати параметри «Починається з» або «Закінчується» або «Must include». Будь ласка, використовуйте цей інструмент з увагою, інакше ніяких дійсних слів не буде надано в результаті. Цей інструмент простий і простий у використанні, перший крок - набрати до 15 букв у поле нижче, а потім натиснути пошук і чекати, поки інструмент зробить слова з цими літерами. У нас навіть є попередній фільтр, за допомогою якого ви можете знайти слово із заданою довжиною або яке відповідає певному шаблону. Ви можете використовувати наші слова з літерами інструмент в будь-який час, оскільки він повністю веб-основі. Просто скопіюйте та вставте URL-адресу нашого веб-сайту у свій браузер та використовуйте його за потребою."
+         }
+       },{"@type": "Question",
+         "name": "Чи потрібна установка або реєстрація, щоб використовувати ці слова з літерами інструмент.",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Слова з літерами інструмент є передовим веб-інструментом. Немає необхідності завантажувати будь-яке програмне забезпечення або реєструватися на цей інструмент. Це безпечний і надійний простий у використанні інструмент. Для використання цієї програми не потрібно ніяких технічних знань. Він підтримує різні браузер і добре працює."
+         }
+       },{"@type": "Question",
+         "name": "Які слова проблемні ігри допомагають ці слова з літерами інструмент?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "«Цей інструмент корисний для головоломок слів та проблемних ігор у словах або онлайн-ігор на слова.
+Слова з друзями
+Слова з літерами інструмент використовує словник, і знайти всі дійсні слова з ваших перемиканих букв. Це весело грати і підвищувати свої навички слова.
+Scrabble
+Наші слова з літерами інструмент допоможе вам знайти високі скорингові слова, які починаються з букв, які вам потрібно рухатися вперед. Scrabble схожий на Слова з друзями,
+Твіст тексту
+Text Twist - це ще одна гра слів, схожа на інші. Просто введіть літери в наш рядок пошуку слів, і ми створимо список слів для використання. 
+Є й інші ігри, такі як Word Trip, Daily Jumble, Wordscapes та багато іншого. Цей інструмент корисний для всіх проблемних ігор.»"
+         }
+       },{"@type": "Question",
+         "name": "Як це працює в якості помічника гри в слова?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Вам коли-небудь потрібно було знайти слова, у яких були вказані букви для слова головоломки? Це просто для деяких скремблевих букв, але це складніше для нерегулярних букв. Читаючи або шукаючи наш величезний список слів із сотень тисяч слів, ви можете знайти слово з вашими літерами. З розширеним фільтром виправити лист і довжину вам потрібно весело провести час і досліджувати навколо, щоб побачити, що нові слова, ви можете придумати. Щоб використовувати цей інструмент, вам не потрібно завантажувати або встановлювати будь-яке програмне забезпечення на свій комп'ютер або мобільний пристрій. Ви можете використовувати наші слова з літерами інструмент в будь-який час, оскільки він повністю веб-основі."
+         }
+       },{"@type": "Question",
+         "name": "Які способи використання слів з літерами інструмент?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Цей інструмент відмінно підходить для пошуку слів для настільних ігор та онлайн-ігор в слова. Просто введіть букви і задайте додаткові параметри, якщо це необхідно, і наші слова з буквами будуть відображати всі можливі слова. Слова з буквами були створені, щоб допомогти у вирішенні головоломок слів типу анаграми, але він має широкий спектр застосувань, включаючи онлайн-ігри на слова, такі як scrabble. Слова з літерами не тільки скребл вирішувач, він також може розшифровувати букви для різних анаграм ігор, таких як слова з друзями, Scrabble і т.д. це також відкриває ідею мати про-рівень Scrabble гри, в яких всі гравці використовують слова з літерами інструмент, щоб допомогти їм знайти слова, але вони повинні використовувати талант, щоб з'ясувати, де грати слова на дошці Scrabble і які букви тримати. Крім того, якщо цей інструмент використовується на регулярній основі, словниковий запас можна вдосконалити."
+         }
+       },{"@type": "Question",
+         "name": "Скільки слів я можу ввести?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Можна ввести до 15 букв."
+         }
+       },{"@type": "Question",
+         "name": "Чи можу я знайти слова з буквами на свій вибір? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Ви можете застосувати фільтри, щоб отримати індивідуальні слова."
+         }
+       },{"@type": "Question",
+         "name": "Чи можу я знайти 2-літерні слова?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Ви можете отримати слова, починаючи з 2 букв до 15 букв."
+         }
+       },{"@type": "Question",
+         "name": "Чи доступна шпаргалка?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Так, шпаргалка доступна."
+         }
+       }]
+    }
+  </script>
+
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "WebApplication",
+    "operatingSystem":"All - Windows/Mac/iOS/Linux/Android",
+    "applicationCategory":"UtilitiesApplication",
+    "name": "wordswithletter",
+    "url":"http://localhost:4000/uk",
+    "image":"https://wordswithletters.org/assets/images/wordswithletters-logo.png",
+    "aggregateRating": {
+      "@type": "AggregateRating", 
+      "worstRating":"1",
+      "bestRating":"5",	
+      "ratingValue":"4.93",
+      "ratingCount":"60"},
+    "offers": {
+      "@type": "Offer",
+      "price": "0.00",
+      "priceCurrency": "USD"
+    }
+  }
+</script>
+
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><body>
+<!-- header starts -->
+<header id="header">
+    <!-- navigation startss -->
+    <nav class="navbar navbar-expand-lg navbar-dark" style="background: #f8f9fa">
+
+        <a class="navbar-brand" href="/" title="words with letters">
+            <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+        </a>
+
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent">
+            <i class="bi bi-list bi-2x bars"></i>
+        </button><div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link" href="/blog">Blog</a>
+                </li>
+
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown"
+                        aria-expanded="false">
+                        More
+                    </a><ul class="dropdown-menu top_tool_bar" aria-labelledby="dropdownMenuButton"><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">Списки слів</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/word-game-generator-online">
+                                    Генератор гри в слова онлайн
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/wordle-solver">
+                                    Вердл вирішувач
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/make-words-with-these-letters">
+                                    Складіть слова з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/word-generator-from-letters">
+                                    Генератор слів з букв
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/words-spelled-with-these-letters">
+                                    Слова, написані цими буквами 
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/how-many-words-can-you-make-from-these-letters">
+                                    Скільки слів можна скласти з цих букв
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/what-words-can-i-spell-with-these-letters-and-a-blank">
+                                    Які слова я можу писати з цими буквами і бланком
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/words-with-these-letters-and-2-blanks">
+                                    Слова з цими літерами і 2 прогалини
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/words-with-these-letters-and-3-blanks">
+                                    Слова з цими літерами і 3 прогалини
+                                </a>
+                            </li></div><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">Слова довжини</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/six-letter-words-with-these-letters">
+                                    Шість літерних слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/five-letter-words-with-these-letters">
+                                    П'ять буквених слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/seven-letter-words-with-these-letters">
+                                    Сім літерних слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/four-letter-words-with-these-letters">
+                                    Чотири літерні слова з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/three-letter-words-with-these-letters">
+                                    Три буквені слова з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/two-letter-words-with-these-letters">
+                                    Дволітерні слова з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/eight-letter-words-with-these-letters">
+                                    Вісім літерних слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/nine-letter-words-with-these-letters">
+                                    Слова з дев'яти літер з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/ten-letter-words-with-these-letters">
+                                    Десять букв з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/eleven-letter-words-with-these-letters">
+                                    Одинадцять літерних слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/twelve-letter-words-with-these-letters">
+                                    Дванадцять літерних слів з цими літерами
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/thirteen-letter-words-with-these-letters">
+                                    Тринадцять літерних слів з цими літерами
+                                </a>
+                            </li></div><div class="catPad mb-4">
+                            <li style="margin: 0 0 20px;" class="text-muted">X букв слова з цими літерами і порожнім</li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/12-letter-words-with-these-letters-and-a-blank">
+                                    12 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/11-letter-words-with-these-letters-and-a-blank">
+                                    11 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/10-letter-words-with-these-letters-and-a-blank">
+                                    10 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/9-letter-words-with-these-letters-and-a-blank">
+                                    9 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/8-letter-words-with-these-letters-and-a-blank">
+                                    8 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/7-letter-words-with-these-letters-and-a-blank">
+                                    7 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/6-letter-words-with-these-letters-and-a-blank">
+                                    6 буквених слів з цими літерами і порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/5-letter-words-with-these-letters-and-a-blank">
+                                    5 літерних слів з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/4-letter-words-with-these-letters-and-a-blank">
+                                    4 літерні слова з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/3-letter-words-with-these-letters-and-a-blank">
+                                    3 літерні слова з цими літерами та порожнім
+                                </a>
+                            </li><li style="margin:0 0 15px">
+                                <a class="dropdown-item p-0" href="/uk/2-letter-words-with-these-letters-and-a-blank">
+                                    2 літерні слова з цими літерами та порожнім
+                                </a>
+                            </li></div></ul></li>
+            </ul>
+        </div>
+        </nav>
+    <!-- navbar close -->
+</header>
+<!-- header close -->
+
+    
+
+<!-- starting landingPage -->
+<div class="pageHeaderBg">
+    <div class="container">
+        <div class="pageHeading text-center" style="margin:22px 0px">
+            <h1 class="heading pb-0 mb-3">
+                Знайти слова з літерами</h1><h2>
+                Введіть літери нижче</h2></div>
+    </div>
+    <div class="container-fluid" id="containerWd">
+        <div class="serachSection">
+            <div class="position-relative serachBox">
+                <form action="/uk/result" id='form' method="GET">
+                    <div style="position: relative;">
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox" value='' name="search" maxlength="15"
+                            required autocomplete="off">
+                        <span class="focus-border">
+                            <i></i>
+                        </span>
+                        <div class="letter-close-button">
+                            <i class="ltr-cls-btn bi bi-x-circle-fill"></i>
+                        </div>
+                    </div>
+
+                    <input
+                        style="border-radius: ; background-color: #000;"
+                        type="submit" class="serachBtn" id="serach" value>
+
+                    <div class="dictonaryDropdown">
+                        <select class="form-select select_dropDown2" name="dictionary"
+                            aria-label="Default select example">
+                            <option selected value="Dictionary">Dictionary</option>
+                            <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                            <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                            <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                        </select>
+                    </div>
+
+                    <div class="wrapper_dropDown d-flex justify-content-end mt-5" style="gap:15px">
+                        <div class="advancedFilter" style="position: relative;" onclick="myFunction()">
+                            <input type="button" value="Advanced Filter" class="filterButton">
+                            <div class="angle-arrow2"></div>
+                        </div>
+                    </div>
+                    <div class="fillterWrapper hide">
+                        <div class="text-right times" style="cursor: pointer;">
+                            <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                        </div>
+                        <div class="startsWith">
+                            <label for="startsWith">Starts With</label>
+                            <input type="text" id="startsWith" placeholder="Prefix" value="" name="prefix">
+                        </div>
+                        <div class="mustInclude">
+                            <label for="mustInclude">Must Contains </label>
+                            <input type="text" id="mustInclude" placeholder="Contains" name="contains">
+
+                        </div>
+                        <div class="endsWith">
+                            <label for="endsWith">End With</label>
+                            <input type="text" id="endsWith" placeholder="Suffix" name="suffix">
+                        </div>
+                        <div class="exculdeWith">
+                            <label for="exculdeWith">Exculde</label>
+                            <br>
+                            <input type="text" id="exculdeWith" placeholder="Exculde" value="" name="exculde">
+                        </div>
+
+                        <div class="inculdeWith">
+                            <label for="inculdeWith">Inculde</label>
+                            <br>
+                            <input type="text" id="inculdeWith" placeholder="Inculde" value="" name="inculde">
+                        </div>
+
+                        <div class="wordLength same">
+                            <label for="wordLength">Word Length </label>
+                            <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                value="">
+                        </div>
+                        <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                            <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                style="background-color: #000;">
+                            <input type="submit" value="Apply" class="btn-info text-white"
+                                style="background-color: #000;">
+                        </div>
+                    </div>
+                </form></div>
+        </div>
+    </div>
+</div>
+<!-- close landingPage -->
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+    let startsWith = document.getElementById('startsWith')
+    let mustInclude = document.getElementById('mustInclude')
+    let endsWith = document.getElementById('endsWith')
+    let wordLength = document.getElementById('wordLength')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const advancedFilter = document.querySelector('.advancedFilter')
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    advancedFilter.addEventListener('click', () => {
+        fillterWrapper.classList.toggle('actives')
+        fillterWrapper.classList.remove('hide')
+    })
+
+    // document.addEventListener('click', (event) => {
+    //     const withinBoundaries = event.composedPath().includes(advancedFilter)
+    //     if (!withinBoundaries) {
+    //         closeModal()
+    //     }
+    // })
+    function closeModal() {
+        fillterWrapper.classList.remove('actives')
+        fillterWrapper.classList.add('hide')
+    }
+
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+
+
+        closeModal()
+    })
+</script>
+
+    
+
+    
+
+
+<div class="container-fluid">
+    <div class="row"><div class="ads_layout">
+            <h5 class="title">Особливості</h5>
+            <p class="description"></p>
+        </div><div class="container">
+            <!--class earlier= col-xl-9 col-lg-12-->
+            <div class="row text-center features_data">
+                
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Як створити слова з літерами за допомогою цього інструменту?"></img>
+                        <h3 class="card-title">
+                            Як створити слова з літерами за допомогою цього інструменту?
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Ви бентежите, які слова я можу сформувати з цими літерами? Використовуйте wordswitletters.org, виконавши ці прості кроки і отримати результат в найкоротші терміни.
+
+1. Введіть до 15 букв
+
+2. Натисніть пошук і дочекайтеся, поки інструмент зробить слова цими літерами.
+
+3. Щоб знайти слово з заданою довжиною або яке відповідає певному шаблону, скористайтеся інструментами розширеного пошуку.
+
+Будьте готові вирівняти свої навички словникового запасу, перемогти своїх опонентів, і виграти наступний конкурс слів? Отримуйте задоволення, використовуючи наші словазлітерами!</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Установка не потрібна"></img>
+                        <h3 class="card-title">
+                            Установка не потрібна
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Слова з літерами - це веб-сайт, який говорить вам, скільки слів ви можете побудувати з набору англійських букв. Ми доклали всіх зусиль, щоб включити всі можливі словосполучення для кожного терміна. Це корисний сайт для людей, які шукають нові слова з конкретних букв. Любителям словесних ігор і англійської мови припаде до душі цей корисний інструмент. Слова з буквами швидко стає одним з найпопулярніших ресурсів допомоги в грі слів в Інтернеті. Щоб використовувати цей інструмент, вам не потрібно завантажувати або встановлювати будь-яке програмне забезпечення на свій комп'ютер або мобільний пристрій. Ви можете використовувати наші слова з літерами інструмент в будь-який час, оскільки він повністю веб-основі. Просто скопіюйте та вставте URL-адресу нашого веб-сайту у свій браузер та використовуйте його за потребою.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Розширте свій словниковий запас"></img>
+                        <h3 class="card-title">
+                            Розширте свій словниковий запас
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Хіба ми всі не любимо грати в ігри в слова? Кожен, молодий і старий, любить грати в ігри в слова. Ми згадуємо дні, коли ми звикли грати в цю гру з родиною та друзями. Scrabble, Text Twist і Слово з друзями дотримуються одного і того ж набору правил. Однак це дратує нас, коли ми не можемо зрозуміти певні терміни. Насправді, нам знадобиться деяка допомога розшифровування слів. Деякі вважають це обманом, але в підсумку ніхто не може сказати, що невелика допомога шкідлива. Отримання допомоги - це, зрештою, один із способів навчання. Важливо мати великий словниковий запас, якщо ви хочете виграти в іграх на слова. Адже вся справа в освоєнні написаного слова. Вивчайте нові терміни, розширюйте свої знання та вдосконалюйте свою мову за допомогою цієї безкоштовної програми. Регулярне використання слів з буквами може згинати м'язи слів і поліпшити ваші мовні навички.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Безкоштовний інструмент"></img>
+                        <h3 class="card-title">
+                            Безкоштовний інструмент
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Вам не потрібно реєструватися або входити, щоб використовувати слова за допомогою інструмента «Літера». Вам не потрібно платити, щоб використовувати слова з літерами інструмент. Ви можете використовувати слова з буквами стільки разів, скільки захочете. Це веб-сайт, де ви можете знайти відповіді на улюблені ігри в слова. Ви використовуєте його як генератор випадкових літер слів для розшифровки букв, щоб створити високі скорингові слова. Якщо ви не маєте відповідей і не можете вийти за межі поточного рівня, використовуйте це як шпаргалку для головоломок слів. Слова з буквами - це зручний інструмент гри слів для створення Scrabble слів, визначення слів з друзями відповідей, розшифровку плитки Wordfeud, формування букв у Word Cookie та вирішення головоломок CodyCross. Інакше кажучи, це шпаргалка для будь-якої популярної гри в слова.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Слова з буквами - це все, що вам потрібно, щоб виграти"></img>
+                        <h3 class="card-title">
+                            Слова з буквами - це все, що вам потрібно, щоб виграти
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Вам подобається грати в ігри в слова? Чи роблять такі ігри, як Scrabble та Слова з друзями, змушують всіх ваших нейронів стріляти? Вам подобається відкривати нові значення? Тоді наше слово з буквами - саме те, що вам потрібно. Незалежно від вашого рівня майстерності, кожен раз в той час ми застрягли. Ми будемо спотикнуті про те, як ми коли-небудь будуємо слова з цих букв. Саме тут цей інструмент працює як рятувальний засіб. Ми ознайомимося з термінами різної довжини, які починаються з різних літер, коли ваш словниковий запас розширюється.</p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Простота у використанні"></img>
+                        <h3 class="card-title">
+                            Простота у використанні
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">«Які слова я можу сформувати з цими літерами?» більше не є проблемою. «Яка відповідь на це слово пазл ключ?» або «Яка відповідь на це слово загадка?» Використовуйте наші зручні слова з помічником з літерами, виконавши ці прості кроки. 
+Перший крок - введіть до 15 букв у поле нижче, а потім натисніть пошук і зачекайте, поки інструмент зробить слова з цими літерами. У нас навіть є попередній фільтр, за допомогою якого ви можете знайти слово із заданою довжиною або яке відповідає певному шаблону.
+Будьте готові вирівняти свої навички словникового запасу, перемогти своїх опонентів, і виграти наступний конкурс слів? Щоб швидко вирішити будь-яку головоломку, використовуйте наші слова з літерами інструмент.
+ і отримуйте задоволення, використовуючи наші словазлітерами! </p>
+                    </div>
+                </div>
+                
+                <div class="col-md-8 my-3 mx-auto">
+                    <div class="card-body h-100">
+                        <img src="/assets/images/star.svg" loading="lazy" height="25px" width="25px"
+                            alt="Помічник у слові гри"></img>
+                        <h3 class="card-title">
+                            Помічник у слові гри
+                        </h3>
+                        <p class="card-text" style="color: #a7a7a7;
+                        font-size: 14px;">Кожна гра-головоломка, будь то анаграма або словесна головоломка, стає все складніше в міру її проходження. Хіба ці рядки не відповідають дійсності?
+Ви шукаєте будь-які рішення для гри в слова? Щоб швидко вирішити будь-яку головоломку, використовуйте наші слова з літерами інструмент.
+Не думайте про нас як обманом слова, скоріше вважайте нас довідковим інструментом, який ви та ваші друзі можете використовувати для врегулювання розбіжностей щодо дійсності будь-якого даного слова. Наш інструмент пошуку перегляне словники Великобританії та США, щоб виявити найкращий матч для вас. Не тільки це, але для додаткової зручності, наш розширений фільтр слів буде сортувати результати за довжиною слова. Слова з інструментом лист тільки допоможуть вам справити враження на опонента, але це також допоможе вам поліпшити свій словниковий запас, як ніколи раніше!</p>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div><!-- how to section -->
+
+
+<!-- starting news section -->
+<div class="container-fluid">
+    <div class="row rowHeight2"><div class="ads_layout">
+            <h5 class="title">FAQ</h5>
+        </div><div class="container">
+            <!--class earlier=col-xl-9 col-lg-12 -->
+            <div class="row my-xl-0">
+                
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Поради та рекомендації, як швидко розшифровувати слова</h2>
+                        <p class="meduim-text text-center mb-0">Коли справа доходить до розшифровці слів зі стрибків букв, є кілька стратегій, які дуже корисні. Ось кілька перевірених порад і рекомендацій, які допоможуть вам знайти відповіді на головоломку:
+-Відділяйте приголосні від голосних і подивіться, що ви можете придумати, поєднуючи різні приголосні з голосними.
+-Шукайте короткі терміни, які починаються, наприклад, з двох або трьох букв. Потім подивіться, чи можете ви зробити їх довшими, плюралізуючи або змінюючи час.
+-Підкиньте слова будь-якими префіксами або суфіксами, які можуть продовжити довжину слів.
+Ось кілька швидких і простих у використанні порад для отримання відповідей на слово головоломки.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Як розшифровувати найважчі слова?</h2>
+                        <p class="meduim-text text-center mb-0">Слова з літерами інструмент найкраще працює для найважчих слів також. Він надає довгий список дійсних слів. Просто введіть літери, з якими ви хочете зробити слова, і отримати бажаний результат в найкоротші терміни. Цей інструмент абсолютно безкоштовний і дуже простий у використанні. Цей інструмент має розширений варіант, і ви можете використовувати його, щоб отримати високі скорингові слова.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Які слова можна скласти за допомогою цих букв?</h2>
+                        <p class="meduim-text text-center mb-0">Це найцікавіша частина. Введіть свої букви в слова з буквами пошукового вікна і подивіться, що він вам дає. Ви отримаєте довгий список ваших дійсних слів. Цей інструмент підтримує порожні плитки (Scrabble) або символи підстановки також. Для людського розуму ігри в слова сутички схожі на футбол чи футбол: перебирання букв, штовхаючи, кричати та кричати, щоб бути відсортовані у правильній послідовності.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можуть слова з літерами допомогти мені зробити краще в Scrabble?</h2>
+                        <p class="meduim-text text-center mb-0">Кожна гра-головоломка, будь то анаграма чи слова-головоломка, стає все важче, як це відбувається. Ось кілька ідеальних прикладів того, коли використовувати наш інструмент. 
+1. Коли в грі беруть участь менше букв, це може здатися простим. Однак, коли гра просувається, і ви досягаєте точки, де у вас є набагато більше голосних і приголосних, все починає трохи заплутатися! Настав час поставити наш інструмент на роботу.
+2. У міру проходження рівнів, слово головоломки стають все складніше. Дуже природно заплутатися і вимагати допомоги. Це відмінний спосіб підібрати нові слова за допомогою нашого інструменту.
+Слова з літерами інструмент ідеально підходить, коли вам доведеться складати нові слова, незалежно від того, як ви збираєтеся їх використовувати. 
+</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можна використовувати слова з літерами інструмент для Scrabble або «Слова з друзями»?</h2>
+                        <p class="meduim-text text-center mb-0">Цей інструмент можна використовувати для пошуку слів у ваших літерах для Scrabble або Words With Friends. Слова з літерами також підтримують символи підстановки. Наші інструменти можуть допомогти вам придумати ідеї слів (включаючи порожні плитки), а також допомогти вам у пошуку найвищого скорингу слова. Його розширені параметри дозволяють відфільтрувати дійсні слова і дати бажаний результат всього за кілька кліків.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи дозволяють слова з інструментом букв символів підстановки?</h2>
+                        <p class="meduim-text text-center mb-0">Символи підстановки — це спеціальні символи, які можна використовувати для заміни невідомих символів у текстовому значенні. Так! Слова з літерами підтримують порожні плитки в символах Scrabble або підстановки. Ці плитки будуть порівнюватися з усіма мислимими літерами, в результаті чого буде величезне збільшення кількості необроблених слів. Введіть символ підстановки як * або? у слові вирішувач буквиці.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можна використовувати цей інструмент для декількох букв?</h2>
+                        <p class="meduim-text text-center mb-0">У вас закінчилася надмірна кількість букв? Не хвилюйтеся слова з літерами інструмент полегшить ваші неприємності! Незалежно від того, скільки букв у вас є, або 3,4,5 або 8,9,10 цей інструмент зробить свою роботу. Наприклад- візьмемо літери R, L, I, N, K, A, R, F та O. Тут у нас 9 букв. 
+
+Тепер ви знаєте, що робити - введіть літери в поле і натискайте go і отримаєте бажаний результат в найкоротші терміни. Ви можете скористатися розширеною опцією для отримання уточнених результатів.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Як скласти слова з буквами?</h2>
+                        <p class="meduim-text text-center mb-0">Світи з літерами - це інструмент, який вам потрібен, незалежно від того, чи граєте ви в гру слів або просто кидаєте виклик своїм друзям. Цей інструмент генерує всі можливі слова з заданих букв. Тут ви отримаєте список слів, згрупованих за довжиною, щоб виграти будь-яку гру слів. Ви також можете використовувати додаткові параметри, щоб отримати бажані результати. Давайте перетворимо випадкові букви в виграшні слова за допомогою цього інструменту!</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Які слова ми можемо скласти з літерами онлайн?</h2>
+                        <p class="meduim-text text-center mb-0">38 слів можна зробити з букв у слові онлайн. Якщо ви зіткнулися з труднощами в пошуку слів з букви o, n, l, i, n, е. ви перебуваєте в потрібному місці. Слова з літерами дає вам повний список всіх слів Scrabble, які можна зробити з букв у слові онлайн одним клацанням миші. </p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи дозволяє цей інструмент повторювані букви? </h2>
+                        <p class="meduim-text text-center mb-0">Ви зможете ввести до 15 букв у рядку пошуку. Щоб використовувати літери більше одного разу, просто введіть їх кілька разів. Ви можете ввести кожну букву двічі, якщо у вас 8 різних букв, або ви можете ввести літери, які хочете повторити, не один раз.
+Ви також можете грати з розширеними опціями.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Коли ми повинні використовувати слова з літерами?</h2>
+                        <p class="meduim-text text-center mb-0">Кожна гра-головоломка, будь то анаграма або словесна головоломка, стає все складніше в міру її проходження. Ось кілька ідеальних прикладів того, коли використовувати наш інструмент. 
+1. Коли в грі беруть участь менше букв, це може здатися простим. Однак, коли гра просувається, і ви досягаєте точки, де у вас є набагато більше голосних і приголосних, все починає трохи заплутатися! Настав час поставити наш інструмент на роботу.
+2. У міру проходження рівнів, слово головоломки стають все складніше. Дуже природно заплутатися і вимагати допомоги. Це відмінний спосіб підібрати нові слова за допомогою нашого інструменту.
+Слова з літерами інструмент ідеально підходить, коли вам доведеться складати нові слова, незалежно від того, як ви збираєтеся їх використовувати. 
+</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Які переваги використання слів з літерами інструменту?</h2>
+                        <p class="meduim-text text-center mb-0">Успіх - Хто не хоче легко перемагати? Однак виграти слово головоломки не завжди просто. Ми застрягли і розчаровані багато часу. Ми зробили наш інструмент простим, швидким і зручним. Використовуйте наші букви з інструментом слів, щоб виграти ігри в слова без обмежень.
+Зручність - Коли головоломка стає неприємною, а не цікавою, слова з буквами вирішують цю проблему. Його дуже простий і зручний у використанні інструмент.
+Підвищіть свій словниковий запас - Коли ми вводимо літери в слово з буквами рядок пошуку, він показує ряд слів, використовуючи дві або більше букв. Таким чином ми отримуємо різні слова і можемо збільшити свій словниковий запас, вивчаючи ці слова.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Як ми можемо знайти слова з відсутніми літерами?</h2>
+                        <p class="meduim-text text-center mb-0">Цей інструмент найкраще працює для пошуку відсутніх букв. Ось повний список слів, які містять кожну букву алфавіту. Але якщо ви хочете зосередити свій пошук на певній довжині слова або, ще краще, шаблоні? У нас є все, що вам потрібно. Просто скористайтеся нашими розширеними можливостями. Крім використання слів з літер інструмент трохи перемички рішення кожен день допоможе вам стати найкращим гравцем слова!</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи надає цей інструмент лише дійсні слова?</h2>
+                        <p class="meduim-text text-center mb-0">Слово з літерами - це інструмент, спеціально створений, щоб допомогти вам знайти найвищі скорингові слова для Scrabble, Слова з друзями та інші ігри в слова. Його унікальна пошукова система запропонує всі дійсні слова. У двох словах слова з літерами дозволяють вводити всі літери, які ви маєте в руці, і їх переставляти, щоб виявити всі можливі словосполучення.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи може цей інструмент допомогти у виграші Scrabble або слова з друзями гри?</h2>
+                        <p class="meduim-text text-center mb-0">Слова з літерами інструмент перетворить ваші букви в слова в найкоротші терміни. Якщо вам потрібно довге слово або слово з п'яти літер, генератор буде генерувати всі можливі комбінації, які приймає ваша гра. Ви можете знайти найкращі чіти та найвищі скорингові слова для Scrabble, Слова з друзями та багато інших словесних ігор на Words with Letters.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можемо ми розширити свій словниковий запас за допомогою цього інструменту?</h2>
+                        <p class="meduim-text text-center mb-0">Не розглядайте нас як слово хак, скоріше, вважайте нас довідковим інструментом, який ви та ваші друзі можете використовувати для розширення словникового запасу. Наша пошукова система перегляне словники Великобританії та США, щоб виявити найкращу відповідність вашим листам. Це дуже просто і легко, звичайно цікаво використовувати. Але разом із задоволенням ви також можете покращити свій словниковий запас, часто використовуючи слова з літерами інструмент. Використовуйте цей інструмент і підвищуйте свої знання весело та цікаво..</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Як користуватися розширеними опціями цього інструменту?</h2>
+                        <p class="meduim-text text-center mb-0">Якщо це стосується гри, в яку ви граєте, змініть словник; в іншому випадку залиште його таким, яким він є. Ці параметри з'являться, коли ви натиснете кнопку «Параметри». Для фільтрування результатів можна використовувати параметри «Починається з» або «Закінчується» або «Must include». Будь ласка, використовуйте цей інструмент з увагою, інакше ніяких дійсних слів не буде надано в результаті. Цей інструмент простий і простий у використанні, перший крок - набрати до 15 букв у поле нижче, а потім натиснути пошук і чекати, поки інструмент зробить слова з цими літерами. У нас навіть є попередній фільтр, за допомогою якого ви можете знайти слово із заданою довжиною або яке відповідає певному шаблону. Ви можете використовувати наші слова з літерами інструмент в будь-який час, оскільки він повністю веб-основі. Просто скопіюйте та вставте URL-адресу нашого веб-сайту у свій браузер та використовуйте його за потребою.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи потрібна установка або реєстрація, щоб використовувати ці слова з літерами інструмент.</h2>
+                        <p class="meduim-text text-center mb-0">Слова з літерами інструмент є передовим веб-інструментом. Немає необхідності завантажувати будь-яке програмне забезпечення або реєструватися на цей інструмент. Це безпечний і надійний простий у використанні інструмент. Для використання цієї програми не потрібно ніяких технічних знань. Він підтримує різні браузер і добре працює.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Які слова проблемні ігри допомагають ці слова з літерами інструмент?</h2>
+                        <p class="meduim-text text-center mb-0">«Цей інструмент корисний для головоломок слів та проблемних ігор у словах або онлайн-ігор на слова.
+Слова з друзями
+Слова з літерами інструмент використовує словник, і знайти всі дійсні слова з ваших перемиканих букв. Це весело грати і підвищувати свої навички слова.
+Scrabble
+Наші слова з літерами інструмент допоможе вам знайти високі скорингові слова, які починаються з букв, які вам потрібно рухатися вперед. Scrabble схожий на Слова з друзями,
+Твіст тексту
+Text Twist - це ще одна гра слів, схожа на інші. Просто введіть літери в наш рядок пошуку слів, і ми створимо список слів для використання. 
+Є й інші ігри, такі як Word Trip, Daily Jumble, Wordscapes та багато іншого. Цей інструмент корисний для всіх проблемних ігор.»</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Як це працює в якості помічника гри в слова?</h2>
+                        <p class="meduim-text text-center mb-0">Вам коли-небудь потрібно було знайти слова, у яких були вказані букви для слова головоломки? Це просто для деяких скремблевих букв, але це складніше для нерегулярних букв. Читаючи або шукаючи наш величезний список слів із сотень тисяч слів, ви можете знайти слово з вашими літерами. З розширеним фільтром виправити лист і довжину вам потрібно весело провести час і досліджувати навколо, щоб побачити, що нові слова, ви можете придумати. Щоб використовувати цей інструмент, вам не потрібно завантажувати або встановлювати будь-яке програмне забезпечення на свій комп'ютер або мобільний пристрій. Ви можете використовувати наші слова з літерами інструмент в будь-який час, оскільки він повністю веб-основі.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Які способи використання слів з літерами інструмент?</h2>
+                        <p class="meduim-text text-center mb-0">Цей інструмент відмінно підходить для пошуку слів для настільних ігор та онлайн-ігор в слова. Просто введіть букви і задайте додаткові параметри, якщо це необхідно, і наші слова з буквами будуть відображати всі можливі слова. Слова з буквами були створені, щоб допомогти у вирішенні головоломок слів типу анаграми, але він має широкий спектр застосувань, включаючи онлайн-ігри на слова, такі як scrabble. Слова з літерами не тільки скребл вирішувач, він також може розшифровувати букви для різних анаграм ігор, таких як слова з друзями, Scrabble і т.д. це також відкриває ідею мати про-рівень Scrabble гри, в яких всі гравці використовують слова з літерами інструмент, щоб допомогти їм знайти слова, але вони повинні використовувати талант, щоб з'ясувати, де грати слова на дошці Scrabble і які букви тримати. Крім того, якщо цей інструмент використовується на регулярній основі, словниковий запас можна вдосконалити.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Скільки слів я можу ввести?</h2>
+                        <p class="meduim-text text-center mb-0">Можна ввести до 15 букв.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можу я знайти слова з буквами на свій вибір? </h2>
+                        <p class="meduim-text text-center mb-0">Ви можете застосувати фільтри, щоб отримати індивідуальні слова.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи можу я знайти 2-літерні слова?</h2>
+                        <p class="meduim-text text-center mb-0">Ви можете отримати слова, починаючи з 2 букв до 15 букв.</p>
+                </div>
+                
+                <div class="col-md-8 mx-auto pt-5">
+                    <h3 class="meduim-text2 text-center mb-2">Чи доступна шпаргалка?</h2>
+                        <p class="meduim-text text-center mb-0">Так, шпаргалка доступна.</p>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- close -->
+    
+    
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/uk" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/uk" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/uk" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> --><div class="rating-tool">
+  <img id="rating-img" loading='lazy' src="/assets/images/rating.webp" alt="rating-img">
+  <div class="rating-text">Rate this tool</div>
+  <div class="rating-stars">
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill  rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+    <i class="bi bi-star-fill rating-star"></i>
+
+  </div>
+  <div class="rating-value ml-2"><span class="rating"> <strong id='rating'>4.93</strong><span>/5</span> </span>
+    &nbsp; <span class="total-ratings" id='count'>60 </span> votes
+  </div>
+</div>
+<script>
+  const ratingValue = document.getElementById('rating')
+  const count = document.getElementById('count')
+  const setRating = async (rating) => {
+    const name = 'wordswithletters'
+    const tool = 'wordswithletter'
+    const data = { website: name, feature: tool, rating: rating };
+    fetch('https://ratingapi-main.netlify.app/.netlify/functions/api/v1/rating/add', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(data),
+    })
+      .then(response => response.json())
+      .then(data => {
+        ratingValue.innerText = data.rating
+        count.innerText = data.count
+      })
+      .catch((error) => {
+        console.error('Error:', error);
+      });
+  }
+  const tool = 'wordswithletter'
+  const fetchRating = async () => {
+
+    const data = await fetch(`https://ratingapi-main.netlify.app/.netlify/functions/api/v1/${tool}/rating`).then(res => res.json())
+    ratingValue.innerText = data.rating
+    count.innerText = data.votes
+  }
+  let ratingImg = document.querySelector('#rating-img');
+  ratingImg.addEventListener('load', (event) => {
+    fetchRating()
+  });
+  const ratingNode = document.getElementsByClassName('rating-star')
+  let ratedValue = localStorage.getItem(`${tool}rating`)
+  if (ratedValue) {
+    Array.from(ratingNode).slice(0, ratedValue).map(item => {
+      item.style.color = '#FDD300'
+    })
+  }
+
+  Array.from(ratingNode).map(item => item.addEventListener('click', () => {
+    const tool = 'wordswithletter'
+    if (!localStorage.getItem(`${tool}rating`)) {
+      function indexInClass(node) {
+        var className = node.className;
+        var num = 0;
+        for (var i = 0; i < ratingNode.length; i++) {
+          if (ratingNode[i] === node) {
+            return num;
+          }
+          num++;
+        }
+        return -1;
+      }
+      const index = indexInClass(item)
+      Array.from(ratingNode).slice(0, index + 1).map(item => {
+        item.style.color = '#FDD300'
+      })
+      setRating(index + 1)
+      localStorage.setItem(`${tool}rating`, index + 1)
+    }
+  }))
+</script><div class="container">
+    <div class="relatedPosts">
+
+        
+        <div class="row">
+            <div class="col-lg-8 mx-auto"><h2 class="related_post_heading text-center">Recent Posts</h2><div class="row">
+                    
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/wordle-hard-mode-tutorial">
+                                <img src="/uploads/output-5-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="Wordle hard mode tutorial ">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/wordle-hard-mode-tutorial" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">Wordle hard mode tutorial </h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/wordle-hard-mode-tutorial"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique">
+                                <img src="/uploads/output-9.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="What are the finest paraphrase tools to make your content unique?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">What are the finest paraphrase tools to make your content unique?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/what-are-the-finest-paraphrase-tools-to-make-your-content-unique"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games">
+                                <img src="/uploads/output-6-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="The top 5 free online wordle generator tools for word games">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">The top 5 free online wordle generator tools for word games</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/the-top-5-free-online-wordle-generator-tools-for-word-games"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism">
+                                <img src="/uploads/output-7-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="The best rewriter tool for text rewriter and spinner to prevent plagiarism">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">The best rewriter tool for text rewriter and spinner to prevent plagiarism</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/the-best-rewriter-tool-for-text-rewriter-and-spinner-to-prevent-plagiarism"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game">
+                                <img src="/uploads/output-3-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="How to use our wordle generator to create a wordle game?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">How to use our wordle generator to create a wordle game?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/how-to-use-our-wordle-generator-to-create-a-wordle-game"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+
+
+
+
+
+
+
+
+
+
+
+<div class="col-lg-6 col-md-6 mb-4 card-group">
+                        <div class="card h-100">
+                            <a href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool">
+                                <img src="/uploads/output-2-1.png" class="card-img-top" height="215px" width="100%"
+                                    loading="lazy" alt="How to make your content unique online, using the paragraph rewriter tool?">
+                            </a>
+                            <div class="card-body">
+                                <a class="text-decoration-none text-dark" href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool" class="anchor_link">
+                                    <h4 class="card-title mb-4 text-left">How to make your content unique online, using the paragraph rewriter tool?</h4>
+                                </a>
+                            </div>
+                            <div class="card-footer bg-white">
+                                <div class="wrapfooter">
+                                    
+                                    <span class="meta-footer-thumb">
+                                        <img class="author-thumb" loading="lazy" src="/assets/images/balark.jpeg" alt="Balark Singhal">
+                                    </span>
+                                    
+                                    <span class="author-meta">
+                                        <span class="post-name">
+                                            <a target="_blank" href="/blog">Balark Singhal</a>
+                                        </span><br>
+                                        <span class="post-date">06 Jul 2022</span>
+                                    </span>
+                                    <span class="post-read-more"><a class="text-dark" href="/blog/how-to-make-your-content-unique-online-using-the-paragraph-rewriter-tool"
+                                            title="Read Story">Read More</a></span>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Інструменти</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/word-game-generator-online">Генератор гри в слова онлайн</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/wordle-solver">Вертл вирішувач</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/make-words-with-these-letters">Складіть слова з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/word-generator-from-letters">Генератор слів з букв</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/words-spelled-with-these-letters">Слова, написані цими буквами </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/what-words-can-i-spell-with-these-letters-and-a-blank">Які слова я можу писати з цими буквами і бланком</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/words-with-these-letters-and-2-blanks">Слова з цими літерами і 2 прогалини</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/words-with-these-letters-and-3-blanks">Слова з цими літерами і 3 прогалини</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Слова довжини</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/six-letter-words-with-these-letters">Шість літерних слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/five-letter-words-with-these-letters">П'ять буквених слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/seven-letter-words-with-these-letters">Сім літерних слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/four-letter-words-with-these-letters">Чотири літерні слова з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/three-letter-words-with-these-letters">Три буквені слова з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/two-letter-words-with-these-letters">Дволітерні слова з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/eight-letter-words-with-these-letters">Вісім літерних слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/nine-letter-words-with-these-letters">Слова з дев'яти літер з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/ten-letter-words-with-these-letters">Десять букв з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/eleven-letter-words-with-these-letters">Одинадцять літерних слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/twelve-letter-words-with-these-letters">Дванадцять літерних слів з цими літерами</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/uk/thirteen-letter-words-with-these-letters">Тринадцять літерних слів з цими літерами</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">РЕСУРСИ</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Компанія</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">Правила та умови</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">Політика конфіденційності</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">Відмова від відповідальності</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><center>
+                                <button type="button" class="drop-down-btn" data-toggle="modal"
+                                    data-target="#staticBackdrop">
+                                    <svg viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor">
+                                        <path
+                                            d="M12 4C16.4183 4 20 7.58172 20 12C20 16.4183 16.4183 20 12 20C7.58172 20 4 16.4183 4 12C4 7.58172 7.58172 4 12 4ZM11.619 15.428L8.57155 15.4289C8.9774 16.7012 9.60471 17.924 10.4358 19.0678C10.8198 19.1532 11.2151 19.2073 11.6191 19.2282L11.619 15.428ZM15.4284 15.4289L12.38 15.428L12.3809 19.2282C12.7849 19.2073 13.1802 19.1532 13.5641 19.0687C14.3953 17.924 15.0226 16.7012 15.4284 15.4289ZM18.3762 15.4285L16.0984 15.4284C15.7811 16.5746 15.31 17.6754 14.703 18.7169C16.2768 18.0829 17.5774 16.9109 18.3762 15.4285ZM7.90159 15.4284L5.62381 15.4285C6.42258 16.9109 7.72324 18.0829 9.29827 18.717C8.69002 17.6754 8.21891 16.5746 7.90159 15.4284ZM7.4355 12.3803L4.77175 12.3809C4.81342 13.1846 4.98617 13.9535 5.26904 14.6669L7.71488 14.6666C7.55555 13.9205 7.46086 13.1572 7.4355 12.3803ZM15.9653 12.3808L12.38 12.38V14.666L15.6434 14.6671C15.8277 13.9178 15.9362 13.1537 15.9653 12.3808ZM19.2282 12.3809L16.5645 12.3803C16.5391 13.1572 16.4444 13.9205 16.2851 14.6666L18.731 14.6669C19.0138 13.9535 19.1866 13.1846 19.2282 12.3809ZM11.619 12.38L8.03469 12.3808C8.06384 13.1537 8.17229 13.9178 8.35656 14.6671L11.619 14.666V12.38ZM7.78068 8.95226L5.43294 8.95224C5.05284 9.76985 4.82095 10.6703 4.77175 11.6191L7.4329 11.6194C7.45634 10.71 7.57476 9.81899 7.78068 8.95226ZM15.5678 8.95239L12.38 8.952V11.619H15.968L15.9673 11.5875C15.9382 10.6945 15.8033 9.81313 15.5678 8.95239ZM18.5671 8.95224L16.2193 8.95226C16.4252 9.81899 16.5437 10.71 16.5671 11.6194L19.2282 11.6191C19.1791 10.6703 18.9472 9.76985 18.5671 8.95224ZM11.619 8.952L8.43217 8.95239C8.16446 9.93108 8.02667 10.9364 8.02667 11.9553L8.031 11.619H11.619V8.952ZM9.22964 5.31048L9.02453 5.39982C7.70745 5.99451 6.60023 6.97185 5.84458 8.19011L7.98594 8.19044C8.28727 7.19147 8.70587 6.2283 9.22964 5.31048ZM12.3809 4.77175L12.38 8.19L15.3312 8.18991C14.9387 7.06132 14.371 5.97399 13.6406 4.949C13.2322 4.85405 12.8116 4.79408 12.3809 4.77175ZM14.7693 5.31058L14.9321 5.60148C15.3809 6.43124 15.7444 7.2965 16.0141 8.19044L18.1554 8.19011C17.3607 6.9088 16.177 5.89399 14.7693 5.31058ZM10.5701 4.90311L10.3594 4.949C9.629 5.97399 9.06128 7.06132 8.66884 8.18991L11.619 8.19L11.6191 4.77175C11.262 4.79027 10.9117 4.83467 10.5701 4.90311Z">
+                                        </path>
+                                    </svg> Українська
+                                </button>
+                            </center>
+
+                            <div class="modal fade" id="staticBackdrop" data-backdrop="static" data-keyboard="false"
+                                tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                                <div class="modal-dialog ">
+                                    <div class="modal-content">
+                                        <div class="modal-header">
+                                            <h5 class="modal-title text-center w-100 " id="staticBackdropLabel">Select
+                                                Language
+                                            </h5>
+                                            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                                                <span aria-hidden="true">&times;</span>
+                                            </button>
+                                        </div>
+                                        <div class="modal-body px-md-5">
+                                            <ul class="language-drop-down-menu"><li class="language-drop-down-item ram"><a href="/id">Bahasa Indonesia
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/da">Dansk
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/de">Deutsch
+                                                    </a></li><li class="language-drop-down-item"><a href="/">English</a></li><li class="language-drop-down-item ram"><a href="/es">Español
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/fr">Français
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/it">Italiano
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/nl">Nederlands
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/pl">Polski
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/pt">(Português)
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/sv">Svenska
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/vi">Tiếng Việt
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/tr">Türkçe
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ru">Русский
+                                                    </a></li><li class="language-drop-down-item font-weight-bold "><a class="active-lang" href="uk">Українська
+                                                        <i class="fas fa-check ml-auto "></i> </a></li><li class="language-drop-down-item ram"><a href="/ar">العربية
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/hi">हिन्दी
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/th">ภาษาไทย
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ko">한국어
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/ja">日本語
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/zh">拼音
+                                                    </a></li><li class="language-drop-down-item ram"><a href="/zh-tw">繁體中文
+                                                    </a></li></ul>
+
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script>
+        let letterCloseButton = document.querySelector('.letter-close-button')
+        let txtBox = document.querySelector('.txtBox')
+        let focusBorder = document.querySelector('.focus-border')
+        txtBox.focus()
+
+        txtBox.addEventListener('input', (e) => {
+            if (e.target.value === "") {
+                letterCloseButton.classList.remove("close_ltr_icon")
+            }
+            else {
+                letterCloseButton.classList.add("close_ltr_icon")
+            }
+
+            focusBorder.classList.remove("focus-border")
+            e.target.value = e.target.value.replace(/[^a-zA-Z? ]/g, "")
+            let rangeOfBlankTile = ''
+            if (rangeOfBlankTile === "") {
+                rangeOfBlankTile = 3
+            }
+            e.target.value = e.target.value.replace(/ /g, '?')
+            let data = []
+            data = e.target.value.split('').filter((i) => i === '?')
+            // console.log(data.length)
+            // console.log(rangeOfBlankTile)
+            if (data.length > rangeOfBlankTile) {
+                e.target.value = e.target.value.replace(/\?$/, '')
+            }
+        })
+
+        letterCloseButton.addEventListener("click", () => {
+            txtBox.value = ""
+            letterCloseButton.classList.remove("close_ltr_icon")
+        })
+    </script>
+</body>
+
+</html>

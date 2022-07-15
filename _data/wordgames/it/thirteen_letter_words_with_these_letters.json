@@ -1,0 +1,56 @@
+{
+    "Language": "Italiano",
+    "htmlLangAtt": "it",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Trovare 13 parole di lettera con queste lettere - WordsWithLetters.org",
+    "h1": "Trovare 13 parole di lettera con queste lettere",
+    "h2": "Inserisci le lettere qui sotto per trovare le parole di 13 lettere",
+    "meta": "Stai ancora pensando a quante parole di tredici lettere puoi fare con queste lettere? Usa il nostro strumento per trovare parole di 13 lettere con queste lettere",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Porta una svolta nel tuo gioco. Genera parole di tredici lettere con queste lettere",
+            "feature_text": "Spesso questa lettera tredici trova la sua strada nei giochi di parole. Ma la cosa principale è che queste tredici parole con lettere a volte possono avere un punteggio elevato. Tuttavia puoi trovare il tuo salvataggio con il nostro word finder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera parole di tredici lettere con queste lettere",
+            "feature_text": "Il nostro wordfinder gratuito ti consente di trovare parole di tredici lettere e aiutarti a vincere la tua partita",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trovare qualsiasi parola numerata con la lettera Thirteen in essa",
+            "feature_text": "Il cercatore di parole di tredici lettere ti consente di trovare tutte le parole con tredici lettere fino a 15 caratteri.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genera anche le parole con tredici lettere più difficili a cui non riesci nemmeno a pensare.",
+            "feature_text": "Ottieni un pool di parole di tredici lettere con il punteggio più alto in pochi secondi con il nostro generatore di parole di tredici lettere gratuito.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

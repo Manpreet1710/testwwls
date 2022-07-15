@@ -1,0 +1,56 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Tìm từ 13 chữ cái với những chữ cái này - WordsWithletters.org",
+    "h1": "Tìm 13 từ chữ cái với các chữ cái",
+    "h2": "Nhập chữ cái dưới đây để tìm 13 từ chữ cái",
+    "meta": "Vẫn đang nghĩ đến bao nhiêu từ mười ba chữ cái bạn có thể tạo ra với những chữ cái này? Sử dụng công cụ của chúng tôi để tìm 13 từ chữ cái với các chữ cái này",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Mang lại một bước ngoặt trong trò chơi của bạn. Tạo ra mười ba từ chữ cái với các chữ cái",
+            "feature_text": "Thường thì bức thư này mười ba tìm đường trong trò chơi chữ. Nhưng điều chính là mười ba chữ cái này đôi khi có thể được ghi điểm cao. Tuy nhiên, bạn có thể tìm thấy giải cứu của bạn tại với công cụ tìm từ của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra mười ba từ chữ cái với các chữ cái",
+            "feature_text": "Wordfinder miễn phí của chúng tôi cho phép bạn tìm thấy mười ba từ thư và giúp bạn giành chiến thắng trò chơi của bạn",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tìm bất kỳ từ được đánh số nào có chữ cái Thirteen trong đó",
+            "feature_text": "Mười ba chữ cái tìm kiếm cho phép bạn tìm thấy tất cả Mười ba chữ viết lên đến 15 ký tự.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra ngay cả mười ba từ khắc nghiệt nhất mà bạn thậm chí không thể nghĩ đến.",
+            "feature_text": "Nhận được một hồ bơi ghi điểm cao mười ba từ chữ cái trong vài giây với trình tạo từ mười ba chữ cái miễn phí của chúng tôi.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

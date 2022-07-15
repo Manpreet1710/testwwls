@@ -1,0 +1,904 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="Meilleur outil Web en ligne pour les mots avec des lettres. Notre outil vous aidera à gagner tous les jeux de scrabble ou de mots entre amis. Cet outil convertira rapidement vos lettres en mots sans aucune contrainte. Essayez maintenant !">
+<meta name="og:description" content="Meilleur outil Web en ligne pour les mots avec des lettres. Notre outil vous aidera à gagner tous les jeux de scrabble ou de mots entre amis. Cet outil convertira rapidement vos lettres en mots sans aucune contrainte. Essayez maintenant !">
+<meta property="og:title" content="Mots avec des lettres- Un outil gratuit pour trouver des mots avec des lettres">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/fr/result">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/fr/result">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/fr/result">
+<meta data-rh="true" name="twitter:title" content="Mots avec des lettres- Un outil gratuit pour trouver des mots avec des lettres">
+<meta data-rh="true" name="twitter:description" content="Meilleur outil Web en ligne pour les mots avec des lettres. Notre outil vous aidera à gagner tous les jeux de scrabble ou de mots entre amis. Cet outil convertira rapidement vos lettres en mots sans aucune contrainte. Essayez maintenant !">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/fr/result">
+
+  <link rel="canonical" href="http://localhost:4000/fr/result"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>Mots avec des lettres- Un outil gratuit pour trouver des mots avec des lettres</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "Trucs et astuces pour déchiffrer rapidement des mots",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Lorsqu'il s'agit de déchiffrer des mots de lettres mélangées, quelques stratégies sont très utiles. Voici quelques conseils et astuces qui ont fait leurs preuves pour vous aider à trouver les réponses à ce casse-tête :
+-Séparez les consonnes des voyelles et voyez ce que vous pouvez trouver en associant différentes consonnes avec des voyelles.
+-Recherchez les termes courts commençant par deux ou trois lettres, par exemple. Ensuite, voyez si vous pouvez les allonger en les pluralisant ou en modifiant le temps.
+-Choisissez des mots avec des préfixes ou des suffixes susceptibles d'allonger la longueur des mots.
+Voici quelques conseils rapides et faciles à utiliser pour obtenir des réponses aux énigmes de mots."
+         }
+       },{"@type": "Question",
+         "name": "Comment déchiffrer les mots les plus difficiles ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "L'outil Mots avec lettres fonctionne également mieux pour les mots les plus difficiles. Il fournit une longue liste de mots valides. Entrez simplement les lettres avec lesquelles vous souhaitez créer des mots et obtenez le résultat souhaité en un rien de temps. Cet outil est totalement gratuit et très facile à utiliser. Cet outil a une option avancée et vous pouvez l'utiliser pour obtenir des mots à score élevé."
+         }
+       },{"@type": "Question",
+         "name": "Quels mots puis-je créer avec ces lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "C'est ce qui est amusant. Entrez vos lettres dans le champ de recherche des mots avec des lettres et voyez ce que cela vous donne. Vous obtiendrez une longue liste de vos mots valides. Cet outil prend également en charge les tuiles vierges (Scrabble) ou les caractères génériques. Pour l'esprit humain, les jeux de brouillage de mots sont similaires au football ou au football : un mélange de lettres poussant, poussant et criant à trier dans la bonne séquence."
+         }
+       },{"@type": "Question",
+         "name": "Les mots avec des lettres peuvent-ils m'aider à mieux faire au Scrabble ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Chaque jeu de puzzle, qu'il s'agisse d'un anagramme ou d'un jeu de mots, devient de plus en plus difficile. Voici quelques exemples idéaux d'utilisation de notre outil. 
+1. Lorsqu'il y a moins de lettres impliquées dans un jeu, cela peut sembler simple. Cependant, au fur et à mesure que le jeu avance et que vous atteignez un point où vous avez beaucoup plus de voyelles et de consonnes, les choses commencent à devenir un peu confuses ! Il est temps de mettre en œuvre notre outil.
+2. Au fur et à mesure que vous parcourez les niveaux, les énigmes de mots deviennent plus difficiles. Il est très naturel d'être confus et d'avoir besoin d'aide. C'est un excellent moyen de trouver de nouveaux mots en utilisant notre outil.
+L'outil Mots avec lettres est idéal lorsque vous devez créer de nouveaux mots, peu importe comment vous allez les utiliser. 
+"
+         }
+       },{"@type": "Question",
+         "name": "L'outil Mots avec des lettres peut-il être utilisé pour Scrabble ou Words With Friends ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Cet outil peut être utilisé pour trouver des mots dans vos lettres pour Scrabble ou Words With Friends. Les mots contenant des lettres prennent également en charge les caractères génériques. Nos outils peuvent vous aider à trouver des idées de mots au scrabble (y compris des tuiles vierges) et vous aider à trouver le mot le mieux noté. Ses options avancées vous permettent de filtrer les mots valides et de donner le résultat souhaité en quelques clics."
+         }
+       },{"@type": "Question",
+         "name": "L'outil Mots avec lettres autorise-t-il les caractères génériques ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Les caractères génériques sont des caractères spéciaux qui peuvent être utilisés pour remplacer des caractères inconnus dans une valeur de texte. Oui ! Les mots avec des lettres prennent en charge les tuiles vierges au Scrabble ou les caractères génériques. Ces tuiles seront comparées à toutes les lettres imaginables, ce qui entraînera une augmentation considérable du nombre de mots non brouillés. Entrez le caractère générique sous la forme d'un* ou ? dans la boîte aux lettres du solveur de mots."
+         }
+       },{"@type": "Question",
+         "name": "Cet outil peut-il être utilisé pour plusieurs lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Vous êtes-vous retrouvé avec un nombre excessif de lettres ? Ne vous inquiétez pas, l'outil de mots avec des lettres facilitera vos problèmes ! Peu importe le nombre de lettres que vous avez, soit 3,4,5 soit 8,9,10, cet outil fera son travail. Par exemple, nous prendrons les lettres R, L, I, N, K, A, R, F et O. Ici, nous avons 9 lettres. 
+
+Maintenant, vous savez quoi faire - entrez les lettres dans la case et appuyez sur Go et obtenez le résultat souhaité en un rien de temps. Vous pouvez utiliser l'option avancée pour obtenir des résultats raffinés."
+         }
+       },{"@type": "Question",
+         "name": "Comment créer des mots avec des lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Un monde avec des lettres est l'outil dont vous avez besoin, que vous jouiez à un jeu de mots ou que vous défiez simplement vos amis. Cet outil génère tous les mots possibles à partir des lettres données. Ici, vous obtenez une liste de mots regroupés par longueur pour gagner n'importe quel jeu de mots. Vous pouvez également utiliser des options avancées pour obtenir les résultats souhaités. Transformons des lettres aléatoires en mots gagnants avec cet outil !"
+         }
+       },{"@type": "Question",
+         "name": "Quels mots pouvons-nous créer avec les lettres en ligne ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "38 mots peuvent être créés à partir des lettres du mot en ligne. Si vous rencontrez des difficultés pour trouver les mots des lettres o, n, l, i, n, e. vous êtes au bon endroit. Words with letters vous donne la liste complète de tous les mots du Scrabble qui peuvent être créés à partir des lettres du mot en ligne en un seul clic. "
+         }
+       },{"@type": "Question",
+         "name": "Cet outil permet-il la répétition des lettres ? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Vous pourrez saisir jusqu'à 15 lettres dans la barre de recherche. Pour utiliser des lettres plusieurs fois, il suffit de les saisir plusieurs fois. Vous pouvez saisir chaque lettre deux fois si vous avez 8 lettres différentes, ou vous pouvez saisir des lettres que vous souhaitez répéter plusieurs fois.
+Vous pouvez également jouer avec des options avancées."
+         }
+       },{"@type": "Question",
+         "name": "Quand devons-nous utiliser l'outil Mots avec lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Chaque jeu de puzzle, qu'il s'agisse d'un anagramme ou d'un jeu de mots, devient plus difficile à mesure qu'il progresse. Voici quelques exemples idéaux d'utilisation de notre outil. 
+1. Lorsqu'il y a moins de lettres impliquées dans un jeu, cela peut sembler simple. Cependant, au fur et à mesure que le jeu avance et que vous atteignez un point où vous avez beaucoup plus de voyelles et de consonnes, les choses commencent à devenir un peu confuses ! Il est temps de mettre en œuvre notre outil.
+2. Au fur et à mesure que vous parcourez les niveaux, les énigmes de mots deviennent plus difficiles. Il est très naturel d'être confus et d'avoir besoin d'aide. C'est un excellent moyen de trouver de nouveaux mots en utilisant notre outil.
+L'outil Mots avec lettres est idéal lorsque vous devez créer de nouveaux mots, peu importe comment vous allez les utiliser. 
+"
+         }
+       },{"@type": "Question",
+         "name": "Quels sont les avantages d'utiliser l'outil Mots avec lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Succès- Qui ne veut pas gagner facilement ? Cependant, gagner un puzzle de mots n'est pas toujours simple. Nous sommes bloqués et frustrés la plupart du temps. Nous avons rendu notre outil simple, rapide et pratique. Utilisez notre outil de lettres avec des mots pour gagner des jeux de mots sans contraintes.
+Commodité- Lorsqu'un puzzle devient frustrant plutôt qu'intéressant, les mots avec des lettres résolvent ce problème. C'est un outil très simple et facile à utiliser.
+Boostez votre vocabulaire - Lorsque nous entrons les lettres dans la barre de recherche de mots avec des lettres, il affiche un certain nombre de mots utilisant deux ou plusieurs lettres. De cette façon, nous obtenons différents mots et pouvons améliorer notre vocabulaire en apprenant ces mots."
+         }
+       },{"@type": "Question",
+         "name": "Comment trouver des mots dont les lettres sont manquantes ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Cet outil fonctionne mieux pour trouver des lettres manquantes. Voici une liste complète des mots qui contiennent chaque lettre de l'alphabet. Mais si vous souhaitez concentrer votre recherche sur une longueur de mot spécifique ou, mieux encore, sur un modèle ? Nous avons tout ce dont vous avez besoin. Utilisez simplement nos options avancées. En plus d'utiliser des mots avec des lettres, un peu de résolution de problèmes chaque jour vous aide à devenir un joueur de mots de premier plan !"
+         }
+       },{"@type": "Question",
+         "name": "Cet outil ne fournit-il que des mots valides ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Word with letters est un outil spécialement créé pour vous aider à trouver les mots les plus marquants pour le Scrabble, Words with Friends et d'autres jeux de mots. Son moteur de recherche unique vous proposera tous les mots valides. En un mot, les mots avec des lettres vous permettent de saisir toutes les lettres que vous avez en main et de les réorganiser pour révéler toutes les combinaisons de mots possibles."
+         }
+       },{"@type": "Question",
+         "name": "Cet outil peut-il aider à gagner au scrabble ou à jouer aux mots avec des amis ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "L'outil Mots avec lettres transformera vos lettres en mots en un rien de temps. Si vous avez besoin d'un mot long ou d'un mot de cinq lettres, le générateur générera toutes les combinaisons possibles acceptées par votre jeu. Vous pouvez trouver les meilleures astuces et les mots les plus performants pour Scrabble, Words with Friends et de nombreux autres jeux de mots sur Words with Letters."
+         }
+       },{"@type": "Question",
+         "name": "Pouvons-nous élargir notre vocabulaire en utilisant cet outil ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Ne nous considérez pas comme un hack de mots, mais plutôt comme un outil de référence que vous et vos amis pouvez utiliser pour élargir votre vocabulaire. Notre moteur de recherche parcourra les dictionnaires britanniques et américains pour trouver la meilleure correspondance pour vos lettres. C'est très simple et facile, certainement amusant à utiliser. Mais en plus de vous amuser, vous pouvez également améliorer votre vocabulaire en utilisant fréquemment des mots avec des lettres. Utilisez cet outil et augmentez vos connaissances de manière amusante et intéressante.."
+         }
+       },{"@type": "Question",
+         "name": "Comment utiliser les options avancées de cet outil ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Si cela est pertinent pour le jeu auquel vous jouez, modifiez le dictionnaire ; sinon, laissez-le tel quel. Ces options apparaîtront lorsque vous sélectionnez le bouton « Options ». Vous pouvez utiliser les options « Commence par », « Se termine par » ou « Doit inclure » pour filtrer les résultats. Veuillez utiliser cet outil avec attention, sinon aucun mot valide ne sera donné en résultat. Cet outil est simple et facile à utiliser. La toute première étape consiste à taper jusqu'à 15 lettres dans la case ci-dessous, puis à appuyer sur Rechercher et à attendre que l'outil crée des mots avec ces lettres. Nous avons même un filtre avancé grâce auquel vous pouvez trouver un mot d'une longueur donnée ou qui correspond à un modèle spécifique. Vous pouvez utiliser notre outil de mots avec des lettres à tout moment car il est entièrement basé sur le Web. Copiez et collez simplement l'URL de notre site Web dans votre navigateur et utilisez-la au besoin."
+         }
+       },{"@type": "Question",
+         "name": "Ai-je besoin d'une installation ou d'un enregistrement pour utiliser cet outil de mots avec des lettres.",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "L'outil Words with letters est un outil Web avancé. Il n'est pas nécessaire de télécharger un logiciel ou de s'inscrire à cet outil. C'est un outil sûr et sécurisé et facile à utiliser. Aucune connaissance technique n'est requise pour utiliser cette application. Il prend en charge différents navigateurs et fonctionne bien."
+         }
+       },{"@type": "Question",
+         "name": "Quels jeux de problèmes de mots cet outil mots avec lettres aide-t-il ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "« Cet outil est utile pour les jeux de mots, les jeux de mots ou les jeux de mots en ligne.
+Mots avec des amis
+L'outil Mots avec lettres utilise un dictionnaire et trouve tous les mots valides de vos lettres mélangées. C'est amusant de jouer et d'améliorer vos compétences en mots.
+Scrabble
+Notre outil Mots avec lettres vous aidera à trouver les mots les plus marquants qui commencent par les lettres dont vous avez besoin pour avancer. Scrabble est similaire à Words With Friends,
+Twist de texte
+Text Twist est un autre jeu de mots similaire aux autres. Tapez simplement les lettres dans notre barre de recherche de mots, et nous générerons une liste de mots que vous pourrez utiliser. 
+Il existe d'autres jeux comme Word Trip, Daily Jumble, Wordscapes et bien d'autres. Cet outil est utile pour tous les jeux de problèmes de mots. »"
+         }
+       },{"@type": "Question",
+         "name": "Comment cela fonctionne-t-il en tant qu'assistant de jeu de mots ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Avez-vous déjà eu besoin de trouver des mots contenant des lettres spécifiques pour un puzzle de mots ? C'est simple pour certaines lettres brouillées, mais c'est plus difficile pour les lettres irrégulières. En lisant ou en recherchant notre vaste liste de mots de centaines de milliers de mots, vous pouvez trouver le mot avec vos lettres. Avec le filtre avancé, corrigez la lettre et la longueur dont vous avez besoin. Amusez-vous et explorez autour de vous pour voir quels nouveaux mots, vous pouvez trouver. Pour utiliser cet outil, vous n'avez pas besoin de télécharger ou d'installer un logiciel sur votre ordinateur ou votre appareil mobile. Vous pouvez utiliser notre outil de mots avec des lettres à tout moment car il est entièrement basé sur le Web."
+         }
+       },{"@type": "Question",
+         "name": "À quoi servent les mots avec des lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Cet outil est idéal pour trouver des mots pour les jeux de société et les jeux de mots en ligne. Entrez simplement les lettres et définissez les options avancées si nécessaire, et nos mots avec des lettres afficheront tous les mots possibles. Words with letters a été créé pour aider à résoudre des énigmes de mots de type anagramme, mais il a un large éventail d'applications, y compris des jeux de mots en ligne comme le scrabble. Words with letters n'est pas seulement un solveur de scrabble, il peut également déchiffrer des lettres pour une variété de jeux d'anagrammes tels que des mots avec des amis, du Scrabble, etc. Cela ouvre également l'idée d'avoir des jeux de scrabble de niveau professionnel dans lesquels tous les joueurs utilisent l'outil Mots avec des lettres pour les aider à trouver des mots, mais ils doivent utiliser déterminez où jouer les mots sur le tableau de scrabble et quelles lettres conserver. En dehors de cela, si cet outil est utilisé régulièrement, le vocabulaire peut être amélioré."
+         }
+       },{"@type": "Question",
+         "name": "Combien de mots puis-je saisir ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Vous pouvez saisir jusqu'à 15 lettres."
+         }
+       },{"@type": "Question",
+         "name": "Puis-je trouver des mots contenant les lettres de mon choix ? ",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Vous pouvez appliquer des filtres pour obtenir des mots personnalisés."
+         }
+       },{"@type": "Question",
+         "name": "Puis-je trouver des mots à deux lettres ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Vous pouvez obtenir des mots de 2 à 15 lettres."
+         }
+       },{"@type": "Question",
+         "name": "Le aide-mémoire est-il disponible ?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Oui, la feuille de triche est disponible."
+         }
+       }]
+    }
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><style>
+  .footer-container {
+    margin-top: 200px !important;
+  }
+
+  @media(max-width:768px) {
+
+    /* social icons style */
+    .social-icons {
+      position: relative !important;
+      width: 100% !important;
+      height: 0px;
+      display: flex;
+      top: 0;
+      font-size: 15px;
+      color: #fff;
+      flex-direction: row;
+      z-index: 0;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      background: transparent !important;
+      box-shadow: none !important;
+      line-height: 30px;
+    }
+
+    .social-icons a {
+      padding: 50px;
+      color: #000 !important;
+      font-size: 2rem !important;
+    }
+
+    .social-icon {
+      margin: 0 !important;
+      color: gray;
+    }
+
+    .social-icon:hover {
+      color: black;
+    }
+
+    .social-icons a {
+      padding: 10px;
+    }
+  }
+</style>
+
+<body>
+
+
+
+<!-- start commonPage as LandingPage -->
+
+<!-- header starts -->
+<!-- <header class="container" id="resultHeader"> -->
+<!-- navigation startss -->
+<nav class="result_navbar_section navbar-expand-lg navbar-dark" style="background-color: #fff;">
+    <a class="nav_menu_bar" href="/" title="" style="position: absolute; top:5px">
+        <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+    </a><span class="mobile_bars"><i style="top:0px" id="bars_style" class="bi bi-list bi-2x bars"></i></span>
+    <div id="open_list_bar"><div style="padding:2rem 0">
+            <a class="cat_bar_logo_link" href="/" title="">
+                <img class="cat_bar_img" src="/assets/images/wordswithletters-logo.png" alt="wordswithletters">
+                <span class="cat_title">Word with letters</span>
+            </a>
+            <div class="close_bar_btn">
+                <i class="bi bi-x"></i>
+            </div>
+        </div><div class="list-items-container">
+            <li class="list_cat_heading">Listes de mots</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/word-game-generator-online">
+                Générateur de jeu de mots en ligne
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/wordle-solver">
+                Solveur Wordle
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/make-words-with-these-letters">
+                Faites des mots avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/word-generator-from-letters">
+                Générateur de mots à partir de lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/words-spelled-with-these-letters">
+                Mots épelés avec ces lettres 
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/how-many-words-can-you-make-from-these-letters">
+                Combien de mots pouvez-vous créer à partir de ces lettres ?
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/what-words-can-i-spell-with-these-letters-and-a-blank">
+                Quels mots puis-je épeler avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/words-with-these-letters-and-2-blanks">
+                Mots avec ces lettres et 2 blancs
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/words-with-these-letters-and-3-blanks">
+                Mots avec ces lettres et 3 blancs
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Mots de longueur</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/six-letter-words-with-these-letters">
+                Mots de six lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/five-letter-words-with-these-letters">
+                Mots de cinq lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/seven-letter-words-with-these-letters">
+                Mots de sept lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/four-letter-words-with-these-letters">
+                Mots de quatre lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/three-letter-words-with-these-letters">
+                Mots de trois lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/two-letter-words-with-these-letters">
+                Mots de deux lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/eight-letter-words-with-these-letters">
+                Mots de huit lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/nine-letter-words-with-these-letters">
+                Mots de neuf lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/ten-letter-words-with-these-letters">
+                Mots de dix lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/eleven-letter-words-with-these-letters">
+                Onze lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/twelve-letter-words-with-these-letters">
+                Mots de douze lettres avec ces lettres
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/thirteen-letter-words-with-these-letters">
+                Treize lettres avec ces lettres
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Mots de X lettres avec ces lettres et un blanc</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/12-letter-words-with-these-letters-and-a-blank">
+                12 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/11-letter-words-with-these-letters-and-a-blank">
+                11 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/10-letter-words-with-these-letters-and-a-blank">
+                10 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/9-letter-words-with-these-letters-and-a-blank">
+                9 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/8-letter-words-with-these-letters-and-a-blank">
+                8 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/7-letter-words-with-these-letters-and-a-blank">
+                7 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/6-letter-words-with-these-letters-and-a-blank">
+                6 mots de lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/5-letter-words-with-these-letters-and-a-blank">
+                Mots de 5 lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/4-letter-words-with-these-letters-and-a-blank">
+                4 mots avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/3-letter-words-with-these-letters-and-a-blank">
+                Mots de 3 lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/fr/2-letter-words-with-these-letters-and-a-blank">
+                Mots de 2 lettres avec ces lettres et un blanc
+            </a>
+            <!-- </li> --></div></div><div class="container" id="containerWd">
+        <section class="result_sticky_nav">
+            <div class="pageHeading text-center">
+                <h1 class="result_heading m-0 pb-0">
+                    Rechercher des mots avec des lettres</h1>
+            </div>
+            <div class="serachSection2">
+                <div class="position-relative serachBox mt-4">
+                    <form action="" id='form'>
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox resultPageTxtBox" value='' name="search"
+                            maxlength="15" value required autocomplete="off">
+                        <div class="letter-close-button-commonPage">
+                            <i class="ltr-cls-btn-commonPage bi bi-x-circle-fill"></i>
+                        </div>
+                        <input
+                            style="border-radius: ; background-color: #000;"
+                            type="submit" class="serachBtn resultPageSearchBtn" id="serach" value>
+                        <div class="dictonaryDropdown">
+                            <select class="form-select select_dropDown2 resultPageDropdown2" name="dictionary"
+                                aria-label="Default select example">
+                                <option selected value="Dictionary">Dictionary</option>
+                                <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                                <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                                <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                            </select>
+                        </div><div class="tab_link_wrapper" style="position: relative;">
+    <div id="tab-scroll" class="tab-scroll flex-row">
+        <input type="button" name="" id="prev" class="prev tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+        <div id="tab-container" class="search-container tab_container flex-row">
+
+        </div>
+        <input type="button" name="" id="next" class="next tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+    </div>
+</div><div class="wrapper_dropDown mt-3 d-flex justify-content-end" style="gap:10px;">
+                            <div class="Advancedbtn" style="position: relative;" onclick="myFunction()">
+                                <span class="filter_count" style="display: none;"></span>
+                                <input type="button" value="Advanced Filter" class="filterButton">
+                                <div class="angle-arrow"></div>
+                            </div>
+                            <div id="sort-select">
+                                <select class="form-select sort-select" id="select_dropDown">
+                                    <option selected="true" hidden id="alpha" value="alpha">Sort by</option>
+                                    <option id="alpha" value="alpha">A-Z</option>
+                                    <option id="alpha" value="alpha">Z-A</option>
+                                    <option id="alpha" value="alpha">Points</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="fillterWrapper hide">
+                            <div class="text-right times" style="cursor: pointer; margin-top:-15px;">
+                                <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                            </div>
+                            <div class="startsWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that starts with these letters" for="startsWith">Starts
+                                    With</label>
+                                <input type="text" class="filter_val" id="startsWith" placeholder="Prefix" value=""
+                                    name="prefix">
+                            </div>
+                            <div class="mustInclude same">
+                                <label for="mustInclude" data-toggle="tooltip" data-placement="top"
+                                    title=" Words that contain letters in this order(ab)">Must Contains </label>
+                                <input type="text" class="filter_val" id="mustInclude" placeholder="Contains"
+                                    name="contains" value="">
+                            </div>
+                            <div class="endsWith same">
+                                <label for="endsWith" data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that ends with these letters">End With</label>
+                                <input type="text" class="filter_val" id="endsWith" placeholder="Suffix" name="suffix"
+                                    value="">
+                            </div>
+                            <div class="exculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that not contain the letters you enter here"
+                                    for="exculdeWith">Exculde</label>
+                                <br>
+                                <input type="text" class="filter_val" id="exculdeWith" placeholder="Exculde" value=""
+                                    name="exculde">
+                            </div>
+                            <div class="inculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that contain the letters you enter here"
+                                    for="inculdeWith">Include</label>
+                                <br>
+                                <input type="text" class="filter_val" id="inculdeWith" placeholder="Include" value=""
+                                    name="include">
+                            </div>
+                            <div class="wordLength same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words with this length" for="wordLength">Word Length </label>
+                                <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                    value="">
+                            </div>
+
+                            <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                                <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                    style="background-color:#808080;">
+                                <input id="applyBtn" type="submit" value="Apply" class="btn-info  text-white"
+                                    style="background: #808080">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</nav>
+<!-- </header> -->
+<div class="container" id="containerWd"><div class="row pad">
+    <div class="col-md-12">
+        <div class="filters d-flex justify-content-between align-items-center">
+            <div class="wordCount"></div>
+
+            <div class="filterSortedIcons">
+                <div class="filter-icon" onclick="myFunction()" data-toggle="tooltip" data-placement="top"
+                    title="Filter">
+                    <i class="bi bi-filter"></i>
+                </div>
+                <div class="sortup-icon" data-toggle="tooltip" data-placement="top" title="Sort">
+                    <i class="bi bi-sort-up"></i>
+                </div>
+            </div>
+        </div><div class="main"></div><div class="errorMsg"></div>
+    </div>
+</div>
+</div>
+<!-- navbar close -->
+<!-- header close -->
+
+
+<!-- close commonPage as LandingPage -->
+<link rel="stylesheet" href="/assets/css/advancedFilter.css">
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        inculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    function myFunction() {
+        fillterWrapper.classList.toggle('hide')
+    }
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+        fillterWrapper.classList.add('hide')
+    })
+
+</script>
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/fr/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/fr/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/fr/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Outils</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/word-game-generator-online">Générateur de jeu de mots en ligne</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/wordle-solver">Solveur Wordle</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/make-words-with-these-letters">Faites des mots avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/word-generator-from-letters">Générateur de mots à partir de lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/words-spelled-with-these-letters">Mots épelés avec ces lettres </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/what-words-can-i-spell-with-these-letters-and-a-blank">Quels mots puis-je épeler avec ces lettres et un blanc</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/words-with-these-letters-and-2-blanks">Mots avec ces lettres et 2 blancs</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/words-with-these-letters-and-3-blanks">Mots avec ces lettres et 3 blancs</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Mots de longueur</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/six-letter-words-with-these-letters">Mots de six lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/five-letter-words-with-these-letters">Mots de cinq lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/seven-letter-words-with-these-letters">Mots de sept lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/four-letter-words-with-these-letters">Mots de quatre lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/three-letter-words-with-these-letters">Mots de trois lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/two-letter-words-with-these-letters">Mots de deux lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/eight-letter-words-with-these-letters">Mots de huit lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/nine-letter-words-with-these-letters">Mots de neuf lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/ten-letter-words-with-these-letters">Mots de dix lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/eleven-letter-words-with-these-letters">Onze lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/twelve-letter-words-with-these-letters">Mots de douze lettres avec ces lettres</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/fr/thirteen-letter-words-with-these-letters">Treize lettres avec ces lettres</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">RESSOURCES</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">L'entreprise</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">Termes et conditions</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">Politique de confidentialité</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">Disclaimer</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><div></div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script defer src="/assets/js/leftNav.js"></script><script defer data-url="http://localhost:4000" data-range="" src="/assets/js/wordScrabble-test.js
+  "></script></body>
+
+</html>

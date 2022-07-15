@@ -1,0 +1,54 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "title": "以最少的猜測輕鬆解決工作",
+    "h1": "通過輸入到目前為止使用的字母來解決今天的 Wordle",
+    "h2": "以灰色、黃色和綠色輸入字母以查看可能的單字",
+    "meta": "以灰色，黃色和綠色輸入字母，並獲得匹配的 5 個字母單詞列表，以最小的嘗試解決今天的 Wordle，並打動您的朋友",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "簡單易用",
+            "feature_text": "工作求解器使用起來非常簡單。您只需在第一個框中輸入綠色字母，在第二行中輸入黃色字母，最後一行輸入灰色字母即可。單擊更新以查看可以從輸入的字母中進行的所有可能的單詞。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "即時結果",
+            "feature_text": "輸入字母並單擊「更新」後，就會立即顯示結果。您不必等待結果的生成。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "跨平台",
+            "feature_text": "我們的網站獨立於平台。它適用於 Windows 和 iOS 操作系統，並且可以在不需要任何下載的情況下使用。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "多個答案",
+            "feature_text": "Wordle 求解器為您提供了可以使用您輸入的字母進行的所有可能的單詞。可能性是無窮無盡的。猜測並在我們的 Wordle 求解器中輸入字母。您將獲得所有可能的單詞，並使您以最低限度的試驗贏得比賽。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "安全可靠",
+            "feature_text": "我們的網站優先考慮其客戶的隱私和安全性。該網站沒有病毒，不要求任何 ID 或註冊。您的數據對我們來說是安全的！",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "完全免費",
+            "feature_text": "每天解決措辭來領先人群。與您的朋友和家人分享結果，並使用我們的 Wordle 求解器成為 Wordle 冠軍。您可以根據需要多次使用我們的網站，並且不會因使用我們的服務而向您收取費用。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

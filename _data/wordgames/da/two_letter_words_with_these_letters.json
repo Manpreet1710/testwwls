@@ -1,0 +1,116 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde 2 bogstavsord med disse bogstaver- Wordswithletters.org",
+    "h1": "Find 2 bogstavsord med disse bogstaver",
+    "h2": "Generer ord med to bogstaver med disse bogstaver",
+    "meta": "Tænker stadig på, hvor mange ord med to bogstaver kan du lave med disse bogstaver? Brug vores værktøj til at finde 2 bogstavsord med disse bogstaver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Medbring et vendepunkt i dit spil. Generer ord med to bogstaver med disse bogstaver",
+            "feature_text": "Ofte finder dette brev to sin vej i ordspil. Men det vigtigste er, at disse to bogstaverord undertiden kan være meget scorende. Du kan dog finde din redning på med vores ordfinder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generer ord med to bogstaver med disse bogstaver",
+            "feature_text": "Vores gratis wordfinder giver dig mulighed for at finde ord på to bogstaver og hjælpe dig med at vinde dit spil",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Find et nummereret ord med bogstav to i det",
+            "feature_text": "To bogstavs ordfinder giver dig mulighed for at finde alle to bogstaver ord op til 15 tegn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer selv de hårdeste to bogstaver ord, du ikke engang kan tænke på.",
+            "feature_text": "Få en pulje med højt scorende to bogstaver på få sekunder med vores gratis ordgenerator med to bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

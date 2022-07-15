@@ -1,0 +1,192 @@
+{
+    "tools": [
+        {
+            "name": "word-game-generator-online"
+        },
+        {
+            "name": "make-words-with-these-letters",
+            "rating": "5.00",
+            "votes": 10
+        },
+        {
+            "name": "words-that-start-with-the-letters",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "six-letter-words",
+            "rating": "4.78",
+            "votes": 9
+        },
+        {
+            "name": "five-letter-words",
+            "rating": "4.64",
+            "votes": 11
+        },
+        {
+            "name": "twelve-letter-words",
+            "rating": "5.00",
+            "votes": 6
+        },
+        {
+            "name": "2-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "9-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "ten-letter-words",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "nine-letter-words",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "7-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "eleven-letter-words",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "what-words-can-I-spell-with-these-letters-and-a-blank",
+            "rating": "5.00",
+            "votes": 5
+        },
+        {
+            "name": "4-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "word-generator-from-letters",
+            "rating": "5.00",
+            "votes": 6
+        },
+        {
+            "name": "3-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "words-with-these-letters-and-2-blanks",
+            "rating": "5.00",
+            "votes": 6
+        },
+        {
+            "name": "how-many-words-can-you-make",
+            "rating": "5.00",
+            "votes": 7
+        },
+        {
+            "name": "words-with-these-letters-and-3-blanks",
+            "rating": "5.00",
+            "votes": 7
+        },
+        {
+            "name": "wordswithletter",
+            "rating": "4.93",
+            "votes": 60
+        },
+        {
+            "name": "find-words-with-letters-in-certain-positions",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "12-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "three-letter-words",
+            "rating": "5.00",
+            "votes": 3
+        },
+        {
+            "name": "15-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "14-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "thirteen-letter-words",
+            "rating": "5.00",
+            "votes": 4
+        },
+        {
+            "name": "seven-letter-words",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "13-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "word-spelled-with-these-letters",
+            "rating": "5.00",
+            "votes": 6
+        },
+        {
+            "name": "5-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "two-letter-words",
+            "rating": "5.00",
+            "votes": 4
+        },
+        {
+            "name": "10-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "four-letter-words",
+            "rating": "5.00",
+            "votes": 5
+        },
+        {
+            "name": "wordle-solver",
+            "rating": "5.00",
+            "votes": 9
+        },
+        {
+            "name": "6-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "eight-letter-words",
+            "rating": "5.00",
+            "votes": 2
+        },
+        {
+            "name": "8-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        },
+        {
+            "name": "11-letter-words-with-blanks",
+            "rating": "5.00",
+            "votes": 1
+        }
+    ]
+}

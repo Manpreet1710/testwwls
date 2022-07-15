@@ -1,0 +1,50 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Các từ được đánh vần bằng các chữ cái này",
+    "h1": "Các từ được đánh vần bằng các chữ cái này",
+    "h2": "Nhập các chữ cái và kiểm tra bao nhiêu từ được đánh vần với các chữ cái này",
+    "meta": "Khi các từ được đánh vần bằng chữ cái dường như khó hiểu, hãy sử dụng công cụ miễn phí của chúng tôi!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Tìm các từ được đánh vần với các chữ cái khó hiểu",
+            "feature_text": "Bạn có thường nghĩ đến “những từ nào tôi có thể đánh vần với những chữ cái này” trong khi chơi trò chơi chữ? Sau đó, bạn đang ở trên đúng trang web. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Trình tìm từ đơn giản, trực quan và thân thiện với người dùng",
+            "feature_text": "Đơn giản nhập các chữ cái trên bảng của bạn và ở đó bạn nhận được một loạt các từ được đánh vần với các chữ cái",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tất cả các quy tắc cho từ được đánh vần với các chữ cái trong một tóm tắt",
+            "feature_text": "Nếu bạn đang chơi trò chơi chữ scrabble cho lần đầu tiên, bạn cần những bộ quy tắc này có ích. Đơn giản và trực quan!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nhập tối đa mười lăm chữ cái!",
+            "feature_text": "Mười lăm lá thư! Đủ để có được từ dài nhất trong Từ điển tiếng Anh.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nó hỗ trợ một số từ điển",
+            "feature_text": "Một loạt các từ điển cho kết quả tốt nhất.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Bạn có tùy chọn sử dụng bất kỳ thiết bị nào",
+            "feature_text": "Cho dù bạn sử dụng một máy tính xách tay, tab, Android hoặc iPhone của bạn, từ thân thiện với điện thoại di động của chúng tôi với bạn bè scrambler solver có thể phục vụ mục đích của bạn từ bất cứ nơi nào",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

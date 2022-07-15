@@ -1,0 +1,56 @@
+{
+    "Language": "繁體中文",
+    "htmlLangAtt": "zh-TW",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "absolutely",
+                "x": "10",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "用這些字母找到 10 個字母的單詞-帶有字母的單詞",
+    "h1": "用這些字母找到 10 個字母的單詞",
+    "h2": "在下面輸入字母以找到十個字母的單詞",
+    "meta": "還在想，你可以用這些字母製作多少個十字母的單詞？使用我們的工具查找 10 個帶有這些字母的單詞",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "在您的遊戲中帶來轉折點。用這些字母生成十個字母的單詞",
+            "feature_text": "通常，這個字母十在文字遊戲中找到了方式。但最主要的是，這十個字母的單詞有時可以得到高分。但是，您可以使用我們的單詞查找器找到您的救援。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "用這些字母生成十個字母的單詞",
+            "feature_text": "我們的免費字詞查找器可讓您找到十個字母的單詞並幫助您贏得比賽",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "找到任何帶有字母十的編號單詞",
+            "feature_text": "十個字母單詞查找器可讓您找到所有十個字母單詞，最多可以找到 15 個字符。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "甚至可以生成您甚至無法想到的最艱難的十個字母單詞。",
+            "feature_text": "使用我們免費的十字母單詞生成器，在幾秒鐘內獲得一池高分的十個字母單詞。",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

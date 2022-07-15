@@ -1,0 +1,346 @@
+{
+    "Language": "Deutsch",
+    "htmlLangAtt": "de",
+    "title": "Wie viele Wörter kannst du mit diesen Buchstaben machen?",
+    "h1": "Wie viele Wörter kannst du mit diesen Buchstaben machen?",
+    "h2": "Gib die Buchstaben unten ein und finde heraus, wie viele Wörter mit diesen Buchstaben erstellt werden können",
+    "meta": "Denken Sie immer noch darüber nach, wie viele Wörter Sie mit diesen Buchstaben machen können? Verwenden Sie jetzt unser Wörter mit Buchstaben-Tool!",
+    "featureNo": "02",
+    "feature_title": "Funktionen",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Über",
+    "featureList": [
+        {
+            "feature_heading": "Wie viele Wörter kannst du mit den Buchstaben machen?",
+            "feature_text": "Mach dir keine Sorgen darüber, wie viele Wörter du mit den Buchstaben machen kannst. Sie werden so viele Wörter verlieren, die Ihnen helfen, mehr Punkte zu erzielen und... auch Ihr Vokabular zu verbessern!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Denken Sie immer noch daran, wie viele Wörter Sie mit diesen seltenen Buchstaben machen können?",
+            "feature_text": "Unser kostenloser Spickzettel ist dein schnellstes Mittel während unseres Spiels.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Das Entschlüsseln von langen Worten ist jetzt keine schwierige Aufgabe!",
+            "feature_text": "Sie könnten für einen Moment denken, dass Sie ein Wort mit 15 Buchstaben entschlüsseln!“. Aber unser Wortfinder kann dir in deinem Spiel helfen.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Neue Updates werden hervorgehoben",
+            "feature_text": "Jede neue Funktion im Zusammenhang mit dem Scrabble-Spiel wird direkt auf unserer Homepage hervorgehoben, damit Sie sie verwenden können!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Was bewirkt das Tool Wie viele Wörter können Sie mit diesen Buchstaben erstellen?",
+            "Answer": "Unser Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ generiert automatisch aussagekräftige Wörter aus den Buchstaben, die unser Benutzer eingibt, und zählt die Anzahl der aus diesen Buchstaben generierten Wörter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie verwende ich das Tool Wie viele Wörter können Sie mit diesen Buchstaben erstellen?",
+            "Answer": "Die Verwendung unseres Tools „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ ist sehr einfach. Alles was Sie tun müssen, ist die Buchstaben einzugeben, aus denen Sie Wörter machen möchten. Sie können bis zu 15 Buchstaben gleichzeitig eingeben. Wählen Sie als Nächstes den Wörterbuchtyp aus, den Sie für die zu generierenden Wörter verwenden möchten. Die verfügbaren Optionen sind „Wörterbuch“, TWL06 (USA, Kanada, Thailand), SOWPODS (Großbritannien und andere) und Enable (Wörter mit Freunden). Sie können dann die Option „Erweiterte Filter“ aktivieren. Klicken Sie dann auf die Suchschaltfläche, bei der es sich um die Lupe handelt. Und voila! Unser Tool generiert aus den eingegebenen Buchstaben die maximal mögliche Anzahl von Wörtern für Sie und zählt auch die Anzahl der aus diesen Buchstaben generierten Wörter.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Buchstaben kann ich für das Tool eingeben, um Wörter aus Buchstaben zu machen und zu zählen?",
+            "Answer": "Sie können in unserem Tool maximal 15 Buchstaben eingeben, um Wörter aus Buchstaben zu machen und zu zählen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Muss ich bezahlen, um dieses Tool zu nutzen?",
+            "Answer": "Nein, unser Tool ist völlig kostenlos. Sie müssen uns nicht bezahlen, um das Tool nutzen zu können.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Warum muss ich die Gesamtzahl der Wörter generieren und zählen?",
+            "Answer": "Möglicherweise müssen Sie Wörter generieren, wenn Sie wettbewerbsfähige Wortspiele wie Wordle oder Scrabble spielen. Möglicherweise müssen Sie auch Wörter entschlüsseln, und unser Tool hilft Ihnen dabei. Möglicherweise müssen Sie auch wissen, wie viele Wörter Sie mit bestimmten Buchstaben erstellen können.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann dieses Tool bei Wortspielen wie Wordle und Scrabble helfen?",
+            "Answer": "Ja absolut. Wenn Sie beim Spielen von Wortspielen wie Scrabble und Wordle Hilfe benötigen, ist unser Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ genau das Richtige für Sie.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich mit Hilfe dieses Tools verwirrte Wörter lösen?",
+            "Answer": "Natürlich. Unser Tool hilft Ihnen dabei, verwirrte Wörter einfach zu lösen. Alles, was Sie tun müssen, ist, die Buchstaben in das durcheinander gebrachte Wort einzugeben, die gewünschte Wortlänge anzugeben, und unser Tool gibt Ihnen alle möglichen Wörter. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Welche verschiedenen Wörterbuchoptionen sind verfügbar?",
+            "Answer": "In diesem Tool können Sie den Wörterbuchtyp auswählen, den Sie für die zu generierenden Wörter verwenden möchten. Die verfügbaren Optionen sind „Wörterbuch“, TWL06 (USA, Kanada, Thailand), SOWPODS (Großbritannien und andere) und Enable (Wörter mit Freunden).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie kann ich die erweiterten Filter verwenden?",
+            "Answer": "Die erweiterten Filter in unserem Tool enthalten die Option, mit denen Sie angeben können, mit welchen Buchstaben die Ergebniswörter beginnen oder enden müssen, welche Buchstaben die Wörter enthalten müssen, welche Buchstaben das Tool ausschließen soll und wie lang die gewünschte Wortlänge ist. Alles was Sie tun müssen, ist einfach auf die Schaltfläche für erweiterte Filter zu klicken und die Daten nach Ihren Wünschen einzugeben.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich die Wortlänge angeben?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Anzahl der Buchstaben anzugeben, die die Wörter enthalten sollen, die Sie benötigen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich bestimmte Charaktere ausschließen?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Buchstaben anzugeben, die die Wörter nicht haben sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich Pflichtzeichen angeben?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um die Buchstaben anzugeben, die die Wörter auf jeden Fall haben sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kann ich angeben, mit welchem Buchstaben die Wörter beginnen oder enden sollen?",
+            "Answer": "Ja, Sie können den Abschnitt „Erweiterte Filter“ unseres Tools verwenden, um anzugeben, mit welchen Buchstaben Ihre Wörter beginnen und enden sollen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Ist es sicher, das Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ zu verwenden?",
+            "Answer": "Unser Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ ist eines der sichersten und sichersten kostenlosen Online-Tools. Es enthält keine schädlichen Links oder unerwünschten Anzeigen. Es ist absolut problemlos und macht seine Arbeit perfekt. Gleichzeitig werden keine Benutzerdaten gespeichert. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Werden bei der Verwendung dieses Tools Anzeigen angezeigt?",
+            "Answer": "Da wir unsere Website völlig kostenlos nutzen können, helfen uns die Anzeigen bei der Pflege der Website. Wenn Sie unsere Website nutzen, werden also einige Anzeigen geschaltet. Wir können jedoch garantieren, dass die Ergebnisqualität oder -zeit nicht beeinträchtigt wird.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Unser kostenloses Online-Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ speichert keine Benutzerdaten. Es ist absolut sicher in der Anwendung. Alles, was der Benutzer auf unsere Website hochlädt, wird innerhalb kürzester Zeit aus unserer Cloud gelöscht.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Speichert dieses Tool meine Daten auf dem Server?"
+        },
+        {
+            "Question": "Wie viel Zeit braucht es, um die Wörter mit Buchstaben zu versehen und die Gesamtzahl der gebildeten Wörter zu zählen?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Es dauert nur wenige Sekunden, bis unser kostenloses Wie viele Wörter können Sie mit diesen Buchstaben erstellen, um seine Arbeit zu erledigen. Es erstellt schnell Wörter aus bestimmten Buchstaben und zählt die Zahl. Die Ergebnisse sind schnell und zu 100% genau."
+        },
+        {
+            "Answer": "Auf unserer Website ist keine Anmeldung oder Anmeldung erforderlich. Sie können unser Online-Angebot Wie viele Wörter Sie mit diesen Buchstaben erstellen können, kostenlos und ohne Aufforderung zur Anmeldung nutzen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Muss ich mich anmelden oder anmelden, um dieses Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ verwenden?"
+        },
+        {
+            "Question": "Funktioniert die Anzahl der Wörter, die Sie mit diesen Buchstaben machen können, auf Mobiltelefonen?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ja. Unsere kostenlose Funktion „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ funktioniert auf allen Plattformen. Sie können von Ihrem Handy aus darauf zugreifen. Geben Sie einfach die gewünschten Buchstaben in Ihre Worte von Ihrem Telefon aus ein und unser Tool erledigt die Arbeit für Sie."
+        },
+        {
+            "Answer": "Ja, unser Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ und alle anderen Tools unterstützen sowohl Android- als auch iOS-Plattformen.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Unterstützt es sowohl Android- als auch iOS-Plattformen?"
+        },
+        {
+            "Question": "Funktioniert die Anzahl der Wörter, die Sie mit diesen Buchstaben erstellen können, auf PCs und Laptops?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ja. Unser Online-Wie viele Wörter können Sie mit diesen Buchstaben machen können, wird auf allen Plattformen akzeptiert. Sie können dieses kostenlose Tool auch von Ihrem PC und Ihrem Laptop aus auf Ihrer Website verwenden. Es unterstützt sowohl Windows als auch Mac. Sie müssen lediglich bis zu 15 Buchstaben eingeben, den Wörterbuchtyp angeben, bei Bedarf erweiterte Filter hinzufügen, und das ist alles. Die Wörter werden aus diesen Buchstaben genau nach Ihren Anweisungen generiert."
+        },
+        {
+            "Answer": "Unsere Funktion „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“ ist vollständig webbasiert. Aus diesem Grund bietet es unseren Benutzern plattformübergreifenden Support. Das bedeutet, dass unser Tool alle Versionen von Windows unterstützt. Allgemeiner gesagt werden alle Versionen aller Betriebssysteme unterstützt.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Welche Windows-Versionen unterstützt das Tool „Wie viele Wörter können Sie mit diesen Buchstaben erstellen“?"
+        },
+        {
+            "Question": "Wie viele Wörter mit 2 Buchstaben können diese Buchstaben WAHRHEIT ergeben?",
+            "Answer": "Wir können insgesamt 2 Wörter mit 2 Buchstaben machen und die Wörter sind uh und ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie macht man mit diesen Buchstaben ein Wort BOOKS?",
+            "Answer": "Um alle möglichen Kombinationen von Wörtern mit Buchstaben BOOKS zu erstellen, müssen wir die Buchstaben auswählen und kombinieren, die zu einem aussagekräftigen Wort führen. Ein aussagekräftiges Wort ist ein Wort, das in einem Standardwörterbuch verfügbar ist. Wenn Sie denselben Vorgang online ausführen möchten, geben Sie einfach Ihren Brief auf unserer Website ein. Klicken Sie auf die Eingabetaste und Sie erhalten alle möglichen Ergebnisse. In diesem Fall können wir mit den Buchstaben BOOKS insgesamt 16 Wörter bilden, die wie folgt sind: books, kobos, book, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, sob, bo, os, so",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie macht man ein Wort mit diesen Buchstaben LABLE?",
+            "Answer": "Um alle möglichen Kombinationen von Wörtern mit Buchstaben LABLE zu erstellen, müssen wir die Buchstaben auswählen und kombinieren, die zu einem aussagekräftigen Wort führen. Ein aussagekräftiges Wort ist ein Wort, das in einem Standardwörterbuch verfügbar ist. Wenn Sie denselben Vorgang online ausführen möchten, geben Sie einfach Ihren Brief auf unserer Website ein. Klicken Sie auf die Eingabetaste und Sie erhalten alle möglichen Ergebnisse. In diesem Fall können wir mit den Buchstaben LABLE insgesamt 22 Wörter bilden, die wie folgt lauten: label, able, ballen, ball, bell, blae, leal, alb, ale, all, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter mit 7 Buchstaben können diese Buchstaben GENERATOR bilden?",
+            "Answer": "Insgesamt 18 Wörter mit sieben Buchstaben können mit dem Buchstaben-GENERATOR gebildet werden und die Wörter sind wie folgt: Garrote, Grantee, Granter, Grantor, Greaten, Greaten, Greater, Groaner, Negater, Negator, Reagenz, Regrant, Regrate, Terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter können aus diesen Buchstaben gemacht werden LAPTOP?",
+            "Answer": "Die Gesamtzahl der Wörter, die mit den Buchstaben LAPTOP gebildet werden können, beträgt 37 und die Wörter sind wie folgt: Laptop, Alt, Atop, Lota, Opal, Palp, Plat, Plot, Tola, Alp, Alt, App, Apt, Lat, lop, Los, Hafer, opt, Kumpel, Pap, Pat, Pat, Pol, Pop, Pot, Tao, Tippen, Top, Al, at, la, lo, op, pa, ta, zu",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter können aus diesen Buchstaben EMAILID gemacht werden?",
+            "Answer": "Die Gesamtzahl der Wörter, die mit den Buchstaben EMAILID gebildet werden können, ist 94 und die Wörter werden wie folgt verschickt, medial, miladi, ailed, gerichtet, amid, E-Mail, Ideal, iliad, Imid, lamed, gekalkt, Maile, Medaille, Medien, medii, Milia, Helfer, Alme, inmitten, Amie, Dale, Dame, Deal, Deil, Deli, Zifferblatt, Diel, diel, diel, diel ich, idem, im Leerlauf, ilea, ilia, imid, lade, gelegt, lahm, führen, gelogen, lima, kalk, gemacht, magd, mail, männlich, Met, Mahlzeit, melden, midi, mild, Meile, Hilfe, ail, Ziel, Ale, Ami, dal, Damm, del, sterben, dim, eld, Ulme, lad, lam, lea, geführt, lei, Deckel, Lüge, verrückt, Mae, Mel, Mel, Mitte, mil, und, ae, ai, al, bin, da, de, di, ed, el, em, id, la, li, ma, ich, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter kannst du mit all den 26 Buchstaben eines Alphabets bilden?",
+            "Answer": "Die Zahl ist ziemlich groß und kann gefunden werden, indem dieses einfache mathematische Problem gelöst wird, das n ist! (n Fakultät) wobei n die Gesamtzahl der Alphabete wäre, also wäre die Antwort 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter mit 6 Buchstaben können diese Buchstaben KITCHEN machen?",
+            "Answer": "Die Gesamtzahl der Wörter mit 6 Buchstaben, die mit den Buchstaben KITCHEN gebildet werden können, beträgt nur 1 und das Wort ist ethnisch.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter mit 6 Buchstaben können diese Buchstaben TROPICAL bilden?",
+            "Answer": "Die Gesamtzahl der 6 Buchstaben, die durch das Wort TROPICAL gebildet werden können, beträgt 17 und die Wörter sind wie folgt: Aorten, atopisch, Captor, Caroli, Cartop, Citola, Citral, Coital, Lictor, Lorica, Patrol, Picaro, Portal, Rialto, Rictal, Schneider, Tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie macht man Wörter mit diesen Buchstaben DREAM?",
+            "Answer": "Um Wörter mit diesem Buchstaben DREAM zu bilden, müssen Sie nur Alphabete aufnehmen, die zusammen ein bedeutungsvolles Wort bilden können. Ein aussagekräftiges Wort ist ein Wort, das in einem Standardwörterbuch zu finden ist. Sie dürfen nur die Wörter verwenden, die im Wort verfügbar sind. Wenn Sie es eilig haben und alle möglichen Wörter mit höchster Genauigkeit suchen. Sie können unser Tool verwenden. Dazu müssen Sie lediglich Ihren Browser öffnen, unsere Website wordswithletters.org eingeben und alle Buchstaben eingeben, aus denen Sie Wörter bilden möchten. Sobald Sie auf die Eingabetaste klicken, erhalten Sie Ihre Ergebnisse. In diesem Fall mit dem Wort TRAUM können wir 39 Wörter machen, die wie folgt bewaffnet sind, derma, Traum, Madre, Dame, wagen, Lieber, Derm, Dram, gemacht, Stute, Met, lesen, Ream, sind, Arm, Damm, Ohr, Ära, verrückt, Mae, Mar, Med, Rad, RAM, rot, rem, ad, ae, am, ar, da, de, ed, em, er, ma, me, rot",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie macht man mit diesen Buchstaben TOMMORROW Wörter?",
+            "Answer": "Um mit diesen Buchstaben TOMMORROW Wörter zu bilden, müssen Sie nur Alphabete aufheben, die zusammen ein bedeutungsvolles Wort bilden können. Ein aussagekräftiges Wort ist ein Wort, das in einem Standardwörterbuch zu finden ist. Sie dürfen nur die Wörter verwenden, die im Wort verfügbar sind. Wenn Sie es eilig haben und alle möglichen Wörter mit höchster Genauigkeit suchen. Sie können unser Tool verwenden. Dazu müssen Sie lediglich Ihren Browser öffnen, unsere Website wordswithletters.org eingeben und alle Buchstaben eingeben, aus denen Sie Wörter bilden möchten. Sobald Sie auf die Eingabetaste klicken, erhalten Sie Ihre Ergebnisse. In diesem Fall mit dem Wort TOMMORROW können wir 44 Wörter machen, die wie folgt lauten moorwort, morgen, morro, motor, rotor, moor, moot, mort, raum, root, rort, roto, toom, toro, torr, werfen, wurm, würze, mama, moo, mor, mot, mähen, oot, ort, rom, rot, row, tom, too, tor, tow, zwei, woo, wot, mm, mo, om, oder , jetzt, auch, zwei",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter können mit diesen Buchstaben gemacht werden APPLE?",
+            "Answer": "Mit dem Wort APPLE können wir insgesamt 24 Buchstaben bilden. Die Wörter sind wie folgt: appel, apple, pepla, sprung, blass, palp, peal, bitte, ale, alp, ape, app, lap, lea, pal, pap, pea, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Wie viele Wörter können aus diesen Buchstaben gemacht werden SAMPLE?",
+            "Answer": "Mit dem Wort SAMPLE können wir insgesamt 99 Buchstaben erstellen. Die Wörter sind wie folgt: Ahorn, Beispiel, Almosen, reichlich, Lames, Lampen, Zeitraffer, Sprünge, Männchen, Ahorn, Mahlzeiten, Blässe, Palmen, Blütenblätter, Plasma, Bitten, Psalm, Salep, Kelchblatt, Spale, Almen, Alpen, Ampere, Affen, Apsis, Ulmen, lahm, Lampe, Lams, Runden, Lase, Sprung, Leas, Männer, männlich, Karten, Metall, Mahlzeiten, Mesa, blass, Palm, Kumpels, pams, pase, peal, Erbsen, Plädoyer, Verkauf, Salp, gleich, Stempel, Siegel, Naht, Slam, Schlag, Spae, Spam, Ale, Alp, als, Ape, Asp, Ulme, els, ems, lam, lap, las, lea, Mae, Karte, mas, mel, pal, pam, pas, pea, pes, sae, sal, sap, Meer, Sel, Spa, ae, al, bin, wie, el, em, es, la, ma, ich, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Wie viele Wörter kannst du mit diesen Buchstaben bilden ATSFOPPQ?",
+            "Answer": "Mit diesen Buchstaben können wir insgesamt 65 Wörter bilden. Die Wörter sind wie folgt: Fatso, Softa, Apps, atop, schnell, Fette, Fops, Oafs, Hafer, Opts, Paps, Vergangenheit, Klopfen, Pops, Post, Töpfe, Qats, Seife, Sofa, weich, spuckte, Stelle, Stoa, Stopp, Taos, Wasserhähne, Tops, achtern, App, apt, asp, fas, fett, fop, oaf, hafer, oft, ops, opt, pap, pas, pat, pop, pot, qat, sap, saß, sop, sot, spa, tao, tippen, tas, oben, als, bei, fa, von, op, os, pa, so, ta, zu"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Wie viele Wörter kannst du mit diesen Buchstaben machen XATFPS?",
+            "Answer": "Aus dem Buchstaben XATFPS können wir insgesamt 28 Wörter machen. Die Wörter sind wie folgt: schnell, Fette, Vergangenheit, Pats, Spat, Wasserhähne, achtern, geeignet, asp, fas, fett, fax, pas, pat, pax, sap, saß, sax, spa, tap, tas, tax, as, at, ax, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

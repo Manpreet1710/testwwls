@@ -1,0 +1,116 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Hitta 2 bokstavsord med dessa bokstäver- Wordswithletters.org",
+    "h1": "Hitta 2 bokstavsord med dessa bokstäver",
+    "h2": "Generera ord med två bokstäver med dessa bokstäver",
+    "meta": "Tänker du fortfarande på hur många tvåbokstavliga ord du kan göra med dessa bokstäver? Använd vårt verktyg för att hitta 2 bokstavsord med dessa bokstäver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Ta med en vändpunkt i ditt spel. Generera ord med två bokstäver med dessa bokstäver",
+            "feature_text": "Ofta hittar denna bokstav två sin väg i ordspel. Men det viktigaste är att dessa två bokstäver kan ibland vara mycket poäng. Men du kan hitta din räddning på med vår ordsökare.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generera ord med två bokstäver med dessa bokstäver",
+            "feature_text": "Vår gratis wordfinder låter dig hitta ord med två bokstäver och hjälpa dig att vinna ditt spel",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Hitta ett numrerat ord med bokstaven två i det",
+            "feature_text": "Två bokstäver ordsökare låter dig hitta alla två bokstäver upp till 15 tecken.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Skapar även de tuffaste två bokstäver som du inte ens kan tänka på.",
+            "feature_text": "Få en pool med höga poäng med två bokstäver på några sekunder med vår gratis ordgenerator med två bokstäver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

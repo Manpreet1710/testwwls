@@ -1,0 +1,139 @@
+{
+    "Language": "Français",
+    "htmlLangAtt": "fr",
+    "title": "Mots avec ces lettres et 2 blancs - Mots avec des lettres",
+    "h1": "Mots avec ces lettres et 2 blancs",
+    "h2": "Entrez les lettres ci-dessous et vérifiez combien peuvent être épelées avec deux blancs",
+    "meta": "Vous avez 2 tuiles vierges et vous vous demandez quoi faire ? Ne vous inquiétez pas, nous avons ce qu'il vous faut. Trouvez facilement toutes les combinaisons possibles de mots pouvant être formés avec 2 tuiles vierges avec des mots avec des lettres.",
+    "featureNo": "02",
+    "feature_title": "Caractéristiques",
+    "blogNo": "03",
+    "blog_title": "Blogue",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "À propos",
+    "featureList": [
+        {
+            "feature_heading": "Facile à utiliser",
+            "feature_text": "Les mots avec ces lettres et 2 blancs sont vraiment simples à utiliser et tous les mots de n'importe quelle longueur pouvant être formés avec les lettres saisies sont affichés dans le résultat.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Génère le meilleur résultat",
+            "feature_text": "Les mots avec des lettres génèrent les meilleurs résultats, les mots les plus marquants dans un jeu de Scrabble. Votre victoire est garantie.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Entrez jusqu'à 15 lettres",
+            "feature_text": "Vous pouvez saisir jusqu'à 15 lettres (y compris le blanc) dans l'espace prévu à cet effet pour trouver le nombre maximum de mots pouvant être formés avec les lettres saisies.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Filtrez et triez facilement",
+            "feature_text": "Vous pouvez facilement trier et filtrer les résultats à votre convenance. Cette fonctionnalité est très facile à utiliser et vous aidera à obtenir le résultat souhaité presque instantanément.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Absolument gratuit !",
+            "feature_text": "Notre plateforme est totalement gratuite. Nous n'avons absolument aucune publicité sur notre site Web, ce qui vous permet de vous concentrer sur ce pour quoi vous êtes venu ici.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Comment puis-je utiliser l'option de filtre avancé ?",
+            "Answer": "Pour utiliser l'option de filtre avancé, cliquez simplement sur Filtres avancés. Remplissez vos options comme le mot commence par, le préfixe, les lettres ou les mots qu'il doit inclure, ce qu'il contient, la fin de votre mot, le suffixe, la longueur du mot et cliquez sur Appliquer.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quelles sont les options de dictionnaire disponibles ?",
+            "Answer": "Notre site Web vous permet de prendre en compte deux dictionnaires, augmentant ainsi vos chances de trouver plus de mots qui ont du sens. Les options de dictionnaire disponibles chez nous sont Dictionary, TWLO6 (États-Unis, Canada et Thaïlande), SOWPODS (Royaume-Uni et autres) et Enable (Words with Friends)",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je trier les résultats de recherche ?",
+            "Answer": "Oui, une fois les résultats affichés, en fonction du nombre de résultats générés, la fonction de tri apparaît à l'écran.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quelles sont les options de tri disponibles ?",
+            "Answer": "Nous proposons plusieurs options de tri. Vous pouvez trier les résultats de recherche de A à Z et de Z à A. Nous avons également une option dans laquelle les résultats sont triés en fonction des points qu'ils gagnent sur un tableau de scrabble, du plus élevé au plus bas.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Puis-je savoir combien de points le mot va marquer dans un jeu de mots ?",
+            "Answer": "Oui, absolument. Notre site Web vous fournit non seulement toutes les formations de mots possibles à partir des mots que vous avez saisis, mais affiche également les points que vous allez marquer si vous utilisez ce mot dans un jeu. Le nombre affiché dans le coin inférieur droit de chaque mot correspond aux points que vous obtiendrez du mot.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels mots peuvent être formés à l'aide de lettres de « jeu » et de 2 blancs ?",
+            "Answer": "Toutes les lettres possibles aux mots avec des lettres utilisant la lettre PLAYING sont les suivantes : jouer, gainly, pose, paling, payant, plying, algin, aligner, aping, gaily, inlay, lapin, liang, ligan, linga, linga, lingy, couché, plaine, agin, agly, anil, ayin, gain, gapy, glia, inly, lain, lang, ling, liny, lipa, clou, téton, seau, douleur, paly, pang, pial, pian, pily, pina, ping, piny, plan, jouer, pyin, yagi, yang, ail, ain, alp, ani, tout, gal, gan, gap, gay, gin, gip, gyp, lag, lap, lay, lin, lèvre, nag, sieste, nay, nil, nip, pal, pan, payer, pia, cochon, pin, pli, pya, yag, yap, yin, yip, ag, ai, al, an, ay, gi, dans, la, li, na, pa, pi, ya",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels sont les mots de 5 lettres qui peuvent être formés à partir des lettres BEDSIDE ?",
+            "Answer": "Tous les mots de 5 lettres qui peuvent être générés à partir des lettres BEDSIDE sont les suivants : enchère, offre, acte, face",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels mots peuvent être formés à l'aide de lettres de « négatif » et de 2 blancs ?",
+            "Answer": "Si vous recherchez un mot avec des lettres, vous êtes au bon endroit. Dans ce cas, toutes les lettres qui peuvent être créées en utilisant les lettres NÉGATIVES sont les suivantes agentive, négatif, naïve, ventage, vintage, venge, manger, genève, ingate, natif, négate, teeing, teniae, agene, agent, mangé, enate, entia, événement, evite, ganev, genet, genie, géant, donné, naevi, naïf, nieve, tene ia, teigne, teinte, veena, vegan, vegie, venae, venge, vitae, agee, agin, ante, anti, eave, etna, même, gaen, gain, démarche, gane, porte, a donné, gene, gent, geta, gien, gite, donner, moucheron, neve, nevi, nite, tain, tang, ado, tine ting, vagi, vain, girouette, vang, veine, veine, vent, viga, vina, vigne, vita, age, ain, ait, ane, ani, ant, a mangé, ave, manger, eng, eta, veille, gae, gan, gat, gee, gen, obtenir, gie, gin, git, nae, nag, nee, net, nit, tae, tag, bronzage, tav, thé, tee, teg, dix, cravate, étain, van, vat, vee, veg, vet, via, vie, vig, ae, ag, an, at, en, et, gi, in, it, na, ne, ta, ti",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Quels mots peuvent être formés à l'aide de lettres de « positif » et de 2 blancs ?",
+            "Answer": "Si vous recherchez un mot avec des lettres, vous êtes au bon endroit. Dans ce cas, toutes les lettres qui peuvent être créées en utilisant les lettres POSITIVES sont les suivantes : positif, pities, pivots, potsie, sopite, soviétique, estop, ivies, pesto, piste, pivot, poets, poise, posit, dépit, stipe, stope, poêle, tipis, topes, visite, votes, epos, opes, opts, peso, pest, pets, pies, piso, fosses, poète, pois, pose, poste, pots, sept, sipe, site, cracher, spiv, place, étape, arrêter, cravates, tipi, conseils, orteils, tope, topi, tops, gilet, veto, vétérinaires, vies, étau, voes, vote, its, oes, ope, ops, opt, ose, pes, animal de compagnie, tarte, pis, fosse, poi, pot, psi, sei, set, siroter, s'asseoir, sop, sot, cravate, pointe, conseils, orteils, haut, vétérinaire, vue, vis, voe, es, et, est, il, oe, oi, op, os, pe, pi, si, donc, ti, à",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Des mots avec des lettres « retombées » et deux blancs ?",
+            "Answer": "Tous les mots qui peuvent être générés en utilisant les lettres FALLOUT sont les suivants : émissaire de retombées afoul allouer en altitude atoll faille flotteur flota flout alto chute automatique poulain faute complet pain de latu loft lota lout olla haut tofu tola toll tolu tufa arrière tout alt fat flu fou lat lot oaf avoine oft out tao tau uta al at fa la lo de ta à ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Des mots avec des lettres « brillantes » et deux blancs ?",
+            "Answer": "Tous les mots qui peuvent être générés en utilisant les lettres GLOWING sont les suivants : glow, lowing, ogling, going, lingo, owing, glow, gong, gown, ling, lino, lion, loin, long, lown, nogg, noil, wing, wino, gig, gin, igg, ion, lin, log, low, nil, nog, now, oil, owl, own, wig, win, gi, allez, dans, li, lo, non, oi, non, non, non, Aïe, wo"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

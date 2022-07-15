@@ -1,0 +1,45 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Bu harflerle ne heceleyebilirim ve boş- Wordswithletters",
+    "h1": "Bu harflerle ve boş kelimeler",
+    "h2": "Aşağıdaki harfleri girin ve boş bir şekilde kaç tane yazılabileceğini kontrol edin",
+    "meta": "Sende var mı 1 boş başlık ve nasıl heceleneceğini merak ediyorlar? Merak etme seni koruduk. İle yazılabilecek tüm olası kelime kombinasyonlarını bulun 1 wordswithletters ile boş karo kolayca.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Kesinlikle ücretsiz!",
+            "feature_text": "Platformumuzun kullanımı tamamen ücretsizdir. Web sitemizde, buraya ne için geldiğinize odaklanmanıza izin veren kesinlikle hiçbir reklamımız yok.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kolay filtre ve sıralama",
+            "feature_text": "Sonuçları istediğiniz zaman kolayca sıralayabilir ve filtreleyebilirsiniz. Bu özelliğin kullanımı gerçekten kolaydır ve istenen sonucu neredeyse anında elde etmenize yardımcı olacaktır.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "15 harfe kadar girin",
+            "feature_text": "Girilen harflerle oluşturulabilecek maksimum kelimeleri bulmak için sağlanan alana en fazla 15 harf (boşluk dahil) girebilirsiniz.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "En iyi sonucu üretir",
+            "feature_text": "Harfli kelimeler en iyi sonuçları üretir, bir Scrabble oyununda en yüksek puanlı kelimeler. Kazancınız garantilidir.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kullanımı kolay",
+            "feature_text": "Kelimeler bu harfler ve bir boşluk gerçekten kullanımı kolaydır ve girilen harfler ile oluşturulabilir herhangi bir uzunlukta tüm kelimeler sonuç görüntülenir.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

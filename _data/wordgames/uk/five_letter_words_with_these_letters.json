@@ -1,0 +1,126 @@
+{
+    "Language": "Українська",
+    "htmlLangAtt": "uk",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "unicorn",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "unicorn",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "liaison",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "liaison",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "online",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "online",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "mammoth",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "mammoth",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "kitchen",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "kitchen",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "journey",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "journey",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "zephyrs",
+                "x": "5",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "zephyrs",
+                "x": "5",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "phony",
+                "x": "5",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "phony",
+                "x": "5",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Знайдіть 5 літерні слова з цими літерами - WordWithLetters.org",
+    "h1": "Знайдіть чотири літери з цими літерами",
+    "h2": "Введіть літери нижче, щоб знайти 5 літерні слова",
+    "meta": "Все ще думаєте, скільки чотирилітерних слів ви можете скласти за допомогою цих літер? Використовуйте наш інструмент, щоб знайти 5 літерні слова з цими літерами",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Принесіть переломний момент у вашій грі. Створіть чотирибуквені слова з цими літерами",
+            "feature_text": "Часто ця буква чотири знаходить свій шлях в іграх на слова. Але головне, що ці чотири літерних слова іноді можуть бути високо оцінені. Однак ви можете знайти свій порятунок за допомогою нашого пошуку слів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створіть чотирибуквені слова з цими літерами",
+            "feature_text": "Наш безкоштовний wordfinder дозволяє знайти чотири літери слів і допомогти вам виграти гру",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Знайти будь-яке пронумероване слово з літерою Чотири в ньому",
+            "feature_text": "Чотири листи слово шукач дозволяє знайти всі чотири літерних слова Шифрування до 15 символів.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Створює навіть найскладніші чотири літерні слова, про які ви навіть не можете придумати.",
+            "feature_text": "Отримайте пул високих балів чотирьох літерних слів за лічені секунди за допомогою нашого безкоштовного генератора слів із чотирма літерами.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

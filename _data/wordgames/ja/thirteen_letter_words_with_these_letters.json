@@ -1,0 +1,56 @@
+{
+    "Language": "日本語",
+    "htmlLangAtt": "ja",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Insignificant",
+                "x": "13",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "これらの文字を含む13文字の単語を検索してください-WordsWithLetters.org",
+    "h1": "これらの文字を含む13文字の単語を検索する",
+    "h2": "下の文字を入力して13文字の単語を検索してください",
+    "meta": "この文字で13文字の単語がいくつ作れるかまだ考えていますか？ツールを使用して、これらの文字を含む13文字の単語を検索してください",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "ゲームにターニングポイントをもたらす。これらの文字で13文字の単語を生成する",
+            "feature_text": "多くの場合、この手紙13は単語ゲームでその方法を見つけます。しかし、主なことは、これらの13文字の単語が高得点になることがあるということです。しかし、あなたは私たちのワードファインダーであなたの救助を見つけることができます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "これらの文字で13文字の単語を生成する",
+            "feature_text": "無料のワードファインダーで13文字の単語を見つけて試合に勝てる手助けをします",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "文字13を含む数字の付いた単語を検索する",
+            "feature_text": "13文字の単語ファインダーでは、15文字までの13文字の単語をすべて検索できます。",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "あなたが考えることさえできない最も難しい13文字の単語さえ生成します。",
+            "feature_text": "無料の13文字単語ジェネレーターで、高得点の13文字の単語のプールを数秒で入手できます.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

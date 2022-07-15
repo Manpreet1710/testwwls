@@ -1,0 +1,116 @@
+{
+    "Language": "हिन्दी",
+    "htmlLangAtt": "hi",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "time",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "more",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "when",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "what",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "this",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Words with friends"
+            },
+            {
+                "word": "that",
+                "x": "2",
+                "gameName": "Scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "EW",
+                "x": "2",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "इन अक्षरों के साथ 2 पत्र शब्द खोजें - Wordswithletters.org",
+    "h1": "इन अक्षरों के साथ 2 अक्षर शब्द खोजें",
+    "h2": "इन अक्षरों के साथ दो अक्षर शब्द उत्पन्न करें",
+    "meta": "फिर भी सोच रहे हैं कि आप इन अक्षरों से कितने दो-अक्षर वाले शब्द बना सकते हैं? इन अक्षरों के साथ 2 अक्षर शब्द खोजने के लिए हमारे टूल का उपयोग करें",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "अपने खेल में एक महत्वपूर्ण मोड़ लाएं। इन अक्षरों के साथ दो अक्षर शब्द उत्पन्न करें",
+            "feature_text": "अक्सर यह अक्षर दो शब्द के खेल में अपना रास्ता ढूंढता है। लेकिन मुख्य बात यह है कि ये दो अक्षर वाले शब्द कभी-कभी अत्यधिक स्कोरिंग हो सकते हैं। हालाँकि आप हमारे शब्द खोजक के साथ अपना बचाव पा सकते हैं।",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "इन अक्षरों के साथ दो अक्षर शब्द उत्पन्न करें",
+            "feature_text": "हमारा मुफ्त वर्डफाइंडर आपको दो अक्षर शब्द ढूंढने देता है और आपको अपना गेम जीतने में मदद करता है",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "इसमें दो अक्षर के साथ कोई भी क्रमांकित शब्द खोजें",
+            "feature_text": "दो अक्षर शब्द खोजक आपको 15 अक्षरों तक के सभी दो अक्षर वाले शब्दों को खोजने देता है।",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "यहां तक कि सबसे कठिन दो अक्षर वाले शब्द भी उत्पन्न करता है जिनके बारे में आप सोच भी नहीं सकते।",
+            "feature_text": "हमारे मुफ़्त दो-अक्षर वाले शब्द जनरेटर के साथ सेकंड में उच्च स्कोरिंग दो अक्षर वाले शब्दों का एक पूल प्राप्त करें।",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

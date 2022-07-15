@@ -1,0 +1,346 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Hur många ord kan du göra med dessa bokstäver?",
+    "h1": "Hur många ord kan du göra med dessa bokstäver?",
+    "h2": "Ange bokstäverna nedan och ta reda på hur många ord som kan skapas med dessa bokstäver",
+    "meta": "Tänker du fortfarande på hur många ord du kan göra med dessa bokstäver? Använd våra ord med bokstäver verktyg nu!",
+    "featureNo": "02",
+    "feature_title": "Funktioner",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "Om",
+    "featureList": [
+        {
+            "feature_heading": "Hur många ord kan du göra med bokstäverna?",
+            "feature_text": "Oroa dig inte över hur många ord du kan göra med bokstäverna. Du kommer att gå vilse på så många ord som hjälper dig att få fler poäng och... förbättra ditt vokab också!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tänker du fortfarande på hur många ord du kan göra med dessa sällsynta bokstäver?",
+            "feature_text": "Vårt gratis fuskblad är din snabbaste lösning under vårt spel.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Avkoda löst — oong ord i inte en tuff uppgift nu!",
+            "feature_text": "Du kanske tror för ett ögonblick att avkoda ett 15 bokstäver ord!”. Men vår ordsökare kan hjälpa dig i ditt spel.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nya uppdateringar som ska markeras",
+            "feature_text": "Varje ny funktion som är relaterad till scrabble spel kommer att markeras direkt på vår hemsida så att du kan använda dem!",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "faqList": [
+        {
+            "Question": "Vad gör verktyget Hur många ord kan du göra med dessa bokstäver?",
+            "Answer": "Vårt verktyg Hur många ord kan du göra med dessa bokstäver genererar automatiskt meningsfulla ord från bokstäverna som vår användare anger och räknar antalet ord som genereras från dessa bokstäver.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur man använder verktyget Hur många ord kan du göra med dessa bokstäver verktyg?",
+            "Answer": "Att använda vårt Hur många ord kan du göra med dessa bokstäver verktyg är mycket enkelt. Allt du behöver göra är att skriva in bokstäverna du vill göra ord av. Du kan ange upp till 15 bokstäver åt gången. Välj sedan vilken typ av ordlista du vill använda för orden som ska genereras - de tillgängliga alternativen är ”Dictionary”, TWL06 (USA, Kanada, Thailand), SOWPODS (Storbritannien och andra) och Aktivera (Ord with Friends). Du kan sedan aktivera alternativet Avancerade filter. Klicka sedan på sökknappen, som är förstoringsglaset. Och voila! Vårt verktyg kommer att generera maximalt möjliga antal ord från de angivna bokstäverna för dig och det kommer också att räkna antalet ord som genereras från dessa bokstäver.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många bokstäver kan jag skriva in för verktyget för att skapa och räkna ord av bokstäver?",
+            "Answer": "Du kan ange högst 15 bokstäver i vårt verktyg, för att göra och räkna ord av bokstäver.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Måste jag betala för att använda det här verktyget?",
+            "Answer": "Nej, vårt verktyg är helt gratis att använda. Du behöver inte betala oss för att använda verktyget.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Varför behöver jag generera och räkna totalt antal ord?",
+            "Answer": "Du kan behöva generera ord om du spelar tävlingsordspel, som Wordle eller Scrabble. Du kan också behöva avkoda ord, och vårt verktyg hjälper dig med det. Du kan också behöva veta hur många ord du kan göra med vissa specifika bokstäver.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan det här verktyget hjälpa till med ordspel som Wordle och Scrabble?",
+            "Answer": "Ja, absolut. Om du behöver hjälp när du spelar ordspel som Scrabble och Wordle, är vårt verktyg Hur många ord kan du göra med dessa bokstäver verktyg rätt väg att gå.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag lösa virkade ord med hjälp av detta verktyg?",
+            "Answer": "Naturligtvis. Vårt verktyg hjälper dig att enkelt lösa ord. Allt du behöver göra är att ange bokstäverna i det rörliga ordet, ange ordlängden du önskar, och vårt verktyg kommer att ge dig alla ord möjliga. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Vilka är de olika ordboksalternativen tillgängliga?",
+            "Answer": "I det här verktyget kan du välja vilken typ av ordlista du vill använda för orden som ska genereras - de tillgängliga alternativen är ”Ordbok”, TWL06 (USA, Kanada, Thailand), SOWPODS (Storbritannien och andra) och Aktivera (Ord med vänner).",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur kan jag använda de avancerade filtren?",
+            "Answer": "De avancerade filtren i vårt verktyg innehåller alternativet för dig att ange vilka bokstäver resultatet ord måste börja eller sluta med, vilka bokstäver orden måste innehålla, vilka bokstäver du vill att verktyget ska utesluta och vad önskad ordlängd är. Allt du behöver göra är att klicka på knappen avancerade filter och mata in data som du vill.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange ordlängd?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange antalet bokstäver som orden du behöver ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag utesluta vissa tecken?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange de bokstäver du inte vill att orden ska ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange obligatoriska tecken?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange de bokstäver du definitivt vill att orden ska ha.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Kan jag ange vilken bokstav orden ska börja eller sluta med?",
+            "Answer": "Ja, du kan använda avsnittet avancerade filter i vårt verktyg för att ange vilka bokstäver du vill att dina ord ska börja samt sluta med.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Är det säkert att använda verktyget Hur många ord kan du göra med dessa bokstäver?",
+            "Answer": "Vårt Hur många ord kan du göra med dessa bokstäver verktyg är ett av de säkraste och säkraste gratis online-verktygen. Det har inga skadliga länkar eller oönskade annonser. Det är helt problemfritt och gör sitt jobb helt bra. Samtidigt sparar det inte någon av användardata. ",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "När du använder det här verktyget, kommer några annonser att dyka upp?",
+            "Answer": "Eftersom vi håller vår webbplats helt fri att använda, annonserna är vad hjälper oss med att upprätthålla webbplatsen. så, du kommer att se några annonser poppar upp när du använder vår webbplats. Men vi kan garantera att det inte kommer att försämra resultatkvaliteten eller tiden.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Answer": "Vår online gratis Hur många ord kan du göra med dessa bokstäver verktyg sparar inte någon av användardata. Det är helt säkert att använda. Allt som användaren kan ladda upp till vår webbplats raderas från vårt moln inom en mycket kort tidsperiod.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Kommer det här verktyget att spara mina data på servern?"
+        },
+        {
+            "Question": "Hur mycket tid behöver det för att göra orden med bokstäver och räkna det totala antalet ord som bildas?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Det tar bara några sekunder för vår gratis Hur många ord kan du göra med dessa brev att göra sitt jobb. Det skapar snabbt ord från angivna bokstäver och räknar numret. Resultaten är snabba och en 100% exakt."
+        },
+        {
+            "Answer": "Ingen registrering eller inloggning krävs på vår hemsida. Du kan använda vår online Hur många ord kan du göra med dessa brev gratis och utan några uppmaningar för att registrera dig.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Måste jag registrera mig eller logga in för att använda detta Hur många ord kan du göra med dessa bokstäver verktyg?"
+        },
+        {
+            "Question": "Fungerar hur många ord kan du göra med dessa brev på mobiltelefoner?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ja. Vår gratis Hur många ord kan du göra med dessa bokstäver fungerar på alla plattformar. Du kan komma åt den från dina mobiltelefoner. Skriv bara in bokstäverna du vill ha i dina ord, från din telefon och vårt verktyg kommer att göra jobbet för dig."
+        },
+        {
+            "Answer": "Ja, vårt Hur många ord kan du skapa med dessa bokstäver och alla andra verktyg stöder både Android- och iOS-plattformar.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Stöder den både Android- och iOS-plattformar?"
+        },
+        {
+            "Question": "Fungerar hur många ord kan du göra med dessa brev på datorer och bärbara datorer?",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Answer": "Ja. Vår online Hur många ord kan du göra med dessa brev accepteras på alla plattformar. Du kan använda detta gratis verktyg på din hemsida från din dator och din bärbara dator också. Den stöder både Windows och Mac. Allt du behöver göra är att ange upp till 15 bokstäver, ange ordbokstypen, lägga till avancerade filter om det behövs, och det är allt. Orden kommer att genereras från dessa bokstäver exakt enligt dina instruktioner."
+        },
+        {
+            "Answer": "Vår funktion Hur många ord kan du göra med dessa bokstäver är helt webbaserad. På grund av detta ger det våra användare plattformsoberoende support. Detta innebär att vårt verktyg stöder alla versioner av Windows. Mer generellt stöder den alla versioner av alla operativsystem.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Vilka Windows-versioner stöder verktyget Hur många ord kan du skapa med dessa bokstäver?"
+        },
+        {
+            "Question": "Hur många två bokstavsord kan dessa bokstäver göra SANNING?",
+            "Answer": "Vi kan göra totalt 2 ord som har 2 bokstäver i det och orden är uh och ut",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur man gör ett ord med dessa bokstäver BÖCKER?",
+            "Answer": "För att göra alla möjliga kombinationer av ord med bokstäver BÖCKER måste vi välja och kombinera de bokstäver som resulterar i ett meningsfullt ord. Ett meningsfullt ord är ett ord som finns tillgängligt i en vanlig ordbok. Om du vill utföra samma operation online skriver du bara ditt brev på vår hemsida klicka ange och du kommer att få alla möjliga resultat. I det här fallet med bokstäverna BÖCKER kan vi bilda totalt 16 ord som är följande böcker, kobos, bok, boos, bosk, kobo, kobs, sook, boo, bos, kob, kos, snyft, bo, os, så",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur man gör ett ord med dessa bokstäver LABLE?",
+            "Answer": "För att göra alla möjliga kombinationer av ord med bokstäver LABLE måste vi välja och kombinera de bokstäver som resulterar i ett meningsfullt ord. Ett meningsfullt ord är ett ord som finns tillgängligt i en vanlig ordbok. Om du vill utföra samma operation online skriver du bara ditt brev på vår hemsida klicka ange och du kommer att få alla möjliga resultat. I detta fall med bokstäverna LABLE kan vi bilda totalt 22 ord som är följande etikett, kan, bale, boll, klocka, blae, blae, alb, ale, alla, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många 7 bokstäver ord kan dessa bokstäver göra GENERATOR?",
+            "Answer": "Totalt 18 sju bokstäver ord kan bildas med hjälp av bokstaven GENERATOR och orden är följande garrote, grantee, granter, grantor, greaten, större, groaner, negater, negator, reagens, regrant, regrate, terrane",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många ord kan göras från dessa bokstäver LAPTOP?",
+            "Answer": "Det totala antalet ord som kan bildas med bokstäverna LAPTOP är 37 och orden är följande laptop, alto, ovanpå, lota, opal, palp, plat, plat, plop, tomt, tola, alp, alt, app, apt, lap, lat, lop, mycket, havre, opt, kompis, pap, pat, pol, pop, potten, tao, knacka, topp, al, på, la, lo, op, pa, ta, till",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många ord kan man göra från dessa bokstäver EMAILID?",
+            "Answer": "Det totala antalet ord som kan formas med hjälp av bokstäverna EMAILID är 94 och orden är följande postas, medial, miladi, ailed, syftar, amid, e-post, ideal, iliad, imide, lamed, kalkade, maile, medalj, media, medii, milia, medhjälpare, alme, amid, amie, dale, dame, affär, deil, deli, ratt, ring, Diel, DIME, IDEM, tomgång, ilea, Ilia, Imid, lade, lade, lame, leda, ljög, lima, lime, gjort, piga, post, hane, mjöd, måltid, meld, midi, mild, mil, stöd, ail, syfte, ale, ami, dal, dam, del, dö, dim, eld, elm, pojke, lam, lea, ledde, lei, lock, lögn, galen, mae, med, Mel, mitten, mil, annons, ae, ai, al, am, da, de, di, ed, el, em, id, la, li, ma, mig, mi",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många ord kan du göra med alla 26 bokstäver i ett alfabet?",
+            "Answer": "Numret är ganska stort och det kan hittas genom att lösa detta enkla matematikproblem som är n! (n fakultet) där n skulle vara det totala antalet alfabet så svaret skulle vara 26! = 403291461126605635584000000.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många 6 bokstäver ord kan dessa bokstäver göra KITCHEN?",
+            "Answer": "Det totala antalet 6 bokstäver ord som kan bildas med bokstäverna KITCHEN är bara 1 och ordet är etniskt.",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många 6 bokstäver ord kan dessa bokstäver göra TROPICAL?",
+            "Answer": "Det totala antalet 6 bokstäver som kan bildas av ordet TROPICAL är 17 och orden är följande aorta, atopisk, captor, caroli, cartop, citola, citral, koital, lictor, lorica, patrull, picaro, portal, rialto, rictal, skräddare, tropic",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur man gör ord med dessa bokstäver DREAM?",
+            "Answer": "För att göra ord med dessa brev DREAM, allt du behöver göra är att plocka upp alfabet som när de kombineras kan bilda ett meningsfullt ord. Ett meningsfullt ord är ett ord som finns i en vanlig ordbok. Du får bara använda de ord som finns tillgängliga i ordet. Om du har bråttom och letar efter att hitta alla möjliga ord med högsta noggrannhet. Du kan använda vårt verktyg. Allt du behöver göra detta öppna din webbläsare, skriv vår hemsida wordswithletters.org och skriv alla bokstäver som du vill göra ord från. När du klickar på skriv får du dina resultat. I det här fallet med ordet DREAM kan vi göra 39 ord som är följande beväpnade, derma, dröm, madre, dame, vågar, kära, derm, dram, gjort, sto, mjöd, läsa, ream, är, arm, dam, öra, era, galen, mae, mar, Med, rad, ram, röd, rem, ad, ae, am, ar, da, de, ed, em, er, ma, mig, re",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur man gör ord med dessa bokstäver TOMMORROW?",
+            "Answer": "För att göra ord med dessa bokstäver TOMMORROW, allt du behöver göra är att plocka upp alfabet som när de kombineras kan bilda ett meningsfullt ord. Ett meningsfullt ord är ett ord som finns i en vanlig ordbok. Du får bara använda de ord som finns tillgängliga i ordet. Om du har bråttom och letar efter att hitta alla möjliga ord med högsta noggrannhet. Du kan använda vårt verktyg. Allt du behöver göra detta öppna din webbläsare, skriv vår hemsida wordswithletters.org och skriv alla bokstäver som du vill göra ord från. När du klickar på skriv får du dina resultat. I det här fallet med ordet TOMMORROW kan vi göra 44 ord som är följande moorwort, i morgon, malört, morgon, morro, motor, rotor, hed, omtvistad, mort, rum, rot, rort, roto, toom, toro, torr, trow, mask, vört, mamma, moo, mor, MOT, klippa, oot, ort, rom, röta, rad, Tom också, tor, bogsera, två, woo, wot, mm, mo, Om, eller , aj, till, wo",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många ord kan göras med dessa bokstäver APPLE?",
+            "Answer": "Vi kan göra totalt 24 bokstäver med ordet APPLE. Orden är följande appel, äpple, pepla, språng, blek, palp, peal, plea, ale, alp, apa, app, varv, lea, kompis, pap, ärta, pep, ae, al, el, la, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "Question": "Hur många ord kan göras från dessa bokstäver PROV?",
+            "Answer": "Vi kan göra totalt 99 bokstäver med ordet SAMPLE. Orden är följande lönn, prov, allmosor, riklig, lames, lampor, förfaller, språng, män, lönn, måltider, pales, pales, palmer, peals, plasma, böter, psalm, salep, sepal, spale, ales, alme, allmosor, alperna, ampere, apor, apse, alms, almar, apor, almar, almar, apor, almar, almar, laps, Lase, språng, Leas, Maes, hane, kartor, måltid, Mels, Mesa, blek, Palm, kompisar, pams, pase, peal, ärtor, grund, försäljning, salp, samma, samp, sigill, söm, slam, slam, smäll, spae, spam, ale, alp, als, amp, apa, asp, elm, els, ems, lam, lam, lap, las, lea, mae, karta, mas, mel, pal, pam, pas, ärta, pes, sae, Sal, Sav, havet, sel, spa, ae, al, am, som, el, em, es, la, ma, mig, pa, pe",
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": ""
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Hur många ord kan du göra med dessa bokstäver ATSFOPPQ?",
+            "Answer": "Vi kan göra totalt 65 ord med hjälp av dessa bokstäver. Orden är som följer fatso, softa, appar, ovanpå, snabb, fetter, fops, OAFS, oast, havre, opts, paps, tidigare, klappar, pops, inlägg, krukor, qats, tvål, soffa, mjuk, spat, spot, stoa, stopp, taos, kranar, toppar, akter, app, apt, asp, fas, fett, fop, Oaf, havre, OFT, ops, opt, pap, pas, pat, pop, pot, qat, SAP, lör, sop, sot, spa, tao, Tryck på, tas, topp, som, på, fa, av, op, os, pa, så, ta, till"
+        },
+        {
+            "FIELD2": "",
+            "FIELD3": "",
+            "FIELD4": "",
+            "FIELD5": "",
+            "Question": "Hur många ord kan du göra med dessa bokstäver XATFPS?",
+            "Answer": "Vi kan göra totalt 28 ord av bokstaven XATFPS. Orden är som följer snabbt, fetter, tidigare, klappar, spat, kranar, akter, apt, asp, fas, fett, fax, pas, pat, pax, sav, sat, sax, spa, knacka, tas, skatt, som, på, yxa, fa, pa, ta"
+        }
+    ],
+    "aboutList": [
+        {
+            "aboutText": "This is the first about text"
+        },
+        {
+            "aboutText": "This is the second about second"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

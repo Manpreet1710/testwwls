@@ -1,0 +1,56 @@
+{
+    "Language": "Dansk",
+    "htmlLangAtt": "da",
+    "filewords": {
+        "name": "",
+        "data": [
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "scrabble"
+            },
+            {
+                "word": "Commensalism",
+                "x": "12",
+                "gameName": "words with friends"
+            }
+        ]
+    },
+    "filepath": {},
+    "title": "Finde 12 bogstavsord med disse bogstaver- Wordswithletters.org",
+    "h1": "Find 12 bogstavsord med disse bogstaver",
+    "h2": "Indtast bogstaverne nedenfor for at finde 12 bogstavsord",
+    "meta": "Tænker stadig på, hvor mange tolv-bogstaver ord kan du lave med disse bogstaver? Brug vores værktøj til at finde 12 bogstavsord med disse bogstaver",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Medbring et vendepunkt i dit spil. Generer tolv bogstavsord med disse bogstaver",
+            "feature_text": "Ofte finder dette brev tolv vej i ordspil. Men det vigtigste er, at disse tolv bogstaver kan nogle gange være meget scoring. Du kan dog finde din redning på med vores ordfinder.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generer tolv bogstavsord med disse bogstaver",
+            "feature_text": "Vores gratis wordfinder giver dig mulighed for at finde tolv bogstavsord og hjælpe dig med at vinde dit spil",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Find et nummereret ord med bogstav Tolv i det",
+            "feature_text": "Ordfinder med tolv bogstaver giver dig mulighed for at finde alle tolv bogstaver ord op til 15 tegn.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Genererer selv de hårdeste tolv bogstaver ord, du ikke engang kan tænke på.",
+            "feature_text": "Få en pulje med højt scorende tolv bogstaver på få sekunder med vores gratis ordgenerator med tolv bogstaver.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

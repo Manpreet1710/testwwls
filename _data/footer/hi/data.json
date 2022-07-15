@@ -1,0 +1,130 @@
+{
+    "logo": "/assets/images/wordswithletters-logo.png",
+    "heading": "marketing@wordswithletters.org",
+    "companytitle": "कम्पनी",
+    "networksitestitle": "संसाधनों",
+    "linksTitle": "टूल्स",
+    "producttitle": "लंबाई के शब्द",
+    "company": [
+        {
+            "name": "नियम और शर्तें",
+            "url": "/terms-and-conditions"
+        },
+        {
+            "name": "प्राइवेसी पॉलिसी",
+            "url": "/privacy-policy"
+        },
+        {
+            "name": "अस्वीकरण",
+            "url": "/disclaimer"
+        }
+    ],
+    "tools": [
+        {
+            "name": "इन अक्षरों के साथ छह अक्षर शब्द",
+            "url": "/hi/six-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ पांच अक्षर शब्द",
+            "url": "/hi/five-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ सात अक्षर शब्द",
+            "url": "/hi/seven-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ चार अक्षर शब्द",
+            "url": "/hi/four-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ तीन अक्षर शब्द",
+            "url": "/hi/three-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ दो अक्षर शब्द",
+            "url": "/hi/two-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ आठ अक्षर शब्द",
+            "url": "/hi/eight-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ नौ अक्षर शब्द",
+            "url": "/hi/nine-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ दस अक्षर शब्द",
+            "url": "/hi/ten-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ ग्यारह अक्षर शब्द",
+            "url": "/hi/eleven-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ बारह अक्षर शब्द",
+            "url": "/hi/twelve-letter-words-with-these-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ तेरह अक्षर शब्द",
+            "url": "/hi/thirteen-letter-words-with-these-letters"
+        }
+    ],
+    "links": [
+        {
+            "name": "वर्ड गेम जेनरेटर ऑनलाइन",
+            "url": "/hi/word-game-generator-online"
+        },
+        {
+            "name": "वर्डल सॉल्वर",
+            "url": "/hi/wordle-solver"
+        },
+        {
+            "name": "इन अक्षरों के साथ शब्द बनाएं",
+            "url": "/hi/make-words-with-these-letters"
+        },
+        {
+            "name": "अक्षरों से शब्द जनरेटर",
+            "url": "/hi/word-generator-from-letters"
+        },
+        {
+            "name": "इन अक्षरों के साथ लिखे गए शब्द ",
+            "url": "/hi/words-spelled-with-these-letters"
+        },
+        {
+            "name": "मैं इन अक्षरों और एक रिक्त के साथ कौन से शब्द लिख सकता हूं",
+            "url": "/hi/what-words-can-i-spell-with-these-letters-and-a-blank"
+        },
+        {
+            "name": "इन अक्षरों और 2 रिक्त स्थान वाले शब्द",
+            "url": "/hi/words-with-these-letters-and-2-blanks"
+        },
+        {
+            "name": "इन अक्षरों और 3 रिक्त स्थान वाले शब्द",
+            "url": "/hi/words-with-these-letters-and-3-blanks"
+        }
+    ],
+    "social": [
+        {
+            "icon": "bi bi-facebook",
+            "url": "https://www.facebook.com/wordswith.lettersorg",
+            "title": "फेसबुक"
+        },
+        {
+            "icon": "bi bi-instagram",
+            "url": "https://www.instagram.com/wordswithlettersorg/",
+            "title": "इन्स्टाग्राम"
+        },
+        {
+            "icon": "bi bi-linkedin",
+            "url": "https://www.linkedin.com/in/wordswithlettersorg/",
+            "title": "लिंकडेन"
+        },
+        {
+            "icon": "bi bi-twitter",
+            "url": "https://twitter.com/wordswithlette1",
+            "title": "ट्विटर"
+        }
+    ],
+    "messege": "Copyright © 2022 All rights reserved to wordswithletters",
+    "legal": []
+}

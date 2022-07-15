@@ -1,0 +1,45 @@
+{
+    "Language": "Polski",
+    "htmlLangAtt": "pl",
+    "title": "Co mogę przeliterować tymi literami i pustymi słowamiz literami",
+    "h1": "Słowa z tymi literami i puste",
+    "h2": "Wpisz litery poniżej i Sprawdź, ile może być napisane z pustym",
+    "meta": "Czy masz 1 pusty tytuł i zastanawiasz się, jak przeliterować? Nie martw się, mamy Cię objęte. Znajdź wszystkie możliwe kombinacje słów, które można przeliterować za pomocą 1 pustej płytki ze słowamiz literami łatwo.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Absolutnie wolny!",
+            "feature_text": "Nasza platforma jest całkowicie darmowa. W naszej witrynie nie mamy absolutnie żadnych reklam, które pozwalają skupić się na tym, po co tu przyjechałeś.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Łatwe filtrowanie i sortowanie",
+            "feature_text": "Możesz łatwo sortować i filtrować wyniki w dogodnym dla siebie czasie. Ta funkcja jest naprawdę łatwa w użyciu i pomoże uzyskać pożądany rezultat niemal natychmiast.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Wpisz do 15 liter",
+            "feature_text": "Możesz wpisać do 15 liter (w tym puste) w dostępnym miejscu, aby znaleźć maksymalną liczbę słów, które można utworzyć za pomocą wprowadzonych liter.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Generuje najlepszy wynik",
+            "feature_text": "Słowa z literami generują najlepsze wyniki, słowa z najwyższą punktacją w grze Scrabble. Twoja wygrana jest gwarantowana.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Łatwy w użyciu",
+            "feature_text": "Słowa z tymi literami i puste miejsce są naprawdę proste w użyciu, a wszystkie słowa o dowolnej długości, które można utworzyć z wprowadzonymi literami, są wyświetlane w wyniku.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

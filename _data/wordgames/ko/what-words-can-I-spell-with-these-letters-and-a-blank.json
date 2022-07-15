@@ -1,0 +1,45 @@
+{
+    "Language": "한국어",
+    "htmlLangAtt": "ko",
+    "title": "이 글자와 공백으로 철자를 쓸 수 있습니까? - 글자가있는 단어",
+    "h1": "이 글자와 공백으로 된 단어",
+    "h2": "아래 문자를 입력하고 공백으로 철자를 몇 개 넣을 수 있는지 확인하십시오.",
+    "meta": "빈 제목이 1 개 있는데 철자를 쓰는 방법이 궁금하십니까?우리가 당신을 보장해 주었다고 걱정하지 마세요.글자가있는 단어가있는 빈 타일 1 개로 철자를 쓸 수있는 모든 단어 조합을 쉽게 찾을 수 있습니다.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "완전 무료!",
+            "feature_text": "저희 플랫폼은 완전히 무료로 사용할 수 있습니다.저희 웹 사이트에는 당신이 여기에 온 것에 집중할 수있는 광고가 전혀 없습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "간편한 필터 및 정렬",
+            "feature_text": "편의에 따라 결과를 쉽게 정렬하고 필터링할 수 있습니다.이 기능은 사용하기가 정말 쉽고 원하는 결과를 거의 즉시 얻을 수 있도록 도와줍니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "최대 15자 입력",
+            "feature_text": "입력한 문자로 구성할 수 있는 최대 단어를 찾기 위해 제공된 공백에 최대 15자 (공백 포함) 를 입력할 수 있습니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "최상의 결과 생성",
+            "feature_text": "글자가 있는 단어는 스크래블 게임에서 가장 높은 점수를 얻은 단어인 최상의 결과를 생성합니다.승리가 보장됩니다.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "사용하기 쉬움",
+            "feature_text": "이 글자와 공백이있는 단어는 사용하기가 정말 간단하며 입력 한 문자로 구성 할 수있는 모든 길이의 단어가 결과에 표시됩니다.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

@@ -1,0 +1,952 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta charset="UTF-8">
+
+  
+
+
+<meta name="description" content="Hala bu mektuplarla kaç kelime edebileceğini düşünüyor musun? Şimdi harfler aracıyla kelimelerimizi kullanın!">
+<meta name="og:description" content="Hala bu mektuplarla kaç kelime edebileceğini düşünüyor musun? Şimdi harfler aracıyla kelimelerimizi kullanın!">
+<meta property="og:title" content="Bu mektuplarla kaç kelime yapabilirsin?">
+
+
+
+
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+<meta property="og:site_name" content="wordswithletters">
+<meta property="og:url" content="http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result">
+<meta data-rh="true" property="og:url" content="http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result">
+<meta data-rh="true" property="og:site_name" content="wordswithletters">
+<meta data-rh="true" property="twitter:domain" content="http://localhost:4000">
+<meta data-rh="true" property="twitter:url" content="http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result">
+<meta data-rh="true" name="twitter:title" content="Bu mektuplarla kaç kelime yapabilirsin?">
+<meta data-rh="true" name="twitter:description" content="Hala bu mektuplarla kaç kelime edebileceğini düşünüyor musun? Şimdi harfler aracıyla kelimelerimizi kullanın!">
+<meta data-rh="true" name="twitter:image:src" content="http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result">
+
+  <link rel="canonical" href="http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result"><link rel="manifest" href="/manifest.json">
+  <link rel="shortcut icon" href="/assets/images/wordswithletters-logo.png">
+  <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/home.css">
+  <link rel="stylesheet" href="/assets/css/feature.css">
+  <link rel="stylesheet" href="/assets/css/HomePageblog.css">
+  <link rel="stylesheet" href="/assets/css/about.css">
+  <link rel="stylesheet" href="/assets/css/news.css">
+  <link rel="stylesheet" href="/assets/css/wordGroup.css">
+  <link rel="stylesheet" href="/assets/css/footer.css"><link rel="stylesheet" href="/assets/css/config.css">
+
+
+  <title>Bu mektuplarla kaç kelime yapabilirsin?</title>
+
+  <script>
+    if ('serviceWorker' in navigator) {
+      window.addEventListener('load', () => {
+        navigator.serviceWorker.register('/serviceworker.js')
+          .then((reg) => console.log('Success: ', reg.scope))
+          .catch((err) => console.log('Failure: ', err));
+      })
+    }
+  </script>
+
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+          "@type": "Organization",
+          "url": "https://wordswithletters.org",
+          "logo": "https://wordswithletters.org/assets/images/wordswithletters-logo.png" 
+        }
+  </script>
+  <script type="application/ld+json">
+      {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "name": "wordswithletters",
+      "alternateName": "wordswithletters",
+      "url": "https://wordswithletters.org"}
+  </script><script type="application/ld+json">
+      {
+     "@context": "http://schema.org",
+     "@type": "FAQPage",
+    "mainEntity": [{"@type": "Question",
+         "name": "Bu Harflerle Kaç Kelime Yapabilirsiniz aracı ne yapar?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu Harflerle Kaç Kelimeler Yapabilirsiniz aracımız otomatik olarak kullanıcımızın girdiği harflerden anlamlı kelimeler oluşturur ve bu harflerden oluşturulan sözcüklerin sayısını sayar."
+         }
+       },{"@type": "Question",
+         "name": "Bu Harflerle Kaç Sözcük Yapabilirsiniz aracını nasıl kullanabilirim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu Harflerle Kaç Kelime Yapabilirsin aracımızı kullanmak çok basittir. Tek yapman gereken kelimeleri çıkarmak istediğin harfleri girmek. Bir seferde en fazla 15 harf girebilirsiniz. Ardından, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçin - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler). Daha sonra Gelişmiş filtreler seçeneğini etkinleştirebilirsiniz. Ardından büyüteç olan arama düğmesine tıklayın. Ve işte! Aracımız sizin için girilen harflerden mümkün olan maksimum sayıda kelime oluşturacak ve aynı zamanda bu harflerden üretilen sözcüklerin sayısını da sayacaktır."
+         }
+       },{"@type": "Question",
+         "name": "Aracı harflerden kelimeleri yapmak ve saymak için kaç harf girebilirim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Aracımıza maksimum 15 harf girebilirsiniz, harflerden kelimeleri yapmak ve saymak için."
+         }
+       },{"@type": "Question",
+         "name": "Bu aracı kullanmak için ödeme yapmak zorunda mıyım?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Hayır, aracımızın kullanımı tamamen ücretsizdir. Aleti kullanmak için bize para ödemene gerek yok."
+         }
+       },{"@type": "Question",
+         "name": "Neden toplam kelime sayısını oluşturmam ve saymam gerekiyor?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Wordle veya Scrabble gibi rekabetçi kelime oyunları oynuyorsanız kelimeler oluşturmanız gerekebilir. Ayrıca kelimeleri çözmeniz gerekebilir ve aracımız bu konuda size yardımcı olacaktır. Bazı özel harflerle yapabileceğiniz sözcüklerin sayısını da bilmeniz gerekebilir."
+         }
+       },{"@type": "Question",
+         "name": "Bu araç Wordle ve Scrabble gibi kelime oyunları ile yardımcı olabilir mi?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, kesinlikle. Scrabble ve Wordle gibi kelime oyunları oynarken herhangi bir yardıma ihtiyacınız varsa, Bu Harflerle Kaç Kelimeler Yapabilirsiniz aracımız gitmenin yoludur."
+         }
+       },{"@type": "Question",
+         "name": "Bu aracın yardımıyla karışık kelimeleri çözebilir miyim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Tabii ki. Aracımız karmakarışık kelimeleri kolayca çözmenize yardımcı olacaktır. Tek yapmanız gereken, karışık kelimeye harfleri girmek, istediğiniz kelime uzunluğunu belirtmek ve aracımız size mümkün olan tüm kelimeleri verecektir. "
+         }
+       },{"@type": "Question",
+         "name": "Mevcut farklı sözlük seçenekleri nelerdir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu araçta, oluşturulacak kelimeler için kullanmak istediğiniz sözlük türünü seçebilirsiniz - mevcut seçenekler “Sözlük”, TWL06 (ABD, Kanada, Tayland), SOWPODS (İngiltere ve diğerleri) ve Etkinleştir (Arkadaşlarla Kelimeler)."
+         }
+       },{"@type": "Question",
+         "name": "Gelişmiş filtreleri nasıl kullanabilirim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Aracımızdaki gelişmiş filtreler, sonuç kelimelerinin hangi harflerle başlaması veya bitmesi gerektiğini, kelimelerin hangi harfleri içermesi gerektiğini, aracın dışlanmasını istediğiniz harfleri ve istediğiniz kelime uzunluğunun ne olduğunu belirtmeniz için seçenek içerir. Tek yapmanız gereken gelişmiş filtreler düğmesine tıklamanız ve verileri istediğiniz gibi girmektir."
+         }
+       },{"@type": "Question",
+         "name": "Kelime uzunluğunu belirtebilir miyim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, ihtiyacınız olan kelimelerin sahip olması gereken harf sayısını belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz."
+         }
+       },{"@type": "Question",
+         "name": "Bazı karakterleri hariç tutabilir miyim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, kelimelerin sahip olmasını istemediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz."
+         }
+       },{"@type": "Question",
+         "name": "Zorunlu karakterleri belirleyebilir miyim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, kelimelerin olmasını kesinlikle istediğiniz harfleri belirtmek için aracımızın gelişmiş filtreler bölümünü kullanabilirsiniz."
+         }
+       },{"@type": "Question",
+         "name": "Kelimelerin hangi harfle başlayacağını veya bitmesi gerektiğini belirleyebilir miyim?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, aracımızın gelişmiş filtreler bölümünü kullanarak kelimelerinizin hangi harflerle başlamasını istediğinizi ve bitmesini istediğiniz harfleri belirleyebilirsiniz."
+         }
+       },{"@type": "Question",
+         "name": "Bu Harflerle Kaç Kelime Yapabilirsin aracını kullanmak güvenli midir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu Harflerle Kaç Kelime Yapabilirsiniz aracımız en güvenli ve en güvenli ücretsiz çevrimiçi araçlardan biridir. Zararlı bağlantıları veya istenmeyen reklamları yoktur. Kesinlikle sorunsuz ve işini mükemmel bir şekilde yapar. Aynı zamanda, kullanıcı verilerinden herhangi birini kaydetmez. "
+         }
+       },{"@type": "Question",
+         "name": "Bu aracı kullanırken herhangi bir reklam açılır mı?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Web sitemizi kullanmak için tamamen ücretsiz tuttuğumuz için, reklamlar web sitesini korumak için bize yardımcı olan şeylerdir. böylece, Eğer sitemizi kullanırken haşhaş birkaç reklam göreceksiniz. Ancak sonuç kalitesini veya zamanını bozmayacağını garanti edebiliriz."
+         }
+       },{"@type": "Question",
+         "name": "Bu araç verilerimi sunucuya kaydedecek mi?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Online ücretsiz Bu Harfler ile Kaç Kelimeler Yapabilirsiniz aracımız kullanıcı verilerinin hiçbirini kaydetmez. Kullanımı kesinlikle güvenlidir. Kullanıcının sitemize yükleyebileceği herhangi bir şey bulutumuzdan çok kısa bir süre içinde silinir."
+         }
+       },{"@type": "Question",
+         "name": "Kelimeleri harflerle yapmak ve oluşan toplam kelime sayısını saymak için ne kadar zamana ihtiyacı var?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu Mektuplarla Kaç Kelimeler Yapabilirsiniz Ücretsiz kendi işini yapmak için sadece birkaç saniye sürer. Belirtilen harflerden kelimeleri hızla oluşturur ve sayıyı sayar. Sonuçlar hızlı ve% 100 doğru."
+         }
+       },{"@type": "Question",
+         "name": "Bu Harflerle Kaç Kelime Yapabilirsin aracını kullanmak için kaydolmam veya oturum açmam gerekecek mi?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Web sitemizde kaydolmak veya oturum açmak gerekmez. Bu Mektuplarla Kaç Kelime Yapabileceğinizi online olarak ücretsiz ve kaydolmak için herhangi bir istem olmadan kullanabilirsiniz."
+         }
+       },{"@type": "Question",
+         "name": "Bu Mektuplarla Kaç Kelimeler Yapabilirsiniz Cep telefonlarında çalışır mı?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet. Ücretsiz Bu Harflerle Kaç Kelime Yapabilirsin özelliğimiz tüm platformlarda çalışır. Cep telefonlarınızdan erişebilirsiniz. Kelimelerinizle istediğiniz mektupları yazmanız yeterlidir, telefonunuzdan ve aracımız işi sizin için yapar."
+         }
+       },{"@type": "Question",
+         "name": "Hem Android hem de iOS platformlarını destekliyor mu?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet, Bu Harflerle Kaç Kelime Yapabilirsiniz aracımız ve diğer tüm araçlar hem Android hem de iOS platformlarını destekler."
+         }
+       },{"@type": "Question",
+         "name": "Bu Mektuplarla Kaç Kelimeler Yapabilirsin? adet ve dizüstü bilgisayarlarda işe yarıyor mu?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Evet. Online Bu Mektuplarla Kaç Kelime Yapabilirsin? Bu ücretsiz aracı web sitenizde PC'nizden ve dizüstü bilgisayarınızdan da kullanabilirsiniz. Hem Windows hem de Mac'i destekler. Tek yapmanız gereken 15 harfe kadar girmek, Sözlük türünü belirtmek, gerekirse gelişmiş filtreler eklemek ve hepsi bu. Kelimeler bu harflerden tam olarak sizin talimatlarınıza göre üretilecektir."
+         }
+       },{"@type": "Question",
+         "name": "Hangi Windows sürümlerini Bu Harflerle Kaç Sözcük Yapabilirsiniz aracını destekler?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu Harflerle Kaç Kelime Yapabilirsiniz özelliğimiz tamamen web tabanlı. Bu nedenle, kullanıcılarımıza platformlar arası destek sağlar. Bu, aracımızın tüm Windows sürümlerini desteklediği anlamına gelir. Daha genel anlamda, tüm İşletim Sistemlerinin tüm sürümlerini destekler."
+         }
+       },{"@type": "Question",
+         "name": "Bu harfler kaç tane 2 harfli kelime GERÇEĞI yapabilir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Toplamda 2 harf olan 2 kelime yapabiliriz ve kelimeler uh ve ut"
+         }
+       },{"@type": "Question",
+         "name": "Nasıl bu harfler KİTAPLAR ile bir kelime yapmak için?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Kitaplar harfleri ile olası tüm kelime kombinasyonlarını yapmak için, anlamlı bir kelimeyle sonuçlanacak bu harfleri seçip birleştirmeliyiz. Anlamlı bir kelime, standart bir sözlükte bulunan bir kelimedir. Aynı işlemi çevrimiçi olarak gerçekleştirmek istiyorsanız, web sitemize mektubunuzu yazın ve tüm olası sonuçları alacaksınız. Bu durumda kitaplar kitaplar, kobos, kitap, boos, bosk, kobo, kobs, kobs, sook, boo, bos, kob, kob, kob, kob, kos, hıçkıran, bo, os, böylece harflerle kitaplar, toplam 16 kelime oluşturabilir"
+         }
+       },{"@type": "Question",
+         "name": "Nasıl LABLE bu harflerle bir kelime yapmak için?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Kelimelerin olası tüm kombinasyonlarını LABLE harflerle yapmak için, anlamlı bir kelimeyle sonuçlanacak bu harfleri seçip birleştirmeliyiz. Anlamlı bir kelime, standart bir sözlükte bulunan bir kelimedir. Aynı işlemi çevrimiçi olarak gerçekleştirmek istiyorsanız, web sitemize mektubunuzu yazın ve tüm olası sonuçları alacaksınız. Bu durumda LABLE harfleri ile toplam 22 kelime oluşturabilir etiket, mümkün, balya, top, çan, blae, leal, alb, ale, tüm, bal, bel, ell, lab, lea, ab, ae, al, ba, be, el, la"
+         }
+       },{"@type": "Question",
+         "name": "Kaç tane 7 harfli kelime bu harfler JENERATÖR yapabilir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Toplam 18 yedi harfli kelime JENERATÖR harfi kullanılarak oluşturulabilir ve kelimeler aşağıdaki gibidir boğucu, grantee, granter, grantor, greaten, daha büyük, groaner, negater, negator, reaktif, regrant, terrane"
+         }
+       },{"@type": "Question",
+         "name": "Bu harflerden kaç kelime yapılabilir LAPTOP?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Dizüstü harfler kullanılarak oluşturulabilecek toplam kelime sayısı 37 ve kelimeler aşağıdaki gibidir dizüstü, alto, atop, lota, opal, palp, plat, plop, arsa, tola, alp, alt, app, apt, lap, lat, lop, lot, yulaf, opt, pal, pap, pat, pol, pop, pot, tao, tap, üst, al, at, la, lo, op, pa, ta,"
+         }
+       },{"@type": "Question",
+         "name": "Bu harflerden kaç kelime yapılabilir EMAILID?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "EMAILID harfleri kullanılarak oluşturulabilecek toplam kelime sayısı 94 ve kelimeler aşağıdaki gibidir, medial, miladi, ailed, amaçlanan, amide, e-posta, ideal, iliad, imide, lamed, limed, maile, maile, madalya, medya, medii, milia, aide, alme, amid, amie, dale, dame, deal, deil,, diel, kuruş, idem, boşta, ilea, ilia, imid, lade, koydu, topal, kurşun, yalan, lima, kireç, yapılan, hizmetçi, posta, erkek, mead, yemek, meld, midi, hafif, mil, yardım, ail, nişan, bira, ami, dal, baraj, del, die, loş, eld, karaağaç, delikanlı, lam, lea, led, lei, kapak, yalan, deli, mae, med, mel, orta, mil, reklam, ae, ai, al, ben, da, de, di, ed, el, em, id, la, li, ma, ben, mi"
+         }
+       },{"@type": "Question",
+         "name": "Bir alfabenin 26 harfiyle kaç kelime yapabilirsin?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Sayı oldukça büyük ve n olan bu basit matematik problemini çözerek bulunabilir! (n faktöriyel) n toplam alfabe sayısı olurdu, böylece cevap 26 olurdu! = 403291461126605635584000000."
+         }
+       },{"@type": "Question",
+         "name": "Kaç tane 6 harfli kelime bu harfler MUTFAK yapabilir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "MUTFAK harfleri kullanılarak oluşturulabilecek 6 harfli kelimelerin toplam sayısı sadece 1'dir ve kelime etniktir."
+         }
+       },{"@type": "Question",
+         "name": "Kaç tane 6 harfli kelime bu harfler TROPIKAL yapabilir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "TROPICAL kelimesi ile oluşturulabilecek 6 harflerin toplam sayısı 17'dir ve kelimeler aort, atopik, kaptor, caroli, cartop, citola, citral, coital, lictor, lorica, devriye, picaro, portal, rialto, rictal, terzi, tropik"
+         }
+       },{"@type": "Question",
+         "name": "Nasıl bu harflerle kelimeler RÜYA yapmak için?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu harf DREAM ile kelimeler yapmak için, yapmanız gereken tek şey birleştirildiğinde anlamlı bir kelime oluşturabilecek alfabeleri toplamaktır. Anlamlı bir kelime, standart bir sözlükte bulunabilen bir kelimedir. Yalnızca sözcükte bulunan sözcükleri kullanmanıza izin verilir. Aceleniz varsa ve en yüksek doğruluk seviyesine sahip olası tüm kelimeleri bulmak istiyorsanız. Bizim aracımızı kullanabilirsiniz. Bunu yapmanız gereken tek şey tarayıcınızı açın, web sitemize wordswithletters.org yazın ve kelimeleri yapmak istediğiniz tüm harfleri yazın. Enter'a tıkladığınızda sonuçlarınızı alacaksınız. RÜYA kelimesi ile bu durumda silahlı, derma, rüya, madre, dame, cesaret, sevgili, derm, dram, made, kısrak, mead, okumak, ream'lerdir, kol, baraj, kulak, çağ, deli, mae, mar, med, rad, ram, kırmızı, rem, reklam, ae, benim, ar, da, de, ed, em, er, anne, ben, re"
+         }
+       },{"@type": "Question",
+         "name": "Bu harflerle kelimeler nasıl yapılır TOMMORROW?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "TOMMORROW bu harflerle kelimeler yapmak için tek yapmanız gereken bir araya getirildiğinde anlamlı bir kelime oluşturabilecek alfabeleri toplamaktır. Anlamlı bir kelime, standart bir sözlükte bulunabilen bir kelimedir. Yalnızca sözcükte bulunan sözcükleri kullanmanıza izin verilir. Aceleniz varsa ve en yüksek doğruluk seviyesine sahip olası tüm kelimeleri bulmak istiyorsanız. Bizim aracımızı kullanabilirsiniz. Bunu yapmanız gereken tek şey tarayıcınızı açın, web sitemize wordswithletters.org yazın ve kelimeleri yapmak istediğiniz tüm harfleri yazın. Enter'a tıkladığınızda sonuçlarınızı alacaksınız. Bu durumda TOMMORROW sözcüğüyle, yarın, solucan kökü, yarın, morro, motor, rotor, moor, moot, mort, oda, root, rort, roto, toom, toro, torr, trow, solucan, wort, anne, moo, mor, mot, biçmek, oot, ort, rom, çürüme, satır, tom, çok, tor, çekici, iki, woo, wot, mm, mo, om, veya , ow, to, wo"
+         }
+       },{"@type": "Question",
+         "name": "APPLE bu harflerle kaç kelime yapılabilir?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "APPLE kelimesini kullanarak toplam 24 harf yapabiliriz. Sözler şu şekildedir: appel, elma, pepla, sıçrama, soluk, palp, peal, plea, ale, alp, maymun, app, lap, lea, pal, pap, bezelye, pep, ae, al, el, la, pa, pe"
+         }
+       },{"@type": "Question",
+         "name": "Bu harflerden kaç kelime yapılabilir ÖRNEK?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "NUMUNE kelimesini kullanarak toplam 99 harf yapabiliriz. Sözler şu şekildedir: akçaağaç, örnek, almes, bol, topal, lambalar, atlamalar, erkekler, akçaağaç, yemek, soluk, avuç içi, peals, plazma, yalvarma, mezmur, salep, sepal, spale, bira, sadaka, alms, Alpler, amper, maymunlar, apse, karaağaç, topal, lamba, kuzular, tur, lase, sıçrama, leas, Maes, erkek, haritalar, yemek, mels, mesa, soluk, palmiye, dostlar, pams, pase, peal, bezelye, savunma, satış, salp, aynı, samp, mühür, dikiş, slam, tokat, spae, spae, spae, spae, als, amp, maymun, asp, karaağaç, els, ems, lam, lap, las, lea, mae, harita, mas, mel, pal, pampe, pas, bezelye,, sae, sal, sap, deniz, sel, spa, ae, al, ben, el, em, es, la, ma, ben, pa, pe"
+         }
+       },{"@type": "Question",
+         "name": "ATSFOPPQ bu harflerle kaç kelime yapabilirsiniz?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "Bu harfleri kullanarak toplam 65 kelime yapabiliriz. Şişko, softa, uygulamalar, atop, hızlı, yağlar, fops, oafs, oast, yulaf, opts, paps, geçmiş, pats, post, tencere, qats, sabun, kanepe, yumuşak, tükürük, spot, stoa, dur, taos, musluklar, üstleri, kıç, app, apt, asp, fas, yağ, fop, oaf, yulaf, oft, ops, opt, pap, pas, pat, pop, pot, qat, sap, oturdu, sop, sot, spa, tao, musluk, tas, üst, olarak, at, fa, of, op, os, pa, yani, ta, için"
+         }
+       },{"@type": "Question",
+         "name": "Bu harflerle XATFPS kaç kelime yapabilirsiniz?",
+         "acceptedAnswer": {
+           "@type": "Answer",
+           "text": "XATFPS harfinden toplam 28 kelime yapabiliriz. Sözler hızlı, yağlar, geçmiş, pats, tükürük, musluklar, kıç, apt, asp, fas, yağ, faks, pas, pat, pax, sap, sat, saksafon, spa, musluk, tas, vergi, gibi, at, balta, fa, pa, ta"
+         }
+       }]
+    }
+  </script>
+
+<script async src="https://www.googletagmanager.com/gtag/js?id="></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag() { dataLayer.push(arguments); }
+  gtag('js', new Date());
+  gtag('config', '');
+</script>
+
+
+
+
+</head><style>
+  .footer-container {
+    margin-top: 200px !important;
+  }
+
+  @media(max-width:768px) {
+
+    /* social icons style */
+    .social-icons {
+      position: relative !important;
+      width: 100% !important;
+      height: 0px;
+      display: flex;
+      top: 0;
+      font-size: 15px;
+      color: #fff;
+      flex-direction: row;
+      z-index: 0;
+      border-top-left-radius: 8px;
+      border-bottom-left-radius: 8px;
+      background: transparent !important;
+      box-shadow: none !important;
+      line-height: 30px;
+    }
+
+    .social-icons a {
+      padding: 50px;
+      color: #000 !important;
+      font-size: 2rem !important;
+    }
+
+    .social-icon {
+      margin: 0 !important;
+      color: gray;
+    }
+
+    .social-icon:hover {
+      color: black;
+    }
+
+    .social-icons a {
+      padding: 10px;
+    }
+  }
+</style>
+
+<body>
+
+
+
+<!-- start commonPage as LandingPage -->
+
+<!-- header starts -->
+<!-- <header class="container" id="resultHeader"> -->
+<!-- navigation startss -->
+<nav class="result_navbar_section navbar-expand-lg navbar-dark" style="background-color: #fff;">
+    <a class="nav_menu_bar" href="/" title="" style="position: absolute; top:5px">
+        <img src="/assets/images/wordswithletters-logo.png" alt="wordswithletters" style="width:35px; height:35px;">
+    </a><span class="mobile_bars"><i style="top:0px" id="bars_style" class="bi bi-list bi-2x bars"></i></span>
+    <div id="open_list_bar"><div style="padding:2rem 0">
+            <a class="cat_bar_logo_link" href="/" title="">
+                <img class="cat_bar_img" src="/assets/images/wordswithletters-logo.png" alt="wordswithletters">
+                <span class="cat_title">Word with letters</span>
+            </a>
+            <div class="close_bar_btn">
+                <i class="bi bi-x"></i>
+            </div>
+        </div><div class="list-items-container">
+            <li class="list_cat_heading">Kelime Listeleri</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/word-game-generator-online">
+                Kelime Oyunu Oluşturucu Çevrimiçi
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/wordle-solver">
+                Wordle Çözücü
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/make-words-with-these-letters">
+                Bu Harflerle Kelimeler Yap
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/word-generator-from-letters">
+                Harflerden Kelime Oluşturucu
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/words-spelled-with-these-letters">
+                Bu harflerle yazılan kelimeler 
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/how-many-words-can-you-make-from-these-letters">
+                Bu harflerden kaç kelime yapabilirsin
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/what-words-can-i-spell-with-these-letters-and-a-blank">
+                Bu harflerle hangi kelimeleri heceleyebilirim ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/words-with-these-letters-and-2-blanks">
+                Bu harfleri ve 2 boşlukları olan kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/words-with-these-letters-and-3-blanks">
+                Bu harfler ve 3 boşluk içeren kelimeler
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Uzunluk sözcükleri</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/six-letter-words-with-these-letters">
+                Bu harflerle altı harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/five-letter-words-with-these-letters">
+                Bu harflerle beş harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/seven-letter-words-with-these-letters">
+                Bu harflerle yedi harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/four-letter-words-with-these-letters">
+                Bu harflerle dört harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/three-letter-words-with-these-letters">
+                Bu harflerle üç harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/two-letter-words-with-these-letters">
+                Bu harflerle iki harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/eight-letter-words-with-these-letters">
+                Bu harflerle sekiz harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/nine-letter-words-with-these-letters">
+                Bu harflerle dokuz harfli kelimeler
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/ten-letter-words-with-these-letters">
+                Bu harflerle on harfli kelime
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/eleven-letter-words-with-these-letters">
+                Bu harflerle on bir harfli kelime
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/twelve-letter-words-with-these-letters">
+                Bu harflerle on iki harfli kelime
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/thirteen-letter-words-with-these-letters">
+                Bu harflerle on üç harfli kelime
+            </a>
+            <!-- </li> --></div><div class="list-items-container">
+            <li class="list_cat_heading">Bu harflerle X harfli kelimeler ve boş</li><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/12-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 12 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/11-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 11 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/10-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 10 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/9-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 9 harfli kelimeler ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/8-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 8 harfli kelimeler ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/7-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 7 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/6-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 6 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/5-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 5 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/4-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 4 harfli kelimeler ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/3-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 3 harfli kelime ve boş
+            </a>
+            <!-- </li> --><!-- <li class="list_cat_name"> -->
+            <a class="list_cat_name dropdown-item" href="/tr/2-letter-words-with-these-letters-and-a-blank">
+                Bu harflerle 2 harfli kelime ve boş
+            </a>
+            <!-- </li> --></div></div><div class="container" id="containerWd">
+        <section class="result_sticky_nav">
+            <div class="pageHeading text-center">
+                <h1 class="result_heading m-0 pb-0">
+                    Bu mektuplarla kaç kelime yapabilirsin?</h1>
+            </div>
+            <div class="serachSection2">
+                <div class="position-relative serachBox mt-4">
+                    <form action="" id='form'>
+                        <input style="border-radius: " type="text"
+                            placeholder="Enter up to 15 letters?" class="txtBox resultPageTxtBox" value='' name="search"
+                            maxlength="15" value required autocomplete="off">
+                        <div class="letter-close-button-commonPage">
+                            <i class="ltr-cls-btn-commonPage bi bi-x-circle-fill"></i>
+                        </div>
+                        <input
+                            style="border-radius: ; background-color: #000;"
+                            type="submit" class="serachBtn resultPageSearchBtn" id="serach" value>
+                        <div class="dictonaryDropdown">
+                            <select class="form-select select_dropDown2 resultPageDropdown2" name="dictionary"
+                                aria-label="Default select example">
+                                <option selected value="Dictionary">Dictionary</option>
+                                <option value="twl06" id="twl06">TWL06 (US, Canada, Thailand)</option>
+                                <option value="sowpods" id="sowpods">SOWPODS (Uk and Others)</option>
+                                <option value="wwf" id="wwf">Enable (Words With Friends)</option>
+                            </select>
+                        </div><div class="tab_link_wrapper" style="position: relative;">
+    <div id="tab-scroll" class="tab-scroll flex-row">
+        <input type="button" name="" id="prev" class="prev tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+        <div id="tab-container" class="search-container tab_container flex-row">
+
+        </div>
+        <input type="button" name="" id="next" class="next tabsBg noOutline cursorPointer" value=" "
+            style="display: none;">
+    </div>
+</div><div class="wrapper_dropDown mt-3 d-flex justify-content-end" style="gap:10px;">
+                            <div class="Advancedbtn" style="position: relative;" onclick="myFunction()">
+                                <span class="filter_count" style="display: none;"></span>
+                                <input type="button" value="Advanced Filter" class="filterButton">
+                                <div class="angle-arrow"></div>
+                            </div>
+                            <div id="sort-select">
+                                <select class="form-select sort-select" id="select_dropDown">
+                                    <option selected="true" hidden id="alpha" value="alpha">Sort by</option>
+                                    <option id="alpha" value="alpha">A-Z</option>
+                                    <option id="alpha" value="alpha">Z-A</option>
+                                    <option id="alpha" value="alpha">Points</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="fillterWrapper hide">
+                            <div class="text-right times" style="cursor: pointer; margin-top:-15px;">
+                                <img src="/assets/images/window-close.png" alt="" width="15px">
+
+                            </div>
+                            <div class="startsWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that starts with these letters" for="startsWith">Starts
+                                    With</label>
+                                <input type="text" class="filter_val" id="startsWith" placeholder="Prefix" value=""
+                                    name="prefix">
+                            </div>
+                            <div class="mustInclude same">
+                                <label for="mustInclude" data-toggle="tooltip" data-placement="top"
+                                    title=" Words that contain letters in this order(ab)">Must Contains </label>
+                                <input type="text" class="filter_val" id="mustInclude" placeholder="Contains"
+                                    name="contains" value="">
+                            </div>
+                            <div class="endsWith same">
+                                <label for="endsWith" data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words that ends with these letters">End With</label>
+                                <input type="text" class="filter_val" id="endsWith" placeholder="Suffix" name="suffix"
+                                    value="">
+                            </div>
+                            <div class="exculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that not contain the letters you enter here"
+                                    for="exculdeWith">Exculde</label>
+                                <br>
+                                <input type="text" class="filter_val" id="exculdeWith" placeholder="Exculde" value=""
+                                    name="exculde">
+                            </div>
+                            <div class="inculdeWith same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Only words that contain the letters you enter here"
+                                    for="inculdeWith">Include</label>
+                                <br>
+                                <input type="text" class="filter_val" id="inculdeWith" placeholder="Include" value=""
+                                    name="include">
+                            </div>
+                            <div class="wordLength same">
+                                <label data-toggle="tooltip" data-placement="top"
+                                    title="Filter for words with this length" for="wordLength">Word Length </label>
+                                <input type="text" class="filter_val" id="wordLength" placeholder="Length" name="length"
+                                    value="">
+                            </div>
+
+                            <div style="margin-top: 1.2rem; gap:5px" class="d-flex w-100">
+                                <input type="button" value="Clear" class="clearFilter btn-info  text-white"
+                                    style="background-color:#808080;">
+                                <input id="applyBtn" type="submit" value="Apply" class="btn-info  text-white"
+                                    style="background: #808080">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </section>
+    </div>
+</nav>
+<!-- </header> -->
+<div class="container" id="containerWd"><div class="row pad">
+    <div class="col-md-12">
+        <div class="filters d-flex justify-content-between align-items-center">
+            <div class="wordCount"></div>
+
+            <div class="filterSortedIcons">
+                <div class="filter-icon" onclick="myFunction()" data-toggle="tooltip" data-placement="top"
+                    title="Filter">
+                    <i class="bi bi-filter"></i>
+                </div>
+                <div class="sortup-icon" data-toggle="tooltip" data-placement="top" title="Sort">
+                    <i class="bi bi-sort-up"></i>
+                </div>
+            </div>
+        </div><div class="main"></div><div class="errorMsg"></div>
+    </div>
+</div>
+</div>
+<!-- navbar close -->
+<!-- header close -->
+
+
+<!-- close commonPage as LandingPage -->
+<link rel="stylesheet" href="/assets/css/advancedFilter.css">
+<script>
+    const clearFilter = document.querySelector('.clearFilter')
+
+    clearFilter.addEventListener('click', () => {
+        startsWith.value = ''
+        mustInclude.value = ''
+        endsWith.value = ''
+        exculdeWith.value = ''
+        inculdeWith.value = ''
+        wordLength.value = ''
+    })
+    const fillterWrapper = document.querySelector('.fillterWrapper')
+    function myFunction() {
+        fillterWrapper.classList.toggle('hide')
+    }
+    const close = document.querySelector('.times')
+    close.addEventListener('click', () => {
+        fillterWrapper.classList.add('hide')
+    })
+
+</script>
+
+
+<div class="social-icons">
+    
+    
+    
+    
+    <a id="Twitter" href="https://twitter.com/intent/tweet?text=TITLE&url=http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Twitter" aria-label="Twitter">
+        <img src="/assets/images/twitter2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Facebook" href="https://www.facebook.com/sharer/sharer.php?title=TITLE&u=http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Facebook" aria-label="Facebook">
+        <img src="/assets/images/facebook.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    
+    
+    <a id="Linkedin" href="https://www.linkedin.com/sharing/share-offsite/?url=http://localhost:4000/tr/how-many-words-can-you-make-from-these-letters/result" data-toggle="tooltip"
+        onclick="window.open(this.href, 'pop-up', 'left=20,top=20,width=500,height=500,toolbar=1,resizable=0'); return false;"
+        data-placement="top" title="Linkedin" aria-label="Linkedin">
+        <img src="/assets/images/linkedin2.svg" class="mb-0 py-3" width="18px"></img>
+    </a>
+
+    
+    </ul>
+    </ul>
+</div><!-- <script defer>
+    const fetchShareCount = async () => {
+        try {
+            const faceBookShare = document.querySelector('#Facebook')
+            const twitterShare = document.querySelector('#Twitter')
+            const faceBookCount = await fetch(`https://graph.facebook.com/v10.0/?id=${window.location.href}&access_token=275277164346802|6255ba7980a711477b429c302cb009cd&fields=engagement`).then(res => res.json())
+            const twitterCount = await fetch(`https://counts.twitcount.com/counts.php?url=${window.location.href}`).then(res => res.json())
+            if (faceBookCount.engagement.share_count > 0) {
+                const FacebookInfo = document.createElement('span')
+                FacebookInfo.setAttribute("class", "social-count")
+                FacebookInfo.innerHTML = faceBookCount.engagement.share_count
+                faceBookShare.appendChild(FacebookInfo)
+            }
+            if (twitterCount > 0) {
+                const TwitterInfo = document.createElement('span')
+                TwitterInfo.setAttribute("class", "social-count")
+                TwitterInfo.innerHTML = twitterCount.count
+                twitterShare.appendChild(TwitterInfo)
+            }
+        } catch (error) {
+        }
+    }
+
+    window.addEventListener("load", () => {
+        fetchShareCount()
+
+    });
+</script> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<footer class="footer-section">
+    <div class="footer-wrap">
+        <div class="container">
+            <div class="footer-single-col">
+                <div class="row text-center">
+                    <div class="col-lg-8 mx-auto">
+                        <div class="row d-flex mt-5">
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Araçlar</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/word-game-generator-online">Kelime Oyunu Oluşturucu Çevrimiçi</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/wordle-solver">Wordle çözücü</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/make-words-with-these-letters">Bu harflerle kelimeler yapın</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/word-generator-from-letters">Harflerden kelime üreteci</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/words-spelled-with-these-letters">Bu harflerle yazılan kelimeler </a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/what-words-can-i-spell-with-these-letters-and-a-blank">Bu harflerle hangi kelimeleri heceleyebilirim ve boş</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/words-with-these-letters-and-2-blanks">Bu harfleri ve 2 boşlukları olan kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/words-with-these-letters-and-3-blanks">Bu harfler ve 3 boşluk içeren kelimeler</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Uzunluk sözcükleri</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/six-letter-words-with-these-letters">Bu harflerle altı harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/five-letter-words-with-these-letters">Bu harflerle beş harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/seven-letter-words-with-these-letters">Bu harflerle yedi harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/four-letter-words-with-these-letters">Bu harflerle dört harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/three-letter-words-with-these-letters">Bu harflerle üç harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/two-letter-words-with-these-letters">Bu harflerle iki harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/eight-letter-words-with-these-letters">Bu harflerle sekiz harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/nine-letter-words-with-these-letters">Bu harflerle dokuz harfli kelimeler</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/ten-letter-words-with-these-letters">Bu harflerle on harfli kelime</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/eleven-letter-words-with-these-letters">Bu harflerle on bir harfli kelime</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/twelve-letter-words-with-these-letters">Bu harflerle on iki harfli kelime</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/tr/thirteen-letter-words-with-these-letters">Bu harflerle on üç harfli kelime</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary ">
+                                <p class="font-weight-bold txt-primary footer_subheading">KAYNAKLAR</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/blog">Blog</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/allpages">Popular Pages</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/vowels">Vowels</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/words-with-silent-letters">Words with silent letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/long-words-with-letters">Long words with letters</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/short-words-with-letters">Short words with letters</a></p>
+                                
+                            </div>
+                            <div class="col-md-6 txt-secondary">
+                                <p class=" font-weight-bold txt-primary footer_subheading">Şirket</p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/terms-and-conditions">Şartlar ve koşullar</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/privacy-policy">Gizlilik Politikası</a></p>
+                                
+                                <p class="mb-4"><a class="footer-links txt-secondary"
+                                        href="/disclaimer">Yasal Uyarı</a></p>
+                                
+                            </div>
+                        </div>
+                        <div class="col-md-12 txt-secondary mb-5"><div class="footer-logo-cont">
+                                <img loading="lazy" src="/assets/images/wordswithletters-logo.png" title="logo" class="footer-logo  d-block"
+                                    alt="footer logo" width="30px">
+                                <span class="email_heaidng">
+                                    marketing@wordswithletters.org
+                                </span>
+                                <!-- //<div class="footer-title">marketing@wordswithletters.org</div>// -->
+                            </div><hr class="footer_hr">
+                            <div class="footer-social-list my-5">
+                                <ul class="list-inline">
+                                    
+                                    <li>
+                                        <a href="https://www.facebook.com/wordswith.lettersorg" target="_blank">
+                                            <i class="bi bi-facebook"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.instagram.com/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-instagram"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://www.linkedin.com/in/wordswithlettersorg/" target="_blank">
+                                            <i class="bi bi-linkedin"></i>
+                                        </a>
+                                    </li>
+                                    
+                                    <li>
+                                        <a href="https://twitter.com/wordswithlette1" target="_blank">
+                                            <i class="bi bi-twitter"></i>
+                                        </a>
+                                    </li>
+                                    
+                                </ul>
+                            </div><div></div></div>
+                        <div class="copyright-text mt-5 txt-secondary text-center">
+                            <p>
+                                Copyright © 2022 All rights reserved to wordswithletters
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+<link rel="stylesheet"
+   href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-icons/1.5.0/font/bootstrap-icons.min.css" />
+<script defer src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/webfont/1.6.28/webfontloader.js"></script>
+<script>WebFont.load({ google: { families: ['Poppins:400&display=swap'] } })</script>
+<script defer src="/assets/js/leftNav.js"></script><script defer data-url="http://localhost:4000" data-range="" src="/assets/js/wordScrabble-test.js
+  "></script></body>
+
+</html>

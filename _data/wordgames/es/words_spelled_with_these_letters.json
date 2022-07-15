@@ -1,0 +1,50 @@
+{
+    "Language": "Español",
+    "htmlLangAtt": "es",
+    "title": "Palabras escritas con estas letras",
+    "h1": "Palabras escritas con estas letras",
+    "h2": "Introduce las letras y comprueba cuántas palabras se escriben con estas letras",
+    "meta": "Cuando las palabras escritas con letras parezcan confusas, ¡usa nuestra herramienta gratuita!",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blog_title": "Blog",
+    "blogNo": "03",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Encuentra palabras escritas con letras confusas",
+            "feature_text": "¿A menudo piensas en «qué palabras puedo deletrear con estas letras» mientras juegas a juegos de palabras? Entonces estás en el sitio correcto. ",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Buscador de palabras sencillo, intuitivo y fácil de usar",
+            "feature_text": "Simplemente introduzca las letras en su pizarra y obtendrá un rango de palabras deletreadas con estas letras",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Todas las reglas para las palabras escritas con estas letras en pocas palabras",
+            "feature_text": "Si juegas a juegos de palabras de scrabble por primera vez, necesitas este conjunto de reglas a mano. ¡Sencillo e intuitivo!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "¡Escribe hasta quince letras!",
+            "feature_text": "¡Quince letras! Suficiente para obtener la palabra más larga del diccionario de inglés.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Es compatible con varios diccionarios",
+            "feature_text": "Una amplia gama de diccionarios para obtener los mejores resultados.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tienes la opción de usar cualquier dispositivo",
+            "feature_text": "Ya sea que utilices una computadora portátil, una pestaña, Android o tu iPhone, nuestro solucionador de palabras con amigos para dispositivos móviles puede cumplir tu propósito desde cualquier lugar",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

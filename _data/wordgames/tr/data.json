@@ -1,0 +1,54 @@
+{
+    "Language": "Türkçe",
+    "htmlLangAtt": "tr",
+    "title": "Wordle\"ı minimum tahminlerde kolayca çözün",
+    "h1": "Şimdiye kadar kullanılan harfleri girerek bugünün Wordle'ını çözün",
+    "h2": "Potansiyel kelimeleri görmek için harfleri gri, sarı ve yeşil olarak girer",
+    "meta": "Gri, sarı ve yeşil harfleri girin ve bugünün Wordle'ını mimimum girişimlerinde çözmek ve arkadaşlarınızı etkilemek için eşleşen 5 harfli kelimelerin listesini alın",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Kullanımı Basit",
+            "feature_text": "Wordle Solver'ın kullanımı gerçekten çok basit. İlk kutuya yeşil harfleri, ikinci satırdaki sarı harfleri ve son satırdaki gri harfleri girmeniz yeterlidir. Girilen harflerden yapılabilecek tüm olası kelimeleri görmek için güncellemeye tıklayın.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Anında Sonuçlar",
+            "feature_text": "Sonuçlar, harfleri girip güncellemeye tıkladığınızda görüntülenir. Sonuçların oluşturulmasını beklemek zorunda değilsiniz.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Çapraz Platform",
+            "feature_text": "Web sitemiz platformdan bağımsızdır. Hem Window hem de iOS İşletim sistemlerinde çalışır ve herhangi bir indirme gerektirmeden kullanılabilir.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Çoklu Yanıtlar",
+            "feature_text": "Wordle Solver, girdiğiniz harfler kullanılarak yapılabilecek tüm olası kelimeleri size verir. Olasılıklar sonsuzdur. Tahminleri alın ve Wordle Çözücümüzdeki harfleri girin. Olası tüm kelimeleri alacak ve oyunu minimum denemelerle kazanmanızı sağlayacaksınız.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Güvenli ve Emniyetli",
+            "feature_text": "Web sitemiz müşterilerinin gizliliğine ve güvenliğine öncelik vermektedir.Web sitesi virüssüz ve herhangi bir kimlik veya kayıt istemez. Verileriniz bizimle güvende!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Kesinlikle ücretsiz",
+            "feature_text": "Her gün wordle\"ı çözerek kalabalığın önüne geçin. Sonuçları arkadaşlarınız ve ailenizle paylaşın ve Wordle çözücümüz ile Wordle Şampiyonu olun. Web sitemizi istediğiniz kadar kullanabilirsiniz ve hizmetlerimizi kullandığınız için sizden ücret alınmaz.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

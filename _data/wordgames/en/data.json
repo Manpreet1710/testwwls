@@ -1,0 +1,292 @@
+{
+  "Language": "English",
+  "htmlLangAtt": "en",
+  "title": "Solve Wordle easily in minimum guesses",
+  "h1": "Solve today's Wordle by entering letters used so far",
+  "h2": "Enters letters in gray, yellow, and green to see potential words",
+  "meta": "Input letters in grey, yellow and green, and get list of matching 5 letter words to solve today's Wordle in mimimum attempts, and impress your friends",
+  "tags": [],
+  "categories": "wordle",
+  "blogNo": "03",
+  "blog_title": "Blog",
+  "FaqNo": "04",
+  "Faq_title": "FAQ",
+  "featureNo": "02",
+  "feature_title": "Features",
+  "featureList": [
+    {
+      "feature_heading": "Simple to Use",
+      "feature_text": "Wordle Solver is really simple to use. You just have to enter the green letters in the first box, the yellow one in the second row, and the gray ones in the last row. Click on update to see all the possible words that can be made from the entered letters.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Instant Results",
+      "feature_text": "Results are displayed soon as you enter the letters and click on update.You don't have to wait for the generation of results.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Cross Platform",
+      "feature_text": "Our website is platform independent. It works on both Window and iOS Operating systems and can be used without any downloads required.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Multiple Answers",
+      "feature_text": "Wordle Solver gives you all possible words that can be made using the letters entered by you. The possibilities are endless. Take guesses and enter the letters in our Wordle Solver. You will get all the possible words and make you win the game with minimum trials.",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Safe and Secure",
+      "feature_text": "Our website prioritises its customers’ privacy and security.The website is virus free and do not ask for any id's or registrations. Your data is safe with us!",
+      "fa_class": "/assets/images/star.svg"
+    },
+    {
+      "feature_heading": "Absolutely Free",
+      "feature_text": "Get ahead of the crowd by solving wordle every day. Share the results with your friends and family and become the Wordle Champion with our Wordle solver. You can use our website as many times as you want and you won't be charged for using our services.",
+      "fa_class": "/assets/images/star.svg"
+    }
+  ],
+  "faqList": [
+    {
+      "Question": "What makes Wordle so popular?",
+      "Answer": "Wordle has taken over the internet. The game’s rules are simple, and the best part is that when you guess the correct word, you can share it on your social media channels. Surprisingly, when shared, it only displays the journey as a series of Grey, Yellow and Green boxes rather than the correct word. Furthermore, all of the other players are working on the same puzzle, which is a great way to strike up a conversation or brag about your accomplishment on your social media handle. More importantly, you can only play one puzzle per day, which means you only have one chance to guess the correct word on the given day.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Is there anything else I should know in wordle?",
+      "Answer": "You can toggle between a high contrast “color blind” version and a dark mode by clicking the gear next to the word wordle in the upper right corner. If you are feeling very lucky, you can switch to “Hard Mode” which forces you to include any hints in the next word. For example, in hard mode, I would have to add the S, T and E in my third guess in the first screenshot (so STORE wouldn’t have worked).",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What are these squares that everyone on Twitter is sharing?",
+      "Answer": "Wordle did not intend for the game to have a sharing component, but after seeing users on Twitter sharing their results with Green, Yellow and Grey square emojis, he added a share button that allows you to copy your results once you have completed the game in a way that doesn’t reveal the day’s word to anyone who has not played it yet. So as you can see in the grid below, I guessed absolutely incorrectly on the first entry, got two correct letters in the right positions on the second chance, and accurately predicted the word on the third effort (not bad).",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What is the best way to try hard mode?",
+      "Answer": "To try ‘Hard’ mode, go to the top-right corner and click the “settings” button. When you reveal a letter in a Green location in hard mode, you must use a term that contains that letter in the same spot for future guesses.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to choose digraphed words, Do you know how to use wordle?",
+      "Answer": "Words featuring diagraphs, such as ‘Ch’, ‘Sh’ and ‘St’ can also help you eliminate wrong letters, limiting your word choices. These letter combinations can be discovered at either the beginning or the end of the wordle, so if the letter ‘Ch’ are highlighted in Yellow, look in a different region of the wordle.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What are the most frequently used words on wordle?",
+      "Answer": "Other prominent starting words that combine the most common consonants and vowels are shown below. Some of them are also excellent second words.  For example Tread, React, Break, Mount, Sound, Count, Trend, Thred, Quart and Quary .",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to avoid reusing Gray?",
+      "Answer": "At the bottom of the wordle board is a keypad that reveals which letters are Green, Yellow and Gray. Reusing letters that have turned gray is not a good idea. Yes, this appears to be self-evident. However, trying to coming up with five-letter words that don’t use letters you’ve already attempted can take some time and effort.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How can I improve my Wordle skills?",
+      "Answer": "Using words that cover the entire alphabet while avoiding repeats of other letters is the secret to improving at wordle. It's best to choose a few that cover all of the vowels as well as the most common consonants. Beginning with any of these letters should lead to more clues earlier in the game.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What are the rules of Wordle?",
+      "Answer": "In six attempts, guess the Wordle. Each guess must consist of a valid five-letter word. To submit, press the enter key. The colour of the tiles will change after each guess to show how close your guess was to the word.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Where can I play wordle?",
+      "Answer": "Currently, Wordle is available online only. The Wordle can be found at Quordle.com. It is also accessed via the webpage www.powerlanguage.co.uk/wordle. This game is free to play and only updates once a day. Get all the help you need to win this game from https://wordswithletters.org/wordle-solver.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What are the wordle solver tricks and tips?",
+      "Answer": "The Wordle solver tricks and tips are made up of letters that are in the solution and those that are not. The number of times a letter appears in the solution, as well as the locations where it does and does not appear.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How does the Wordle solver assist the user?",
+      "Answer": "Wordle solver allows people who struggle with vocabulary to enjoy the popular wordle game. It is established as a solver for the WORDLE game in general. Wordle solver also supports variable word length and works with other Wordle implementations. So that those who find Wordle extremely difficult, like the developer of Wordle Solver, are not embarrassed by not knowing the hidden word of the day or being unable to show their attempts.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to play wordle?",
+      "Answer": "Once you have found out the techniques and tips, wordle is a straightforward game to learn and win. Let’s begin with the basics of wordle.\n1)The object of the game is to guess the correct five – letter word. To begin, type in any five - letter word and see what appears.\n\n2)When you type your first word, the letters will be color coded. Green indicates that the letter and position are accurate, Yellow indicates that the letter is correct but the position is incorrect and Grey indicates that the letter is not in the five - letter word.\n\n3)Continue guessing five letter words, you only have six guesses to get the correct five letter term\n\n4)Finally, if you correctly guess the word, congratulations: you’ve won the game\n\nThis is how the wordle game works.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What Is Wordle?",
+      "Answer": "Wordle is a simple online word game in which players must find a five-letter word in six guesses, with a new problem presented each day. This is one of the few online fads that is worldwide, educational and free. During the pandemic a couple in New York (Josh Wardle and Palak shah) invented a word game. It became the first viral gaming fad of the year for word game fans after taking off on the social media in 2021. A slew of five letter word puzzles may be found all over the place (posting the winning word).",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How to add more grey letters? ",
+      "Answer": "Because Wordle is a five-letter word, you can only use five different alphabets. The remaining 21 letters will be greyed out, indicating that the Wordle Solver should not use them for generating possible response solutions. For inserting grey letters, Wordle Solver provides ten spaces. You can use the PLUS symbol to add an additional row of letters to fill in.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What if I enter a green letter in the wrong box?",
+      "Answer": "If you enter a green letter in the wrong box then Wordle Solver won't be able to help you solve the Wordle for the day. This is because, by entering a letter at the wrong spot you are telling Wordle Solver that this spot has the letter, which is not the actual case. Therefore Wordle Solver cannot find the right word. Make sure you enter the green letter at the correct spot.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Do I have to enter the yellow letters in the exact same spot?",
+      "Answer": "Yellow letters in Wordle mean that the letters are in the word but not at the correct spot. So for Wordle Solver, it is enough to know the letter that exists in the word, and it will find you the word accordingly. Therefore, you can enter the yellow words anywhere you like in the space provided.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Wordle Solver did not help me find the answer. Why?",
+      "Answer": "This could be because you entered wrong information. Wordle Solver will not be able to assist you in solving the Wordle for the day if you enter a green letter in the incorrect box. This is because by entering a letter in the incorrect location, you are informing Wordle Solver that this location contains the letter, which is not the case. As a result, Wordle Solver is unable to locate the correct word. Make sure the green letter is in the right place.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What do the gray letters do?",
+      "Answer": "Since Wordle is a 5 letter word, at max you can have 5 different alphabets. The remaining 21 letters would appear in gray and will tell the Wordle Solver not to use them while giving probable answer solutions. Wordle Solver provides 10 spaces for entering gray letters. You can click on the PLUS icon to add another row of letters that you can fill in.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What does the green box mean?",
+      "Answer": "When solving Wordle, the letters entered in the correct spot appear in Green color. For using Wordle Solver you need to enter the correctly entered letters in the boxes, AT THE CORRECT SPOT and then the Wordle Solver will give you the words that can be formed by the letters.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Will I have to create an account to use Wordle Solver?",
+      "Answer": "Our website does not require you to sign up or create an account. The platform is absolutely free and you can use it as many times as you want.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Will I be charged to use the website?",
+      "Answer": "Our website is absolutely free and you can use it as many times as you want. There are no free trial uses, after which you will have to pay for using our services. We won't charge you anything.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Which Windows versions does Wordle Solver support?",
+      "Answer": "Our website is completely web-based and therefore provides cross-platform support. This means that our tool supports all versions of Windows. It not only works on Windows operating system, but can work on any other operating system, that supports a browser. You can play Wordle on-the-go and use our Wordle Solver to ace the game.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "How can I get the most accurate results?",
+      "Answer": "To get the most accurate results you need to enter as many letters as you can in the Green Letters column. This helps the Wordle Solver to be more accurate with the results."
+    },
+    {
+      "Question": "Why to use Wordle Solver?",
+      "Answer": "Wordle Solver can help you sold Wordle- which is an internet sensation right now. To stay ahead of the crowd you need to use our Wordle Solver and set records.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Does it support both Android and iOS platforms?",
+      "Answer": "Yes, our website works on browser, and therefore supports both iOS and Android platforms",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I check multiple files?",
+      "Answer": "You can check as many words as you want on Wordle Solver. Once you enter a particular set of letters and are satisfied with the results, you can refresh the page and check another set of letters. You can repeat this process as much as you want to your liking.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "What will the results display?",
+      "Answer": "The results will display all the possible words that can be formed from the letters entered by you. The more letters you enter the more accurate the result is going to be.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "I refreshed the browser by mistake. What do I do?",
+      "Answer": "Since our website does not use any servers and does not store your data, the letters that you have entered, will not be saved. You need to reenter the letters to generate the result.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    },
+    {
+      "Question": "Can I get the solution to today's Wordle using Wordle Solver?",
+      "Answer": "Yes, you can get the solution to everyday Wordle using Wordle Solver. While solving Wordle you get some Green, Yellow, and Gray letters. Just enter them in the Wordle solver and get all the possible solutions using these letters. You can use the generated results to solve Wordle everyday.",
+      "FIELD2": "",
+      "FIELD3": "",
+      "FIELD4": "",
+      "FIELD5": ""
+    }
+  ],
+  "jsfilepaths": [
+    "/assets/js/wordleSolver.js"
+  ],
+  "cssfilepaths": [
+    "/assets/css/wordleSolver.css"
+  ]
+}

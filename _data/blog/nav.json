@@ -1,0 +1,14 @@
+{
+  "navbarBrandText": "",
+  "navbarBrandLogo": "/assets/images/wordswithletters-logo.png",
+  "navItems": [
+    {
+      "name": "Blog",
+      "url": "blog"
+    },
+    {
+      "name": "",
+      "url": ""
+    }
+  ]
+}

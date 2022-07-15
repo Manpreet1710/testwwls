@@ -1,0 +1,45 @@
+{
+    "Language": "Tiếng Việt",
+    "htmlLangAtt": "vi",
+    "title": "Những gì tôi có thể đánh vần với những chữ cái và một trống- Wordswithletters",
+    "h1": "Những từ có các chữ cái này và một trống",
+    "h2": "Nhập các chữ cái bên dưới và Kiểm tra có bao nhiêu chữ cái có thể được đánh vần với một trống",
+    "meta": "Bạn đã có 1 tiêu đề trống và đang tự hỏi làm thế nào để đánh vần? Đừng lo, chúng tôi đã bảo vệ anh. Tìm tất cả các kết hợp có thể có của các từ có thể được đánh vần với 1 gạch trống với từwithletters một cách dễ dàng.",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "aboutNo": "05",
+    "about_title": "About",
+    "featureList": [
+        {
+            "feature_heading": "Hoàn toàn miễn phí!",
+            "feature_text": "Nền tảng của chúng tôi là hoàn toàn miễn phí để sử dụng. Chúng tôi hoàn toàn không có quảng cáo trên trang web của chúng tôi cho phép bạn tập trung vào những gì bạn đến đây để.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Dễ dàng lọc và sắp xếp",
+            "feature_text": "Bạn có thể dễ dàng sắp xếp và lọc ra các kết quả khi thuận tiện của bạn. Tính năng này thực sự dễ sử dụng và sẽ giúp bạn có được kết quả mong muốn gần như ngay lập tức.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Nhập tối đa 15 chữ cái",
+            "feature_text": "Bạn có thể nhập tối đa 15 chữ cái (bao gồm cả trống) vào khoảng trống được cung cấp để tìm các từ tối đa có thể được hình thành với các chữ cái đã nhập.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tạo ra kết quả tốt nhất",
+            "feature_text": "Các từ có chữ cái tạo ra kết quả tốt nhất, những từ được ghi điểm cao nhất trong một trò chơi Scrabble. Chiến thắng của bạn được đảm bảo.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Dễ sử dụng",
+            "feature_text": "Các từ có các chữ cái này và một khoảng trống thực sự đơn giản để sử dụng và tất cả các từ có độ dài bất kỳ có thể được hình thành với các chữ cái được nhập sẽ được hiển thị trong kết quả.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "tags": [],
+    "categories": []
+}

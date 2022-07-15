@@ -1,0 +1,54 @@
+{
+    "Language": "Svenska",
+    "htmlLangAtt": "sv",
+    "title": "Lös Wordle enkelt i minsta gissningar",
+    "h1": "Lös dagens Wordle genom att ange bokstäver som hittills använts",
+    "h2": "Skriver in bokstäver i grått, gult och grönt för att se potentiella ord",
+    "meta": "Inmatningsbokstäver i grått, gult och grönt, och få en lista över matchande 5 bokstavsord för att lösa dagens Wordle i mimimumförsök, och imponera på dina vänner",
+    "tags": [],
+    "categories": "wordle",
+    "blogNo": "03",
+    "blog_title": "Blog",
+    "FaqNo": "04",
+    "Faq_title": "FAQ",
+    "featureNo": "02",
+    "feature_title": "Features",
+    "featureList": [
+        {
+            "feature_heading": "Enkel att använda",
+            "feature_text": "Wordle Solver är verkligen enkel att använda. Du måste bara ange de gröna bokstäverna i den första rutan, den gula i andra raden och de gråa i sista raden. Klicka på uppdatering för att se alla möjliga ord som kan göras från de inmatade bokstäverna.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Omedelbara resultat",
+            "feature_text": "Resultaten visas när du anger bokstäverna och klickar på update.You behöver inte vänta på generering av resultat.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Plattformsoberoende",
+            "feature_text": "Vår webbplats är plattformsoberoende. Det fungerar på både Windows- och iOS-operativsystem och kan användas utan att några nedladdningar krävs.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Flera svar",
+            "feature_text": "Wordle Solver ger dig alla möjliga ord som kan göras med hjälp av bokstäverna som du har angett. Möjligheterna är oändliga. Ta gissningar och skriv in bokstäverna i vår Wordle Solver. Du kommer att få alla möjliga ord och få dig att vinna spelet med minsta försök.",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Tryggt och säkert",
+            "feature_text": "Vår webbplats prioriterar sina kunders integritet och säkerhet. Webbplatsen är virusfri och ber inte om några id eller registreringar. Dina uppgifter är säkra hos oss!",
+            "fa_class": "/assets/images/star.svg"
+        },
+        {
+            "feature_heading": "Helt gratis",
+            "feature_text": "Gå före publiken genom att lösa wordle varje dag. Dela resultaten med dina vänner och familj och bli Wordle Champion med vår Wordle-lösare. Du kan använda vår webbplats så många gånger du vill och du kommer inte att debiteras för att använda våra tjänster.",
+            "fa_class": "/assets/images/star.svg"
+        }
+    ],
+    "jsfilepaths": [
+        "/assets/js/wordleSolver.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}

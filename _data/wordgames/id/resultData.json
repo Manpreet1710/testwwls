@@ -1,0 +1,13 @@
+{
+    "title": "Pecahkan kata-kata dengan mudah dalam tebakan minimum",
+    "h1": "Selesaikan todays wordle dengan memasukkan huruf yang digunakan sejauh ini",
+    "h2": "Memasuki huruf berwarna abu-abu, kuning, dan hijau untuk melihat kata-kata potensinya",
+    "meta": "Masukan huruf abu-abu, kuning dan hijau, dan mendapatkan daftar pencocokan 5 huruf kata untuk memecahkan todays wordle dalam upaya mimimum, dan mengesankan teman-teman Anda",
+    "categories": "wordle",
+    "jsfilepaths": [
+        "/assets/js/wordleSolverResult.js"
+    ],
+    "cssfilepaths": [
+        "/assets/css/wordleSolver.css"
+    ]
+}
