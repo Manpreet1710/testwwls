@@ -35,6 +35,7 @@ included_files = ["wordnet-db/**"]
   force = true
   status = 200
 
+
 [[redirects]]
   from = "/x-letter-words-with-letters*"
   to = "https://xletterwords-wwl.netlify.app/x-letter-words-with-letters/:splat"
