@@ -1,9 +1,0 @@
----
-layout: default
-folderName: wordgames
-lang: hi
-fileName: words-with-these-letters-and-2-blanks
-permalink: /hi/words-with-these-letters-and-2-blanks
-tool: words-with-these-letters-and-2-blanks
-blanktilerange: 2
----

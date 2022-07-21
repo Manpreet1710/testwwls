@@ -148,6 +148,13 @@ included_files = ["wordnet-db/**"]
   force = true
   status = 200
 
+
+[[redirects]]
+  from = "/advancedFilter/*"
+  to = "https://words-collections.netlify.app/.netlify/functions/:splat"
+  force = true
+  status = 200  
+  
 [[redirects]] 
   from = "/filterData" 
   to = "https://words-collections.netlify.app/filterData.json" 
